@@ -1,0 +1,1077 @@
+---
+decision_id: "bstger_RR.2008.158"
+court: "Bundesstrafgericht"
+court_id: "bstger"
+chamber: "RR"
+docket: "RR.2008.158"
+decided: "2008-11-20"
+published: "2009-06-01"
+language: "de"
+source_url: "https://bstger.weblaw.ch/api/getDocumentContent/c14dd31b-0272-3455-93dc-f42e412f9862"
+pdf_url: "https://bstger.weblaw.ch/api/getDocumentContent/c14dd31b-0272-3455-93dc-f42e412f9862"
+cites_decisions: ["1A.115/2000", "1A.125/2006", "1A.182/2001", "1A.184/2004", "1A.212/2000", "1A.223/2006", "1A.234/2005", "1A.245/2006", "1A.270/2006", "1A.283/2005", "1A.3/2006", "1A.314/2000", "1A.43/2007", "1A.7/2007", "1A.80/2006", "1A.90/2006", "1C.150/2007", "6S.25/2003", "BGE 122 II 130", "BGE 122 II 367", "BGE 126 I 97", "BGE 126 V 283", "BGE 129 II 462", "BGE 129 II 97", "BGE 129 IV 124", "BGE 130 II 117", "BGE 130 II 14", "BGE 130 II 217", "BGE 132 II 81", "RR.2007.161", "RR.2007.24", "RR.2007.29", "RR.2007.55", "RR.2007.6", "RR.2007.64", "RR.2007.89", "RR.2007.90", "RR.2008.151", "RR.2008.158", "RR.2008.29"]
+cites_law: ["switzerland/bund/acts/0.101/art-003.md", "switzerland/bund/acts/0.101/art-005.md", "switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/172.021/art-029.md", "switzerland/bund/acts/172.021/art-063.md", "switzerland/bund/acts/173.110/art-084.md", "switzerland/bund/acts/173.71/art-030.md", "switzerland/bund/acts/311.0/art-158.md", "switzerland/bund/acts/351.1/art-001.md", "switzerland/bund/acts/351.1/art-002.md", "switzerland/bund/acts/351.1/art-012.md", "switzerland/bund/acts/351.1/art-021.md", "switzerland/bund/acts/351.1/art-028.md", "switzerland/bund/acts/351.1/art-063.md", "switzerland/bund/acts/351.1/art-064.md", "switzerland/bund/acts/351.1/art-074.md", "switzerland/bund/acts/351.1/art-080d.md", "switzerland/bund/acts/351.1/art-080h.md", "switzerland/bund/acts/351.1/art-080k.md", "switzerland/bund/acts/351.11/art-009a.md", "switzerland/bund/acts/351.11/art-010.md"]
+---
+
+# Bundesstrafgericht RR.2008.158
+
+## Regeste
+
+Internationale Rechtshilfe in Strafsachen an Slowenien
+Herausgabe von Beweismitteln (Art. 74 IRSG)
+
+## Text
+
+Entscheid vom 20. November 2008
+II. Beschwerdekammer
+Besetzung
+
+Bundesstrafrichter Cornelia Cova, Vorsitz,
+Andreas J. Keller und Roy Garré,
+Gerichtsschreiberin Andrea Bütler
+
+Parteien
+
+
+1. A.,
+2. B. AG,
+beide vertreten durch Rechtsanwalt Stefan Weh-
+renberg,
+Beschwerdeführer
+
+
+gegen
+
+
+
+STAATSANWALTSCHAFT I DES KANTONS ZÜ-
+RICH,
+Beschwerdegegnerin
+
+Gegenstand
+
+Internationale Rechtshilfe in Strafsachen an Slowe-
+nien
+Herausgabe von Beweismitteln (Art. 74 IRSG)
+
+B u n d e s s t r a f g e r i c h t
+T r i b u n a l p é n a l f é d é r a l
+T r i b u n a l e p e n a l e f e d e r a l e
+T r i b u n a l p e n a l f e d e r a l
+Geschäftsnummer: RR.2008.158-159
+
+
+
+
+
+- 2 -
+
+
+
+Sachverhalt:
+
+A.
+Die Untersuchungsabteilung des Kreisgerichts Ljubljana führt gegen C., A.,
+D., E., B. AG, in Z., und Weitere ein Vorverfahren u.a. wegen Betruges und
+Urkundenfälschung. C. wird verdächtigt, seine Stellung als Aufsichtsrats-
+vorsitzender der F. missbraucht zu haben. Mit seiner massgeblichen Ein-
+flussnahme habe er erreicht, dass die G., in Y., eine Tochtergesellschaft
+der F., mit der B. AG im September 2002 drei fiktive Verträge abgeschlos-
+sen habe. Es bestehe der Verdacht, dass entsprechend dem von der Tä-
+terschaft von vornherein gefassten Plan die B. AG die Dienstleistungsver-
+träge gar nicht erfüllt habe. Vielmehr habe die Vertragskonstruktion dazu
+gedient, die von der G. an die B. AG entrichtete Summe über mutmasslich
+bei den Banken H., in Z., und der I., in Z., geführte Geschäftsbeziehungen
+schliesslich zu Gunsten von C. zu verwenden.
+
+B.
+Mittels Rechtshilfeersuchen vom 16. September 2005 sowie den Ergän-
+zungen vom 21. September 2006, 12. Dezember 2006 und 1. August 2007
+ersuchte die Untersuchungsabteilung des Kreisgerichts Ljubljana um Eruie-
+rung von Bankverbindungen vom 1. Januar 2002 bis 31. Dezember 2004
+betreffend Konti bei der Bank H. sowie der Bank I., welche (u.a.) auf die
+B. AG, C. und A. lauteten/lauten. Die entsprechenden Unterlagen sollten
+erhoben und ediert werden. Weiter sollten untersuchungsrichterliche Befra-
+gungen der Angeschuldigten A., D. und der verantwortlichen Person der
+B. AG durchgeführt und die entsprechenden Einvernahmeprotokolle über-
+mittelt werden (Beilagen zu act. 8, Ordner I Ziff. 1, 2, 19 f., 31 f.).
+
+C.
+Mit Verfügung vom 30. Januar 2007 ist die Staatsanwaltschaft I des Kan-
+tons Zürich (nachfolgend „Staatsanwaltschaft“) auf das Rechtshilfeersu-
+chen eingetreten und hat dem Ersuchen um Eruierung und Edition von
+Bankverbindungen insoweit entsprochen, als die Bank J., in Z., als Nach-
+folgerin der Bank H. und die Bank I. aufgefordert wurden, hinsichtlich Kon-
+ten, die auf A. oder die B. AG lauteten/lauten, sämtliche Dokumente wie
+Konto-, Depot-, Safeeröffnungsunterlagen etc. für den Zeitraum 2002 bis
+2004 einzureichen (Beilagen zu act. 8, Ordner I Ziff. 12). Bezüglich Nach-
+forschungen bei der ehemaligen Bank H. und der Bank I. wurde dem
+Rechtshilfeersuchen mangels genügender Darstellung eines Zusammen-
+hanges zwischen den mutmasslichen strafbaren Handlungen der Täter-
+schaft und den erbetenen Vollzugshandlungen in der Schweiz nicht ent-
+sprochen. Mit Schreiben vom 14. Februar 2007, 22. März 2007 und 10. Ap-
+ril 2007 übermittelte die Bank J. die angeforderten Bankunterlagen und De-
+tailbelege in Bezug auf die Geschäftsbeziehung der B. AG (Beilagen zu
+act. 8, Ordner I Ziff. 14, 16, 18).
+
+- 3 -
+
+
+D.
+Mit Eintretensverfügung vom 31. Juli 2007 ordnete die Staatsanwaltschaft
+die Einvernahme von A. und D. an, sofern die ersuchende Behörde einen
+Fragenkatalog liefere (Beilage zu act. 8, Ordner I Ziff. 28). Die Untersu-
+chungsbehörde des Kreisgerichts Ljubljana übermittelte den angeforderten
+Fragenkatalog daraufhin am 1. August 2007 (Beilagen zu act. 8, Ordner I
+Ziff. 31 f.), worauf A. und D. als Beschuldigte im ausländischen Verfahren
+am 22. und 24. Oktober 2007 einvernommen wurden. Beide verweigerten
+die Aussage (Beilagen zu act. 8, Ordner II Ziff. 34 f.). Die Rechtsvertreter
+der Beschuldigten reichten in der Folge drei Stellungnahmen ein, welche
+die politischen Dimensionen der in Slowenien geführten Strafuntersuchung
+belegen sollten (Beilagen zu act. 8, Ordner II Ziff. 40). Infolgedessen wurde
+das Eidgenössische Departement für Auswärtige Angelegenheiten (nach-
+folgend „EDA“) zu einer Stellungnahme eingeladen, welche am 15. Mai
+2008 bei der Staatsanwaltschaft einging (Beilagen zu act. 8, Ordner II Ziff.
+38/9).
+
+E.
+Mit Schlussverfügung vom 2. Juni 2008 hat die Staatsanwaltschaft dem
+Rechtshilfeersuchen vom 16. September 2005 und den Ergänzungen ent-
+sprochen und die Herausgabe der von der Bank J. edierten Bankunterla-
+gen betreffend Stamm-Nr. 1 und Stamm-Nr. 2 der B. AG sowie die Heraus-
+gabe der Einvernahmeprotokolle von A. und D. verfügt (act. 1 Beilage 3).
+
+F.
+A. und die B. AG lassen am 3. Juli 2008 durch ihren Rechtsvertreter Be-
+schwerde an die II. Beschwerdekammer des Bundesstrafgerichts mit fol-
+genden Anträgen einreichen:
+
+„1. Die Schlussverfügung der Staatsanwaltschaft I des Kantons Zürich vom
+2. Juni 2008 sei aufzuheben.
+2. Die Rechtshilfe sei zu verweigern.
+3. Eventuell sei die Sache zur Neubeurteilung an die Staatsanwaltschaft I des
+Kantons Zürich zurückzuweisen.
+4. Die Kosten- und Entschädigungsfolgen des Verfahrens seien von der Staats-
+kasse zu tragen.“
+
+Die Staatsanwaltschaft verzichtet mit Schreiben vom 18. Juli 2008 auf die
+Einreichung einer Beschwerdeantwort (act. 8). Das Bundesamt beantragt
+mit Beschwerdeantwort vom 28. Juli 2008 die Verfahren RR.2008.151 und
+RR.2008.158-159 zu vereinen. Des Weitern seien die Beschwerden abzu-
+weisen soweit darauf eingetreten werden könne (act. 9). In Vorwegnahme
+der einzureichenden Replik stellt der Rechtsvertreter von A. und der B. AG
+am 25. August 2008 ein Gesuch um Beizug von Akten des EDA und um
+Zeugeneinvernahme von Botschafter K. Allenfalls sei das Verfahren zu sis-
+
+- 4 -
+
+
+tieren, bis das EDA dasselbe auch dort anhängige Ersuchen beantwortet
+habe (act. 13). Mit Antwortschreiben vom 29. August 2008 gibt das Bun-
+desstrafgericht den Anträgen nicht statt (act. 15). Daraufhin lassen A. und
+die B. AG am 3. September 2008 eine Beschwerdereplik einreichen und
+vollumfänglich an den gestellten Anträgen festhalten. Zudem schliessen sie
+sich dem Antrag des Bundesamtes auf Vereinigung der Verfahren an (act.
+16). Die Staatsanwaltschaft und das Bundesamt wurden darüber am
+4. September 2008 in Kenntnis gesetzt (act. 17).
+
+G.
+Der Rechtsvertreter von A. und der B. AG gelangt am 6. Oktober 2008 mit
+einem Sistierungsgesuch an die II. Beschwerdekammer und macht geltend,
+in Slowenien sei eine neue Regierung gewählt worden. Es sei anzuneh-
+men, dass diese das auf einem politischen Strafverfahren beruhende
+Rechtshilfeverfahren zurückziehen werde. Entsprechend sei das Verfahren
+zu sistieren bis eine Reaktion der slowenischen Behörden vorliege. Mit
+Schreiben des Bundesstrafgerichtes vom 8. Oktober 2008 wurde das Ge-
+such abgewiesen (act. 18, 19).
+
+Auf die weiteren Ausführungen der Parteien und die eingereichten Akten
+wird, soweit erforderlich, in den rechtlichen Erwägungen eingegangen.
+
+
+
+Die II. Beschwerdekammer zieht in Erwägung:
+
+1.
+Für die Rechtshilfe zwischen der Schweiz und Slowenien sind in erster Li-
+nie die Bestimmungen des Europäischen Übereinkommens über die
+Rechtshilfe in Strafsachen vom 20. April 1959 (EUeR; SR 0.351.1), dem
+beide Staaten beigetreten sind, massgebend. Soweit dieser Staatsvertrag
+bestimmte Fragen nicht abschliessend regelt, ist das schweizerische Lan-
+desrecht anwendbar, namentlich das Bundesgesetz vom 20. März 1981
+über internationale Rechtshilfe in Strafsachen (IRSG; SR 351.1) und die
+Verordnung vom 24. Februar 1982 über internationale Rechtshilfe in Straf-
+sachen (IRSV; SR 351.11; vgl. Art. 1 Abs. 1 IRSG; BGE 132 II 81 E. 1.1;
+124 II 180 E. 1a). Das innerstaatliche Recht gilt nach dem Günstigkeits-
+prinzip auch dann, wenn dieses geringere Anforderungen an die Rechtshil-
+fe stellt (BGE 129 II 462 E. 1.1 S. 464 m.w.H.).
+
+2.
+
+2.1
+Beim angefochtenen Entscheid handelt es sich um eine Schlussverfügung
+der ausführenden kantonalen Behörde, gegen welche innert 30 Tagen ab
+der schriftlichen Mitteilung bei der II. Beschwerdekammer des Bundesstraf-
+
+- 5 -
+
+
+gerichts Beschwerde geführt werden kann (Art. 80e Abs. 1 i.V.m. Art. 80k
+IRSG; Art. 28 Abs. 1 lit. e des Bundesgesetzes vom 4. Oktober 2002 über
+das Bundesstrafgericht, SGG, SR 173.71; Art. 9 Abs. 3 des Reglements
+vom 20. Juni 2006 für das Bundesstrafgericht, SR 173.710).
+
+Die Schlussverfügung vom 2. Juni 2008 wurde mit vorliegender Beschwer-
+de vom 3. Juli 2008 fristgerecht angefochten.
+
+2.2
+Zur Beschwerdeführung ist berechtigt, wer persönlich und direkt von einer
+Rechtshilfemassnahme betroffen ist und ein schutzwürdiges Interesse an
+deren Aufhebung oder Änderung hat (Art. 80h lit. b IRSG). Personen, ge-
+gen die sich das ausländische Strafverfahren richtet, sind unter denselben
+Bedingungen beschwerdelegitimiert (Art. 21 Abs. 3 IRSG). Bei der Erhe-
+bung von Kontoinformationen gilt als persönlich und direkt betroffen im
+Sinne der Art. 21 Abs. 3 und 80h IRSG der Kontoinhaber (Art. 9a lit. a
+IRSV; BGE 118 Ib 547 E. 1d; BGE 122 II 130 E. 2b; TPF 2007 79 E. 1.6).
+
+Die angefochtene Verfügung bezieht sich unter anderem auf die Heraus-
+gabe von Bankunterlagen betreffend Konti der B. AG. Kontoinhaberin ist
+die beschwerdeführende B. AG, womit sie beschwerdelegitimiert ist und auf
+die Beschwerde insoweit einzutreten ist. Des Weitern sollen gemäss Verfü-
+gung Einvernahmeprotokolle des Beschwerdeführers A. und des Beschul-
+digten D. herausgegeben werden. In Bezug auf die Herausgabe des Ein-
+vernahmeprotokolls von D. fehlt es klarerweise an einer Beschwerdelegiti-
+mation der Beschwerdeführer, weshalb auf die Beschwerde diesbezüglich
+nicht einzutreten ist. Anders verhält es sich mit Bezug auf die Herausgabe
+des Protokolls der Einvernahme A.s als Beschuldigter. Nach der Recht-
+sprechung des Europäischen Gerichtshofes für Menschenrechte schützt
+das Aussageverweigerungsrecht des Angeschuldigten diesen nicht davor,
+dass sein Aussageverhalten bei der Urteilsfindung im Rahmen der freien
+Beweiswürdigung der Gerichte mitberücksichtigt und bewertet wird. Das
+Gericht kann unter Umständen aus dem Schweigen für den Beschwerde-
+führer nachteilige Schlüsse ziehen, sofern bereits andere, direkte Beweise
+gegen ihn vorliegen, die den Sachverhalt so erhellt haben, dass das
+Schweigen vernünftigerweise nicht anders als zu seinen Lasten ausgelegt
+werden kann (Urteil des Europäischen Gerichtshofs für Menschenrechte
+i.S. Murray gegen Grossbritannien vom 8. Februar 1996, Recueil CourEDH
+1996-I, Ziff. 46 ff.; CHRISTOPH GRABENWARTER, Europäische Menschen-
+rechtskonvention, 3. Auflage, München 2008, S. 367; MARK E. VILLIGER,
+Handbuch der Europäischen Menschenrechtskonvention, 2. Aufl., Zürich
+1999, N. 502 zu Art. 6 EMRK). Der im ausländischen Strafverfahren Ange-
+schuldigte ist daher selbst dann persönlich und direkt im Sinne von Art. 21
+
+- 6 -
+
+
+Abs. 3 und Art. 80h lit. b IRSG von der Herausgabe des Protokolls seiner
+Einvernahme betroffen, wenn er sich anlässlich der Einvernahme vollum-
+fänglich auf sein Aussageverweigerungsrecht berufen hat (vgl. Urteil des
+Bundesgerichts 1A.314/2000 vom 5. März 2001 E. 4c und d; TPF
+RR.2007.161 vom 14. Februar 2008 E. 2.2). Soweit das Einvernahmepro-
+tokoll des Beschwerdeführers A. an die ersuchende Behörde herausgege-
+ben werden soll, ist er daher von der Massnahme persönlich und direkt be-
+troffen, weshalb er beschwerdelegitimiert ist und auf seine Beschwerde
+einzutreten ist.
+
+3.
+Das Bundesamt beantragt in seiner Beschwerdeantwort vom 28. Juli 2008,
+die Verfahren RR.2008.151 und RR.2008.158-159 seien zu vereinen
+(act. 9). Die Beschwerdeführer schlossen sich mit Replik vom 3. September
+2008 diesem Antrag an (act. 16).
+
+Die Frage der Vereinigung von Verfahren steht im Ermessen des Gerichtes
+und hängt mit dem Grundsatz der Prozessökonomie zusammen, wonach
+ein Verfahren möglichst einfach, rasch und zweckmässig zum Abschluss
+gebracht werden soll (ALFRED KÖLZ / ISABELLE HÄNER, Verwaltungsverfah-
+ren und Verwaltungsrechtspflege des Bundes, 2. Auflage, Zürich 1998,
+Nr. 155 S. 54 f.). Eine Vereinigung verschiedener Beschwerdeverfahren
+kann angebracht erscheinen, wenn sich verschiedene Beschwerden gegen
+denselben Entscheid richten und dieselben Rechtsfragen aufwerfen (vgl.
+BGE 126 V 283 E. 1 S. 285; Urteile des Bundesgerichtes 6S.709 + 710 /
+2000 vom 26. Mai 2003 E. 1; 1A.60 – 62 / 2000 vom 22. Juni 2000 E. 1a).
+In diesem Sinne bestünde vorliegend die Möglichkeit der Vereinigung. Es
+erweist sich aber aus praktischen Überlegungen (verschiedene Rechtsver-
+treter; bestehende, bisher getrennt geführte Verfahren und Dossiers) als
+technisch einfacher, die beiden Beschwerden in separaten Entscheiden zu
+beurteilen. Dem Antrag wird aber insofern Rechnung getragen, als die Ver-
+fahren parallel und gleichzeitig behandelt werden und dem reduzierten
+Aufwand soweit Gleichartigkeit in der Begründung der Entscheide vorliegt,
+mit entsprechend reduzierten Gebühren Rechnung getragen wird. Der An-
+trag auf Verfahrensvereinigung wird in diesem Sinne abgewiesen.
+4.
+
+4.1
+Die Beschwerdeführer rügen eine Verletzung des rechtlichen Gehörs. Aus
+Art. 29 BV fliesse der Anspruch, dass die entscheidende Behörde erhebli-
+che Vorbringen der Parteien prüfe und ihren Entscheid begründe. Dies ha-
+be die Staatsanwaltschaft aber unterlassen, denn die Schlussverfügung be-
+fasse sich nur zu einem verschwindend kleinen Teil mit den Vorbringen der
+Beschwerdeführer, welche die politische Motivierung des slowenischen
+Verfahrens aufzeige. Die Sache sei daher zur entsprechenden Ergänzung
+
+- 7 -
+
+
+der Begründung an die Staatsanwaltschaft zurückzuweisen. Sie habe sich
+auch zu den Beweisofferten der Beschwerdeführer zu äussern. Eine (aus-
+nahmsweise mögliche) Heilung der Gehörsverletzung sei vorliegend nicht
+angebracht, da eine vorgängige Stellungnahme sonst ihren Zweck verlöre
+(act. 1 S. 16 – 21).
+4.2
+Der in Art. 29 Abs. 2 BV verankerte Anspruch auf rechtliches Gehör wird im
+Bereich der internationalen Rechtshilfe durch Verweis in Art. 12 Abs. 1
+IRSG auf Art. 29 ff. VwVG (insb. Art. 32 f. und 35) konkretisiert, welche so-
+wohl in Verfahren vor den Bundesbehörden als auch vor kantonalen Be-
+hörden zur Anwendung gelangen (ROBERT ZIMMERMANN, La coopération
+judiciaire internationale en matière pénale, Bern 2004, S. 307 N. 265). Aus
+dieser Verfassungsbestimmung fliesst insbesondere das Recht auf eine
+begründete Verfügung respektive einen begründeten Entscheid. Für die
+Partei muss die Begründung den Entscheid verständlich machen und ihr
+erlauben, ihn zu akzeptieren oder anzufechten (PETER POPP, Grundzüge
+der internationalen Rechtshilfe in Strafsachen, Basel 2001, S. 320 N. 470;
+vgl. auch Art. 80d IRSG). Die Behörde muss die Vorbringen des Betroffe-
+nen sorgfältig und ernsthaft prüfen und in der Entscheidfindung berücksich-
+tigen. Die Überlegungen, von denen sich die Behörde leiten liess und auf
+welche sich ihr Entscheid stützt, müssen daher wenigstens kurz genannt
+werden. Dies bedeutet indessen nicht, dass sich diese ausdrücklich mit je-
+der tatbeständlichen Behauptung und jedem rechtlichen Einwand ausei-
+nandersetzen muss. Vielmehr kann sie sich auf die für den Entscheid we-
+sentlichen Gesichtspunkte beschränken. Die Behörde hat demnach in der
+Begründung ihres Entscheids diejenigen Argumente aufzuführen, die tat-
+sächlich ihrem Entscheid zugrunde liegen (BGE 126 I 97 E. 2b).
+4.3
+Vorliegend hat sich die Staatsanwaltschaft in der Schlussverfügung mit al-
+len von den Beschwerdeführern vorgebrachten Argumenten auseinander-
+gesetzt. Im Zusammenhang mit den Vorbringen betreffend politische Moti-
+vierung des slowenischen Verfahrens hat sich die Behörde auf den Stand-
+punkt gestellt, die Beschwerdeführer seien zur Erhebung dieser Rüge nicht
+legitimiert, wobei sie diese Auffassung durch Angabe von Bundesgerichts-
+entscheiden untermauert hat. In diesem Sinne hätte sich daher eine Ausei-
+nandersetzung in materieller Hinsicht erübrigt. Dennoch hat sich die
+Staatsanwaltschaft auch kurz inhaltlich dazu geäussert und sich ebenso mit
+dem für die Beschwerdeführer wichtigsten (so ergibt es sich jedenfalls für
+den Leser der Akten) Beweisantrag zur Einvernahme des Botschafters K.
+befasst und begründet, warum sie den Antrag abgelehnt hat. Die Staats-
+anwaltschaft hat die Vorbringen der Beschwerdeführer demnach tatsäch-
+lich gehört und auch geprüft. Die für den Entscheid wesentlichen Gesichts-
+punkte sind jedenfalls in der Schlussverfügung enthalten und die Überle-
+
+- 8 -
+
+
+gungen, worauf die Staatsanwaltschaft ihren Entscheid gestützt hat, sind
+klar. Der Begründungspflicht wurde Folge geleistet, eine sachgerechte An-
+fechtung war möglich. Demnach liegt keine Verletzung des rechtlichen Ge-
+hörs vor, und der Antrag auf Rückweisung der Sache an die Vorinstanz ist
+abzuweisen.
+5.
+
+5.1
+Die Beschwerdeführer machen geltend, der im Rechtshilfeersuchen vom
+16. September 2005 dargestellte Sachverhalt sei lückenhaft und wider-
+sprüchlich. So werde verschwiegen, dass die B. AG aufgrund von Rekla-
+mationen der G. dieser eine Summe von EUR 1,2 Mio. zurückbezahlt habe.
+Wenn man von diesem vollständigen vertraglichen Ablauf wisse, sei er-
+sichtlich, dass es sich um ein völlig normales Vertragsverhältnis zur Erbrin-
+gung einer Dienstleistung handle, von dem ein Teil wegen Misserfolgs
+rückabgewickelt worden sei. Die im Zusammenhang mit dieser Rückzah-
+lung abgeschlossenen Verträge hätten zudem nicht mehr von C. beein-
+flusst werden können, da er zu dieser Zeit gar nicht mehr Aufsichtsratsvor-
+sitzender der F. gewesen sei. Daraus ergebe sich eine widersprüchliche
+Sachverhaltsschilderung, denn es sei unklar, wieso sich die G. in dem Fall
+auf zwei Verträge einlassen sollte, wenn doch C., der die ursprünglichen
+Verträge massgeblich beeinflusst haben solle, gar nicht mehr im Amt ge-
+wesen sei, und wenn es zutreffend sei, dass die ursprünglichen Dienstleis-
+tungsverträge von vornherein nur dazu hätten dienen sollen, die von der G.
+entrichtete Summe zu Gunsten von C. zu verwenden (act. 1 S. 5 – 10).
+5.2
+Ein Rechtshilfeersuchen muss insbesondere Angaben über den Gegen-
+stand und den Grund des Ersuchens enthalten (Art. 14 Ziff. 1 lit. b EUeR).
+Ausserdem muss das Ersuchen in Fällen wie dem vorliegenden die strafba-
+re Handlung bezeichnen und eine kurze Darstellung des Sachverhalts ent-
+halten (Art. 14 Ziff. 2 EUeR). Art. 28 Abs. 2 und 3 IRSG i.V.m. Art. 10 IRSV
+stellen entsprechende Anforderungen an das Rechtshilfeersuchen. Diese
+Angaben müssen der ersuchten Behörde allerdings nur die Prüfung erlau-
+ben, ob die doppelte Strafbarkeit gegeben ist (vgl. Art. 5 Ziff. 1 lit. a EUeR;
+infra Ziff. 6), ob die Handlungen wegen denen um Rechtshilfe ersucht wird,
+nicht politische oder fiskalische Delikte darstellen (Art. 2 lit. a EUeR) und ob
+der Grundsatz der Verhältnismässigkeit gewahrt wird (BGE 129 II 97 E. 3.1
+S. 98 m.w.H.).
+5.3
+Die Rechtsprechung stellt an die Schilderung des Sachverhalts im Rechts-
+hilfeersuchen keine hohen Anforderungen. Von den Behörden des ersu-
+chenden Staates kann nicht verlangt werden, dass sie den Sachverhalt, der
+Gegenstand des hängigen Strafverfahrens bildet, bereits lückenlos und völ-
+lig widerspruchsfrei darstellen. Das wäre mit dem Sinn und Zweck des
+
+- 9 -
+
+
+Rechtshilfeverfahrens nicht vereinbar, ersucht doch ein Staat einen ande-
+ren gerade deswegen um Unterstützung, damit er die bisher im Dunkeln
+gebliebenen Punkte aufgrund von Beweismitteln, die sich im ersuchten
+Staat befinden, klären kann. Es reicht daher aus, wenn die Angaben im
+Rechtshilfeersuchen den schweizerischen Behörden ermöglichen zu prü-
+fen, ob ausreichend konkrete Verdachtsgründe für eine rechtshilfefähige
+Straftat vorliegen, ob Verweigerungsgründe gegeben sind bzw. in welchem
+Umfang dem Begehren allenfalls entsprochen werden muss. Es kann auch
+nicht verlangt werden, dass die ersuchende Behörde die Tatvorwürfe be-
+reits abschliessend mit Beweisen belegt. Der Rechtshilferichter hat weder
+Tat- noch Schuldfragen zu prüfen und grundsätzlich auch keine Beweis-
+würdigung vorzunehmen, sondern ist vielmehr an die Sachdarstellung im
+Ersuchen gebunden, soweit sie nicht durch offensichtliche Fehler, Lücken
+oder Widersprüche sofort entkräftet wird (vgl. BGE 132 II 81 E. 2.1 S. 85
+mit Hinweisen; Urteil des Bundesgerichts 1A.90/2006 und weitere vom
+30. August 2006, E. 2.1; TPF 2007 150 E. 3.2.4).
+5.4
+Gemäss Rechtshilfeersuchen vom 16. September 2005 sowie den Ergän-
+zungen vom 21. September 2006, 12. Dezember 2006 und 1. August 2007
+wird C. verdächtigt, seine Stellung als Aufsichtsratsvorsitzender der F.
+missbraucht zu haben. Laut slowenischen Behörden habe er den Ge-
+schäftskontakt zwischen E., Vorstandsvorsitzender der G. sowie A. und D.,
+Verantwortliche der B. AG, hergestellt und mit seiner massgeblichen Ein-
+flussnahme erreicht, dass die G. mit der B. AG im September 2002 drei fik-
+tive Verträge abgeschlossen habe. Danach habe sich die B. AG verpflich-
+tet, gegen Bezahlung eines Honorars in der Höhe von EUR 1'945'000.00
+im Rahmen einer Marktforschung Informationen über europäische Mobilte-
+lefonmärkte zu sammeln und diesbezügliche Analysen und Berichte zu
+erstellen. C. soll danach im Dezember 2002 bei der Bank L. (u.a.) zwei Pri-
+vatkredite aufgenommen haben, wobei eine Abtretung der künftigen Forde-
+rung der B. AG gegen die G. als Sicherheit gedient habe. Aufgrund weiterer
+Vertragskonstruktionen, wie Scheindarlehensverträge zwischen C. und A.
+bzw. B. AG, sei die von der G. entrichtete Summe über mutmasslich bei
+der Bank H. und der Bank I. geführte Geschäftsbeziehungen schliesslich zu
+Gunsten von C. verwendet worden. Die vertraglich vereinbarte und ge-
+schuldete Summe sei von der G. bezahlt worden, ohne dass seitens der B.
+AG eine Dienstleistung erfolgt sei. Lediglich einige „online“ allgemein zu-
+gängliche Geschäftsberichte seien geliefert worden. Dass die Verträge le-
+diglich fingiert gewesen seien, sei allen Beteiligten von Beginn weg klar
+gewesen.
+Die ersuchende Behörde hat festgestellt, dass im Mai 2005 eine Rückzah-
+lungsvereinbarung des ursprünglich vereinbarten Honorars abgeschlossen
+
+- 10 -
+
+
+worden sei, wonach sich die B. AG aufgrund Nichterfüllung des Vertrages
+verpflichtet habe, der G. EUR 1,2 Mio. zurückzuerstatten. Dies ist laut er-
+suchender Behörde vermutlich geschehen, weil das umstrittene Geschäfts-
+verhältnis für die Umgebung zu auffällig gewesen sei. Aber auch unter Be-
+rücksichtigung dieser Rückzahlung habe die B. AG bzw. C. immer noch ei-
+nen Vermögensvorteil von EUR 745'000.00 erlangt (vgl. zu diesem Ab-
+schnitt Beilagen zu act. 8, Ordner I Ziff. 2/2 S. 5, Ziff. 19/2 S. 3 f., 23).
+5.5
+Nach dem Gesagten ergibt sich, dass im Rechtshilfeersuchen bzw. den Er-
+gänzungen die Rückzahlung von EUR 1,2 Mio. (mehrmals) erwähnt wird,
+womit der Sachverhalt entgegen den Ausführungen der Beschwerdeführer
+nicht lückenhaft ist. Der Auffassung der Beschwerdeführer, wonach der
+Sachverhalt widersprüchlich sei, kann ebenfalls nicht gefolgt werden. Blos-
+se allfällige Unklarheiten bzw. Widersprüche sekundärer Bedeutung, wel-
+che der Glaubwürdigkeit der Sachverhaltsdarstellung in ihren grossen Zü-
+gen nicht schaden und insbesondere die Subsumierbarkeit unter einen
+Tatbestand des schweizerischen Strafrechts nicht a priori ausschliessen
+(siehe E. 6.4), stellen keinen offensichtlichen Widerspruch dar (TPF
+RR.2007.55 vom 5. Juli 2007 E. 6.3). Der dargestellte Sachverhalt vermag
+den gesetzlichen Anforderungen von Art. 14 Ziff. 2 EUeR und Art. 28
+Abs. 3 lit. b IRSG zu genügen. Die Rüge der Beschwerdeführer geht fehl.
+6.
+
+6.1
+Die Beschwerdeführer rügen sodann die fehlende doppelte Strafbarkeit.
+Wenn, wie unter Erwägung 5.1 ausgeführt, beachtet werde, dass EUR 1,2
+Mio. an die G. zurückgezahlt worden seien, bleibe völlig im Unklaren, wo
+eine Strafbarkeit liegen solle. Weder habe die G. einen Schaden geltend
+gemacht noch hätten dies die slowenischen Behörden behauptet. Ohne ei-
+nen Vermögensschaden könne aber auch der Tatbestand des Betrugs oder
+der ungetreuen Geschäftsführung nicht erfüllt sein. Ebenso hätten auch die
+bei der F. und G. durchgeführten unabhängigen Prüfungen keine zu bean-
+standenden Transaktionen zu Tage gebracht. Aus dem Rechtshilfeersu-
+chen sei auch nicht ersichtlich, worin die arglistige Täuschung der Ange-
+schuldigten und der dadurch beim Getäuschten bewirkte Irrtum bestanden
+haben solle. Zudem sei nicht dargelegt, in welcher Hinsicht dem Beschul-
+digten C. die Stellung eines Geschäftsführers im Sinne Art. 158 StGB zu-
+kommen sollte. Da dieser Tatbestand nicht erfüllt sei, hätten sich der Be-
+schwerdeführer A. und D. auch nicht an diesem Delikt beteiligen können
+(act. 1 S. 6, 36 – 40, act. 16 S. 11 f.).
+6.2
+Die Vertragsparteien des EUeR können sich das Recht vorbehalten, die Er-
+ledigung von Ersuchen um Durchsuchung oder Beschlagnahme der Bedin-
+gung zu unterwerfen, dass die dem Ersuchen zugrunde liegende strafbare
+
+- 11 -
+
+
+Handlung sowohl nach dem Recht des ersuchenden als auch nach dem
+des ersuchten Staates strafbar ist (Art. 5 Ziff. 1 lit. a EUeR). Die Schweiz
+hat für die Vollziehung von Rechtshilfeersuchen mit welchen Zwangsmass-
+nahmen beantragt werden, einen entsprechenden Vorbehalt angebracht.
+Art. 64 Abs. 1 IRSG bestimmt für die akzessorische Rechtshilfe, dass pro-
+zessuale Zwangsmassnahmen nur angewendet werden dürfen, wenn aus
+der Sachverhaltsdarstellung im Ersuchen hervorgeht, dass die im Ausland
+verfolgte Handlung die objektiven Merkmale eines nach schweizerischem
+Recht strafbaren Tatbestandes aufweist. Vorbehältlich Fälle offensichtli-
+chen Missbrauchs ist die Strafbarkeit nach dem Recht des ersuchenden
+Staates somit in Anwendung von Art. 64 Abs. 1 IRSG grundsätzlich nicht
+zu prüfen. Der Vorbehalt der Schweiz zum EUeR ist im gleichen Sinne
+auszulegen (BGE 116 Ib 89 E. 3c/aa S. 94 mit Hinweisen; Urteile des Bun-
+desgerichts 1A.7/2007 vom 3. Juli 2007 E. 6.1; 1A.3/2006 vom 6. Februar
+2006 E. 6.1 ; 1A.283/2005 vom 1. Februar 2006 E. 3.3; 1A.80/2006 vom
+30. Juni 2006 E. 2.2; ROBERT ZIMMERMANN, a.a.O., N. 349 S. 396).
+
+6.3
+Für die Frage der Strafbarkeit nach schweizerischem Recht ist der im Er-
+suchen dargelegte Sachverhalt so zu subsumieren, wie wenn die Schweiz
+wegen des analogen Sachverhalts ein Strafverfahren eingeleitet hätte und
+zu prüfen, ob die Tatbestandsmerkmale einer schweizerischen Strafnorm
+erfüllt wären (vgl. BGE 132 II 81 E. 2.7.2 S. 90; 129 II 462 E. 4.4 S. 465; Ur-
+teil des Bundesgerichts 1A.125/2006 vom 10. August 2006 E. 2.1, je
+m.w.H.; ROBERT ZIMMERMANN, a.a.O., S. 395 N. 349). Die Strafnormen
+brauchen nach den Rechtssystemen der Schweiz und des ersuchenden
+Staates nicht identisch zu sein (vgl. Urteil des Bundesgerichts 1A.125/2006
+vom 10. August 2006 E. 2.1 m.w.H.). Dabei genügt es, dass ein Tatbestand
+nach schweizerischem Recht erfüllt ist. Ebenfalls nicht erforderlich ist, dass
+dem von der Rechtshilfemassnahme Betroffenen im ausländischen Straf-
+verfahren selbst ein strafbares Verhalten zur Last gelegt wird (Urteil des
+Bundesgerichts 1A.245/2006 vom 26. Januar 2007 E. 3; TPF RR.2007.29
+vom 30. Mai 2007 E. 3, sowie der Nichteintretensentscheid des Bundesge-
+richts 1C.150/2007 vom 15. Juni 2007 E. 1.3 dazu).
+6.4
+Nach schweizerischem Recht erfüllt den Tatbestand der ungetreuen Ge-
+schäftsbesorgung gemäss Art. 158 Ziff. 1 Abs. 1 StGB, wer aufgrund des
+Gesetzes, eines behördlichen Auftrages oder eines Rechtsgeschäfts damit
+betraut ist, Vermögen eines andern zu verwalten oder eine solche Vermö-
+gensverwaltung zu beauftragen, und dabei unter Verletzung seiner Pflich-
+ten bewirkt oder zulässt, dass der andere am Vermögen geschädigt wird.
+Handelt der Täter in der Absicht, sich oder einen andern unrechtmässig zu
+bereichern, so kann auf Freiheitsstrafe von einem Jahr bis zu fünf Jahren
+erkannt werden (Art. 158 Ziff. 1 Abs. 3 StGB).
+
+- 12 -
+
+
+Der Tatbestand der ungetreuen Geschäftsbesorgung ist erfüllt, wenn der
+Täter in der Stellung eines Geschäftsführers treuwidrig eine Schutzpflicht
+zur Wahrung fremder Vermögensinteressen verletzt hat und es dadurch zu
+einer Schädigung des anvertrauten Vermögens gekommen ist. Die Tat-
+handlung besteht darin, dass der Täter die ihm obliegende Vermögensfür-
+sorgepflicht verletzt. Das pflichtwidrige Verhalten kann sowohl im Ab-
+schluss als auch im Unterlassen des Abschlusses von Rechtsgeschäften
+liegen, als auch darin, dass der Täter die ihm obliegende Vermögensfür-
+sorgepflichten durch Realakte bzw. deren Unterlassung verletzt (GÜNTER
+STRATENWERTH/WOLFGANG WOHLERS, Schweizerisches Strafgesetzbuch,
+Handkommentar, Bern 2007, N. 4 zu Art. 158 StGB mit Hinweisen). Ein
+Vermögensschaden liegt nach der Rechtsprechung vor, bei tatsächlicher
+Schädigung durch Verminderung der Aktiven, Vermehrung der Passiven,
+Nicht-Verminderung der Passiven oder Nicht-Vermehrung der Aktiven so-
+wie dann, wenn das Vermögen in einem Masse gefährdet wird, dass es in
+seinem wirtschaftlichen Wert vermindert ist (BGE 129 IV 124 E. 3.1 S. 125
+f. mit Hinweisen). Geschäftsführer ist nicht nur, wer Rechtsgeschäfte nach
+aussen abzuschliessen hat, sondern auch, wer entsprechend seiner Für-
+sorgepflicht im Innenverhältnis für fremde Vermögensinteressen sorgen soll
+(BGE 129 IV 124 E. 3.1 S. 126; 123 IV 17 E. 3b; 120 IV 190 E. 2b; 118 IV
+244 E. 2a, je mit Hinweisen). Die Stellung als Geschäftsführer setzt ein hin-
+reichendes Mass an Selbständigkeit voraus, mit welcher dieser über das
+fremde Vermögen oder über wesentliche Bestandteile desselben verfügen
+kann. Geschäftsführer ist daher, wer unter Berücksichtigung der rechtlichen
+wie auch der tatsächlichen Umstände den Vermögensinhaber mit Bezug
+auf wesentliche Bestandteile des verwalteten Vermögens nach aussen und
+innen in leitender Stellung selbständig vertritt. Das gilt auch, wenn der be-
+troffenen Person die Stellung nur faktisch zukommt und nicht formell einge-
+räumt worden ist (Urteil des Bundesgerichts 6S.25/2003 vom 12. Mai 2003
+E. 2.2 mit Hinweisen; zum Ganzen vgl. TPF RR.2008.29+30 vom 12. Juni
+2008 E. 5.3).
+6.5
+Dem Rechtshilfeersuchen und den Ergänzungen ist zu entnehmen, dass
+der Beschuldigte E. in den vorliegend interessierenden Jahren 2002 – 2005
+Vorstandsvorsitzender der G. gewesen sein soll. In dieser Stellung habe er
+insbesondere die in Frage stehenden, angeblich fingierten Verträge vom
+10. und 27. September 2002 unterzeichnet (Einzelunterschrift), aufgrund
+derer die G. (mit seiner Überwachung und Zustimmung) zwischen Dezem-
+ber 2002 bis März 2004 den Gesamtbetrag von EUR 1'945'000.00 bezahlt
+haben soll. Der Beschuldigte E. kann daher als Geschäftsführer der G. im
+Sinne von Art. 158 StGB betrachtet werden. Sofern er, wie im Rechtshilfe-
+ersuchen geltend gemacht wird, fiktive Verträge mit dem Beschwerdeführer
+A. und dem Beschuldigten D. abgeschlossen und die Entschädigung ohne
+
+- 13 -
+
+
+entsprechende bzw. mit nur fiktiven Gegenleistung bezahlt hat, hätte er die
+ihm nach schweizerischem Recht obliegenden Vermögensfürsorgepflichten
+verletzt und der G. dadurch (nach Rückzahlung der vereinbarten EUR 1,2
+Mio.) einen Schaden in Form der Verminderung von Aktiven im Betrag von
+EUR 745'000.00 zugefügt. Dabei ist die Rückzahlung für die mutmassliche
+Strafbarkeit ohnehin irrelevant, da „post festum“ erfolgte Schadensrückzah-
+lungen eine zuvor vollendete oder allenfalls auch nur versuchte ungetreue
+Geschäftsbesorgung nicht ungeschehen macht. Die Vorbringen der Be-
+schwerdeführer, wonach die G. weder einen Schaden geltend gemacht ha-
+be noch die durchgeführten unabhängigen Prüfungen zu beanstandende
+Transaktionen zu Tage gebracht hätten, ist für die Prüfung der Strafbarkeit
+im Rechtshilfeersuchen ebenfalls bedeutungslos. Damit werden Tat- und
+Beweiswürdigungsfragen aufgeworfen, die der Rechthilferichter gerade
+nicht zu prüfen hat; er hat sich an die Sachverhaltsdarstellung der ersu-
+chenden Behörde zu halten (vgl. supra E. 5.3, 6.3). Aus diesem Grund ist
+auch der von den Beschwerdeführern in diesem Zusammenhang gestellte
+Antrag, wonach die slowenischen Behörden um Übermittlung eines Einver-
+nahmeprotokolls von E. zu ersuchen seien, abzuweisen (act. 1 Ziff. 100).
+Der Beschuldigte E. soll ferner gemäss Darstellung im Rechtshilfeersuchen
+in der Absicht gehandelt haben, C. unrechtmässig zu bereichern. Seit Be-
+ginn sei ihm bewusst gewesen, dass die Vertragskonstruktion lediglich da-
+zu gedient habe, die von der G. an die B. AG entrichtete Summe schliess-
+lich zu Gunsten des Beschuldigten C. zu verwenden.
+
+E. hätte sich dadurch nach schweizerischem Strafrecht der ungetreuen
+Geschäftsbesorgung gemäss Art. 158 Ziff. 1 Abs. 1 und 3 StGB strafbar
+gemacht. Die Beteiligungsart und -form des Beschwerdeführers A. (und
+des Beschuldigten D.) kann dabei offen bleiben und muss nicht genauer
+geprüft werden (vgl. supra E. 6.3).
+
+Ob weitere Tatbestände nach schweizerischem Strafrecht erfüllt sein könn-
+ten, kann offen bleiben, da es genügt, dass die Sachverhaltsdarstellung un-
+ter einen schweizerischen Straftatbestand subsumiert werden kann (vgl.
+supra E. 6.2). Die Rüge der fehlenden doppelten Strafbarkeit ist demnach
+als unbegründet abzuweisen.
+7.
+
+7.1
+Die Beschwerdeführer machen weiter geltend, es handle sich vorliegend
+um eine verbotene Beweisausforschung. Aufgrund der nicht rechtsgenü-
+genden Darstellung des Sachverhaltes und des Fehlens der doppelten
+Strafbarkeit bleibe der Eindruck, dass die slowenischen Behörden nach Er-
+halt der Unterlagen aus der Schweiz nachträglich einen Sachverhalt kon-
+struieren wollten. Hierfür sei die Rechtshilfe jedoch unzulässig. Zudem gin-
+
+- 14 -
+
+
+gen die von der Staatsanwaltschaft bezeichneten Bankunterlagen über das
+hinaus, was im Rechtshilfeersuchen verlangt sei. Vergleiche man nur
+schon den nach Rückerstattung von EUR 1,2 Mio. verbleibende Rest von
+EUR 750'000.00 mit den in der Schlussverfügung aufgeführten Zahlungen
+in der Höhe von EUR 1,220 Mio., so sei ersichtlich, dass es Überweisun-
+gen von rund EUR 500'000.00 geben müsse, die nichts mit dem Geschäft
+zwischen der beschwerdeführenden B. AG und G. zu tun hätten. Diese Un-
+terlagen dürften nicht an die ersuchende Behörde herausgegeben werden.
+Die Staatsanwaltschaft sei damit ihrer Pflicht zur Aussonderung derjenigen
+Transaktionen, welche nicht mit dem Geschäft G. in Verbindung stünden,
+nicht nachgekommen (act.1 S. 43 – 45).
+
+7.2
+Rechtshilfemassnahmen haben generell dem Prinzip der Verhältnismäs-
+sigkeit zu genügen (ROBERT ZIMMERMANN, a.a.O., S. 513 f. N. 475 mit Ver-
+weisen auf die Rechtsprechung; TPF RR.2007.64 vom 3. September 2007
+E. 3.2). Die akzessorische Rechtshilfe ist nur zulässig, soweit sie für ein
+Verfahren in strafrechtlichen Angelegenheiten im Ausland erforderlich er-
+scheint oder dem Beibringen der Beute dient (vgl. Art. 63 Abs. 1 IRSG). Die
+internationale Zusammenarbeit kann nur abgelehnt werden, wenn die ver-
+langten Unterlagen mit der verfolgten Straftat in keinem Zusammenhang
+stehen und offensichtlich ungeeignet sind, die Untersuchung voranzutrei-
+ben, so dass das Ersuchen nur als Vorwand für eine unzulässige Beweis-
+ausforschung (“fishing expedition“) erscheint. Da der ersuchte Staat im All-
+gemeinen nicht über die Mittel verfügt, die es ihm erlauben würden, sich
+über die Zweckmässigkeit bestimmter Beweise im ausländischen Verfahren
+auszusprechen, hat er insoweit die Würdigung der mit der Untersuchung
+befassten Behörde nicht durch seine eigene zu ersetzen und ist verpflich-
+tet, dem ersuchenden Staat alle diejenigen Aktenstücke zu übermitteln, die
+sich auf den im Rechtshilfeersuchen dargelegten Sachverhalt beziehen
+können (sog. potentielle Erheblichkeit). Nicht zulässig ist es, den ausländi-
+schen Behörden nur diejenigen Unterlagen zu überlassen, die den im
+Rechtshilfeersuchen festgestellten Sachverhalt mit Sicherheit beweisen
+(zum Ganzen BGE 122 II 367 E. 2c S. 371; 121 II 241 E. 3a S. 242 f.; Urtei-
+le des Bundesgerichts 1A.115/2000 vom 16. Juni 2000 E. 2a; 1A.182/2001
+vom 26. März 2002 E. 4.2; 1A.234/2005 vom 31. Januar 2006 E. 3.2;
+1A.270/2006 vom 13. März 2007, E. 3 ; TPF RR.2007.24 vom 8. Mai 2007
+E. 4.1; RR.2007.90 vom 26. September 2007 E. 7.2).
+7.3
+Die ersuchte Rechtshilfebehörde muss aufzeigen, dass zwischen den von
+der Rechtshilfe betroffenen Unterlagen und dem Gegenstand der Strafun-
+tersuchung ein ausreichender Sachzusammenhang besteht und diejenigen
+Akten ausscheiden, bezüglich welcher die Rechtshilfe nicht zulässig ist
+(BGE 122 II 367 E. 2c S. 371). Der von der Rechtshilfemassnahme Betrof-
+
+- 15 -
+
+
+fene hat allerdings die Obliegenheit, schon im Stadium der Ausführung des
+Ersuchens (bzw. der erstinstanzlichen Rechtshilfeverfügung) an der sach-
+gerechten Ausscheidung beschlagnahmter Dokumente nötigenfalls mitzu-
+wirken, allfällige Einwände gegen die Weiterleitung einzelner Aktenstücke
+(bzw. Passagen daraus), welche für die Strafuntersuchung offensichtlich
+entbehrlich sind, im Rahmen seiner Parteirechte gegenüber der ausführen-
+den Behörde rechtzeitig und konkret darzulegen und diese Einwände auch
+ausreichend zu begründen. Dies gilt besonders bei einer komplexen Unter-
+suchung mit zahlreichen Akten. Die Beschwerdeinstanz forscht nicht von
+sich aus nach Aktenstücken, die im ausländischen Verfahren (mit Sicher-
+heit) nicht erheblich sein könnten (BGE 130 II 14 E. 4.3 S. 16; 126 II 258
+E. 9b/aa S. 262; Urteil des Bundesgerichts 1A.223/2006 vom 2. April 2007
+E. 4.1 sowie 1A.184/2004 vom 22. April 2005 E. 3.1).
+7.4
+Die Rüge der verbotenen Beweisausforschung bzw. die Verletzung des
+Verhältnismässigkeitsprinzips ist unbegründet. Gemäss Sachverhaltsdar-
+stellung der ersuchenden Behörde haben die Beschwerdeführer bei der
+verfolgten Straftat massgeblich mitgewirkt. Die fraglichen, anscheinend fik-
+tiven Verträge seien zwischen der G. und der Beschwerdeführerin B. AG
+abgeschlossen worden, wobei der Beschwerdeführer A. jedenfalls einen
+der Verträge im Namen der Beschwerdeführerin unterzeichnet habe. Auf
+das Konto Nr. 2 der Beschwerdeführerin bei der Bank J. ist anscheinend
+Geld von der G. aus obgenannten Verträgen eingegangen. Weiter hat die
+Rechtshilfebehörde auch Mittelabflüsse von diesem Konto und dem eben-
+falls auf die Beschwerdeführerin lautenden Konto Nr. 1 an den Beschuldig-
+ten C. und an eine ihm zuzurechnende Gesellschaft festgestellt.
+
+Ein Sachzusammenhang zwischen der Beschwerdeführerin bzw. deren
+obgenannten Konti und der verfolgten Straftat ist damit ausreichend darge-
+tan. Der Herausgabe der Bankunterlagen steht nichts entgegen. Auch wur-
+de keine sachgerechte Ausscheidung beschlagnahmter Dokumente unter
+dem Titel offenkundig fehlender Relevanz geltend gemacht. Die in diesem
+Zusammenhang gemachten Ausführungen der Beschwerdeführerin sind zu
+wenig konkret, als dass sie der Gewährung der Rechtshilfe entgegenste-
+hen könnten (vgl. supra E. 7.3). Im Übrigen sei bemerkt, dass der Berech-
+nung der Beschwerdeführerin und dem daraus gezogenen Schluss nicht
+gefolgt werden kann, da wie unter E. 6.5 ausgeführt, der gesamte mut-
+massliche Deliktsbetrag von EUR 1'945'000.00 bei der Beurteilung der
+Strafbarkeit relevant ist.
+
+Betreffend Herausgabe des Einvernahmeprotokolls des Beschwerdeführers
+A. kann ebenfalls nicht von einer fishing expedition gesprochen werden. In-
+folge Mitwirkens bei der angeblichen Straftat können seine Aussagen we-
+
+- 16 -
+
+
+sentlich zur Klärung des Sachverhaltes beitragen, dies für die Beschuldig-
+ten sowohl in belastender wie auch in entlastender Hinsicht (was im Übri-
+gen auch für die herauszugebenden Kontounterlagen gilt). Dem Umstand
+der Aussageverweigerung ist mit Bezug auf die potentielle Nützlichkeit des
+Einvernahmeprotokolls keine Bedeutung zuzumessen, ihr wird im Rahmen
+der Gesamtwürdigung der Beweise durch den zuständigen Richter Rech-
+nung getragen werden (siehe supra E. 2.2). Der Herausgabe des Einver-
+nahmeprotokolls des Beschwerdeführers steht nichts entgegen.
+
+8.
+
+8.1
+Die Beschwerdeführer bringen schliesslich insbesondere vor, das dem
+Rechtshilfeersuchen zugrunde liegende Strafverfahren in Slowenien sei po-
+litisch motiviert (Art. 2 IRSG), weshalb die Rechtshilfe zu verweigern sei.
+So sei C. auf dem Gebiet der Corporate Governance bekannt und habe
+sich stark für deren Durchsetzung in Slowenien eingesetzt. Die Grundsätze
+der Corporate Governance würden jedoch von der neuen Regierung nicht
+eingehalten, vielmehr widme sich diese der „Parteifreunde-Wirtschaft“. So
+habe die Regierung verschiedene Mandatsträger von staatlichen und staat-
+lich kontrollierten Unternehmungen aus politischen Gründen entlassen und
+deren Position durch Gleichgesinnte ersetzt. C. und seine Mitstreiter hätten
+sich dazu kritisch geäussert und damit den Zorn der Regierung auf sich ge-
+zogen. Auch wegen dieser Kritik sei die gegenwärtige Regierung in einem
+ungemeinen Popularitätstief, was mit ein Grund sei, weshalb die Beschul-
+digten in deren Augen äusserst unbeliebte Personen seien.
+Die Regierung „bewege“ ihr unliebsame Personen zum Rücktritt, indem sie
+den Medien Dokumente zuspiele, in denen diese Personen diskriminiert
+und verleumdet würden. Dies sei auch den Beschuldigten C. und D. sowie
+dem Beschwerdeführer A. geschehen. Durch die instrumentalisierten Me-
+dien sei ihnen Korruption und Geldwäscherei vorgeworfen worden. In einer
+regelrechten medialen Hetzjagd habe die staatlich kontrollierte Presse eine
+Vorverurteilung herbeigeführt, Imageschädigung und Rufmord begangen
+und damit C. als einer der wichtigsten Regierungskritiker mundtot gemacht.
+Die Generalstaatsanwältin von Slowenien habe sich in diesem Zusammen-
+hang öffentlich (über ein laufendes Verfahren, in dem noch keine gerichtli-
+che Untersuchung durchgeführt worden sei) gar dahingehend geäussert,
+dass Personen, welche unter der früheren Regierung unberührbar gewe-
+sen seien, unter der neuen Regierung jetzt bekämpft werden könnten.
+Durch dieses Vorgehen sei die Unschuldsvermutung verletzt worden. Die
+Justiz habe sich in diesem Verfahren instrumentalisieren lassen, habe das
+politisch motivierte Verfahren eröffnet und die Untersuchungsunterlagen
+den Medien zugestellt (act. 1 S. 22 – 36, act. 16 S. 6 – 11).
+
+- 17 -
+
+
+Die Beschwerdeführer seien im Übrigen entgegen der Meinung der Be-
+schwerdegegnerin legitimiert, sich auf Art. 2 IRSG zu berufen. Bezüglich
+des Beschwerdeführers A. wird im Wesentlichen geltend gemacht, im Falle
+der Verletzung des Rechts auf ein faires Verfahren wie vorliegend, könne
+es für die Frage der Legitimation nicht auf den Aufenthaltsort des Ange-
+schuldigten ankommen. Aufgrund der konkreten Situation könne kein un-
+abhängiges und unparteiisches Verfahren erwartet werden, da hinter den
+Anschuldigungen eine politische Motivation stecke und die Justiz instru-
+mentalisiert sei. Solch ein Verfahren verletze die in Art. 6 EMRK und Art. 14
+UNO Pakt II verankerten Rechte, verletze die Unschuldsvermutung und
+verstosse gegen den Ordre public. Die Ausführungen der Beschwerdegeg-
+nerin gründeten demgegenüber auf einem falschen Rechtsverständnis
+bzw. auf der Umsetzung der bundesgerichtlichen Rechtsprechung auf eine
+nicht vergleichbare Sachlage (BGE 130 II 217 E. 8.1). Die Anwesenheit von
+angeschuldigten Personen im ersuchenden Staat sei als Legitimationsvor-
+aussetzung nur erforderlich, wenn es wie im genannten Urteil um das Ver-
+bot unmenschlicher oder erniedrigender Behandlung gehe. Die Verneinung
+der Legitimation würde bedeuten, dass der Schweizer Bürger mit Wohnsitz
+in der Schweiz tatenlos zusehen müsste, wie er als Angeschuldigter im
+Ausland in einem politischen Verfahren verfolgt, allenfalls bestraft und so-
+mit von den schweizerischen Behörden nicht geschützt würde. Der Be-
+schuldigte müsste sich in dem Fall in die Hände der slowenischen Justiz
+begeben um dort gegen das politisch begründete Strafverfahren zu kämp-
+fen. Dies sei aber nicht Sinn und Zweck der Rechthilfe. Zudem bestünde
+seitens der slowenischen Regierung die Möglichkeit, ein Gesuch an die
+Schweiz zur Übernahme der Strafvollstreckung eines in Slowenien gefäll-
+ten Abwesenheitsurteils zu stellen. Auch wegen dieser massiven Konse-
+quenzen könne dem Beschwerdeführer das Recht, sich auf Art. 2 IRSG zu
+berufen, nicht abgesprochen werden. Könnte der Beschwerdeführer Art. 2
+IRSG nicht anrufen, verstiesse dies ferner gegen Grundsätze der schwei-
+zerischen Rechtsordnung wie etwa die Garantie des Wohnsitzrichters
+(Art. 30 Abs. 2 BV) und das verfassungsrechtliche Prinzip, wonach Perso-
+nen mit Wohnsitz in der Schweiz Rechtsschutz zu gewähren sei. Auch sei
+die Ehre und der gute Ruf der Beschuldigten zu schützen (act. 1 S. 41 f.,
+act. 10 S. 2 – 6).
+Sodann sei es auch nicht rechtens, der beschwerdeführenden B. AG die
+Legitimation abzusprechen, sich auf Art. 2 IRSG berufen zu können. Durch
+dieses Vorgehen würde sie zweimal mit verschiedenen Ellen gemessen:
+Auf der einen Seite würde den Beschuldigten A. und D. vorgeworfen, mit
+ihrem Handeln für die Beschwerdeführerin Straftatbestände erfüllt zu ha-
+ben, womit die ersuchende Behörde die Gesellschaft ohne eigenes Leben
+qualifiziere und auf der anderen Seite poche die Schweiz darauf, dass es
+
+- 18 -
+
+
+sich bei der Beschwerdeführerin um eine unabhängige, juristische Person
+mit eigenständigem Schicksal handle, die sich nicht auf eine politisch moti-
+vierte Verfolgung berufen könne. Eine solche Doppelargumentation sei in
+sich nicht stichhaltig und juristisch äusserst fragwürdig. Die von der Staats-
+anwaltschaft in der Schlussverfügung angewendete Rechtsprechung des
+Bundesgerichtes sei wiederum nur im Falle des Risikos von unmenschli-
+cher oder erniedrigender Behandlung logisch. Es sei nicht einzusehen,
+weshalb eine juristische Person nicht von einem unfairen Verfahren, da po-
+litisch motiviert und nicht von einer unabhängigen Justiz geführt, betroffen
+sein sollte. Auch eine juristische Person habe Anspruch auf willkürfreie Be-
+handlung, entsprechend stünden ihr auch die von der Verfassung (etwa
+Art. 30 Abs. 2 BV) und der EMRK und dem UNO-Pakt II garantierten Ver-
+fahrensrechte zu. Aus den angeführten Gründen müsse auch die be-
+schwerdeführende B. AG legitimiert sein, sich auf die Ausschlussgründe
+des Art. 2 IRSG zu berufen (act. 1 S. 42 f., act. 16 S. 5 – 7).
+8.2
+Gemäss ständiger Rechtsprechung können sich grundsätzlich nur natürli-
+che Personen auf Art. 2 IRSG berufen, deren Auslieferung an einen ande-
+ren Staat oder deren Überweisung an einen internationalen Gerichtshof
+beantragt wurde. Geht es wie vorliegend um die Herausgabe von Beweis-
+mitteln, kann sich nur der Beschuldigte auf Art. 2 IRSG berufen, der sich
+auf dem Gebiet des ersuchenden Staates aufhält, sofern er geltend ma-
+chen kann, konkret der Gefahr einer Verletzung seiner Verfahrensrechte
+ausgesetzt zu sein. Dagegen kann sich grundsätzlich nicht auf Art. 2 IRSG
+berufen, wer sich im Ausland aufhält oder sich auf dem Gebiet des ersu-
+chenden Staates befindet, ohne dort einer Gefahr ausgesetzt zu sein. Die
+Landesabwesenheit (mit Bezug auf den ersuchenden Staat) schützt vor ei-
+ner Art. 3 EMRK widersprechenden unmenschlichen Behandlung und vor
+einer Verletzung von den in Art. 5 EMRK garantierten Rechte im Zusam-
+menhang mit der persönlichen Freiheit (BGE 130 II 217 E. 8.2 S. 227 f.
+m.w.H.; Urteile des Bundesgerichts 1A.43/2007 vom 24. Juli 2007 E. 3.2;
+1A.212/2000 vom 19. September 2000 E. 3a/cc). Das Bundesgericht hat in
+seinem Entscheid 1A.212/2000 vom 19. September 2000 allerdings er-
+kannt, dass ein ersuchender Staat die Verfahrensrechte gemäss Art. 6
+EMRK eines Angeschuldigten unter Umständen auch dann verletzen kann,
+wenn sich dieser im Ausland aufhält. Eine von einem Rechtshilfeersuchen
+betroffene Person, die im ersuchenden Staat angeschuldigt ist, muss sich
+gemäss dieser höchstrichterlichen Rechtsprechung daher grundsätzlich
+trotz ihrer Landesabwesenheit auf eine objektive und ernsthafte Gefahr ei-
+ner schwerwiegenden Verletzung ihrer individuellen Verfahrensrechte im
+Abwesenheitsverfahren berufen können (Urteil des Bundesgerichts
+1A.212/2000 vom 19. September 2000 E. 3a/cc; TPF RR.2007.161 vom
+14. Februar 2008 E. 5.3).
+
+- 19 -
+
+
+Ob sich die B. AG als juristische Person auf Art. 2 IRSG berufen kann (ver-
+neint in BGE 130 II 217 E. 8.2) kann offen bleiben, da diese Rüge, wie
+nachfolgend dargetan, ohnehin unbegründet ist.
+8.3
+Einem Ersuchen um Zusammenarbeit in Strafsachen wird nicht entspro-
+chen, wenn Gründe für die Annahme bestehen, dass das Verfahren im
+Ausland den in der Europäischen Konvention vom 4. November 1950 zum
+Schutze der Menschenrechte und Grundfreiheiten (EMRK; SR 0.101) oder
+im internationalen Pakt vom 16. Dezember 1966 über bürgerliche und poli-
+tische Rechte (UNO-Pakt II; SR 0.103.2) festgelegten Verfahrensgrundsät-
+ze nicht entspricht (Art. 2 lit. a IRSG). Gleiches gilt, wenn angenommen
+werden muss, dass das Verfahren im Ausland durchgeführt wird, um eine
+Person wegen ihrer politischen Anschauungen zu bestrafen (Art. 2 lit. b
+IRSG). Art. 2 IRSG soll verhindern, dass die Schweiz die Durchführung von
+Strafverfahren oder den Vollzug von Strafen unterstützt, in welchen den
+verfolgten Personen die ihnen in einem Rechtsstaat zustehenden und ins-
+besondere durch die EMRK und den UNO-Pakt II umschriebenen Minimal-
+garantien nicht gewährt werden oder welche den internationalen Ordre
+public verletzen. Dies ist von besonderer Bedeutung im Auslieferungsver-
+fahren, gilt aber grundsätzlich auch für andere Formen von Rechtshilfe
+(BGE 130 II 217 E. 8.1 S. 227; 129 II 268 E. 6.1 S. 271, je m.w.H.). Die
+Prüfung des genannten Ausschlussgrundes setzt ein Werturteil über das
+politische System des ersuchenden Staates, seine Institutionen, sein Ver-
+ständnis von den Grundrechten und deren effektive Gewährleistung sowie
+über die Unabhängigkeit und Unparteilichkeit der Justiz voraus. Der
+Rechtshilferichter muss in dieser Hinsicht besondere Zurückhaltung walten
+lassen. Dabei genügt es freilich nicht, dass sich der im ausländischen Ver-
+fahren Beschuldigte darauf beruft, seine Rechte würden durch die allge-
+meinen politischen oder rechtlichen Verhältnisse im ersuchenden Staat ver-
+letzt. Vielmehr muss der im ausländischen Strafverfahren Beschuldigte
+glaubhaft machen, dass objektiv und ernsthaft eine schwerwiegende Ver-
+letzung der Menschenrechte im ersuchenden Staat zu befürchten ist (BGE
+130 II 217 E. 8.1 S. 227; 129 II 268 E. 6.1 S. 271, je m.w.H.). Es ist darzu-
+tun, dass und wie der politische Einfluss bzw. die politische Einwirkung auf
+die Justiz im konkreten Strafverfahren erfolgt ist und vor allem, inwiefern
+eine Verletzung von Verfahrensgarantien nach der EMRK oder dem UNO-
+Pakt II erfolgte bzw. in Zukunft mutmasslich erfolgen wird (BGE 130 II 117
+E. 8.4 – 8.7). Das Bundesgericht unterscheidet dabei nicht deutlich zwi-
+schen den Anwendungsfällen von Art. 2 lit. a und lit. b IRSG. Aus den oben
+zitierten Bundesgerichtsentscheiden lässt sich freilich schliessen, dass es
+auch bei der Strafverfolgung aus politischen Gründen (Art. 2 lit. b IRSG) im
+Ergebnis um die Frage geht, ob ein fairer Prozess gewährleistet ist und
+
+- 20 -
+
+
+letzteres sich wiederum danach beurteilt, ob das Verfahren dem Verfah-
+rensgarantien nach EMRK und UNO-Pakt II entspricht.
+8.4
+Nach dem Gesagten ist auf die Rügen der Beschwerdeführer (unter Vorbe-
+halt der fraglichen Legitimation der B. AG, vgl. oben E. 8.2 in fine) insoweit
+einzutreten, als eine Verletzung von Art. 6 EMRK geltend gemacht wird.
+Der Vollständigkeit halber sei erwähnt, dass die übrigen Vorbringen der
+Beschwerdeführer (Vollstreckung Abwesenheitsurteil in der Schweiz, Ver-
+letzung Garantie Wohnsitzrichter etc.) keine Gründe darstellen, welche sie
+zur Anrufung von Art. 2 IRSG legitimieren würden.
+8.4.1 Laut den Beschwerdeführern soll durch die Berichterstattung der Medien
+die Unschuldsvermutung verletzt worden sein. Dabei machen sie einerseits
+eine allgemeine Verletzung der Pressefreiheit in Slowenien geltend und
+andererseits eine Vorverurteilung der Beschwerdeführer (und der übrigen
+Beschuldigten) durch die angeblich instrumentalisierten Medien. Entschei-
+dend für eine Verweigerung der Rechthilfe ist jedoch nicht eine allgemeine
+Verletzung der Pressefreiheit durch ein Land, vielmehr müsste sich diese
+direkt auf das in Frage stehende Strafverfahren ausgewirkt haben (Urteil
+des Bundesgerichtes 1A.212/2000 vom 19.9.2000 E. 3b.aa). Aus den in
+den Akten befindlichen Zeitungsausschnitten ist zwar ersichtlich, dass C. in
+den Medien präsent ist und sich anscheinend wie von den Beschwerdefüh-
+rern dargetan stark mit dem Thema Corporate Governance befasst. Die
+von den Beschwerdeführern geltend gemachte Vorverurteilung durch die
+Medien lässt sich den Beilagen jedoch nicht mit der geltend gemachten
+Deutlichkeit entnehmen (vgl. z.B. act. 1 Beilage 9, in der von „Verdächti-
+gungen“ C.s die Rede ist). Zudem lässt sich bei spektakulären Straffällen
+nach der allgemeinen Lebenserfahrung auch nicht immer verhindern, dass
+der Beschuldigte schon vor der Urteilsfällung von einer reisserischen Pres-
+se als Täter hingestellt wird. Dem Staat obliegt es freilich, gemäss dem
+Prinzip der Unschuldsvermutung durch positive Massnahmen dafür Sorge
+zu tragen, dass die Presse bei der Berichterstattung über anhängige Straf-
+verfahren sich in den Grenzen der gebotenen Sachlichkeit hält (JOCHEN A.
+FROWEIN / WOLFGANG PEUKERT, EMRK-Kommentar, 2. Auflage, Kehl /
+Strassburg / Arlington 1996, S. 286 f.). Sorgt ein Strafverfahren in der Öf-
+fentlichkeit für Aufsehen, kann daraus jedoch nicht automatisch geschlos-
+sen werden, die Verfahrensgrundsätze der Europäischen Menschenrechts-
+konvention würden im ausländischen Strafverfahren nicht eingehalten (vgl.
+BGE 110 Ib 173 E. 6b). Zudem ist Skandaljournalismus nicht mit fehlender
+Pressefreiheit zu verwechseln.
+8.4.2 Der Beschwerdeführer A. macht sodann geltend, politische Überlegungen
+hätten bei seiner Entfernung (und der der übrigen Beschuldigten) bei staat-
+
+- 21 -
+
+
+lich indirekt oder direkt kontrollierten Unternehmen eine Rolle gespielt.
+Daraus aber bereits zu schliessen, auch die Justiz betreibe aus den nämli-
+chen politischen Überlegungen dieses Strafverfahren und die Verfahrens-
+rechte nach Art. 6 EMRK würden dabei nicht eingehalten, ist unzulässig.
+Der Einwand betreffend politischem Hintergrund und unfairem Verfahren ist
+auch unbegründet, da Slowenien Vertragsstaat der EMRK ist (ähnlich wie
+in TPF RR.2007.89 vom 20. August 2007 E. 5.2) und es wie von der Be-
+schwerdegegnerin zutreffend ausgeführt keinen Grund gibt, die Vertrags-
+treue in Zweifel zu ziehen (act. 7). Selbst wenn das Strafverfahren der Re-
+gierung in ihrer politischen Gegnerschaft zu C. und Konsorten durchaus
+willkommen sein sollte, können daraus keine Schlussfolgerungen auf das
+Funktionieren der Justiz gezogen werden. Die allfällige Zielsetzung der Re-
+gierung und auch das grosse Echo, das die vorliegende Angelegenheit in
+der Presse Sloweniens ausgelöst hat, lassen (ähnlich wie in BGE 110 Ib
+173 E. 6b) nicht den Schluss zu, dass die Beschuldigten wegen ihren ande-
+ren politischen Auffassungen über Corporate Governance im slowenischen
+Strafverfahren der Gefahr einer (nicht EMRK konformen) Erschwerung ih-
+rer Lage ausgesetzt wären. Dies gilt umso mehr als unklar ist, ob C. tat-
+sächlich wie behauptet ein derart wichtiger Regierungsgegner ist und aus
+politischen Gründen verfolgt wird oder nicht (verneint im Schreiben des
+EDA, Beilagen zu act. 6, Ordner II Ziff. 38/9).
+Die Beschwerdeführer haben einen politischen Einfluss bzw. eine politische
+Einwirkung auf die Justiz im konkreten Fall nicht darzutun vermocht. Sie
+haben auch nicht dargelegt, worin die Verletzung der Verfahrensrechte be-
+stand bzw. besteht oder in Zukunft bestehen wird (vgl. supra E. 8.3).
+8.4.3 Nach dem Gesagten ergibt sich, dass in concreto keine Gefahr der Verlet-
+zung von Art. 6 EMRK im slowenischen Strafverfahren vorliegt, aufgrund
+derer die Rechtshilfe zu verweigern wäre. An diesem Ergebnis würde auch
+die von den Beschwerdeführern beantragte Einvernahme des Botschafters
+K. sowie die Abnahme der übrigen Beweisanträgen (act. 1 Ziff. 69, 85, 94)
+nichts ändern, weshalb die Beweisofferten abgelehnt werden. Das in Frage
+stehende Einvernahmeprotokoll des Beschwerdeführers A. und die Konto-
+unterlagen der Beschwerdeführerin B. AG können somit an die ersuchende
+Behörde übermittelt werden.
+9.
+Bei diesem Ausgang des Verfahrens werden die Beschwerdeführer kos-
+tenpflichtig (Art. 63 Abs. 1 VwVG i.V.m. Art. 30 lit. b SGG). Für die Berech-
+nung der Gerichtsgebühr gelangt das Reglement vom 11. Februar 2004
+über die Gerichtsgebühren vor dem Bundesstrafgericht (SR 173.711.32)
+zur Anwendung (TPF RR.2007.6 vom 22. Februar 2007 E. 5). Die Ge-
+richtsgebühr ist auf je Fr. 2'500.00 festzusetzen (vgl. Art. 3 des Regle-
+
+- 22 -
+
+
+ments), unter Anrechnung des geleisteten Kostenvorschusses von je
+Fr. 4'000.00. Die Bundesstrafgerichtskasse ist anzuweisen, den Beschwer-
+deführern je den Restbetrag von Fr. 1'500.00 zurückzuerstatten.
+
+- 23 -
+
+
+Demnach erkennt die II. Beschwerdekammer:
+
+1.
+Der Antrag des Bundesamtes für Justiz und der Beschwerdeführer auf Ver-
+einigung der Verfahren D. (RR.2008.151) sowie A. / B. AG (RR.2008.158-
+159) wird abgewiesen.
+
+2.
+Die Beweisanträge werden abgelehnt.
+
+3.
+Die Beschwerde wird abgewiesen, soweit darauf eingetreten wird.
+
+4.
+Den Beschwerdeführern wird eine Gerichtsgebühr von je Fr. 2'500.00 aufer-
+legt, unter Anrechnung des geleisteten Kostenvorschusses von Fr. 4'000.00.
+Die Bundesstrafgerichtskasse wird angewiesen, den Beschwerdeführern je
+den Restbetrag von Fr. 1'500.00 zurückzuerstatten.
+
+
+Bellinzona, 24. November 2008
+
+Im Namen der II. Beschwerdekammer
+des Bundesstrafgerichts
+
+Die Präsidentin:
+
+
+
+Die Gerichtsschreiberin:
+
+
+
+Zustellung an
+
+-
+Rechtsanwalt Stefan Wehrenberg
+-
+Staatsanwaltschaft I des Kantons Zürich
+-
+Bundesamt für Justiz, Fachbereich Rechtshilfe
+
+Rechtsmittelbelehrung
+Gegen Entscheide auf dem Gebiet der internationalen Rechtshilfe in Strafsachen kann innert zehn
+Tagen nach der Eröffnung der vollständigen Ausfertigung beim Bundesgericht Beschwerde
+eingereicht werden (Art. 100 Abs. 1 und 2 lit. b BGG).
+
+Gegen einen Entscheid auf dem Gebiet der internationalen Rechtshilfe in Strafsachen ist die Beschwerde
+nur zulässig, wenn er eine Auslieferung, eine Beschlagnahme, eine Herausgabe von Gegenständen oder
+Vermögenswerten oder eine Übermittlung von Informationen aus dem Geheimbereich betrifft und es sich
+um einen besonders bedeutenden Fall handelt (Art. 84 Abs. 1 BGG). Ein besonders bedeutender Fall liegt
+insbesondere vor, wenn Gründe für die Annahme bestehen, dass elementare Verfahrensgrundsätze
+verletzt worden sind oder das Verfahren im Ausland schwere Mängel aufweist (Art. 84 Abs. 2 BGG).
