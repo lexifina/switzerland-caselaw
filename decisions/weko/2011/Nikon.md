@@ -1,0 +1,8095 @@
+---
+decision_id: "weko_Nikon"
+court: "WEKO"
+court_id: "weko"
+docket: "Nikon"
+decided: "2011-11-28"
+published: "2017-07-03"
+language: "de"
+legal_area: "Wettbewerbsrecht"
+decision_type: "Verfügung"
+source_url: "https://www.weko.admin.ch/weko/de/home/praxis/publizierte-entscheide.html"
+pdf_url: "https://www.weko.admin.ch/dam/weko/de/dokumente/2016/04/Verf%C3%BCgung%20vom%2028%20%20November%202011.pdf.download.pdf/Verf%C3%BCgung%20vom%2028%20%20November%202011.pdf"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/251.5/art-002.md", "switzerland/bund/acts/251.5/art-003.md", "switzerland/bund/acts/251.5/art-004.md", "switzerland/bund/acts/251.5/art-005.md", "switzerland/bund/acts/251.5/art-006.md", "switzerland/bund/acts/251/art-002.md", "switzerland/bund/acts/251/art-003.md", "switzerland/bund/acts/251/art-004.md", "switzerland/bund/acts/251/art-005.md", "switzerland/bund/acts/251/art-007.md", "switzerland/bund/acts/251/art-027.md", "switzerland/bund/acts/251/art-028.md", "switzerland/bund/acts/251/art-030.md", "switzerland/bund/acts/251/art-040.md", "switzerland/bund/acts/251/art-042.md", "switzerland/bund/acts/251/art-043.md", "switzerland/bund/acts/251/art-049a.md", "switzerland/bund/acts/251/art-050.md", "switzerland/bund/acts/251/art-051.md", "switzerland/bund/acts/273/art-064.md"]
+---
+
+# Nikon: Verfügung vom 28.11.2011
+
+## Text
+
+Wettbewerbskommission WEKO
+ Commission de la concurrence COMCO
+ Commissione della concorrenza COMCO
+ Competition Commission COMCO
+
+
+
+
+ Verfügung
+ vom 28. November 2011
+
+in Sachen Untersuchung 22-0396 gemäss Art. 27 KG
+ betreffend
+
+ Nikon
+ wegen unzulässiger Wettbewerbsabrede gemäss Art. 5 Abs. 4
+ KG
+
+
+gegen
+ 1. Nikon AG, Im Hanselmaa 10, 8132 Egg
+ vertreten durch RA Dr. Roger Staub, RA Boris Wenger, Froriep
+ Renggli Rechtsanwälte, Bellerivestrasse 201, 8034 Zürich
+ 2. Digitec AG, Pfingstweidstrasse 60, 8005 Zürich
+
+
+
+
+Besetzung Vincent Martenet (Präsident);
+ Stefan Bühler, Martial Pasquier (Vizepräsidenten);
+ Evelyne Clerc, Andreas Heinemann, Rudolf Horber, Daniel
+ Lampart, Anne Petitpierre, Thomas Pletscher, Johann Zürcher
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527
+Inhaltsverzeichnis
+A. Sachverhalt.....................................................................................................................4
+A.1. Gegenstand der Untersuchung ......................................................................................4
+A.2. Verfahren ........................................................................................................................6
+
+B. Erwägungen ................................................................................................................13
+
+B.1. Geltungsbereich ...........................................................................................................13
+B.1.1. Persönlicher Geltungsbereich ..................................................................................13
+B.1.2. Sachlicher Geltungsbereich .....................................................................................13
+B.1.3. Räumlicher Geltungsbereich....................................................................................14
+B.2. Vorbehaltene Vorschriften ............................................................................................15
+B.3. Unzulässige Wettbewerbsabrede über die Zuweisung von Gebieten ..........................19
+B.3.1. Wettbewerbsabrede .................................................................................................19
+B.3.1.1. Bewusstes und gewolltes Zusammenwirken ...........................................................19
+B.3.1.1.1. Vertragsklauseln .................................................................................................20
+B.3.1.1.1.1. Inländische Vertriebsverträge von Nikon Schweiz ............................................20
+B.3.1.1.1.2. Ausländische Vertriebsverträge der Nikon Gruppe ..........................................23
+B.3.1.1.2. Vereinbarungen ausserhalb von Verträgen ........................................................29
+B.3.1.2. Bezwecken oder Bewirken einer Wettbewerbsbeschränkung ................................35
+B.3.2. Beseitigung des wirksamen Wettbewerbs ..............................................................38
+B.3.2.1. Vorliegen einer vertikalen Abrede über die Zuweisung von Gebieten ....................39
+B.3.2.1.1. Abreden in Vertriebsverträgen über die Zuweisung von Gebieten .....................39
+B.3.2.1.2. Ausschluss von Verkäufen durch gebietsfremde Vertriebspartner .....................41
+B.3.2.1.3. Fazit ....................................................................................................................52
+B.3.2.1.4. Umsetzung des vertraglichen Gebietsschutzes ..................................................53
+B.3.2.1.4.1. Umsetzung der Bezugsbeschränkungen und Exportverbote ...........................53
+B.3.2.1.4.2. Einführung „Swiss Garantie“ .............................................................................62
+B.3.2.1.4.3. Selektivvertrieb von Nikon Schweiz ..................................................................66
+B.3.2.1.4.4. Fazit ..................................................................................................................67
+B.3.2.1.5. Abredepartner .....................................................................................................68
+B.3.2.1.6. Abrededauer .......................................................................................................70
+B.3.2.1.7. Untersuchungsadressaten ..................................................................................72
+B.3.2.2. Widerlegung der gesetzlichen Vermutung gemäss Art. 5 Abs. 4 KG .....................75
+B.3.2.2.1. Relevante Märkte.................................................................................................76
+B.3.2.2.1.1. Sachlich relevante Märkte ................................................................................76
+B.3.2.2.1.2. Räumlich relevante Märkte ...............................................................................82
+B.3.2.2.2. Intrabrand-Wettbewerb ........................................................................................85
+B.3.2.2.2.1. Arbitragemöglichkeit .........................................................................................85
+B.3.2.2.2.2. Parallelimporte ..................................................................................................97
+B.3.2.2.2.3. Intrabrand-Wettbewerb hinsichtlich Preis und Service ...................................103
+
+22/2010/00038/COO.2101.111.4.153527 2
+B.3.2.2.2.4. Fazit ................................................................................................................104
+B.3.2.2.3. Interbrand-Wettbewerb ......................................................................................104
+B.3.2.2.3.1. Aktueller Wettbewerb......................................................................................105
+B.3.2.2.3.2. Potenzieller Wettbewerb .................................................................................113
+B.3.2.2.3.3. Fazit ................................................................................................................114
+B.3.2.3. Zwischenergebnis ..................................................................................................115
+B.3.3. Erhebliche Beeinträchtigung des Wettbewerbs .....................................................115
+B.3.3.1. Qualitativ schwerwiegende Beeinträchtigung des Wettbewerbs ...........................115
+B.3.3.2. Quantitative Beeinträchtigung des Wettbewerbs ...................................................117
+B.3.3.3. Fazit .......................................................................................................................123
+B.3.4. Rechtfertigung aus Effizienzgründen .....................................................................123
+B.3.5. Ergebnis .................................................................................................................124
+B.4. Sanktionierung............................................................................................................125
+B.4.1. Allgemeine Ausführungen ......................................................................................125
+B.4.1.1. Einleitung ...............................................................................................................125
+B.4.1.2. Tatbestandsmerkmale von Art. 49a Abs. 1 KG......................................................126
+B.4.1.2.1. Unternehmen .....................................................................................................126
+B.4.1.2.2. Unzulässige Verhaltensweise ............................................................................126
+B.4.1.2.3. Vorwerfbarkeit....................................................................................................127
+B.4.1.2.4. Ergebnis.............................................................................................................130
+B.4.2. Sanktionsbemessung.............................................................................................130
+B.4.2.1. Einleitung und gesetzliche Grundlagen .................................................................130
+B.4.2.2. Sanktionsbemessung für Nikon .............................................................................131
+B.4.2.2.1. Maximalsanktion ................................................................................................131
+B.4.2.2.2. Konkrete Bemessung ........................................................................................131
+B.4.2.2.2.1. Basisbetrag .....................................................................................................133
+B.4.2.2.2.2. Dauer des Verstosses ....................................................................................135
+B.4.2.2.2.3. Erschwerende und mildernde Umstände........................................................135
+B.4.2.2.2.4. Ergebnis..........................................................................................................136
+B.5. Ergebnis .....................................................................................................................136
+
+C. Kosten .......................................................................................................................137
+
+D. Dispositiv ..................................................................................................................139
+
+E. Anhänge ....................................................................................................................141
+
+E.1. Internationaler Preisvergleich Bezugspreise Distributoren .........................................142
+E.2. Internationaler Preisvergleich Bezugspreise Retailhändler ........................................146
+E.3. Internationaler Preisvergleich Endverkaufspreise ......................................................153
+E.4. Parallelhandelstätigkeiten mit Nikon Imaging Produkten ...........................................155
+E.5. Intrabrand-Preiswettbewerb Nikon Imaging Produkte ................................................160
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 3
+A. Sachverhalt
+
+A.1. Gegenstand der Untersuchung
+1. Am 18. Februar 2010 ging beim Sekretariat der Wettbewerbskommission (nach-
+folgend Sekretariat) eine Anzeige der liechtensteinischen Wahl Trading AG (nachfol-
+gend: Wahl Trading) ein. In der Anzeige machte Wahl Trading namentlich geltend,
+dass die Nikon AG in Egg (nachfolgend: Nikon oder – falls der Verständlichkeit dienlich
+– Nikon Schweiz) ihren Distributoren Export- und Importgeschäfte verbiete, Lieferun-
+gen an Parallelimporteure verhindere und Kunden der Parallelimporteure dazu anhalte,
+nicht mehr bei diesen zu beziehen. Darüber hinaus habe Nikon im August 2009 eine
+erweiterte Garantie für Kunden von Nikon Schweiz namens „Nikon Swiss Garantie“
+eingeführt, welche für parallel importierte Produkte keine Gültigkeit habe. Der Kunde
+könne diese Garantie nur dann in Anspruch nehmen, wenn er sich nach dem Kauf on-
+line bei Nikon registriere und dabei die Seriennummer des gekauften Geräts angebe.
+Anhand der Seriennummer könne Nikon die Identität des Händlers feststellen, über
+welchen das Produkt bezogen wurde, und Parallelhändler entsprechend disziplinieren.
+
+2. Mit anderen Worten soll Nikon laut Anzeige unzulässige Wettbewerbsabreden
+getroffen haben, welche die Behinderung von Parallelimporten1 von Nikon Produkten
+(nachfolgend: Nikon Imaging Produkte)2 in die Schweiz zum Gegenstand haben. Einen
+Tag vor Eingang der Anzeige war derselbe Vorwurf gegenüber Nikon bereits in der
+Sendung „Rundschau“ des Schweizer Fernsehens thematisiert worden.
+
+3. Das Unternehmen Nikon ist eine weltweit tätige Unternehmensgruppe mit Haupt-
+sitz in Tokio, Japan. Nikon verfügt in Europa im Bereich Imaging über neun Niederlas-
+sungen – darunter die Schweizer Niederlassung mit Sitz in Egg –, welche alle der Eu-
+ropazentrale Nikon Europe BV in Amsterdam unterstellt sind. Die europäischen Nieder-
+lassungen wie auch die Europazentrale befassen sich ausschliesslich mit der Vermark-
+tung und dem Vertrieb von Nikon Imaging Produkten in Europa.
+
+4. Wahl Trading mit Sitz in Mauren, Fürstentum Liechtenstein (nachfolgend: Liech-
+tenstein), ist eine Grosshändlerin, die Kameras, Objektive, Filme, Speicherkarten und
+Zubehör (Batterien, Blitzgeräte, Drucker und Druckerzubehör etc.) verschiedener Mar-
+ken (BenQ, Canon, Casio, Fujifilm, Kodak, Nikon, Olympus, Panasonic, Polaroid, Sig-
+ma, Sony, Tamron etc.) an den Fotohandel in der Schweiz (Fotogeschäfte, Fotolabors,
+Fotostudios etc.) sowie an Berufsfotografen vertreibt.3
+
+5. Im Nachgang der erwähnten Sendung „Rundschau“ vom 17. Februar 2010 (siehe
+oben Rz 2) ging beim Sekretariat am 1. März 2010 telefonisch eine Anzeige der […]
+(nachfolgend: […]) betreffend eine angebliche Behinderung des Parallelhandels durch
+Nikon ein. Zudem schickte […] am 17. März 2010 und 22. April 2010 diesbezügliche
+Unterlagen an das Sekretariat. […], mit Sitz in […], handelt (Import/Export) mit Rohstof-
+
+
+
+
+1
+ Von Parallelimporten wird gesprochen, wenn Schweizer Händler Produkte über den inoffiziel-
+len Kanal – d.h. nicht über die Ländergesellschaft des Herstellers bzw. dessen offiziellen Gene-
+ralimporteur – im Ausland beschaffen. Siehe auch Fn 21.
+2
+ Die hier relevanten Nikon Produkte werden nachfolgend mit „Nikon Imaging Produkte“ be-
+zeichnet, da Nikon nebst Fotografie-Erzeugnissen auch noch andere Produkte (Präzisionswerk-
+zeuge wie Hochleistungsmikroskope) anbietet.
+3
+ Vgl. http://www.wahl-trading.ch/.
+
+
+22/2010/00038/COO.2101.111.4.153527 4
+fen und Fertigfabrikaten wie Imaging Produkten, u.a. der Marken Canon, Ilford und Ni-
+kon.4
+
+6. Die von […] angezeigte Verhaltensweise betraf im Wesentlichen ein vor dem
+Verfügungsgericht Den Haag erfolgreich geführtes Zivilverfahren der deutschen Nikon
+Niederlassung Nikon GmbH gegen […] und weitere Gesellschaften wegen Marken-
+rechtsverletzungen durch Parallelimporte von Imaging Produkten aus Ländern aus-
+serhalb des Europäischen Wirtschaftraumes (EWR) in den EWR.5 Denselben Rechts-
+weg haben auch Konkurrenten von Nikon (Canon und Tamron) erfolgreich beschritten.
+Die gerichtliche Durchsetzung von Markenrechten im EWR verstösst nicht gegen
+Schweizer Kartellrecht. Darüber hinaus ergaben sich auch sonst im Laufe des Verfah-
+rens keine Anhaltspunkte, dass die angezeigte Verhaltensweise eine unzulässige
+Wettbewerbsbeschränkung gemäss Art. 5 KG6 darstellen könnte. Vor diesem Hinter-
+grund fand die Anzeige von […] in der vorliegenden Untersuchung keine eingehende
+Berücksichtigung.
+
+7. Gestützt auf die Anzeige von Wahl Trading eröffnete das Sekretariat im Einver-
+nehmen mit einem Mitglied des Präsidiums der Wettbewerbskommission (nachfolgend:
+WEKO) am 24. März 2010 eine Untersuchung gemäss Art. 27 KG gegen die Nikon AG,
+Egg, und weitere an den Abreden beteiligte Unternehmen. Am selben Tag wurde am
+Sitz von Nikon in Egg, Zürich, eine Hausdurchsuchung durchgeführt.
+
+8. Mit der Untersuchung wird geprüft, ob Nikon Parallelimporte von Nikon Imaging
+Produkten behindert oder verhindert hat. Konkret werden die Vertriebsverträge von Ni-
+kon auf gebietsabschottende Klauseln hin sowie eine allfällige Einflussnahme von Ni-
+kon auf Parallelhändler untersucht. Berücksichtigung findet dabei auch das selektive
+Vertriebssystem, welches Nikon im September 2009 einführte, da selektive Vertriebs-
+systeme eine unterstützende Massnahme zur Abschottung von Märkten darstellen
+können. In diesem Zusammenhang wird auch die Rolle des Garantieprogramms „Nikon
+Swiss Garantie“ analysiert.
+
+9. Zudem wird der Frage nachgegangen, ob eine allenfalls bestehende gebietsab-
+schottende Strategie von Nikon einen volkswirtschaftlichen Schaden verursachte, in-
+dem diese Strategie zu einem reduzierten Preisdruck und deshalb zu einem höheren
+Preisniveau in der Schweiz führte, verglichen mit einer Situation ohne Gebietsabschot-
+tung. Hierzu ist vorab anzumerken, dass Imaging Produkte infolge des technischen
+Fortschritts während ihrer Lebensdauer typischerweise immer billiger werden. Ein
+durch absoluten Gebietsschutz bewirktes überhöhtes Preisniveau kann in solchen
+Konstellationen deshalb auch bei sinkenden Preisen auftreten; die Preise sinken in
+solchen Fällen einfach weniger schnell bzw. in einem geringeren Ausmass als dies bei
+uneingeschränktem Wettbewerb der Fall wäre.
+
+10. Zusammengefasst wird in der Untersuchung analysiert, ob die von Nikon prakti-
+zierten Verhaltensweisen unzulässige Wettbewerbsbeschränkungen in Form einer Be-
+
+
+4
+ Vgl. […].ch/ sowie www.zefix.ch.
+5
+ In der Europäischen Union (EU) gilt im Markenrecht der Grundsatz der regionalen Erschöp-
+fung. Gemäss diesem Grundsatz sind die Markenrechte für den EWR nicht erschöpft, wenn das
+Markenprodukt mit Genehmigung des Markeninhabers in einem Land ausserhalb des EWR in
+Verkehr gebracht wird. Das Inverkehrbringen von Produkten der Marke Nikon im EWR erforder-
+te mit anderen Worten die Genehmigung von Nikon, über welche […] nicht verfügte. Im Gegen-
+satz zur EU gilt in der Schweiz im Markenrecht der Grundsatz der internationalen Erschöpfung,
+welcher eine Verhinderung von Parallelimporten basierend auf Markenrecht nicht zulässt.
+6
+ Bundesgesetz vom 6. Oktober 1995 über Kartelle und andere Wettbewerbsbeschränkungen
+(Kartellgesetz, KG; SR 251).
+
+
+22/2010/00038/COO.2101.111.4.153527 5
+hinderung oder Verhinderung von Parallelimporten nach Art. 5 Abs. 4 i.V.m. Abs. 1 KG
+darstellen.
+
+A.2. Verfahren
+11. Nachdem am 17. Februar 2010 in der „Rundschau“ des Schweizer Fernsehens
+bereits ein entsprechender Beitrag ausgestrahlt worden war, ging beim Sekretariat am
+Nachtag eine Anzeige von Wahl Trading betreffend die Behinderung von Parallelimpor-
+ten von Nikon Imaging Produkten in die Schweiz ein. Gleichzeitig beantragte Wahl
+Trading bei der Wettbewerbskommission (WEKO), Nikon mittels vorsorglicher Mass-
+nahmen zu verbieten, während der Dauer des Untersuchungsverfahrens den Paralle-
+limport und den Direktvertrieb zu untersagen oder zu erschweren.
+
+12. Infolge der erwähnten Fernseh-Sendung (siehe oben Rz 2) ging beim Sekretariat
+am 1. März 2010 telefonisch eine Anzeige von […] betreffend eine angebliche Behin-
+derung von Parallelhandel durch Nikon ein. Zudem schickte […] am 17. März 2010
+diesbezügliche Unterlagen an das Sekretariat.
+
+13. Am 3. März 2010 fand in den Räumlichkeiten des Sekretariats ein Gespräch mit
+Vertretern von Wahl Trading statt. Anlässlich dieses Gesprächs wurden die Inhalte der
+Anzeige diskutiert und offene Fragen geklärt. Dazu gehörte die Präzisierung der Ver-
+treter von Wahl Trading, dass das Arbitragepotenzial bei parallel importierten Nikon
+Imaging Produkten ca. 30 % betragen würde.
+14. Gestützt auf die Anzeige von Wahl Trading eröffnete das Sekretariat am
+24. März 2010 im Einvernehmen mit einem Mitglied des Präsidiums der WEKO eine
+Untersuchung gemäss Art. 27 KG gegen Nikon und weitere an den Abreden beteiligte
+Unternehmen wegen möglicher Behinderungen von Parallelimporten von Nikon Ima-
+ging Produkten. Am selben Tag wurde am Sitz von Nikon in Egg, Zürich, eine Haus-
+durchsuchung durchgeführt.
+15. Am 25. März 2010 informierte das Sekretariat die Öffentlichkeit mittels Medien-
+mitteilung über die Untersuchungseröffnung.
+
+16. Am 26. März 2010 reichte Wahl Trading beim Sekretariat einen Nachtrag zu ihrer
+Anzeige vom 18. Februar 2010 ein und beantragte Parteistellung im Untersuchungs-
+verfahren.
+
+17. Mit Schreiben vom 29. März 2010 informierte das Sekretariat Wahl Trading über
+die Untersuchungseröffnung.
+
+18. Am 29. März 2010 wurden die von Wahl Trading um Geschäftsgeheimnisse be-
+reinigte Anzeige sowie der diesbezügliche Nachtrag vom 26. März 2010 an die
+Rechtsvertreter von Nikon zur Stellungnahme gesandt.
+
+19. Am 8. April 2010 informierte das Sekretariat die japanische Wettbewerbsbehörde
+(Japan FTC) über die Untersuchungseröffnung. Eine entsprechende Information ist
+gemäss Art. 12 Implementing Agreement des Freihandelsabkommens zwischen der
+Schweiz und Japan (Swiss-Japanese FTEPA) vorgesehen.
+
+20. Mit Schreiben vom 12. April 2010 informierten die Rechtsvertreter von Nikon das
+Sekretariat darüber, dass Nikon auf eine Siegelung der anlässlich der Hausdurchsu-
+chung vom 24. März 2010 provisorisch gesiegelten Dokumente verzichte.
+
+21. Am 13. April 2010 gab das Sekretariat die Eröffnung der Untersuchung mittels
+amtlicher Publikation gemäss Art. 28 KG im Schweizerischen Handelsamtsblatt und
+gleichentags im Bundesblatt bekannt.
+
+22/2010/00038/COO.2101.111.4.153527 6
+22. Mit Schreiben vom 13. April 2010 beantragten die Rechtsvertreter von Nikon
+beim Sekretariat, Nikon sei Einsicht in ungeschwärzte Versionen der Anzeige von Wahl
+Trading (inkl. Beilagen) und des Nachtrags vom 26. März 2010 (inkl. Beilagen) zu ge-
+währen. Eventualiter wurde beantragt, ihrer Mandantin sei Einsicht in Versionen der
+erwähnten Eingaben zu gewähren, wobei in diesen Versionen sämtliche Informationen,
+die keine Geschäftsgeheimnisse darstellen, offenzulegen seien und der Inhalt der Ge-
+schäftsgeheimnisse in einer Weise zu umschreiben sei, dass Nikon ihr Akteneinsichts-
+recht wirksam ausüben könne.
+
+23. Das Sekretariat antwortete mit Schreiben vom 15. April 2010, dass Wahl Trading
+aufgefordert würde, dem Sekretariat bis zum 23. April 2010 Versionen ihrer Eingaben
+im Sinne des Eventualantrags der Rechtsvertreter von Nikon zukommen zu lassen.
+
+24. Mit Schreiben vom 15. April 2010 informierte das Sekretariat Wahl Trading dar-
+über, dass ihr keine Parteistellung nach Art. 6 i.V.m. Art. 48 lit. b und c VwVG7 zukom-
+me. Jedoch wurde Wahl Trading als direktbetroffene Dritte im Sinne von Art. 43 Abs. 1
+lit. a KG qualifiziert. Gleichzeitig wurde der Antrag auf Erlass vorsorglicher Massnah-
+men abgelehnt, da das Sekretariat die Voraussetzungen hierfür als nicht erfüllt be-
+trachtete. Im Übrigen forderte das Sekretariat Wahl Trading auf, im Sinne des Eventu-
+alantrags von Nikon in ihrer Anzeige vom 17. Februar 2010 und im entsprechenden
+Nachtrag vom 26. März 2010 lediglich solche Informationen als Geschäftsgeheimnis zu
+deklarieren, welche laut Merkblatt der WEKO zu Geschäftsgeheimnissen auch tatsäch-
+lich als solche zu qualifizieren sind.
+
+25. Am 22. April 2010 reichte […] die schriftliche Anzeige gegen Nikon ein. Gleichen-
+tags informierte Wahl Trading das Sekretariat darüber, welche Produkte von der an-
+geblichen Behinderung von Parallelimporten betroffen waren.
+
+26. Am 27. April 2010 wurden den Rechtsvertretern von Nikon die um Geschäftsge-
+heimnisse bereinigte Anzeige von […] und ein Fragebogen zugestellt mit Frist zur Stel-
+lungnahme bzw. Beantwortung bis zum 28. Mai 2010. Dieselbe Frist wurde in diesem
+Schreiben für die Stellungnahme auf die Anzeige von Wahl Trading vom 17. Februar
+2010 und den diesbezüglichen Nachtrag vom 26. März 2010 angesetzt.
+27. Am 4. Mai 2010 sandte das Sekretariat Nikon die überarbeiteten Versionen der
+um Geschäftsgeheimnisse bereinigten Anzeige von Wahl Trading vom 17. Februar
+2010 und des diesbezüglichen Nachtrags vom 26. März 2010 zu.
+28. Mit Schreiben vom 11. Mai 2010 beantragten die Rechtsvertreter von Nikon, es
+sei erstens durch Verfügung festzustellen, welche der noch geschwärzt verbleibenden
+Angaben und Dokumente in der Anzeige von Wahl Trading (samt Nachtrag und Beila-
+gen) Geschäftsgeheimnisse der Anzeigerin darstellten. Zweitens beantragen sie Ein-
+sicht in jene Informationen der bisher geschwärzten Dokumente, die keine Geschäfts-
+geheimnisse darstellten. Drittens wurde beantragt, der wesentliche Inhalt der verblei-
+benden Geschäftsgeheimnisse sei so zu umschreiben, dass Nikon ihr Recht auf Ak-
+teneinsicht wirksam ausüben könne.
+
+29. Mit Schreiben vom 14. Mai 2010 lehnte das Sekretariat den Antrag auf Erlass der
+geforderten Verfügung ab und informierte die Rechtsvertreter von Nikon darüber, dass
+es die von Wahl Trading gekennzeichneten Geschäftsgeheimnisse ebenfalls als solche
+qualifiziere. Gleichzeitig bot das Sekretariat an, den wesentlichen Inhalt der Geschäfts-
+geheimnisse in Absprache mit Wahl Trading so zu umschreiben, dass er für Nikon er-
+
+
+7
+ Bundesgesetz vom 20. Dezember 1968 über das Verwaltungsverfahren (Verwaltungsverfah-
+rensgesetz, VwVG; SR 172.021).
+
+
+22/2010/00038/COO.2101.111.4.153527 7
+kenntlich werde, ohne dass Geschäftsgeheimnisse preisgegeben würden. Zudem er-
+streckte das Sekretariat die Frist zur Stellungnahme von Nikon auf die Anzeigen von
+[…] und Wahl Trading (inkl. Nachtrag) bis zum 11. Juni 2010.
+
+30. Mit Schreiben vom 17. Mai 2010 unterbreitete das Sekretariat Wahl Trading ei-
+nen Vorschlag, wie die wesentlichen Inhalte der geschwärzten Passagen in der Anzei-
+ge vom 17. Februar 2010 und dem diesbezüglichen Nachtrag vom 26. März 2010 um-
+schrieben werden könnten.
+
+31. Mit Schreiben vom 31. Mai 2010 stellte das Sekretariat den Rechtsvertretern von
+Nikon die Versionen der Anzeige von Wahl Trading vom 17. Februar 2010 und dem
+diesbezüglichen Nachtrag vom 26. März zu, in welchen der Inhalt der verbleibenden
+Geschäftsgeheimnisse in Absprache mit Wahl Trading so weit möglich umschrieben
+wurden. Gemäss Stellungnahme von Nikon zum Antrag des Sekretariats vom 25. Juli
+2011 (nachfolgend: Stellungnahme) müsse der Inhalt der geschwärzten Angaben voll-
+ständig offenbart werden und nicht nur soweit möglich. Andernfalls dürfe nicht zum
+Nachteil von Nikon darauf abgestützt werden, weil dadurch das rechtliche Gehör ver-
+letzt würde. Diese Kritik stösst ins Leere: Die geschwärzten Stellen in der Anzeige von
+Wahl Trading beinhalten Namen, Adressen und Umsatzangaben von bestehenden o-
+der potenziellen Geschäftspartnern und damit Informationen, die in analoger Anwen-
+dung von Art. 162 StGB8 und der einschlägigen Praxis der WEKO als Geschäftsge-
+heimnis qualifiziert werden.9
+32. Zwischen dem 29. Juni und 26. August 2010 wurden in den Räumlichkeiten des
+Sekretariats an verschiedenen Terminen in Anwesenheit der Rechtsvertreter von Nikon
+die anlässlich der Hausdurchsuchung vom 24. März 2010 elektronisch beschlagnahm-
+ten Dokumente gesichtet. Die Rechtsvertreter erhielten dabei Gelegenheit, das ausge-
+wählte Beweismaterial zu kopieren.
+
+33. Am 12. Juli 2010 reichten die Rechtsvertreter von Nikon nach zweimaliger Fris-
+terstreckung die Antwort auf den Fragebogen des Sekretariats vom 27. April 2010, die
+Stellungnahme zur Anzeige von Wahl Trading (inkl. Nachtrag) sowie die Stellungnah-
+me zur Anzeige von […] ein.
+34. Mit Schreiben vom 27. Juli 2010 bat das Sekretariat Wahl Trading um Auskünfte
+betreffend das vorhandene Arbitragepotenzial von Nikon Imaging Produkten. Wahl
+Trading hat die entsprechenden Auskünfte mit Eingabe vom 19. August 2010 erteilt.
+
+35. Am 1. September 2010 sandte das Sekretariat jeweils einen Fragebogen an ei-
+nen Händler von Nikon Imaging Produkten in Grossbritannien und zwei in den USA mit
+entsprechender Benachrichtigung der dort zuständigen Wettbewerbsbehörden. Die
+Frist zur Beantwortung der Fragen wurde auf den 22. September 2010 angesetzt.
+
+36. Mit Schreiben vom 29. September 2010 stellten die Rechtsvertreter von Nikon
+dem Sekretariat die neuen Einzelhandelsverträge, welche per 1. Oktober 2010 Gültig-
+keit hatten, zu. Das Schreiben wurde von den Rechtsvertretern explizit nicht als Mel-
+dung i.S.v. Art. 49a Abs. 3 lit. a KG deklariert. Sie baten das Sekretariat allerdings um
+Mitteilung allfälliger Bedenken gegen Aspekte der neuen Vertragsgrundlagen.
+37. Mit E-Mail vom 4. Oktober 2010 sandte das Sekretariat Mahnungen an ausländi-
+sche Händler mit Nikon Imaging Produkten, die mit Schreiben vom 1. September 2010
+
+
+8
+ Schweizerisches Strafgesetzbuch vom 21. Dezember 1937, (StGB; SR 311.0).
+9
+ Vgl. Merkblatt der Wettbewerbskommission vom 30.04.2008: Geschäftsgeheimnisse, abrufbar
+unter www.weko.admin.ch/dokumentation/01007/index.html?lang=de (28.11.2011).
+
+
+22/2010/00038/COO.2101.111.4.153527 8
+um Auskunft gebeten worden waren. Auf diese Mahnschreiben reagierte keiner der
+angeschriebenen Marktteilnehmer. Von Auskunftsverfügungen wurde abgesehen. Die
+Nichterfüllung der Auskunftspflicht nach Art. 40 KG ist zwar mit Sanktionen bedroht
+(Art. 52 und 55 KG), gegenüber ausländischen Marktteilnehmern sind allfällige Aus-
+kunftsverpflichtungen mangels internationaler Kooperationsabkommen zurzeit jedoch
+nicht durchsetzbar.
+
+38. Gleichentags sandte das Sekretariat Fragebögen an 16 weitere ausländische
+Händler in Deutschland (elf Händler), Grossbritannien (vier Händler) und den USA (ein
+Händler) mit entsprechender Benachrichtigung der dort zuständigen Wettbewerbsbe-
+hörden. Insgesamt haben sechs ausländische Händler die Auskunftsbegehren beant-
+wortet oder darauf reagiert. Basierend auf die eingegangenen Antworten stellte das
+Sekretariat einem Händler mit E-Mail vom 9. Dezember 2010 eine Anschlussfrage.
+
+39. Mit Schreiben vom 5. Oktober 2010 informierte das Sekretariat die Digitec AG
+(nachfolgend: Digitec), eine Händlerin mit Produkten und Dienstleistungen im Bereich
+der Informations-, Computer- und Kommunikationstechnologie mit Sitz in Zürich10, dass
+die Untersuchung auf sie ausgedehnt worden sei. Der Grund für die Verfahrensaus-
+dehnung waren bei der Sichtung der beschlagnahmten Dokumente gefundene An-
+haltspunkte, dass Digitec sich gegenüber Nikon Ende 2009 verpflichtete, unter be-
+stimmten Bedingungen auf Parallelhandel zu verzichten. Dies stellt möglicherweise ei-
+ne unzulässige Gebietsschutzabrede nach Art. 5 Abs. 4 KG dar. Gleichzeitig wurde Di-
+gitec ein Fragebogen zugestellt mit Frist zur Beantwortung der Fragen bis zum 8. No-
+vember 2010.
+
+40. Am 6. Oktober 2010 versandte das Sekretariat 47 Fragebögen an Schweizer
+Gross- und Einzelhändler von Nikon Imaging Produkten und 10 Fragebögen an Her-
+steller von Imaging Produkten mit Frist zur Beantwortung der Fragen bis zum 8. No-
+vember 2010. Einer der angeschriebenen Hersteller (Panasonic) wies das Sekretariat
+mit Schreiben vom 14. Oktober 2010 darauf hin, dass in der Schweiz ein Generalim-
+porteur für die Distribution von Panasonic Imaging Produkten zuständig sei. Gleichen-
+tags sandte das Sekretariat den Fragebogen an den genannten Generalimporteur mit
+Frist zur Beantwortung der Fragen bis zum 12. November 2010. Sämtliche inländi-
+schen Marktteilnehmer haben den Fragebogen beantwortet oder darauf reagiert. Bei
+einigen Schweizer Marktteilnehmern stellte das Sekretariat nach Eingang der Antwor-
+ten Anschlussfragen.
+
+41. Am 6. Oktober 2010 informierte das Sekretariat die Rechtsvertreter von Nikon
+über die Verfahrensausdehnung auf Digitec.
+
+42. Mit Schreiben vom 8. Oktober 2010 stellte Wahl Trading dem Sekretariat die
+neuen Zulassungskriterien von Nikon für autorisierte Einzelhändler im Selektivvertrieb
+zu und wies darauf hin, dass Nikon nach wie vor beabsichtige, vertraglich Parallelim-
+porte zu verhindern.
+
+43. Am 11. Oktober 2010 sandte das Sekretariat Fragebögen an vier Hersteller von
+Imaging Produkten in Deutschland mit Frist zur Beantwortung der Fragen bis zum
+12. November 2010. Gleichzeitig wurde das deutsche Bundeskartellamt über den Ver-
+sand der Fragebögen benachrichtigt. Zwei der angeschriebenen Hersteller (Tamron
+und Sigma) teilten dem Sekretariat mit Schreiben vom 14. Oktober 2010 und vom
+22. Oktober 2010 mit, dass sie für den Schweizer Markt nicht zuständig seien und ver-
+wiesen an deren Schweizer Generalimporteure. Das Sekretariat sandte die Fragebö-
+gen in der Folge an die genannten Generalimporteure, welche sie beantworteten. Zu-
+
+
+10
+ Vgl. www.zefix.ch.
+
+
+22/2010/00038/COO.2101.111.4.153527 9
+dem bat das Sekretariat die Hersteller in Deutschland, ausgewählte Fragen dennoch
+zu beantworten. Die anderen zwei angeschriebenen Hersteller in Deutschland haben
+auf das Auskunftsbegehren des Sekretariats nicht reagiert.
+
+44. Am 11. Oktober 2010 sandte das Sekretariat zudem einen Fragebogen an einen
+Hersteller von Imaging Produkten in der französischsprachigen Schweiz mit Frist zur
+Beantwortung der Fragen bis zum 12. November 2010.
+
+45. Gleichentags teilte das Sekretariat den Rechtsvertretern von Nikon mit, welche
+Bestimmungen in den neuen Einzelhandelsverträgen es nach einer summarischen
+Würdigung als kartellrechtlich problematisch einstufe. Am 21. Oktober 2010 wurden die
+fraglichen Klauseln anlässlich eines Gesprächs in den Räumlichkeiten des Sekretariats
+mit Vertretern von Nikon besprochen.
+
+46. Mit Schreiben vom 29. Oktober 2010 stellten die Rechtsvertreter von Nikon dem
+Sekretariat die überarbeiteten Einzelhandelsverträge zu. Mit Schreiben vom 4. Novem-
+ber 2010 teilte das Sekretariat den Rechtsvertretern von Nikon sein diesbezügliches
+Feedback mit und wies erneut darauf hin, dass die überarbeiteten neuen Händlerver-
+träge erst im Antrag an die WEKO zusammen mit den bereits eingereichten Verträgen,
+den beschlagnahmten Dokumenten und den übrigen Ergebnissen der Ermittlungen in
+einer Gesamtbetrachtung endgültig gewürdigt werden könnten. Mit Schreiben vom 15.
+November 2010 stellten die Rechtsvertreter von Nikon dem Sekretariat die definitiv an-
+gepassten Versionen der neuen Einzelhandelsverträge zu, mit denen Nikon im Rah-
+men ihres Selektivvertriebssystems per 1. Oktober 2010 neue Händlertypen einführte.
+
+47. Mit Schreiben vom 16. November 2010 sandte das Sekretariat Mahnschreiben
+an jene inländischen Marktteilnehmer, welche die Antworten auf den Fragebogen nicht
+fristgemäss eingereicht oder keine entsprechende Fristverlängerung beantragt hatten,
+und setzte eine neue Frist per 30. November 2010.
+
+48. Am 22. November 2010 schickte das Sekretariat Mahnschreiben an die ausländi-
+schen Marktteilnehmer, welche auf den mit Schreiben vom 4. Oktober 2010 verschick-
+ten Fragebogen nicht reagiert hatten, und setzte eine neue Frist bis zum 3. Dezember
+2010.
+
+49. Mit Eingabe vom 23. November 2010 reichte Digitec einen Nachtrag zum Frage-
+bogen der WEKO ein, in welchem Digitec darlegte, weshalb aus ihrer Sicht keine Ab-
+rede nach Art. 5 Abs. 4 KG zwischen Digitec und Nikon vorlag.
+
+50. Am 30. November 2010 sandte das Sekretariat einen Fragebogen an Wahl Tra-
+ding mit Frist zur Beantwortung der Fragen bis zum 3. Januar 2011. Basierend auf den
+eingegangenen Antworten stellte das Sekretariat einem Vertreter von Wahl Trading am
+13. Januar 2011 telefonisch einige Anschlussfragen.
+
+51. Am 7. Dezember 2010 fand auf Initiative von Nikon hin ein Gespräch zwischen
+Vertretern des Sekretariats und Nikon in den Räumlichkeiten des Sekretariats statt. An-
+lässlich dieser Besprechung legten die Rechtsvertreter von Nikon dar, dass sie […] ei-
+ne Anfrage von Wahl Trading zur Aufnahme in den Selektivvertrieb von Nikon als
+Grosshändler ablehnen wollten. Anlässlich dieses Gesprächs kam auch die Frage auf,
+weshalb die Unternehmen der […]11 nicht in das selektive Vertriebssystem von Nikon
+aufgenommen worden waren. Nikon stellte in Aussicht, die Gründe für die Nichtauf-
+nahme von Wahl Trading und […] in ihr selektives Vertriebssystem schriftlich einzu-
+reichen (vgl. unten, Rz 55).
+
+
+11
+ […].
+
+
+22/2010/00038/COO.2101.111.4.153527 10
+52. Mit Schreiben vom 3. Januar 2011 meldete ein Schweizer Einzelhandelsunter-
+nehmen den Selektivvertrag von Nikon als möglicherweise unzulässige Wettbewerbs-
+beschränkung gemäss Art. 49a Abs. 3 lit. a KG. Darauf antwortete das Sekretariat mit
+Schreiben vom 10. Januar 2011, dass bestehende Wettbewerbsbeschränkungen, die
+bereits Gegenstand einer laufenden Untersuchung durch die WEKO seien, nicht ge-
+mäss Art. 49a Abs. 3 lit. a KG gemeldet werden könnten.12 Die Meldung werde daher
+nicht i.S.v. Art. 49a Abs. 3 lit. a KG entgegengenommen, finde aber im laufenden Ver-
+fahren gegen Nikon Berücksichtigung.
+
+53. Am 17. Januar 2011 fand eine Anhörung i.S.v. Art. 40 KG der […] AG (nachfol-
+gend: […]) durch das Sekretariat statt, weil im Laufe der Ermittlungsarbeiten Anhalts-
+punkte dafür auftauchten, dass […] an einer allenfalls unzulässigen Gebietsschutzab-
+rede nach Art. 5 Abs. 4 KG mit Nikon beteiligt war. Das Sekretariat erwog vor diesem
+Hintergrund, die Untersuchung auf […] auszudehnen. Zunächst sollten jedoch anläss-
+lich des Gesprächs offene Fragen geklärt werden. Mangels Erhärtung der entspre-
+chenden Anhaltspunkte entschied das Sekretariat nach dem Gespräch, von einer Aus-
+dehnung der Untersuchung auf […] abzusehen.
+
+54. Am 20. Januar 2011 stellte das Sekretariat Nikon die bis zu diesem Zeitpunkt
+verfügbaren geschäftsgeheimnisbereinigten Verfahrensakten zu.
+
+55. Mit Schreiben vom 15. Februar 2011 legte Nikon dem Sekretariat dar, weshalb
+Wahl Trading und die Unternehmen der […] nicht zum Selektivvertrag von Nikon zuge-
+lassen wurden. Darüber hinaus informierte Nikon das Sekretariat über eine Änderung
+der Zulassungskriterien für Grossisten und stellte dem Sekretariat vorgängig erfragte
+Marktstudien sowie aktuelle Marktanteilszahlen gemäss dem Marktforschungsinstitut
+GfK AG (nachfolgend: GfK) zu.
+
+56. Mit Schreiben vom 16. Februar 2011 beantragte Wahl Trading wiederholt den Er-
+lass vorsorglicher Massnahmen zum Schutz von Wahl Trading vor Retorsionsmass-
+nahmen durch Nikon sowie Parteistellung und Akteneinsicht. Zudem machte Wahl
+Trading geltend, das selektive Vertriebssystem von Nikon sei nicht notwendig und al-
+leine deshalb eingeführt worden, um Marktteilnehmer vom Wettbewerb auszuschlies-
+sen. Die Anträge auf vorsorgliche Massnahmen, Parteistellung und Akteneinsicht wies
+das Sekretariat mit Schreiben vom 24. Februar 2011 ab und teilte Wahl Trading mit,
+dass die Ausführungen zum selektiven Vertrieb von Nikon im Rahmen der Untersu-
+chung berücksichtigt würden. Gleichzeitig bat das Sekretariat die Rechtsvertreter von
+Wahl Trading, bis zum 7. März 2011 darzulegen, weshalb ihr Unternehmen aus ihrer
+Sicht die Zulassungskriterien von Nikon und die übrigen Vertragsbedingungen des
+Grossistenvertrags erfüllten. Dieser Aufforderung kam Wahl Trading mit Schreiben
+vom 7. März 2011 summarisch nach.
+
+57. Zur Klärung offener Fragen im Zusammenhang mit Preisdaten und der Marktab-
+grenzung holte das Sekretariat mit E-Mail vom 24. Februar 2011 Auskünfte bei Nikon
+ein. Nikon erteilte die entsprechenden Auskünfte mit Schreiben vom 14. März 2011.
+
+58. Zwecks Klärung offener Fragen im Zusammenhang mit der Begründung von Ni-
+kon, weshalb die Unternehmen der […] nicht zum Vertrieb zugelassen wurden, holte
+das Sekretariat am 24. Februar 2011 telefonisch Auskünfte bei einem Vertreter der
+[…], einem Grossisten der […], ein.
+
+
+
+12
+ Urteil des Bundesgerichts 2A.287/2005 vom 19.08.2005, E. 3.4. (=RPW 2005/4, 711), Eidge-
+nössisches Vokswirtschaftsdepartement/Swisscom AG, Swisscom Solutions AG, Swisscom
+Mobile AG, Wettbewerbskommission, Rekurskommission für Wettbewerbsfragen.
+
+
+22/2010/00038/COO.2101.111.4.153527 11
+59. Mit Schreiben vom 28. Februar 2011 teilte das Sekretariat […] mit, dass aufgrund
+der zur Zeit verfügbaren Informationen auf eine Ausdehnung der Untersuchung auf […]
+verzichtet werde.
+
+60. Mit Schreiben vom 23. März 2011 bat das Sekretariat Nikon, in den Auszügen
+aus dem Antragsentwurf an die WEKO, die Digitec zur Stellungnahme zugestellt wer-
+den sollten, allfällige Geschäftsgeheimnisse zu bereinigen. Dem ist Nikon mit Eingabe
+vom 8. April 2011 nachgekommen.
+
+61. Am 29. März 2011 stellte das Sekretariat Nikon, auf deren entsprechendes Ersu-
+chen hin, Akte 292 (Schreiben an ein Einzelhandelsunternehmen betreffend Gültigkeit
+der neuen Selektivvertriebsverträge) zu.
+
+62. Mit Schreiben vom 27. April 2011 wurde der Antrag des Sekretariats Nikon zur
+Stellungnahme zugestellt. Gleichzeitig wurden Digitec die Inhalte derjenigen Textpas-
+sagen des Antrags des Sekretariats mitgeteilt und zur Stellungnahme unterbreitet, die
+das Unternehmen Digitec betrafen. Die lediglich punktuelle Information von Digitec
+über den Inhalt des Antrags rechtfertigte sich, weil das Sekretariat bei der WEKO be-
+antragt hatte, die Untersuchung gegen Digitec einzustellen.
+
+63. Nikon nahm am 25. Juli 2011 nach zweimaliger Fristerstreckung zum Antrag des
+Sekretariats Stellung. Von Digitec ging keine Stellungnahme ein.
+
+64. Am 5. September 2011 fand eine Anhörung von Nikon gemäss Art. 30 Abs. 2 KG
+vor der WEKO statt. Zudem führte die WEKO auf Antrag von Nikon hin in Anwesenheit
+der Rechtsvertreter von Nikon formelle Zeugeneinvernahmen gemäss Art. 42 Abs. 1
+KG durch. Einvernommen wurden die Unternehmen […], […] und […]. Die Vertreter
+von Nikon erhielten ebenfalls die Gelegenheit, den Zeugen Fragen zu stellen.
+
+65. Mit Schreiben vom 14. September 2011 brachte Nikon zu einzelnen Sachver-
+haltsaspekten, die anlässlich der Anhörung vom 5. September 2011 erfragt worden wa-
+ren, weitere Informationen und Unterlagen bei. Weiter stellte Nikon im Hinblick auf eine
+weitere Zeugeneinvernahme vom 19. September 2011 die folgenden beiden Verfah-
+rensanträge: (1) Es seien der ehemalige General Manager Imaging (bis Juni 2011 in
+dieser Funktion tätig) sowie der Präsident und Delegierte des Verwaltungsrats von Ni-
+kon an der Zeugeneinvernahme vom 19. September 2011 im Rahmen von Beweisaus-
+sagen gemäss Art. 42 Abs. 1 KG i.V.m. Art. 64 BZP13 zu noch zu bezeichnenden Punk-
+ten zu befragen. (2) Es sei der Leiter der Serviceabteilung von Nikon an der Zeugen-
+einvernahme vom 19. September 2011 als Zeuge unter Straffolge gemäss Art. 42 Abs.
+1 KG einzuvernehmen.
+
+66. Am 19. September 2011 wurden mit […], […], […], […] und Wahl Trading AG
+weitere Zeugen in Anwesenheit der Vertreter von Nikon gemäss Art. 42 Abs. 1 KG ein-
+vernommen. Die Rechtsvertreter von Nikon erhielten wiederum die Gelegenheit, den
+Zeugen Fragen zu stellen. Zudem wurde gemäss Antrag von Nikon der Leiter der Ser-
+viceabteilung von Nikon als Zeuge einvernommen. Hingegen wurde der Antrag von Ni-
+kon, den ehemaligen General Manager Imaging sowie den Präsidenten und Delegier-
+ten des Verwaltungsrats von Nikon im Rahmen von Beweisaussagen gemäss Art. 42
+Abs. 1 KG i.V.m. Art. 64 BZP zu befragen, abgelehnt, da die beiden Vertreter an bei-
+den Anhörungen vom 5. und 19. September 2011 anwesend gewesen waren und von
+der WEKO bereits nach Art. 30 Abs. 2 KG befragt wurden. Eine wiederholte Befragung
+zum selben Sachverhalt erübrigte sich damit. Im Anschluss an die Zeugeneinvernahme
+
+
+13
+ Bundesgesetz vom 4. Dezember 1947 über den Bundeszivilprozess (BZP; SR 273).
+
+
+
+22/2010/00038/COO.2101.111.4.153527 12
+erhielt Nikon die Möglichkeit zu einem Schlusswort zur Anhörung und zu den Zeugen-
+einvernahmen.
+
+67. Am 14. Oktober 2011 ersuchte Nikon das Sekretariat um Auskunft darüber, an
+welchen Daten welche Personen der WEKO bzw. ihres Sekretariates vor Eröffnung der
+Untersuchung Kontakte zur Anzeigerin Wahl Trading gehabt hatten und ob bei diesen
+Kontakten jeweils ein bestimmter ehemaliger Mitarbeiter des Sekretariats direkt oder
+indirekt involviert gewesen war. Die Anfrage ergab sich deshalb, weil der fragliche
+ehemalige Mitarbeiter des Sekretariats Wahl Trading als Rechtsvertreter zur Zeugen-
+einvernahme vom 19. September 2011 begleitet hatte.
+
+68. Am 18. Oktober 2011 informierte das Sekretariat Nikon darüber, dass der fragli-
+che Mitarbeiter beim Gespräch des Sekretariats mit Vertretern von Wahl Trading vom
+3. März 2010 zur Klärung von offenen Fragen zur Anzeige (vgl. Rz 13) weder direkt
+noch indirekt beteiligt gewesen war.
+
+69. Am 28. November 2011 entschied die WEKO über das vorliegende Verfahren.
+70. Am 15. Dezember 2011 eröffnete das Sekretariat die Verfügung gegenüber Di-
+gitec und gegenüber Nikon. Zudem wurden Nikon das aktualisierte Aktenverzeichnis
+sowie die zugehörigen Akten zugestellt.
+
+
+B. Erwägungen
+
+B.1. Geltungsbereich
+71. Das Kartellgesetz gilt für Unternehmen des privaten und öffentlichen Rechts, die
+Kartell- oder andere Wettbewerbsabreden treffen, Marktmacht ausüben oder sich an
+Unternehmenszusammenschlüssen beteiligen (Art. 2 Abs. 1 KG).
+
+B.1.1. Persönlicher Geltungsbereich
+72. Der persönliche Geltungsbereich wird über den Begriff des Unternehmens defi-
+niert.14 Als Unternehmen gelten sämtliche Nachfrager oder Anbieter von Gütern und
+Dienstleistungen im Wirtschaftsprozess, unabhängig von ihrer Rechts- oder Organisa-
+tionsform (Art. 2 Abs. 1bis KG). Die Nikon Gruppe organisiert ihren Vertrieb in Europa
+über ihre eigenen Niederlassungen in den jeweiligen Ländern oder, sofern Nikon in ei-
+nem bestimmten Land über keine eigene Niederlassung verfügt, über einen Gene-
+ralimporteur. Nikon vertreibt ihre Produkte grundsätzlich nicht an Endkonsumenten,
+sondern nur an Grosshändler und Einzelhändler. Sämtliche Konzerngesellschaften der
+Nikon Gruppe sowie die ihr angeschlossenen Vertriebsunternehmen sind als Unter-
+nehmen im Sinne von Art. 2 Abs. 1 bis KG zu qualifizieren.
+
+B.1.2. Sachlicher Geltungsbereich
+
+73. In den sachlichen Geltungsbereich fallen alle Formen privatwirtschaftlich veran-
+lasster Wettbewerbsbeschränkungen.15 Dazu gehören auch Wettbewerbsabreden im
+Sinne von Art. 4 Abs. 1 KG. Wie nachfolgend aufgezeigt werden wird (B.3.1. ff.), haben
+
+
+14
+ JENS LEHNE, in: Basler Kommentar, Kartellgesetz, Amstutz/Reinert (Hrsg.), 2010, Art. 2 KG
+N 7.
+15
+ Botschaft vom 23. November 1994 zu einem Bundesgesetz über Kartelle und andere Wett-
+bewerbsbeschränkungen (Botschaft KG 1994), BBl 1995 I 468, 534.
+
+
+22/2010/00038/COO.2101.111.4.153527 13
+Unternehmen der Nikon Gruppe mit den ihnen angeschlossenen Vertriebsunterneh-
+men Wettbewerbsabreden im Sinne von Art. 4 Abs. 1 KG getroffen, weshalb auch der
+sachliche Geltungsbereich erfüllt ist.
+
+B.1.3. Räumlicher Geltungsbereich
+
+74. Das Kartellgesetz ist auf Sachverhalte anwendbar, die sich in der Schweiz aus-
+wirken, auch wenn sie im Ausland verursacht werden (sog. Auswirkungsprinzip; Art. 2
+Abs. 2 KG). Mit anderen Worten kommt es nicht darauf an, wo eine Wettbewerbsbe-
+schränkung veranlasst wurde. Stattdessen ist massgebend, ob sich diese im schweize-
+rischen Markt auswirkt.16 Wenn Ländergesellschaften der Nikon Gruppe im Ausland
+bzw. die Europazentrale Nikon Europe BV mittels Abreden mit den ausländischen
+Händlern Parallelimporte17 in die Schweiz verhindern bzw. behindern, hat dieser im
+Ausland veranlasste Sachverhalt Auswirkungen auf die Wettbewerbsverhältnisse in der
+Schweiz.18 Das Kartellgesetz ist folglich anwendbar. Ob Parallelimporte tatsächlich
+verhindert bzw. behindert werden, wird Gegenstand der nachfolgenden Prüfung sein.
+
+75. Gemäss Nikon sei für die Begründung der Anwendbarkeit des Kartellgesetzes
+eine qualifizierte Inlandsauswirkung notwendig, d.h. eine unmittelbare und wesentliche
+Auswirkung auf die Schweiz. Die reine Möglichkeit oder das Bezwecken einer Auswir-
+kung – ohne dass tatsächlich Auswirkungen auf die Schweiz nachgewiesen sind –
+vermöge den Anforderungen des Auswirkungsprinzips nicht zu genügen. Im vorliegen-
+den Fall müsse der Nachweis erbracht werden, dass sich die einzelnen Bestimmungen
+in den ausländischen Vertriebsverträgen auf die Schweiz ausgewirkt hätten. Selbst
+wenn mit einem Teil der Lehre davon ausgegangen würde, dass für die Eröffnung einer
+Untersuchung gegen ausländische Wettbewerbsabreden das blosse Bezwecken einer
+Auswirkung auf die Schweiz nach Art. 2 Abs. 2 KG genüge, wäre gemäss Nikon der
+Begriff des „Bezweckens“ im Sinne einer „objektiven Eignung“ auszulegen, wie dies mit
+Bezug auf Art. 4 Abs. 1 KG getan werde.
+76. Nach Auffassung der WEKO können die Auswirkungen möglicher Wettbewerbs-
+abreden erst festgestellt werden, nachdem die Abreden definiert worden sind. Mit an-
+deren Worten fällt die Prüfung der Auswirkungen einer Wettbewerbsabrede auf die
+Schweiz mit der Prüfung der Widerlegung der Unzulässigkeitsvermutung (Art. 5 Abs.
+4 KG) bzw. der Erheblichkeit der Wettbewerbsbeeinträchtigung (Art. 5 Abs. 1 KG) zu-
+sammen.
+
+77. In der Lehre wird zutreffend darauf verwiesen, dass das Erfordernis wesentlicher
+Auswirkungen nur für die Frage von Bedeutung sei, ob überhaupt ein Kartellverfahren
+in der Schweiz eingeleitet werden kann. Zum Zeitpunkt der Eröffnung der Untersu-
+chung sei aber in der Regel noch nicht bekannt, welche Auswirkungen eine behauptete
+Wettbewerbsbeschränkung hat (dies herauszufinden gehöre gerade zu den Zielen der
+Untersuchung). Folglich müsse für die Verfahrenseinleitung bereits die Möglichkeit von
+(wesentlichen) Auswirkungen genügen.19
+
+78. Indem die WEKO festhielt, dass die Nikon Gruppe möglicherweise mittels Abre-
+den mit ausländischen Vertriebspartnern Parallelimporte in die Schweiz verhindert bzw.
+behindert hat, zeigte sie die möglichen (wesentlichen) Auswirkungen auf, die für die
+
+
+
+16
+ Botschaft KG 1994 (Fn 15), 535.
+17
+ Siehe Fn 1.
+18
+ Vgl. RPW 2000/2, 209 Rz 47, Volkswagen-Vertriebssystem.
+19
+ BSK KG-LEHNE (Fn 14), Art. 2 KG N 53.
+
+
+22/2010/00038/COO.2101.111.4.153527 14
+Einleitung der Untersuchung notwendig waren. Ob solche Auswirkungen tatsächlich
+vorhanden waren, ist Gegenstand der nachfolgenden Prüfung.
+
+B.2. Vorbehaltene Vorschriften
+79. Dem Kartellgesetz sind Vorschriften vorbehalten, die auf einem Markt für be-
+stimmte Waren oder Leistungen Wettbewerb nicht zulassen, insbesondere Vorschrif-
+ten, die eine staatliche Markt- oder Preisordnung begründen, und solche, die einzelne
+Unternehmen zur Erfüllung öffentlicher Aufgaben mit besonderen Rechten ausstatten
+(Art. 3 Abs. 1 KG). In den hier zu beurteilenden Märkten gibt es keine Vorschriften, die
+Wettbewerb nicht zulassen. Der Vorbehalt von Art. 3 Abs. 1 KG wird von Nikon auch
+nicht geltend gemacht.
+
+80. Ebenfalls nicht unter das Gesetz fallen Wettbewerbswirkungen, die sich aus-
+schliesslich aus der Gesetzgebung über das geistige Eigentum ergeben. Hingegen un-
+terliegen Einfuhrbeschränkungen, die sich auf Rechte des geistigen Eigentums stüt-
+zen, der Beurteilung nach diesem Gesetz (Art. 3 Abs. 2 KG).
+
+81. Nikon verweist darauf, dass sämtliche Nikon Imaging Produkte zumindest in Tei-
+len patentgeschützt seien und im Patentrecht bis zum 1. Juli 2009 der Grundsatz der
+nationalen Erschöpfung gegolten habe.
+
+82. Dagegen ist Folgendes einzuwenden: Weil das Kartellgesetz, wie erwähnt, auch
+auf Einfuhrbeschränkungen anwendbar ist, die sich auf Rechte des geistigen Eigen-
+tums stützen, dürfen die Handlungen des Schutzrechtsinhabers auf ihre kartellrechtli-
+che Zulässigkeit hin überprüft werden.20 Dies entspricht auch der Ansicht des Bundes-
+gerichts, das in seinem Urteil in Sachen Kodak vom 7. Dezember 1999 (BGE 126 III
+129) zwar das Prinzip der nationalen Erschöpfung21 im Patentrecht für anwendbar hielt
+
+20
+ RETO M. HILTY, in: Basler Kommentar, Kartellgesetz, Amstutz/Reinert (Hrsg.), 2010, Art. 3
+Abs. 2 KG N 20.
+21 Von der Erschöpfung eines Immaterialgüterrechts wird gesprochen, wenn das geschützte Er-
+
+zeugnis vom Schutzrechtsinhaber selbst oder mit dessen Zustimmung in Verkehr gebracht wor-
+den ist. Der Erschöpfungsgrundsatz soll einen rechtspolitischen Ausgleich zwischen dem aus-
+schliesslichen Verwertungsrecht des Schutzrechtsinhabers und dem Eigentumsrecht des Pro-
+dukterwerbers schaffen (FREDY GUJER, Parallelimporte patentrechtlich geschützter Güter –
+missbräuchliche Zustimmungsverweigerung des Schutzrechtsinhabers, 2005, 5, m.w.N.). Die
+Erschöpfung war lange nicht gesetzlich geregelt, weshalb sie richterlich bestimmt wurde. Im
+Marken- und Urheberrecht wurde von internationaler Erschöpfung ausgegangen. In diesen Be-
+reichen konnte nicht gestützt auf Marken- und Urheberrecht gegen Parallelimporte vorgegan-
+gen werden. Im Patenrecht hingegen erkannte das Bundesgericht auf nationale Erschöpfung,
+wodurch es dem Patentrechtsinhaber grundsätzlich möglich war, Parallelimporte zu verhindern
+(GUJER, 6, m.w.N.). Der Bundesrat befasste sich mehrmals mit Alternativen zur nationalen Er-
+schöpfung im Patentrecht, wobei Massnahmen zur Verhinderung missbräuchlicher Berufung auf
+das Patentrecht und die Lösung von Konflikten von sowohl markenrechtlich oder urheberrecht-
+lich als auch patentrechtlich geschützten Produkten im Zusammenhang mit Parallelimporten im
+Vordergrund standen (Botschaft vom 23. November 2005 zur Änderung des Patentgesetzes
+und zum Bundesbeschluss über die Genehmigung des Patentvertrags und der Ausführungs-
+verordnung, BBl 2006 1, 2, 4). Am 19. Dezember 2008 entschied das Parlament, dass im
+Grundsatz das Prinzip der einseitigen, d.h. ohne Vereinbarung des Gegenrechts eingeführten,
+regionalen Erschöpfung im Verhältnis zu den Vertragsstaaten des europäischen Wirtschafts-
+raums Anwendung finden soll (Informationen abrufbar auf der Internetseite des Instituts für geis-
+tiges Eigentum
+<www.ige.ch/fileadmin/user_upload/Juristische_Infos/d/medienmitteilungen/mm_patg_erschoep
+fung_20090529_d.pdf> (28.11.2011). Die entsprechende Bestimmung wurde in Art. 9a des
+Bundesgesetzes vom 25. Juni 1954 über die Erfindungspatente (Patentgesetz, PatG;
+SR 232.14) am 1. Juli 2009 in Kraft gesetzt.
+
+
+22/2010/00038/COO.2101.111.4.153527 15
+(E. 4–8), aber ausdrücklich darauf verwies, dass das Kartellrecht auf patentrechtliche
+Einfuhrmonopole Anwendung finden könne (E. 9). Die Botschaft hält dazu fest, im Er-
+gebnis könne sich der Patentinhaber aufgrund dieses Urteils Parallelimporten22 paten-
+tierter Güter in der Schweiz widersetzen, aber nur so weit, als damit nicht eine kartell-
+rechtswidrige Wettbewerbsbeschränkung verbunden sei.23 Dem Kartellgesetz werde
+die Rolle als Korrektiv gegen auf nationale Erschöpfung basierende Preismissbräuche
+zugedacht.24 Bestehen zwischen Herstellern und Händlern Abreden über die Zuwei-
+sung von Gebieten, die sich auf Immaterialgüterrechte stützen und führen diese Abre-
+den dazu, dass Verkäufe in die zugewiesenen Gebiete durch gebietsfremde Vertriebs-
+partner ausgeschlossen werden (insbesondere Verbot des Passivverkaufs an Händler
+oder Endkunden), so liegt ein absoluter Gebietsschutz vor und greift die Vermutung der
+Beseitigung wirksamen Wettbewerbs (Art. 5 Abs. 4 KG i.V.m. Ziff. 10 Abs. 1 lit. a Vert-
+Bek25).26
+83. Gemäss Nikon ist es vor dem Hintergrund der direkten Sanktionierung nicht
+statthaft, Gesetzesbestimmungen extensiv zulasten des zu sanktionierenden Unter-
+nehmens auszulegen. Dies sei im Rahmen von Art. 3 Abs. 2 KG insbesondere für die
+Auslegung des Ausdrucks „Einfuhrbeschränkungen“ von Bedeutung. Die Vereinbarung
+könne vorliegend nur den inländischen Händler betreffen, der eine Vereinbarung mit
+Nikon abschliesst, die eine Bezugsbeschränkung enthält, denn nur ein solcher Händler
+werde potentiell in der Einfuhr beschränkt. Das Bestimmtheitsgebot verlange im Lichte
+von nulla poena sine lege stricta, dass der Gesetzeswortlaut nicht extensiv, sondern
+restriktiv ausgelegt wird.
+
+84. Hiergegen ist Folgendes festzuhalten: Das Bundesgericht erkannte in seinem Ur-
+teil in Sachen Kodak vom 7. Dezember 1999 (BGE 126 III 129) auf nationale Erschöp-
+fung im Patentrecht, hielt jedoch fest, dass das daraus fliessende Einfuhrmonopol des
+Berechtigten diesem eine „überschiessende Rechtsmacht“ verleihe, was nicht eine sich
+ausschliesslich aus dem Patentrecht ergebende Beschränkung des Wettbewerbs dar-
+stelle, weshalb das Kartellgesetz auf den Sachverhalt solcher Einfuhren durchaus an-
+wendbar sei (E. 9b). Es gehöre nicht zu den Befugnissen des Patentinhabers, „künst-
+lich Märkte aufzuteilen bzw. den schweizerischen Markt vom Ausland abzuschotten“
+(BGE 126 III 129 E. 9a). Damit führte das Bundesgericht mit Bezug auf die Frage der
+Zulässigkeit von Parallelimporten eine grundlegende Änderung herbei.27 Folge davon
+war unter Anderem der Einschub in Art. 3 Abs. 2 Satz 2 KG, wonach Einfuhrbeschrän-
+
+
+
+22
+ Im Zusammenhang mit Rechten geistigen Eigentums wird mit Parallelimporten die gewerbs-
+mässige Einfuhr immaterialgüterrechtlich geschützter Güter aus einem Drittland bezeichnet,
+wenn sie ohne Zustimmung des Rechtsinhabers im Inland erfolgt, die Güter aber im Drittland
+vom Schutzrechtsinhaber oder mit dessen Zustimmung rechtmässig in Verkehr gesetzt worden
+sind (GUJER [siehe oben Fn 21], 4 m.w.N.). Vorliegend wird von einer weiteren, nicht auf imma-
+terialgüterrechtlich geschützte Güter beschränkten Definition ausgegangen (siehe oben Fn 1).
+23
+ Botschaft vom 7. November 2001 über die Änderung des Kartellgesetzes (Botschaft KG
+2003), BBl 2002, 2022, 2029 Ziff. 1.3.2.
+24
+ Botschaft KG 2003 (Fn 23), 2022, 2029 f. Ziff. 1.3.2.
+25
+ Bekanntmachung der WEKO vom 28. Juni 2010 über die wettbewerbsrechtliche Behandlung
+vertikaler Abreden (Vertikalbekanntmachung, VertBek bzw. VertBek 2010, wenn die Unter-
+scheidung zur ehemaligen Vertikalbekanntmachung 2007 [vgl. Fn 86] hervorgehoben werden
+soll). Die WEKO stützt sich für die vorliegende Beurteilung auf die VertBek 2010, weil darin die
+jüngste Fallpraxis zu vertikalen Abreden nach Art. 5 Abs. 4 KG berücksichtigt wurde.
+26
+ Vgl. KLAUS NEFF, in: Basler Kommentar, Kartellgesetz, Amstutz/Reinert (Hrsg.), 2010, Ziff. 10
+Vert-BM N 7.
+27
+ BSK KG-HILTY (Fn 20), Art. 3 Abs. 2 KG N 18.
+
+
+22/2010/00038/COO.2101.111.4.153527 16
+kungen, die sich auf Rechte des geistigen Eigentums stützen, der Beurteilung nach
+dem Kartellgesetz unterliegen.28
+
+85. Art. 3 Abs. 2 Satz 2 KG war nicht nur in sachlicher Hinsicht, sondern auch wegen
+seiner Formulierung von Beginn an umstritten. HILTY hält fest, dass zumindest durch ein
+„insbesondere“ hätte klar gestellt werden müssen, dass Einfuhrbeschränkungen nur
+ein möglicher Anwendungsfall von sich nicht „ausschliesslich“ aus der Gesetzgebung
+über das geistige Eigentum ergebenden Wettbewerbswirkungen sind.29
+
+86. Im Übrigen muss das Kartellrecht immer anwendbar sein, wenn ein kartellrecht-
+lich relevanter Missbrauchstatbestand vorzuliegen droht, denn ob das Kartellgesetz
+auch in der Sache greift, kann erst bei seiner Anwendung entschieden werden.30 Inso-
+fern als vorliegend Anhaltspunkte dafür bestehen, dass Parallelimporte in missbräuch-
+licher Weise verhindert bzw. behindert wurden, muss das Kartellgesetz zur Anwendung
+gelangen und zwar unabhängig davon, ob die möglicherweise unzulässigen Wettbe-
+werbsabreden zwischen dem Hersteller und inländischen Vertriebspartnern oder zwi-
+schen dem Hersteller und ausländischen Vertriebspartnern getroffen wurden. Andern-
+falls liesse sich die Anwendbarkeit des Kartellgesetzes dadurch umgehen, dass anstel-
+le von Einfuhrbeschränkungen mit inländischen Händlern Ausfuhrbeschränkungen mit
+ausländischen Händlern vereinbart würden. Zudem ist die Bezeichnung als Einfuhrbe-
+schränkung respektive Ausfuhrbeschränkung eine Frage der Perspektive. Für einen in
+der Schweiz ansässigen Parallelimporteur bedeuten Ausfuhrbeschränkungen in aus-
+ländischen Vertriebsverträgen immer auch Einfuhrbeschränkungen in die Schweiz. An-
+ders ausgedrückt ist Folge einer Ausfuhrbeschränkung durch Abredepartner im Aus-
+land letztlich nichts anderes als eine Einfuhrbeschränkung im Inland, denn wenn im
+Ausfuhrland nicht exportiert werden darf, kann im Einfuhrland (zumindest über den be-
+schränkten Kanal) nicht importiert werden. Die blosse Bezeichnung von Einfuhrbe-
+schränkungen in Art. 3 Abs. 2 KG ist Ausfluss des dargelegten Auswirkungsprinzips,
+wonach die Auswirkung auf den schweizerischen Markt massgebend ist. Von einer ex-
+tensiven Auslegung des Begriffs Einfuhrbeschränkung und somit einer Verletzung des
+Bestimmtheitsgebotes kann folglich keine Rede sein.
+87. Vorliegend bestehen in europäischen und US-amerikanischen Vertriebsverträgen
+von Nikon Klauseln, die den Händlern ausdrücklich ein auf den EWR bzw. auf ihr
+Staatsgebiet beschränktes Verkaufsgebiet zuweisen und damit direkt Parallelexporte in
+die Schweiz verhindern (siehe unten Rz 119 ff.). Andererseits enthalten Vertriebsver-
+träge von Nikon in der Schweiz Klauseln, wonach sich Schweizer Händler verpflichten,
+Nikon Produkte nur im Vertragsgebiet (Schweiz und Liechtenstein) zu beziehen (siehe
+unten Rz 99 ff.). Vor diesem Hintergrund rechtfertigt es sich vorliegend, das Kartellge-
+setz anzuwenden, zumal Hinweise für eine missbräuchliche Verhinderung bzw. Behin-
+derung von Parallelimporten bestehen, was nachfolgend aufzuzeigen sein wird: Dass
+Nikon vor allem in Zusammenhang mit der Unterbindung von Parallelimporten an die
+Anrufung von Immaterialgüterrechten gedacht hat, zeigt sich u.a. daran, dass sie dies-
+bezüglich juristische Beratung eingeholt hatte (vgl. Rz 541). Das entsprechende Me-
+morandum betreffend Parallelimporte vom 6. Oktober 2008 hielt u.a. fest, dass sich
+Patentrechte nur national erschöpfen und daher gestützt auf Patentrecht grundsätzlich
+Parallelimporte verhindert werden können. Im Anschluss wurde darauf aufmerksam
+gemacht, dass eine allfällige Verhinderung jedoch der kartellrechtlichen Beurteilung un-
+terliegen würde. Weiter wurde in diesem Memorandum (fälschlicherweise) festgehal-
+
+
+
+28
+ BSK KG-HILTY (Fn 20), Art. 3 Abs. 2 KG N 18.
+29
+ BSK KG-HILTY (Fn 20), Art. 3 Abs. 2 KG N 55 m.w.H.
+30
+ BSK KG-HILTY (Fn 20), Art. 3 Abs. 2 KG N 22.
+
+
+22/2010/00038/COO.2101.111.4.153527 17
+ten, dass im Fall von Nikon keine unzulässigen vertikalen Wettbewerbsabreden in Be-
+tracht kämen (siehe unten Rz 541).
+
+88. Dass Nikon nach Lösungen suchte, um Parallelimporte einzudämmen, geht auch
+deutlich aus der beschlagnahmten Nikon internen Korrespondenz hervor. So schrieb
+[…] von Nikon Schweiz, mit E-Mail vom 12. November 2008 an diverse Nikon Länder-
+gesellschaften, sie seien sich einig darüber, dass ihnen einige Grosshändler Kopf-
+schmerzen verursachen, weil sie in pan-europäische Arbitrage-Geschäfte31 involviert
+seien, während die anderen die Geschäftsziele mit seriöser Vertriebsarbeit verfolgen
+würden. Der Vorschlag, wie dieses Problem gelöst werden könnte, ging dahin, die
+Grosshändler in zwei Gruppen aufzuteilen, wobei mit den Begriffen “Distributoren” und
+“Box Movers” gearbeitet werden sollte. In der Beschreibung der beiden Grosshändler-
+gruppen im Anhang zu dieser E-Mail wurde u.a. festgehalten, der „Distributor“ sei we-
+der aktiv32 noch passiv33 im „cross-channel“ oder in „cross-border“ Arbitrage-
+Geschäften tätig, währendem der „Box-Mover“ vor allem Arbitrage-Geschäfte betreibe,
+indem er, ungeachtet der „channel affiliation“, an verschiedene Kunden verkaufe und
+dabei von den Preisunterschieden zwischen den verschiedenen Kanälen innerhalb ei-
+nes Landes oder zwischen Ländern profitiere. Der „Box Mover“ fokussiere seine Aktivi-
+täten hauptsächlich auf „fast moving“ und „highly demanded“ Produkte, was als „cherry
+picking“ bezeichnet wurde. Dieser Beschreibung wurde eine Liste angehängt, in wel-
+cher die Grosshändler als „Distributor“ oder „Box Mover“ qualifiziert und deren Nikon-
+Umsätze im Jahr 2008 ausgewiesen wurden.
+
+89. Aus der vorgenannten Korrespondenz geht deutlich hervor, dass der Parallel-
+handel für Nikon ein Problem darstellte und Nikon versuchte, Massnahmen dagegen
+zu ergreifen. Am 6. April 2009 hat […] von Nikon Schweiz Nikon intern zudem eine
+Präsentation mit dem Namen […] weitergeleitet, gemäss welcher […]. Insbesondere
+[…] hätten vom unterschiedlichen Preisniveau innerhalb und ausserhalb Europa profi-
+tiert. […]. Als Risiko des Projekts wurde u.a. das Wettbewerbsrecht aufgeführt. Das […]
+ist nach Angaben von Nikon nie umgesetzt worden. Den Wettbewerbsbehörden liegen
+keine Beweismittel vor, die einen anderen Schluss zuliessen. Folglich bildet das […]
+nicht Gegenstand der vorliegenden Untersuchung. Gleichwohl kann daraus abgeleitet
+werden, dass aus Sicht von Nikon die erhoffte Wettbewerbswirkung sich nicht oder
+zumindest nicht ausschliesslich aus der Gesetzgebung über das geistige Eigentum
+ergab, sondern letztere vielmehr als Vorwand für die Eindämmung von unerwünschten
+Parallelimporten in Betracht gezogen wurde.
+
+90. Vor diesem Hintergrund dringt Nikon mit der Berufung auf allfällige Patentrechte
+auf Nikon Produkten nicht durch, zeigen die erwähnten beschlagnahmten Dokumente
+doch deutlich, dass Nikon primär deshalb an der Verhinderung von Parallelimporten in-
+teressiert war, weil damit dem Druck günstigerer ausländischer Angebote auf das
+Schweizer Preisniveau entgegengewirkt werden sollte. Ob es vorliegend zu einer unzu-
+lässigen Verhinderung von Parallelimporten in die Schweiz kam, ist Gegenstand der
+nachfolgenden Prüfung.
+
+
+
+
+31
+ Arbitrage beschreibt das Ausnutzen von räumlichen oder zeitlichen Preisdifferenzen für ein
+Gut (03.02.2011).
+32
+ Vgl. Fn 73 für die Definition des Begriffs von aktiven Verkäufen.
+33
+ Vgl. Rz 200 für die Definition des Begriffs von passiven Verkäufen.
+
+
+22/2010/00038/COO.2101.111.4.153527 18
+B.3. Unzulässige Wettbewerbsabrede über die Zuweisung
+ von Gebieten
+91. Abreden, die den Wettbewerb auf einem Markt für bestimmte Waren oder Leis-
+tungen erheblich beeinträchtigen und sich nicht durch Gründe der wirtschaftlichen Effi-
+zienz rechtfertigen lassen, sowie Abreden, die zur Beseitigung wirksamen Wettbe-
+werbs führen, sind unzulässig (Art. 5 Abs. 1 KG).
+
+B.3.1. Wettbewerbsabrede
+
+92. Als Wettbewerbsabreden gelten erzwingbare oder nicht erzwingbare Vereinba-
+rungen sowie aufeinander abgestimmte Verhaltensweisen von Unternehmen gleicher
+oder verschiedener Marktstufen, die eine Wettbewerbsbeschränkung bezwecken oder
+bewirken (Art. 4 Abs. 1 KG).
+
+93. Eine Wettbewerbsabrede definiert sich daher durch folgende Tatbestandsele-
+mente: a) ein bewusstes und gewolltes Zusammenwirken der an der Abrede beteiligten
+Unternehmen und b) eine Abrede, die eine Wettbewerbsbeschränkung bezweckt oder
+bewirkt.
+
+B.3.1.1. Bewusstes und gewolltes Zusammenwirken
+
+94. Die in Art. 4 Abs. 1 KG aufgeführten Formen von Wettbewerbsabreden zeichnen
+sich alle dadurch aus, dass zwei oder mehrere wirtschaftlich voneinander unabhängige
+Unternehmen kooperieren.34 Am einfachsten gelingt der Nachweis eines „bewussten
+und gewollten Zusammenwirkens“, wenn die Wettbewerbsabrede in der Form einer
+ausdrücklichen Vereinbarung vorliegt.35
+
+95. Vorliegend bestehen zwischen der Europazentrale Nikon Europe BV bzw. den
+verschiedenen Ländergesellschaften der Nikon Gruppe und den ihr bzw. ihnen ange-
+schlossenen Vertriebsunternehmen verschiedene Vertragsklauseln, welche nachfol-
+gend dargelegt werden.
+
+96. Laut Nikon wurden die nachstehend identifizierten Vertragsklauseln weder von
+Nikon durchgesetzt noch von den Händlern beachtet. Ein bewusstes und gewolltes Zu-
+sammenwirken liege demnach nicht vor.
+
+97. Dieses Argument stösst ins Leere: Nikon bringt nicht vor, die nachstehenden Ver-
+träge seien nicht rechtsgültig zustande gekommen. Es fehlen auch sonst Hinweise wie
+namentlich Protokolle, Besprechungsnotizen und (E-Mail-)Korrespondenzen, welche
+auf eine Ausserkraftsetzung oder faktische Nichtbeachtung des Vertrages schliessen
+liessen. Ob und wie diese Verträge von Nikon durchgesetzt und von den Händlern be-
+achtet wurden, prüft die WEKO praxisgemäss unter dem Tatbestandsmerkmal der Be-
+seitigung wirksamen Wettbewerbs oder – im Falle der Widerlegung der Vermutung
+nach Art. 5 Abs. 4 KG – bei der Erheblichkeitsprüfung nach Art. 5 Abs. 1 KG (siehe un-
+ten Rz 352 ff. und 487 ff.).
+
+
+
+
+34
+ THOMAS NYDEGGER/WERNER NADIG, in: Basler Kommentar, Kartellgesetz, Amstutz/Reinert
+(Hrsg.), 2010, Art. 4 Abs. 1 KG N 81.
+35
+ BSK KG-NYDEGGER/NADIG (Fn 34), Art. 4 Abs. 1 KG N 82.
+
+
+22/2010/00038/COO.2101.111.4.153527 19
+B.3.1.1.1. Vertragsklauseln
+
+B.3.1.1.1.1. Inländische Vertriebsverträge von Nikon Schweiz
+98. Nikon Schweiz vertreibt ihre Produkte Nikon Imaging (ohne „D3S/D3X“36) in ei-
+nem zweistufigen Vertriebssystem an Grosshändler und Einzelhändler. Nachdem die
+Geschäfte mit den Grossisten ursprünglich auf der Basis von einfachen Konditionen-
+ver-einbarungen abgewickelt worden waren, führte Nikon Schweiz ca. Ende 2004 ei-
+nen Grossistenvertrag ein und beschränkte gleichzeitig die direkte Belieferung von
+Einzelhändlern auf einige strategisch wichtige Kunden, sog. „Key Accounts“.
+
+Alter Grossistenvertrag bis 31. August 2009
+99. Der Händlervertrag „Distributor“ („Alter Grossistenvertrag“) wurde durch Nikon
+Schweiz ca. Ende 2004 eingeführt und nach und nach mit den Grosshändlern abge-
+schlossen. Bis Ende August 2009 haben insgesamt sechs Grossisten ([…]) den alten
+Grossistenvertrag unterzeichnet. Der alte Grossistenvertrag betraf das Vertragsgebiet
+Schweiz und Liechtenstein und enthielt in § 6 Abs. 1 folgende Bestimmung zum Wa-
+renbezug:
+
+ „Der Distributor und dessen Tochter- und Schwestergesellschaften dürfen
+ die Vertragserzeugnisse nur von Nikon oder von einem anderen von Nikon
+ autorisierten Distributor im Vertragsgebiet beziehen.“ 37
+
+100. Mit der Zustimmung zu dieser Vertragsklausel haben sich die Grossisten gegen-
+über Nikon Schweiz verpflichtet, sämtliche Parallelimporte, mit Ausnahme von solchen
+aus Liechtenstein, zu unterlassen. In Bezug auf das Verhältnis zwischen Nikon
+Schweiz und den Grossisten unter dem alten Grossistenvertrag lag damit eine aus-
+drückliche Vereinbarung im Sinne von Art. 4 Abs.1 KG vor, die vom Zeitpunkt der Ver-
+tragsunterzeichnung bis zum 31. August 2009 andauerte.
+
+101. Nikon Schweiz macht geltend, beim Vertriebssystem für Nikon Imaging habe es
+sich bis zum 31. August 2009 weder auf Stufe der Grossisten noch auf Stufe der Ein-
+zelhändler um ein Selektivvertriebssystem gehandelt. Hierzu ist anzumerken, dass die
+Qualifikation der Vertriebsverträge als Selektivvertriebsverträge vorliegend insofern
+keine Rolle spielt, als die Vermutung der Beseitigung wirksamen Wettbewerbs nicht
+nur bei einer bestimmten Art von Vertriebsverträgen greift (siehe unten Rz 191).
+
+102. Nikon bringt weiter vor, die geografische Bezugsbeschränkung der Grossisten
+gemäss § 6 Abs. 1 des alten Grossistenvertrags sei in der Praxis nicht gelebt worden.
+Weder habe Nikon Schweiz diese Beschränkung durchgesetzt, noch hätten sich die
+Grossisten daran gehalten. Es wird auf […] und […] verwiesen, welche explizit ausge-
+sagt hätten, regelmässig parallel importiert zu haben.
+103. Hierzu ist festzuhalten, dass […] lediglich ausgesagt hat, vereinzelt (ca. […] %
+des Umsatzes) ab ihrem europäischen Zentrallager Nikon Produkte bezogen zu haben.
+Dies entspricht weniger als […] % des jährlichen Gesamtumsatzes mit Nikon Imaging
+Produkten aller Distributoren in der Schweiz (vgl. Tabelle 1 in Anhang E.1). Es handelt
+sich bei diesem Grossisten zudem insofern um einen Spezialfall, als er Nikon Produkte
+über seine Schwestergesellschaft in Deutschland bezog. Für einen Hersteller dürfte es
+
+
+
+36
+ Beim Modell D3X handelt es sich um eine Spiegelreflexkamera für professionelle Fotografen,
+das Modell D3S ist eine Spiegelreflexkamera für Reportage- und Sportfotografie.
+37
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 20
+schwieriger sein, Querlieferungen38 zwischen Schwestergesellschaften innerhalb des-
+selben Konzerns zu unterbinden als solche zwischen voneinander unabhängigen Un-
+ternehmen (siehe unten Rz 325). […] gab an, regelmässig Nikon Produkte parallel im-
+portiert zu haben. Allerdings handelt es sich bei […] ebenfalls um einen Spezialfall, da
+dieser Grossist Nikon Produkte über seine Schwestergesellschaft in Deutschland be-
+ziehen konnte. […] sagte aber auch aus, mehrmals mündlich von Bezügen ausserhalb
+des Vertragsgebiets abgemahnt worden zu sein. Einer E-Mail […] Imaging Schweiz ist
+folgender Satz zu entnehmen: „We have cancelled our contract with […] a few months
+ago, as our opinion is that Nikon should not work with ‘Box Movers’”. Laut Nikon seien
+die Verträge mit […] aufgelöst worden, weil […] die Zulassungskriterien des neu einge-
+führten Selektivvertriebs nicht erfüllen konnte oder wollte. Ungeachtet dieses Wider-
+spruchs zeigt diese E-Mail, dass Nikon Schweiz sehr wohl reagierte, wenn festgestellt
+wurde, dass Vertriebspartner von Nikon Schweiz Nikon Produkte ausserhalb des ihnen
+zugewiesenen Bezugsgebiets Schweiz/Liechtenstein bezogen hatten bzw. ausländi-
+sche Vertriebspartner von Nikon ausserhalb des ihnen zugewiesenen Verkaufsgebiets
+verkauft hatten. Von einer Nichtdurchsetzung der Bezugsbeschränkung in § 6 Abs. 1
+des alten Grossistenvertrags kann daher keine Rede sein.
+
+104. Mit Ausnahme von […] und der liechtensteinischen […] haben sich die Grossis-
+ten ganz nach dem Grundsatz pacta sunt servanda verhalten und keine Parallelimporte
+getätigt:
+
+ […] gab an, als Distributor von Nikon exklusiv mit dieser zusammengearbeitet zu
+ haben und daher im untersuchungsrelevanten Zeitraum keine Nikon Produkte
+ parallel importiert zu haben. Folglich konnte der Grosshändler auch nicht beurtei-
+ len, ob Nikon Massnahmen ergriff, um Parallelimporte zu verhindern;
+
+ […] gab ebenfalls an, keine Parallelimporte von Nikon Produkten getätigt zu ha-
+ ben. Parallelimporte würden der langfristig ausgerichteten Geschäftsstrategie der
+ […] widersprechen;
+
+ Auch […] gab an, im untersuchungsrelevanten Zeitraum keine Parallelimporte
+ von Nikon Produkten getätigt zu haben. Dies wurde folgendermassen begründet:
+ „Da wir eine gute Geschäftsbeziehung mit Nikon Schweiz pflegen, und wir haupt-
+ sächlich Schweizerlieferanten bevorzugen“;
+
+ […] beantwortete die Frage nach Parallelimporten folgendermassen: „Als vertrag-
+ lich gebundener Distributionspartner von Nikon und durch interne […] Policy kam
+ es für uns nicht in Frage bei jemand anderem ausser den offiziellen Kanälen (in
+ diesem Fall Nikon direkt) zu bestellen“.
+
+Von einer in der Praxis nicht gelebten Vertragsbestimmung kann daher keine Rede
+sein.
+
+Selektivvertriebsvertrag Grossisten für Nikon Imaging ab 1. September 2009
+105. Nikon Schweiz kündigte auf Ende August 2009 alle alten Grossistenverträge und
+schloss per 1. September 2009 mit […], […] und […] einen Selektivvertriebsvertrag be-
+treffend Nikon Imaging Produkte ab. […] wurde nach Erfüllung der Zulassungskriterien
+per 19. April 2011 zum Selektivvertrieb zugelassen. Im September 2011 wurde zudem
+auch […] als Grossistin in den Selektivvertrieb aufgenommen, welche unter dem alten
+Regime keine Vertragshändlerin von Nikon gewesen war.
+
+
+38
+ Als Querlieferung wird die gegenseitige Belieferung von Händlern gleicher oder unterschiedli-
+cher Marktstufen innerhalb eines selektiven Vertriebssystems bezeichnet (Ziff. 5 VertBek).
+
+
+22/2010/00038/COO.2101.111.4.153527 21
+106. Der neue Selektivvertriebsvertrag mit den Grossisten enthält folgende Bestim-
+mungen, die als Vereinbarungen im Sinne von Art. 4 Abs. 1 KG zu qualifizieren sind
+und deren Würdigung weiter unten (Rz 292 ff. [„Swiss Garantie“] und Rz 312 ff. [Selek-
+tivvertrieb]) erfolgt:
+
+ „6.1 Der Grossist verpflichtet sich dazu, Nikon Produkte ausschliesslich an
+ zugelassene Händler zu vertreiben. Insbesondere sind Querlieferungen an
+ Grossisten, die zugelassene Händler sind, erlaubt. Der Grossist verpflichtet
+ sich jedoch, den aktiven und passiven Verkauf von Nikon Produkten an an-
+ dere als zugelassene Händler innerhalb und ausserhalb des Vertragsge-
+ biets zu unterlassen.“
+
+ „8.1 Der Grossist darf Nikon Produkte nur von Nikon oder von einem ande-
+ ren zugelassenen Händler beziehen.
+
+ 8.2 Vertreibt der Grossist Nikon Produkte, die nicht von Nikon in die
+ Schweiz eingeführt wurden („Parallelimporte“), ist er verpflichtet, seine Ab-
+ nehmer ausdrücklich darüber zu informieren und zur Information ihrer Ab-
+ nehmer zu verpflichten, dass die Käufer dieser Nikon Produkte nicht von
+ Sonderaktionen von Nikon (z.B. „Nikon Swiss Garantie39“) profitieren. […]“
+
+Vertriebsvereinbarungen Einzelhändler Nikon „D3S/D3X“ seit November 2008 bzw.
+2009
+107. Im November 2008 führte Nikon Schweiz die Spiegelreflexkamera D3X für pro-
+fessionelle Fotografen und im November 2009 das Modell D3S für Reportage- und
+Sportfotografie auf dem Schweizer Markt ein. Die entsprechenden, als Selektivver-
+triebsverträge bezeichneten Verträge (nachfolgend: Vertriebsverträge „D3S/D3X“) ent-
+halten in Art. 3 Abs. 1 folgende Bestimmung zum Warenbezug:
+
+ „Der Händler verpflichtet sich, die Nikon D3X/D3S nur bei Nikon oder bei
+ einem von Nikon autorisierten Nikon D3X/D3S Händler in der Schweiz oder
+ dem Fürstentum Liechtenstein zu beziehen.“ 40
+
+108. Damit besteht zwischen Nikon Schweiz und den Vertriebspartnern der Spiegelre-
+flexkameras D3S und D3X eine ausdrückliche Vereinbarung im Sinne von Art. 4
+Abs. 1 KG darüber, Parallelimporte der Vertragswaren, mit Ausnahme von Importen
+aus Liechtenstein, zu unterlassen.
+
+109. Nikon macht geltend, der Vertriebsvertrag „D3S/D3X“ sei trotz entsprechender
+Bezeichnung nicht als Selektivvertriebsvertrag zu qualifizieren. Wie bereits erwähnt (Rz
+101), spielt die Qualifikation als Selektivvertriebsvertrag vorliegend insofern keine Rol-
+le, als die Vermutung der Beseitigung wirksamen Wettbewerbs nicht nur bei einer be-
+stimmten Art von Vertriebsverträgen greift (siehen unten Rz 191).
+
+110. Nikon bringt weiter vor, auch die geografische Bezugsbeschränkung in Art. 3
+Abs. 1 des D3X/D3S-Vertrags sei nicht gelebt worden. Keiner der befragten Vertrags-
+partner habe auf die entsprechenden Fragen geantwortet, vertraglich oder anderweitig
+daran gehindert worden zu sein, Parallelimporte zu tätigen.
+
+
+39
+ Bei der „Nikon Swiss Garantie“ handelt es sich um eine Garantieverlängerung von Nikon
+Schweiz, mit welcher die einjährige „Nikon European Service Warranty“ bzw. die einjährige „Ni-
+kon Worldwide Service Warranty“ bei Spiegelreflex- und Kompaktkameras um ein zusätzliches
+und bei Objektiven und Blitzgeräten um zwei zusätzliche Jahre verlängert wird (siehe unten
+Rz 292 ff.).
+40
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 22
+111. Gegen diese Vorbringen von Nikon ist Folgendes einzuwenden: Ein Grossteil der
+von Nikon zitierten Händler hat – getreu dem Grundsatz pacta sunt servanda – nie ver-
+sucht, parallel zu importieren (siehe unten Rz 326), weshalb Nikon Schweiz überhaupt
+keinen Grund gehabt hätte, einzugreifen. Aus diesen Antworten kann daher nicht ge-
+schlossen werden, die Bezugsbeschränkung sei nicht gelebt worden. Vielmehr lässt
+sich daraus schliessen, dass neben der vertraglichen Bezugsbeschränkung keine wei-
+teren Massnahmen von Nikon zu deren Umsetzung notwendig waren.
+
+Nikon Professional Service
+112. Bereits im Jahr 2007 haben gewisse Einzelhändler mit Nikon Schweiz einen
+„Professional Dealer Händlervertrag“ (nachfolgend: „NPSD“-Vertrag) abgeschlossen
+und sich verpflichtet, zusätzliche Dienstleistungen für professionelle Fotografen zu er-
+bringen. Der „NPSD“-Vertrag enthält in § 4 Abs. 1 folgende Bestimmung:
+
+ „Der „NPSD“ darf die Vertragserzeugnisse nur von Nikon oder von einem
+ anderen von Nikon autorisierten „NPSD“ im Vertragsgebiet beziehen.“ 41
+
+113. Das Vertragsgebiet des „NPSD“-Vertrages umfasst die Schweiz und Liechten-
+stein. Folglich besteht zwischen den „NPSD“-Vertragspartnern und Nikon Schweiz
+ebenfalls eine ausdrückliche Vereinbarung im Sinne von Art. 4 Abs. 1 KG, gemäss
+welcher der Parallelimport von Vertragsware, mit Ausnahme des Importes aus Liech-
+tenstein, ausgeschlossen ist.
+
+114. Gemäss Nikon war es Zweck des „NPSD“-Vertrages, die Betreuung des Kun-
+densegments der professionellen Fotografen („Profikunden“) sicherzustellen. Nur Pro-
+fikunden, die durch Nikon Schweiz geprüft worden seien und über eine NPS-Kunden-
+Karte verfügten, hätten die zusätzlichen Dienstleistungen der NPS-Händler in An-
+spruch nehmen dürfen. Der Vertrag sei mit Einführung der neuen Händlertypen per 1.
+Oktober 2010 auf Stufe Einzelhändler hinfällig geworden. Es wird geltend gemacht, es
+handle sich nicht um einen Selektivvertriebsvertrag. Dies ergebe sich aus der Tatsa-
+che, dass der Händler keine Zulassungskriterien zu erfüllen.
+
+115. Wie bereits erwähnt (Rz 101), kann die Qualifikation als Selektivvertrag vorlie-
+gend offen bleiben, da die Vermutung der Beseitigung wirksamen Wettbewerbs greift,
+sofern Abreden in Vertriebsverträgen über die Zuweisung von Gebieten vorliegen und
+Verkäufe in diese durch gebietsfremde Vertriebspartner ausgeschlossen werden. Die-
+ses Prinzip gilt unabhängig von der Art des implementierten Vertriebssystems (siehe
+unten Rz 191).
+
+B.3.1.1.1.2. Ausländische Vertriebsverträge der Nikon Gruppe
+116. Neben den Bezugsbeschränkungen in den erwähnten inländischen Vetriebsve-
+trägen (Rz 98 ff.) werden Bezüge ausserhalb des Vertragsgebiets (Schweiz und Liech-
+tenstein) auch dadurch behindert bzw. verhindert, dass in verschiedenen Vertriebsver-
+trägen der Nikon Gruppe im Ausland Klauseln enthalten sind, die geeignet sind, Paral-
+lelexporte in die Schweiz zu verhindern. Diese Klauseln werden nachfolgend einzeln
+beurteilt.
+
+117. Nikon bringt diesbezüglich vor, dass die angeblichen Abreden in den ausländi-
+schen Händlerverträgen aufgrund von Art. 3 Abs. 2 KG (Vorbehalt der Anwendung des
+Kartellgesetzes auf Wettbewerbsbeschränkungen, die sich ausschliesslich aus der Ge-
+
+
+
+41
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 23
+setzgebung über das geistige Eigentum ergeben) weitgehend nicht unter dem Kartell-
+gesetz zu prüfen seien.
+
+118. Die WEKO geht, wie dargelegt, davon aus, dass es sich bei der Beschränkung
+von Parallelimporten um Wettbewerbsbeschränkungen handelt, die der kartellrechtli-
+chen Prüfung unterliegen (Art. 3 Abs. 2 Satz 2 KG, vgl. hievor Rz 84 ff.).
+
+Deutschland
+
+119. Nikon Deutschland vertreibt sämtliche Nikon Imaging Produkte sowohl auf Stufe
+Grosshandel als auch auf Stufe Einzelhandel im Selektivvertrieb. Der Selektivvertrieb
+wurde während der Jahre 2004 bis 2009, abgesehen von […] im Jahr 2005, nicht ver-
+ändert. Die Vertriebsverträge „Grosshandel Deutschland“ und „Einzelhandel Deutsch-
+land“ enthalten in Art. 4 Abs. 1 jeweils folgende Bestimmung:
+
+ „Im Übrigen verpflichtet sich der Grosshändler bzw. der Vertragshändler,
+ die Nikon Produkte ausserhalb des EWR nicht zu verkaufen.“ 42
+
+120. Damit bestehen zwischen Nikon GmbH (Deutschland) und den mit ihr in einem
+Vertragsverhältnis stehenden Gross- und Einzelhändlern Vereinbarungen i.S.v. Art. 4
+Abs. 1 KG, die sich i.S.v. Art. 2 Abs. 2 KG (siehe oben Rz 74) auf die Schweiz auswir-
+ken kann, weil dadurch Parallelimporte aus Deutschland in die Schweiz verhindert bzw.
+behindert werden können.
+
+121. Laut Nikon kann aus dieser Bestimmung nicht gefolgert werden, dass die Ver-
+tragspartner bewusst und gewollt zusammenwirken, um Verkäufe in die Schweiz zu
+unterbinden. Die Parteien hätten nicht an die Schweiz gedacht. Die Klausel enthalte,
+was nach europäischem Recht möglich und zulässig sei. Selbst wenn man einen Be-
+zug zur Schweiz konstruieren möchte, wäre zu berücksichtigen, dass im Jahr 2004 als
+der Selektivvertrieb in Deutschland mit dieser Bestimmung eingeführt worden sei, im
+schweizerischen Recht noch das Prinzip der nationalen Erschöpfung galt. Die Klausel
+sei von einer […] Anwaltskanzlei – in Übereinstimmung mit dem damals geltenden Eu-
+ropäischen Kartellrecht – aufgesetzt worden. Es handle sich um eine im EWR nach wie
+vor sehr verbreitete Standardklausel, die sowohl von den Verfassern als auch von in-
+ternationalen Unternehmen in aller Regel in keinen Zusammenhang mit der Schweiz
+gebracht werde.
+
+122. Wie oben (Rz 84) aufgeführt, erkannte das Bundesgericht in seinem Urteil in Sa-
+chen Kodak vom 7. Juli 1999 (BGE 126 III 129) auf nationale Erschöpfung im Patent-
+recht, hielt jedoch fest, dass das daraus fliessende Einfuhrmonopol des Berechtigten
+diesem eine „überschiessende Rechtsmacht“ verleihe. Weil es sich bei diesem Ein-
+fuhrmonopol nicht um eine sich ausschliesslich aus dem Patentrecht ergebende Be-
+schränkung des Wettbewerbs handle, sei das Kartellgesetz zur Beurteilung derselben
+durchaus anwendbar (E. 9b).
+
+123. Weiter kann Nikon mit dem Argument, wonach die fragliche Klausel von einem
+Anwalt verfasst worden sei und mit dem Europäischen Kartellrecht in Übereinstimmung
+gebracht werden könne, nichts zu ihren Gunsten ableiten. Denn einerseits gilt im Kar-
+tellrecht wie dargelegt das Auswirkungsprinzip und es sind somit bei der Ausgestaltung
+einer solchen Klausel mithin auch die Auswirkungen auf andere Länder zu beachten.
+Andererseits hängt die Rechtmässigkeit einer Vertragsklausel in keiner Weise davon
+ab, ob diese von einem Anwalt verfasst worden ist. Ansonsten könnte beinahe jedes
+
+
+
+42
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 24
+Kartell mit der Begründung gerechtfertigt werden, die inkriminierende Klausel sei von
+einem Anwalt verfasst worden.
+
+Österreich, Slowenien und Ungarn
+124. Für den Vertrieb von Nikon Imaging Produkten in Österreich und Slowenien ist
+ebenfalls Nikon Deutschland verantwortlich. In beiden Ländern (in Österreich seit 2006
+und in Slowenien seit 2007) besteht ein selektives Vertriebssystem wie in Deutschland.
+Nikon Ungarn vertreibt Nikon Imaging Produkte auf Grosshandels- und Einzelhandels-
+stufe ebenfalls im Selektivvertrieb. Die Vertriebsverträge für Gross- und Einzelhändler
+in Österreich, Slowenien und Ungarn sind in Bezug auf die vorgenannten Vertriebs-
+klauseln (Rz 119) identisch mit denjenigen in Deutschland. Damit besteht zwischen
+den Grosshändlern und den Einzelhändlern in diesen Ländern und Nikon GmbH
+(Deutschland) bzw. der ungarischen Niederlassung ebenfalls eine erzwingbare Verein-
+barung gemäss Art. 4 Abs. 1 KG, die sich im Sinne von Art. 2 Abs. 2 KG (siehe oben
+Rz 74) auf die Schweiz auswirken kann, weil dadurch Parallelimporte aus den genann-
+ten Ländern in die Schweiz verhindert bzw. behindert werden können.
+Nikon Nordic
+125. Die Niederlassung Nikon „Nordic“ mit Sitz in Stockholm ist verantwortlich für den
+Vertrieb von Nikon Imaging Produkten in Dänemark, Norwegen, Schweden, Finnland,
+Island, Lettland, Litauen und Estland und verfügt in einigen dieser Länder über eine
+Zweigniederlassung. In den Vertriebsverträgen in Dänemark, Schweden und Norwe-
+gen ist jeweils ein nicht exklusives Vertriebsrecht für das jeweilige Vertragsgebiet ent-
+halten. Im Zusammenhang mit Massnahmen gegen Parallelexporte in die Schweiz
+könnte dieses auf das Vertragsgebiet beschränkte Vertriebsrecht als implizites Export-
+verbot qualifiziert werden. Vorliegend bestehen allerdings keine Beweise, dass Nikon
+gegen Parallelexporte aus diesen Ländern in die Schweiz Massnahmen ergriffen hat.
+Zudem liegen den Wettbewerbsbehörden keine Hinweise vor, dass aus Dänemark,
+Schweden und Norwegen nennenswerte Parallelimporte in die Schweiz stattgefunden
+haben. Deshalb sind die Vertriebsverträge in Dänemark, Schweden und Norwegen
+nicht Gegenstand der nachfolgenden Untersuchung.
+
+Grossbritannien
+126. Nikon Grossbritannien vertreibt Nikon Imaging Produkte nicht im selektiven, son-
+dern im offenen Vertrieb an Gross- und Einzelhändler. Die Vertriebsverträge von Nikon
+Grossbritannien weisen in Ziff. 1.1.1 folgende Bestimmung auf:
+ „The distributor shall sell throughout the United Kingdom the products men-
+ tioned in the attached Schedule […]”
+
+127. Der entsprechende Händlervertrag sieht somit vor, dass der Händler die Ver-
+tragsprodukte in Grossbritannien zu verkaufen hat. Damit besteht in Zusammenhang
+mit anderen Massnahmen zur Verhinderung von Parallelhandel (vgl. Rz 242 f. und
+286) implizit eine Vereinbarung im Sinne von Art. 4 Abs. 1 KG über den Ausschluss
+von Parallelexporten in die Schweiz.
+
+128. Nikon macht geltend, bei dieser Bestimmung handle es sich um eine Vertriebs-
+pflicht der Händler, die Vertragsware aktiv zu vermarkten und zu vertreiben. Aus dieser
+Bestimmung könne nicht gefolgert werden, dass die Vertragspartner bewusst und ge-
+wollt zusammengewirkt hätten, um Verkäufe in die Schweiz zu unterbinden. Von einem
+impliziten Exportverbot könne keine Rede sein. Ein Exportverbot wäre z.B. durch den
+Einschub „solely“ oder dergleichen eingeführt worden.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 25
+129. Mit der Verfügungsadressatin ist darin übereinzustimmen, dass ein explizites Ex-
+portverbot mit dem Einschub „solely“ hätte bewerkstelligt werden können. Am Vorlie-
+gen eines impliziten Exportverbots vermag dieses Vorbringen jedoch nichts zu ändern.
+
+Polen
+130. Nikon Polen vertreibt Nikon Imaging Produkte ebenfalls nicht im selektiven, son-
+dern im offenen Vertrieb an Gross- und Einzelhändler. Die Vertriebsverträge sehen in
+Ziff. 2.3 folgende Bestimmung vor:
+
+131. „[…] The Purchaser shall therefore acquire the right to purchase Products from
+Nikon for the purpose of further resale on the Territory [Polen43].”
+
+132. In Zusammenhang mit anderen Massnahmen zur Verhinderung von Parallelhan-
+del werden damit auch Parallelexporte aus Polen in die Schweiz implizit mittels einer
+Vereinbarung im Sinne von Art. 4 Abs. 1 KG ausgeschlossen (vgl. Rz 127).
+
+133. Gemäss Nikon handelt es sich wiederum um die Gewährung eines Vertriebs-
+rechts an die Händler im Vertragsgebiet. Es könne daraus nicht auf ein bewusstes,
+gewolltes Zusammenwirken, um Verkäufe in die Schweiz zu unterbinden, geschlossen
+werden. Von einem impliziten Exportverbot könne keine Rede sein. Zu diesem Vor-
+bringen wird auf die zuvor gemachten Überlegungen verwiesen (Rz 127).
+
+Portugal, Spanien, Griechenland und Italien
+134. In Portugal, Spanien, Griechenland und Italien verfügt Nikon über keine eigene
+Niederlassung, sondern hat einen Generalimporteur beauftragt, der für die Vermark-
+tung und den Vertrieb der Nikon Imaging Produkte zuständig ist. Der Vertrag von Nikon
+Europe BV mit der spanischen44 und portugiesischen Generalimporteurin ([…]), jener
+mit der griechischen Generalimporteurin ([…]) sowie jener mit der italienischen Gene-
+ralimporteurin ([…]) enthält in Ziff. 5 folgende Bestimmung:
+
+ „The Distributor shall refer to the Agent [Nikon Europe BV] any inquiry or
+ order for the products which the Distributor may receive from any individual,
+ firm or corporation outside the Territory. However the distributor may sell
+ the products directly or indirectly within any country of European community
+ (EC), and after its entry into force the European Economic Area (EEA), but
+ the distributor shall refrain, outside the territory and in the relation to the
+ products, from seeking customers, from establishing any branch and from
+ maintaining a distribution depot.”45
+135. Mit dieser Klausel werden explizit aktive Verkäufe an Käufer ausserhalb des je-
+weiligen Landes sowie implizit alle aktiven und passiven Verkäufe an Käufer aus-
+serhalb des EWR ausgeschlossen. Im Zusammenhang mit Massnahmen gegen Paral-
+lelexporte in die Schweiz kann diese Klausel daher als implizites Exportverbot in Bezug
+auf die Schweiz qualifiziert werden.
+
+136. Aus der bei Nikon beschlagnahmten E-Mail Korrespondenz wird ersichtlich, dass
+Nikon zumindest der griechischen Generalimporteurin […] dazu anhielt, Parallelhändler
+von Parallelexporten in die Schweiz abzuhalten (siehe unten Rz 283). Vor diesem Hin-
+
+
+43
+ Gemäss einleitender Definition der Vertriebsverträge.
+44
+ Für Spanien wurde kein Vertrag eingereicht, es wird aber davon ausgegangen, dass die
+Bestimmungen im Vertrag für Portugal auch für Spanien gelten, zumal es sich um dieselbe Ge-
+neralimporteurin handelt.
+45
+ Einfügung und Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 26
+tergrund ist die zitierte Vertragsklausel im Zusammenhang mit den Massnahmen ge-
+gen Parallelexporte aus Griechenland in die Schweiz als implizites Exportverbot zu
+qualifizieren. In Bezug auf Griechenland liegt damit eine Vereinbarung im Sinne von
+Art. 4 Abs. 1 KG vor, mit der passive Verkäufe in die Schweiz ausgeschlossen werden.
+Hingegen liegen in Bezug auf Portugal, Spanien und Italien keine Beweise für Mass-
+nahmen gegen Parallelexporte in die Schweiz vor. Darüber hinaus bestehen keine
+Hinweise, dass aus diesen Ländern nennenswerte Parallelimporte in die Schweiz
+stattgefunden haben. Deshalb sind die entsprechenden Vertriebsverträge in Portugal,
+Spanien und Italien nicht Gegenstand der nachfolgenden Untersuchung.
+
+137. In Bezug auf die bei Nikon beschlagnahmte E-Mail Korrespondenz, aus der her-
+vor geht, dass Nikon die Herkunft parallel importierter Nikon Imaging Produkte ermittelt
+hat, um Massnahmen gegen die involvierten Parallelhändler zu ergreifen (siehe oben
+Rz 136), bringt Nikon vor, es sei legitim abzuklären, über welche Kanäle das Produkt
+aus Griechenland in die Schweiz gelangt sei.
+138. Weiter macht Nikon geltend, die Vertriebsverträge sähen vor, dass es dem Gene-
+ralimporteur nicht gestattet sei, ausserhalb des jeweiligen Vertragsgebiets Kunden zu
+werben, eine Zweigniederlassung zu begründen oder ein Verteillager einzurichten. Ver-
+traglich untersagt seien ausserhalb des Vertragsgebiets somit lediglich Formen des Ak-
+tivverkaufs, nicht aber Passivverkäufe. Aus der Bestimmung könne daher nicht gefol-
+gert werden, die Vertragsparteien hätten bewusst und gewollt zusammengewirkt, um
+Verkäufe in die Schweiz zu unterbinden. Besondere Erwähnung verdiene der Um-
+stand, dass der EWR zum Zeitpunkt der Vertragsredaktion noch gar nicht bestanden
+habe und noch nicht klar sein konnte, dass die Schweiz nicht Teil des EWR sein wer-
+de.
+
+139. Hierzu ist anzumerken, dass der Händler gemäss der Vertragsklausel jede An-
+frage von ausserhalb des Vertragsgebiets dem Generalimporteur melden muss. An-
+schliessend wird klargestellt, dass der Händler innerhalb der EU und, nach seinem In-
+krafttreten, innerhalb des EWR direkt oder indirekt Nikon Produkte verkaufen dürfe. Er
+dürfe allerdings nicht aktiv ausserhalb seines Vertragsgebiets tätig werden. Das heisst,
+dass der Händler passive Anfragen aus der Schweiz dem Generalimporteur zumindest
+melden muss. Diese Informationspflicht eröffnet Nikon die Möglichkeit, auf Exporte des
+Generalimporteurs Einfluss zu nehmen und dadurch ein faktisches Verbot des Passiv-
+verkaufs durchzusetzen. Eine derartige Informationspflicht vermag für sich alleine noch
+keine Abrede i.S.v. Art. 5 Abs. 4 KG darzustellen.46 Allerdings geht aus der bei Nikon
+beschlagnahmten Korrespondenz hervor, dass Nikon über den griechischen Gene-
+ralimporteur in Erfahrung gebracht hat, wer parallel in die Schweiz importierte Nikon
+Produkte zu welchen Preisen verkauft hat. Zudem geht aus der beschlagnahmten Kor-
+respondenz hervor, dass gegen derartige „box movers“ Massnahmen ergriffen wurden
+(Rz 282). Im Übrigen kann auf die zuvor gemachten Überlegungen verwiesen werden
+(Rz 127 und 133).
+
+Ex-Jugoslawien
+140. Der Vertrag zwischen Nikon Europe BV und dem für Ex-Jugoslawien verantwort-
+lichen Generalimporteur ([…]) enthält in Ziff. 5 folgende Bestimmung:
+
+
+
+
+46
+ RPW 2010/1, 80 Rz 130 f., Gaba.
+
+
+22/2010/00038/COO.2101.111.4.153527 27
+ „The Distributor shall refer to the Agent [Nikon Europe BV] any inquiry or
+ order for the products which the Distributor may receive from any individual,
+ firm or corporation outside the Territory [Jugoslawien].”47
+
+141. Nach Ansicht der WEKO kann auch eine Informationspflicht, gemäss welcher der
+Generalimporteur den Hersteller über Anfragen und Bestellungen von ausserhalb des
+Vertragsgebiets zu informieren hat, geeignet sein, passive Verkäufe in die Schweiz
+auszuschliessen (siehe oben Rz 139). Dies ermöglicht dem Hersteller nämlich, passive
+Verkäufe an Abnehmer ausserhalb des Vertragsgebiets im Einzelfall zu untersagen.
+142. Vorliegend bestehen allerdings keine Beweise, dass passive Verkäufe aus Ex-
+Jugoslawien in die Schweiz untersagt oder behindert wurden. Darüber hinaus liegen
+den Wettbewerbsbehörden keine Hinweise vor, dass aus Ex-Jugoslawien nennenswer-
+te Parallelimporte in die Schweiz stattgefunden haben. Deshalb ist der Vertriebsvertrag
+in Ex-Jugoslawien nicht Gegenstand der nachfolgenden Untersuchung.
+
+USA
+143. Die Händlerverträge aus den USA („Retail Dealers Sales Agreement“ und „Inter-
+net Dealer Sales Agreement“) enthalten jeweils in Ziff. 13 die folgende Bestimmung:
+
+ “Customer [retail dealer, internet dealer] shall not, directly or indirectly,
+ transmit, send or export any product or software to any foreign country (i) in
+ violation of any of the United States export control laws or regulations, and
+ (ii) without first obtaining the express written consent of Nikon. In no event
+ shall customer directly or indirectly, transmit, send, or export any product
+ outside the territory [USA].”48
+
+144. Gemäss Angaben von Nikon wurden diese Händlerverträge für stationäre und In-
+ternet-Händler bereits seit 2004 bis zum heutigen Tag verwendet. Die obengenannte
+Bestimmung untersagt es den Händlern in jedem Fall direkt oder indirekt, Vertragswa-
+ren ausserhalb der USA zu übermitteln, zu senden oder zu exportieren. Die Verträge
+zwischen Nikon USA und ihren Vertragshändlern betreffend Imaging Produkte sehen
+somit ebenfalls nur den Verkauf in den USA vor und der Export von Nikon Imaging
+Produkten ist ausdrücklich unter keinen Umständen zugelassen. Folglich werden auch
+Exporte von Nikon Imaging Produkten aus den USA in die Schweiz mittels einer Ver-
+einbarung im Sinne von Art. 4 Abs. 1 KG ausgeschlossen.
+
+145. In diesem Zusammenhang bleibt darauf hinzuweisen, dass der Vertrag zwischen
+Nikon Inc. (USA) und einem US-amerikanischen Internethändler betreffend den Ver-
+trieb von „Nikon Sport Optics“ über das Internet in den USA folgende Bestimmung ent-
+hält:
+ “4. Internet dealer shall: […] b. Sell or offer for sale Products only from the
+ Website(s) and/or Catalog(s) and only to Internet Customers located in the
+ Territory.” 49
+146. Unter der Bezeichnung „Sport Optics“ fasst Nikon Zielfernrohre, Fernrohre, Fern-
+gläser und Lasermessgeräte zusammen, die in der Schweiz namentlich von Jägern
+und Naturbeobachtern nachgefragt werden. Mit einem durchschnittlichen Jahresum-
+satz von ca. CHF […] von Nikon und einem Gesamtumsatz aller Wettbewerber von ca.
+
+
+47
+ Einfügungen durch die WEKO.
+48
+ Einfügungen und Hervorhebungen durch die WEKO.
+49
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 28
+CHF […] handelt es sich um einen im Vergleich zu Imaging Produkten kleinen Markt in
+der Schweiz. Zudem betrifft die angezeigte Verhaltensweise von Nikon lediglich Ima-
+ging Produkte (vgl. Rz 1 f.). Vor diesem Hintergrund und mangels zusätzlicher sub-
+stanzieller Anhaltspunkte für eine unzulässige Gebietsschutzabrede gemäss Art. 5
+Abs. 4 KG im Bereich Sport Optics wird vorliegend nicht weiter auf diesen Markt einge-
+gangen.
+
+Fazit
+
+147. In Deutschland, Österreich, Slowenien und Ungarn bestehen in den Vertriebsver-
+trägen Klauseln, wonach die Vertragswaren nicht in Länder ausserhalb des EWR ex-
+portiert werden dürfen. In den USA bestehen ebenfalls Vertragsbestimmungen, die Ex-
+porte aus den USA nicht zulassen. Bei den vorgenannten Vertragsklauseln handelt es
+sich um explizite Exportverbote.
+
+148. In Grossbritannien, Griechenland und Polen bestehen keine expliziten Exportver-
+bote, aber Vertragsbestimmungen, die im Zusammenhang mit Massnahmen gegen Pa-
+rallelexporte in die Schweiz implizite Exportverbote darstellen können (siehe unten
+Rz 270 ff.).
+
+149. Damit bestehen zwischen den Nikon Ländergesellschaften bzw. Nikon Europe
+und den Vertriebspartnern in Deutschland, Österreich, Slowenien, Ungarn, den USA,
+Grossbritannien, Griechenland und Polen erzwingbare Vereinbarungen gemäss Art. 4
+Abs. 1 KG.
+150. In den Vertriebsverträgen in Dänemark, Schweden, Norwegen, Portugal, Spani-
+en, Italien und Ex-Jugoslawien bestehen zwar Klauseln, die im Zusammenhang mit
+Massnahmen gegen passive Verkäufe aus diesen Ländern in die Schweiz als implizite
+Exportverbote qualifiziert werden könnten. Allerdings liegen keine Beweise vor, dass
+Nikon in diesen Ländern derartige Massnahmen ergriffen hat. Darüber hinaus liegen
+den Wettbewerbsbehörden keine Hinweise vor, dass aus diesen Ländern nennenswer-
+te Parallelimporte in die Schweiz stattgefunden haben. Folglich bilden die Vertriebsver-
+träge in diesen Ländern nicht Gegenstand der vorliegenden Untersuchung.
+
+151. In Bezug auf die Länder, in denen Nikon tätig ist, die vorangehend aber nicht ge-
+nannt wurden (z.B. Frankreich), bestehen zurzeit keine Anhaltspunkte für vertragliche
+Exportverbote, die zum Ausschluss von passiven Verkäufen in die Schweiz führen.
+
+B.3.1.1.2. Vereinbarungen ausserhalb von Verträgen
+152. Aufgrund des Vorliegens von Anhaltspunkten für die Beteiligung an einer allen-
+falls unzulässigen Gebietsschutzabrede nach Art. 5 Abs. 4 KG mit Nikon dehnte das
+Sekretariat die Untersuchung am 5. Oktober 2010 auf Digitec aus (vgl. Rz 39) und führ-
+te am 17. Januar 2011 eine Anhörung im Sinne von Art. 40 KG mit […] durch (vgl.
+Rz 53). Im Folgenden werden die genannten Anhaltspunkte für eine Abredebeteiligung
+von Digitec und […] dargelegt und gewürdigt.
+
+Keine Abrede mit Digitec
+
+153. Bei Digitec handelt es sich um einen der vormals grössten Parallelimporteure von
+Nikon Produkten in der Schweiz. Im Rahmen der Sichtung der anlässlich der Haus-
+durchsuchung bei Nikon beschlagnahmten Dokumente tauchten Anhaltspunkte dafür
+auf, dass Digitec mit Nikon Ende 2009 vereinbarte, unter bestimmten Bedingungen auf
+Parallelhandel zu verzichten. Das stellt möglicherweise eine unzulässige Gebiets-
+schutzabrede nach Art. 5 Abs. 4 KG dar (siehe oben Rz 39).
+
+
+
+22/2010/00038/COO.2101.111.4.153527 29
+154. Das Sekretariat stützte sich für die Ausdehnung der Untersuchung auf Digitec
+u.a. auf folgende beschlagnahmte E-Mails, die darauf hinweisen, dass sich Digitec Ni-
+kon gegenüber möglicherweise dazu verpflichtet hat, auf Parallelimporte zu verzichten.
+
+a. From: [Nikon Schweiz], To: [Nikon Schweiz], Subject: […], Sent:
+ 06.04.2009 09:19:54, Attachments: […]
+ […]
+
+b. From: [Nikon Schweiz] Sent: 29.09.2009 22:21 To: [Nikon BV] Cc: [Nikon
+ Schweiz], [Nikon BV], [Nikon BV] Subject: AW: Grey Imports from […] and
+ […]
+
+ “While we have succeeded with one large grey importer / Internet trader
+ ([…]) to supply us with freight documents / bills, we are still in negotiations
+ with Digitec, the other large Internet player in the market. […] supplied us
+ with documents from German traders ([…], approx. 70 pcs D700I!!) but he
+ did not source goods from […] as Digitec did.”
+
+c. Von: [Nikon Schweiz] Gesendet: 16.10.2009 10:53 An: [Nikon Schweiz] Be-
+ treff: Input Digitec
+
+ „Gespräch Digitec Erwartungen an Digitec 1) Verzicht auf das Arbitrage
+ Geschäft bei Nikon Produkten 2) Bezug von NIKON Produkten bei offiziel-
+ len Nikon Grossisten […]“
+
+d. Von: [Nikon Schweiz] Gesendet: Donnerstag, 29.10.2009 15:12 An: [Di-
+ gitec] Cc: [Digitec, Nikon Schweiz] Betreff: Angebot NIKON
+
+ „Wie versprochen noch der erweiterte Input zum Thema Zusammenarbeit
+ 1) Pilotversuch Zusammenarbeit November bis Dezember 2009 2) Direkte
+ Zusammenarbeit > Ware wird direkt von Nikon AG ausgeliefert und Rech-
+ nung kommt von Nikon > Direktkunden-Status und entsprechende Integra-
+ tion bei allen lokalen Promotionen […] Ausserdem würden wir gerne die
+ Lagerbestände von Euch kennen und die grossen Posten von importierter
+ Ware gegen CH-Ware tauschen (Service am Kunden).“
+
+ „AW: […]. Dieses Angebot überzeugt uns und wir sind bereit zu diesen Be-
+ dingungen den Umsatz zu euch zu verlagern! […] macht dir bis Montag ei-
+ ne Planung für November und Dezember und teilt dir gleichzeitig mit, wel-
+ che Lagerbestände wir noch haben damit wir die Ware tauschen können.
+ […]“
+
+e. Von: [Digitec] Gesendet: Freitag, 05.02.2010 17:29 An: [Nikon Schweiz]
+ CC: [Digitec, Nikon Schweiz] Betreff: Zusammenarbeit Wichtigkeit: Hoch
+ „Vielen Dank für Deinen Besuch heute. Um meine Position zu unterstrei-
+ chen möchte ich nochmals folgende Punkte erwähnt haben, da Du uns
+ noch keine Lösung für die extrem akuten Probleme präsentieren konntest.
+ Im Schnitt haben wir beim Brand Nikon in den ersten drei Monaten unserer
+ Zusammenarbeit einen Umsatzrückgang von ca. 45 % verzeichnet, obwohl
+ wir bei allen anderen Brands massiv zulegen konnten. Dieser Rückgang ist
+ zum grossen Teil auf den Verzicht von Import (als commitment zu Nikon
+ AG) zurückzuführen. Also reiner Goodwill von unserer Seite => Ich habe an
+ die Zukunft geglaubt und diesen strategischen Entscheid gefällt um den
+ Aufbau eines partnerschaftlichen Verhältnisses zu fördern. Es gibt kein ein-
+ ziger Partner in der Schweiz, welchem wir ein solches Entgegenkommen in
+
+
+22/2010/00038/COO.2101.111.4.153527 30
+ Form von Importverzicht (ja ich weiss jeder soll und darf importieren...) je
+ geleistet haben. Im Gegenzug wird dank der Seriennummerngeschichte
+ von einigen Lieferanten der Name Digitec mit „Verräter" gleichgesetzt (auf
+ die Frage warum Seitens Nikon beim „drangsalieren" der Lieferanten immer
+ Digitec erwähnt worden ist, haben wir noch immer keine Antwort - viele Lie-
+ feranten kannten uns vorher nämlich noch gar nicht). […] Ein Aussenste-
+ hender würde uns auch bei mangelnden Kenntnissen der Details für ver-
+ rückt erklären, dass wir noch Hoffnung in eine goldige Zukunft mit Nikon
+ Schweiz hegen. Doch wir (womit im jetzigen Zeltpunkt eigentlich nur noch
+ ich gemeint bin) haben diese Hoffnung noch. Es sollten die offenen Punkte
+ aber bis Freitag nächster Woche geklärt werden. Ich kann es einfach auch
+ nicht verstehen, dass ihr keine schnelle und unbürokratische Lösung bei
+ den kritischen Produkten herbeiführen wollt. Ihr könnt ja nur gewinnen. Der
+ Umsatz der über das Internet läuft, läuft ohnehin über diesen Kanal. Die
+ Frage ist nur, ob die Ware von Nikon Schweiz kommt oder eben nicht.
+ Wenn ihr auf diesen Umsatz verzichten wollt und/oder könnt, ist das eure
+ Entscheidung. Wir jedenfalls wollen das nicht länger tun. Macht uns doch
+ Preise mit welchen wir in „unserem" Kanal mit Nikon Produkten kompetitiv
+ sein können. Mit Digitec an Bord führt das innert kürzester Zeit zu einer au-
+ tomatischen Bereinigung des Kanals und ihr könnt ein für allemal mit Test-
+ käufen und seriennummernnotieren aufhören (dieser Aufwand in Verbin-
+ dung mit dem Tracking ist ja auch nicht zu unterschätzen) ;-) Die Angebote
+ sind auf dem Tisch und es tut mir in der Seele weh, wenn ich sehe was wir
+ hier verspielt haben...Ich denke aus diesem Mail geht klar hervor, dass ich
+ mit dem Rücken zur Wand stehe und innert kürzester Zeit eine Sofortlö-
+ sung brauche.“
+
+f. Von: [Nikon Schweiz] Gesendet: 23.02.2009 15:12 An: [Digitec] Cc: [Di-
+ gitec, Nikon Schweiz] Betreff: Zukünftige Zusammenarbeit
+
+ „Grundvoraussetzung für eine direkte Zusammenarbeit und die Konditionen
+ ist, dass Digitec sämtliche Nikon Produkte auch bei NIKON AG Schweiz
+ oder bei einem unserer „offiziellen" Distributionspartner bezieht und als
+ Vollsortimentanbieter auftritt.“
+ AW: „Für das Angebot der direkten Zusammenarbeit und die damit verbun-
+ denen Konditionen danke ich Ihnen. Herr […] und ich haben kräftig gerech-
+ net und sehen einer Zusammenarbeit grundsätzlich positiv entgegen. Aller-
+ dings müssten wir ein paar Details noch klären: […] Objektive: Hier haben
+ wir wirklich sehr grosse Differenzen. Im Minimum betragen die Differenzen
+ knapp 10 %, die Regel sind ca. 12–15 % und im Extremfall sind es über
+ 40 %! Alles immer bei Modellen, die wir auch mehrere Male im Monat ver-
+ kaufen. Da wir selbst mit den alles eingerechneten EPs von Nikon keine
+ Chance haben, die aktuellen Marktpreise nur ansatzweise mit zu machen,
+ denken wir, dass wir hier bei geringerer Marge (+-0) erst noch wesentlich
+ weniger Umsatz machen könnten. Diese Einschränkung können wir so
+ kaum hinnehmen. Ich hätte zur Lösung allerdings folgende Idee: Wäre es
+ möglich bei den ca. 10 wichtigsten Objektiven jeweils eine Planung zu ma-
+ chen mit Möglichkeit zu Specialbits. Die Mengen würden sich jeweils ab ca.
+ 30–50 Stück bewegen. Die zusätzlichen Rabatte müssten sich dafür zwi-
+ schen 5–10 % bewegen. Es geht uns wie gesagt hier nicht darum das US-
+ Pricing zu verlangen, aber wir können schlecht damit leben, dass wir bei
+ den Objektiven plötzlich abgeschlagen sind, insbesondere da wir hier für
+ dieses Jahr doch ein Wachstum sehen. Mit einer Option in diese Richtung
+ wären wir bereit unseren Umsatz wirklich komplett in die Schweiz zu.“
+
+22/2010/00038/COO.2101.111.4.153527 31
+ AW/AW: „ […] Was gibt es zur Zeit für Angebote von internationalen Tra-
+ dern (interessant wäre der Unterschied Amerika / Asien / Europa)? […]“
+
+ AW/AW/AW: „[…] Wir möchten zum aktuellen Zeitpunkt ungern genaueres
+ über die Angebote und die Herkunft der Objektive sagen. Bei einer Zu-
+ sammenarbeit sind wir aber gerne bereit die konkreten Angebote offen zu
+ legen. Sie können mir aber glauben, dass die Angaben unten von „knapp
+ 10 %" bis „über 40 %" stimmen. […]“
+
+ AW/AW/AW/AW: […] „Ihre Antwort bezüglich den Angeboten kann ich gut
+ verstehen. Damit wir bei einer allfälligen Zusammenarbeit jedoch ein Ar-
+ gument haben, wäre es sicher gut, wenn zu gegebener Zeit die Offerten of-
+ fen gelegt würden.“
+
+155. Die bei Nikon beschlagnahmte E-Mail Korrespondenz lässt vordergründig darauf
+schliessen, dass Digitec unter der Bedingung ins offizielle Vertriebssystem von Nikon
+aufgenommen wurde, dass auf Parallelimporte verzichtet wurde, was eine unzulässige
+Gebietsschutzabrede nach Art. 5 Abs. 4 KG darstellen kann. Das Sekretariat hat diver-
+sen Händlern von Nikon Produkten in der Schweiz und im Ausland einen Fragebogen
+zukommen lassen, in dem sie unter anderem zu ihren Parallelhandelstätigkeiten be-
+fragt wurden. Digitec hat die entsprechenden Antworten eingereicht, nachdem die Un-
+tersuchung auf sie ausgedehnt worden war.
+
+156. Digtec hat im Zusammenhang mit dem Rückgang der Parallelhandelstätigkeiten
+Ende 2009 Folgendes geltend gemacht:
+
+ „Nikon hat uns im Rahmen der Verhandlungen Ende 2009 signalisiert, dass
+ es nicht in ihrem Sinne ist, dass Digitec, sollte es zu einer direkten Partner-
+ schaft kommen, weiterhin Ware importiert oder bei inoffiziellen Lieferanten
+ einkauft. Unter anderem deshalb, weil Nikon in einer direkten Partnerschaft
+ den Partner als „offiziellen" Nikon Händler ausweist und die erweiterten Ga-
+ rantieleistungen gewährt. Wir haben Nikon daraufhin mitgeteilt, dass eine
+ komplette Verlagerung des Einkaufs nur in Frage kommt, wenn die Rah-
+ menbedingungen entsprechend stimmen. Über diese Rahmenvereinbarun-
+ gen haben wir, […] verhandelt und schliesslich eine Einigung gefunden, so
+ dass es für uns gepasst hat. […]. Würde sich eine Preisdifferenz oder an-
+ dere Nachteile ergeben, würde Digitec nicht zögern und wieder im Ausland
+ oder bei inoffiziellen Quellen einkaufen. Es gab zu keinem Zeitpunkt An-
+ drohung von Konsequenzen, sollte Digitec trotz der Partnerschaft Importe
+ tätigen. Es wurden auch keine Lieferanten speziell erwähnt, bei denen Di-
+ gitec nicht einkaufen sollte.“50
+
+157. Zum Vorwurf, dass möglicherweise eine unzulässige Gebietsschutzabrede zwi-
+schen Nikon und Digitec vorliege, hat Letztere folgendermassen Stellung genommen:
+ „Nikon hat sich dahingehend geäussert, dass sie nur an einer Zusammen-
+ arbeit interessiert sind, wenn wir das gesamte Volumen bei Nikon CH ein-
+ kaufen und es gab auch die Äusserung, dass Nikon von uns eine Zusiche-
+ rung diesbezüglich erwartet. Daraufhin haben wir Nikon signalisiert, dass
+ sich durch Konditionen, welche besser sind als im Ausland, automatisch
+ eine Verlagerung des Einkaufsvolumens vom Ausland in die Schweiz erge-
+ ben wird. Entscheidend ist aber, dass niemals in irgendeiner Form Bedin-
+ gungen existierten und auch keine Konsequenzen angedroht wurden sei-
+
+
+50
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 32
+ tens Nikon, falls wir dennoch importieren würden. Für Digitec waren des-
+ halb alle Äusserungen zur Exklusivität - seitens Nikon, wie auch seitens Di-
+ gitec - Floskeln ohne weitere Bedeutung. Digitec hätte sich niemals auf ei-
+ ne Zusammenarbeit eingelassen, wenn uns irgendwelche Einschränkun-
+ gen auferlegt worden wären, unseren Einkauf jederzeit wieder weg von Ni-
+ kon CH, zu inoffiziellen Quellen zu verlagern.51 Da uns aber Nikon – wie in
+ der den Antworten vom letzten Mai angefügten Excel-Kalkulation dargelegt
+ – bessere Konditionen angeboten hatte, machte ein Import für uns aus
+ wirtschaftlichen Gründen absolut keinen Sinn mehr.“
+
+158. Der WEKO liegen keine ausreichenden Beweise vor, dass Digitec sich gegen-
+über Nikon verpflichtet hat, auf Parallelimporte zu verzichten und effektiv auch von Im-
+porten absehen würde, wenn sich diese wirtschaftlich lohnen würden. Die bei Nikon
+beschlagnahmte E-Mail Korrespondenz und die Aussagen von Digitec sind insofern
+stimmig, als Digitec mit Nikon über die Konditionen verhandelt und in diesem Zusam-
+menhang Nikon gegenüber ihre Bezugspreise im Ausland offengelegt hat, um einen
+gewissen Druck auf Nikon auszuüben. Da es sich bei Digitec um einen der grössten
+Händler in der Schweiz handelte, der seine Ware zu einem Grossteil nicht über Nikon
+Schweiz, sondern auch über ausländische Händler bezog, hatte Nikon ein grosses In-
+teresse, Digitec „ins Boot“ zu holen. Dies deckt sich wiederum mit der Aussage, wo-
+nach Nikon Digitec bessere Konditionen angeboten hat, so dass sich ein Bezug im
+Ausland wirtschaftlich gar nicht mehr lohnte.
+
+159. Das soeben aufgezeigte Verhalten von Digitec gegenüber Nikon wird zusammen
+mit dem nachfolgend zu beschreibenden Verhalten von […] im Anschluss daran ge-
+würdigt (siehe unten Rz 166 ff.).
+
+Keine Abrede mit […]
+160. Bei […] handelt es sich um einen Einzelhändler, der – zumindest vor 2010 –
+ebenfalls in bedeutendem Ausmass Parallelimporte von Nikon Produkten tätigte. Das
+Sekretariat fand im Laufe der Ermittlungsarbeiten Anhaltspunkte dafür, dass sich […]
+möglicherweise gegenüber Nikon dazu verpflichtet hat, auf Parallelimporte zu verzich-
+ten. Dies kann eine unzulässige Gebietsschutzabrede nach Art. 5 Abs. 4 KG darstel-
+len. Vor einer möglichen Ausdehnung der Untersuchung auf […] hat das Sekretariat
+die Vertreter des Unternehmens am 17. Januar 2011 zu einer Anhörung nach Art. 40
+KG eingeladen (siehe oben Rz 53).
+161. Anlässlich dieser Anhörung wurden den Vertretern von […] u.a. die nachfolgen-
+den Auszüge aus der bei Nikon beschlagnahmten E-Mail Korrespondenz zur Stellung-
+nahme vorgelegt. Die E-Mail Auszüge lassen vordergründig darauf schliessen, dass
+sich […] gegenüber Nikon möglicherweise dazu verpflichtet hat, bei einer Zusammen-
+arbeit mit Nikon auf Parallelimporte zu verzichten.
+
+a. From: [Nikon Schweiz], To: [Nikon Schweiz], Subject: […], Sent:
+ 06.04.2009 09:19:54, Attachments: […]
+
+ […]
+
+b. Von: [Nikon Schweiz] Gesendet: 21.08.2009 11:15 An: [Nikon Schweiz] Be-
+ treff: WG: D700 offers from […] to Swiss Dealers
+
+
+
+
+51
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 33
+ „Bitte Herrn […] anfragen, ob er D700 bei […] für uns kaufen könnte. Wir
+ bezahlen alle Kosten. Des Weiteren müssen wir unbedingt wissen, um wie
+ viele D700 es sich handelt. Herr […] soll bitte die Totalmenge anfragen.“
+
+ AW: „[…] wird 2pcs von der D700 bestellen sowie die Lagermenge eruie-
+ ren. l'll keep you up to date.“
+ Am 27. Juli 2009 hat […] Offerten der deutschen […] für Nikon Digitalkame-
+ ras ohne Wechselobjektiv (Coolpix) und digitale Spiegelreflexkameras von
+ Nikon mit Wechselobjektiv (D300 und D700) und der US-amerikanischen
+ […] für die Nikon Digitalkameras S630 und S220 an Nikon weitergeleitet.
+
+ Am 30. September 2009 hat […] ein Angebot für eine Spiegelreflexkamera
+ von Nikon mit Wechselobjektiv (D300) von […] an Nikon weitergeleitet.
+
+c. Von: [Nikon Schweiz] Gesendet: 16.09.2009 16:31 An: [Nikon Schweiz] Cc:
+ [Nikon Schweiz], [Nikon Schweiz] Betreff: RG […] Anlagen:
+ SCAN160909[1].pdf; ATT296047.htm
+
+ „Im Anhang eine RG von […]. Gesamthaft wurde von GmbH52 an […]
+ 600pcs D700 geliefert, davon 520pcs D700 Speedkit (Body + MB-DI0) und
+ 40pcs D700 Speedkits 24-120mm. Neben den bereits bekannten Importen
+ von D700 ([…]) und Objektiven ([…]) hat […] dieses Jahr noch folgende
+ Produkte importiert D300 Body 8 pcs […] D90 Body 12 pcs […]. Herr […]
+ hofft, dass wir damit etwas bewerken können und wünscht, dass er wieder
+ seinem normalen Geschäftsalltag mit CH-Ware nachgehen kann.“
+
+d. From: [Nikon Schweiz] Sent: 29.09.2009 22:21 To: [Nikon BV] Cc: [Nikon
+ Schweiz], [Nikon BV], [Nikon BV] Subject: AW: Grey Imports53 from […]54
+ and […] (vgl. Rz 154 b)
+
+ “While we have succeeded with one large grey importer / Internet trader
+ ([…]) to supply us with freight documents / bills, we are still in negotiations
+ with Digitec, the other large Internet player in the market. […] supplied us
+ with documents from German traders ([…], approx. 70 pcs D700I!!) but he
+ did not source goods from […] as Digitec did.”
+162. Das Sekretariat hat […] ebenfalls einen Fragebogen zugestellt, der Fragen zur
+Parallelhandelstätigkeit enthielt. Den Antworten von […] lässt sich entnehmen, dass
+[…] im Jahr 2009 noch Nikon Produkte im Umfang von […] % des mit Nikon erwirt-
+schafteten Gesamtumsatzes parallel importierte und im Jahr 2010 […].
+
+163. Aufgrund dieser Angaben und der Auszüge aus den bei Nikon beschlagnahmten
+E-Mails, lagen substantiierte Anhaltspunkte dafür vor, dass sich […] möglicherweise
+gegenüber Nikon verpflichtet hatte, auf Parallelhandel zu verzichten, was eine unzu-
+lässige Gebietsschutzabrede nach Art. 5 Abs. 4 KG darstellen kann. Das Sekretariat
+
+
+52
+ Mit GmbH ist die Nikon GmbH in Deutschland gemeint (Anmerkung der WEKO).
+53
+ Als sog. „Grauimporte“ oder „Graumarktwaren“ werden Waren bezeichnet, die der Händler
+von einem Wiederverkäufer bezogen hat, der nicht zum Vertrieb im selektiven Vertriebssystem
+zugelassen ist (STEFFEN NOLTE, in: Kommentar zum deutschen und europäischen Kartellrecht,
+Langen/Bunte (Hrsg.), 2010, Art. 81 EGV N 642).
+54
+ Bei […] handelt es sich um den Generalimporteur von Nikon Produkten in Spanien und Por-
+tugal und damit um einen Händler, der zum offiziellen Vertriebssystem von Nikon gehört. Folg-
+lich handelt es sich gemäss der Definition in Fn 53 nicht um Graumarktwaren, wenn […] an Di-
+gitec liefert.
+
+
+22/2010/00038/COO.2101.111.4.153527 34
+hat […] daher am 17. Januar 2011 zu einer Anhörung nach Art. 40 KG vorgeladen
+(siehe oben Rz 53).
+
+164. Die Vertreter von […] haben anlässlich dieser Anhörung ausgesagt, dass […] den
+Markt permanent beobachte. Sofern die Bedingungen im Ausland besser seien, werde
+parallel importiert. Seit 2010 sei das Angebot im Ausland allerdings nicht mehr so at-
+traktiv und die Kunden wollten Nikon Produkte mit „„Swiss Garantie“.“55 Zudem habe
+Nikon die Bezugspreise gesenkt.
+
+165. Den Wettbewerbsbehörden liegen keine Beweise dafür vor, dass sich […] ge-
+genüber Nikon dazu verpflichtete, auf Parallelimporte zu verzichten, und auch tatsäch-
+lich davon absehen würde, wenn es sich wirtschaftlich lohnen würde, im Ausland zu
+beziehen. Die Vertreter von […] bestätigen vielmehr die Aussage von Digitec, wonach
+Nikon die Preise angepasst hat und sich ein Bezug im Ausland im Jahr 2010 deshalb
+wirtschaftlich nicht mehr lohnte.
+
+Würdigung
+166. Zusammenfassend bestreiten sowohl Digitec als auch […], mit Nikon eine Abre-
+de darüber getroffen zu haben, auf Parallelimporte zu verzichten. Der WEKO liegen
+keine ausreichenden Beweise für eine derartige Abrede vor. Namentlich enthält die
+Konditionenvereinbarung 2010 zwischen Nikon und […] keine Klausel, wonach […] auf
+Parallelimporte zu verzichten hat. Hinzu kommt, dass […] den Vertrag für den Vertrieb
+der Spiegelreflexkamera D3S, in dem der Händler sich zum Bezug in der Schweiz oder
+in Liechtenstein verpflichtet (siehe oben Rz 107), nicht unterzeichnet hat. Auch in Be-
+zug auf Digitec liegen der WEKO keine vertraglichen Abmachungen vor, wonach Di-
+gitec bei einer Zusammenarbeit mit Nikon auf Parallelimporte verzichtet.
+167. Unter diesen Umständen haben die Wettbewerbsbehörden die Folgen der Be-
+weislosigkeit für eine Abrede nach Art. 4 Abs. 1 KG zwischen Nikon und Digitec bzw.
+Nikon und […] zu tragen, weshalb die Untersuchung nicht auf […] ausgedehnt wurde
+und das Verfahren gegen Digitec ohne Folgen eingestellt wird.
+
+B.3.1.2. Bezwecken oder Bewirken einer Wettbewerbsbeschränkung
+168. Gemäss Art. 4 Abs. 1 KG genügt es, dass die Abrede eine Wettbewerbsbe-
+schränkung bezweckt oder bewirkt. Es müssen folglich nicht beide Tatbestandsele-
+mente kumulativ erfüllt sein. Erforderlich ist allerdings, dass sich die Wettbewerbsbe-
+schränkung kausal auf die Wettbewerbsabrede zurückführen lässt.56
+
+169. Nikon macht geltend, die WEKO lasse die geforderte Kausalität zwischen den
+einzelnen von der WEKO in den in- und ausländischen Händlerverträgen von Nikon
+identifizierten Abreden und der angeblichen Wettbewerbsbeschränkung gänzlich un-
+geprüft. Über eine Reihe von sog. Massnahmen zur Verhinderung von Parallelimporten
+in die Schweiz werde sodann versucht, die Wettbewerbsbeschränkung zu konstruie-
+ren, obwohl diese Massnahmen in keinem direkten Zusammenhang zu den in- und
+ausländischen Vertriebsverträgen stehen und selbst keine Wettbewerbsabreden dar-
+stellen würden. Folglich fehle es an der Kausalität.
+
+170. Dem ist entgegen zu halten, dass für die Unterstellung unter Art. 4 Abs. 1 KG die
+Umsetzung der Wettbewerbsabrede nicht erforderlich ist. Ebensowenig müssen be-
+
+
+
+55
+ Siehe Ausführungen dazu in Rz 292 ff.
+56
+ BSK KG-NYDEGGER/NADIG (Fn 34), Art. 4 Abs. 1 KG N 68 m.w.N.
+
+
+22/2010/00038/COO.2101.111.4.153527 35
+stimmte Wirkungen im Markt ausgelöst worden sein.57 Dieser Nachweis ist praxisge-
+mäss bei der materiellen Prüfung von Art. 5 KG zu erbringen. Wie die WEKO bereits im
+Entscheid „„Gaba““ festhielt, liegt eine Besonderheit von Gebietsschutzabreden darin,
+dass im Gegensatz zu einer Preisbindung zweiter Hand eine absolute Gebietsschutz-
+abrede die daran beteiligten Unternehmen nicht zur Vornahme, sondern typischer-
+weise zur Unterlassung einer Handlung verpflichtet.58 Die Unterlassungshandlung – sei
+es durch den unterlassenen Export oder durch den unterlassenen Import aufgrund ei-
+ner vertraglichen Verpflichtung – kann folglich naturgemäss kaum je mit Sicherheit auf
+die einzelne Wettbewerbsbeschränkung (Beschränkung des Absatz- resp. des Be-
+zugsgebietes) zurückgeführt werden. Die vorgenannten Vereinbarungen59 sind jedoch
+allesamt objektiv geeignet, Parallelimporte zu verhindern.
+
+171. Darüber hinaus ist Folgendes festzuhalten: Auch wenn Art. 4 Abs. 1 KG von „Be-
+zwecken“ spricht, kommt es nicht auf die subjektive Absicht der Unternehmen an, de-
+ren Nachweis in der Regel kaum zu erbringen sein dürfte. Vielmehr muss es für die
+Unterstellung unter Art. 4 Abs. 1 KG genügen, dass der Inhalt der Abrede, durch Aus-
+schaltung oder Beeinträchtigung eines oder mehrerer Wettbewerbsparameter, objektiv
+geeignet ist, eine Wettbewerbsbeschränkung herbeizuführen (sog. objektivierter
+Zweckbegriff).60
+
+172. Nikon bringt dagegen vor, das Verständnis der WEKO, wonach der „objektivierte
+Zweckbegriff“ i.S.v. Art. 4 Abs. 1 KG lediglich verlange, dass sich die Abrede objektiv
+eigne, eine Wettbewerbsbeschränkung herbeizuführen, sei falsch und werde durch die
+angegebenen Quellen nicht gestützt. Es müsse auch unter dem „objektivierten Zweck-
+begriff“ die subjektive Absicht der Abredepartner nachgewiesen werden, wobei auf ob-
+jektive Beweiselemente, wie etwa den Wortlaut der Abrede, abgestützt werden dürfe.
+
+173. Dieses Vorbringen stösst ins Leere: Unter dem objektivierten Zweckbegriff ist der
+Nachweis des Unrechtsbewusstseins oder des Willens der Beteiligten zur Wettbe-
+werbsbeschränkung eben gerade nicht erforderlich (siehe oben Rz 171). Aber selbst
+nach dem Verständnis der Verfügungsadressatin können die einzelnen Vertragsklau-
+seln insofern nicht anders verstanden werden, als letztlich zumindest eine Aufteilung
+der einzelnen Vertragsgebiete bezweckt wurde. Somit wurden für den freien Wettbe-
+werb wesentliche Wettbewerbsparameter wie namentlich die Bezugsquelle oder der
+Vertriebsort eingeschränkt.
+174. Weiter hätten gemäss Nikon weder die ausländischen Ländergesellschaften von
+Nikon noch die Nikon-Europazentrale und die Händler als Vertragspartner die Absicht
+gehabt, mit den identifizierten Vertragsklauseln den Wettbewerb zu beschränken
+(Art. 4 Abs. 1 KG). Sie hätten lediglich vereinbart, was nach den für sie primär relevan-
+ten Bestimmungen des europäischen Wettbewerbsrechts zulässig und üblich sei.
+Schon gar nicht hätten sie die Absicht gehabt, den Wettbewerb konkret in der Schweiz
+zu beschränken (Art. 2 Abs. 2 KG).
+
+175. Diese Überlegungen vermögen die objektive Eignung der Abreden, eine Wettbe-
+werbsbeschränkung durch Ausschaltung oder Beschränkung eines oder mehrerer
+Wettbewerbsparameter (z.B. Vertriebskanal, Parallelimporte) herbeizuführen, nicht in
+
+
+57
+ BSK KG-NYDEGGER/NADIG (Fn 34), Art. 4 Abs. 1 KG N 70 m.w.N.
+58
+ RPW 2010/1, 103 Rz 309, Gaba.
+59
+ Vgl. vorne Rz 98 ff.
+60
+ BSK KG-NYDEGGER/NADIG (Fn 34), Art. 4 Abs. 1 KG N 69 ff., m.V.a. RPW 2006/4, 593, Rz 26
+– Tarif des Verbands Schweizerischer Unternehmungen für Bau und Unterhalt von Tankanla-
+gen.
+
+
+22/2010/00038/COO.2101.111.4.153527 36
+Frage zu stellen. Inwiefern es sich dabei um eine zulässige oder unzulässige Wettbe-
+werbsbeschränkung handelt, ist nicht im Lichte von Art. 4 Abs. 1 KG, sondern bei der
+materiellen Prüfung nach Art. 5 KG abzuhandeln.
+
+176. Im Folgenden wird geprüft, ob die Verträge von Nikon eine Wettbewerbsbe-
+schränkung bezwecken oder bewirken bzw. bezweckt oder bewirkt haben.
+
+Alter Grossistenvertrag, Vertriebsvereinbarungen „D3S/D3X“, „Nikon Professional Ser-
+vice“
+
+177. Im alten Grossistenvertrag, in den Vertriebsvereinbarungen „D3S/D3X“ und im
+Vertrag „Nikon Professional Service“ ist eine Klausel enthalten, wonach sich der Ver-
+tragspartner dazu verpflichtet, die Vertragsware nur im Vertragsgebiet zu beziehen
+(siehe Rz 99, 107, 112), wobei das Vertragsgebiet auf die Schweiz und Liechtenstein
+beschränkt ist. Eine derartige Vertragsklausel ist objektiv geeignet, Parallelimporte ins
+Vertragsgebiet zu unterbinden und den Wettbewerb damit zu beschränken.
+
+178. Aus dem klaren und unzweideutigen Wortlaut der entsprechenden Klauseln muss
+geschlossen werden, dass die Abredepartner zumindest den Wettbewerbsparameter
+der Bezugsquelle beschränken wollten. Welche Bedeutung letztlich dem einzelnen Pa-
+rameter und damit der Wettbewerbsbeschränkung als Ganzem beigemessen wird, ist
+nicht Gegenstand der Beurteilung einer Abrede im Lichte von Art. 4 Abs. 1 KG, son-
+dern der materiellen Prüfung nach Art. 5 KG.61 Eine anderslautende Abrede liegt bis
+zum 1. September 2009 nicht vor. Es fehlen auch sonst Hinweise wie namentlich Pro-
+tokolle, Besprechungsnotizen und (E-Mail) Korrespondenzen welche auf eine Ausser-
+kraftsetzung oder faktische Nichtbeachtung des Vertrages schliessen liessen.
+
+Neuer Selektivvertriebsvertrag Grossisten ab 1. September 2009
+179. Der neue Selektivvertrag für Grossisten, welcher seit dem 1. September 2009 in
+Kraft ist, enthält kein Bezugsverbot ausserhalb des Vertragsgebiets mehr. Unter dem
+neuen Vertrag verpflichten sich die Grossisten, die Vertragsware nur bei zugelassenen
+Händlern zu beziehen und sie ausschliesslich an zugelassene Händler zu vertreiben.
+Obwohl eine derartige Klausel für sich alleine in der Regel den Tatbestand von Art. 5
+Abs. 4 KG nicht erfüllt, kann sie unter gewissen Umständen als Instrument zur Ab-
+schottung des Schweizer Marktes dienen (vgl. Rz 99 ff.).
+
+Ausländische Händlerverträge der Nikon Gruppe
+
+180. In Deutschland, Österreich, Slowenien und Ungarn bestehen in den Vertriebsver-
+trägen Klauseln, wonach die Vertragswaren nicht in Länder ausserhalb des EWR ex-
+portiert werden dürfen (Rz 119 ff.). In den USA bestehen ebenfalls Vertragsbestim-
+mungen, die Exporte aus den USA nicht zulassen (Rz 143). Diese expliziten vertragli-
+chen Exportverbote sind objektiv geeignet, Parallelimporte durch die Vertragshändler in
+die Schweiz zu unterbinden und damit den Wettbewerb zu beschränken.
+
+181. In Grossbritannien, Griechenland und Polen sehen die Vertriebsverträge den
+Verkauf nur im jeweiligen Staatsgebiet vor (Rz 126 ff.). Diese impliziten Exportverbote
+vermögen für sich alleine keine Parallelimporte durch die Vertragshändler in die
+Schweiz zu verhindern. Allerdings sind sie im Zusammenhang mit weiteren Massnah-
+men, wie sie zumindest bei Parallelimporten aus Grossbritannien, Griechenland und
+Polen ergriffen wurden (siehe unten Rz 272 a und b, 283 und 286), geeignet, Paralle-
+limporte in die Schweiz zu verhindern und damit den Wettbewerb zu beschränken.
+
+
+
+61
+ BGE 129 II 18 E. 8.3.
+
+
+22/2010/00038/COO.2101.111.4.153527 37
+182. Nikon bringt vor, dass für die ausländischen Händlerverträge jede einzelne Ver-
+tragsklausel unter dem Gesichtspunkt des Bezweckens oder Bewirkens einer Wettbe-
+werbsbeschränkung hätte separat geprüft werden müssen. Dabei wären für die bean-
+standeten Vertragsklauseln sämtliche Voraussetzungen nach Art. 4 Abs. 1 sowie Art. 2
+Abs. 2 KG zu untersuchen gewesen, anstatt die verschiedenen Vertragsklauseln in un-
+zutreffende und irreführende Kategorien (implizite und explizite Exportverbote) einzu-
+ordnen. Die von Nikon vorgenommene separate Prüfung der einzelnen Vertragsbe-
+stimmungen hält im Ergebnis fest, dass die meisten dieser Klauseln keine Wettbe-
+werbsbeschränkung beinhalten, jedenfalls eine solche nicht bezwecken würden und
+ausnahmslos auch keine qualifizierte Auswirkung auf den Schweizer Markt gegeben
+sei.
+183. Entgegen den Vorbringen von Nikon ist eine Kategorisierung der einzelnen Abre-
+den in ausländischen Händlerverträgen in explizite und implizite Exportverbote aus
+zwei Gründen gerechtfertigt: Einerseits drängt sich die Einteilung in die beiden Grup-
+pen von expliziten und impliziten Exportverbotsklauseln angesichts der nahezu identi-
+schen Vertragsbestimmungen innerhalb derselben Gruppe auf. Andererseits ist zwar
+mit der Verfügungsadressatin übereinzustimmen, dass einzelne implizite Vereinbarun-
+gen für sich alleine genommen den Tatbestand von Art. 4 Abs. 1 KG nicht zu erfüllen
+vermögen. Wie unter Rz 181 aufgeführt, sind aber auch die impliziten Exportverbote im
+Zusammenhang mit weiteren Massnahmen, wie sie nachweislich zumindest bei Paral-
+lelimporten aus Grossbritannien, Griechenland und Polen ergriffen wurden, geeignet,
+Parallelimporte in die Schweiz zu verhindern und damit den Wettbewerb zu beschrän-
+ken.
+
+B.3.2. Beseitigung des wirksamen Wettbewerbs
+
+184. Gemäss Art. 5 Abs. 4 KG wird die Beseitigung des wirksamen Wettbewerbs ver-
+mutet bei Abreden zwischen Unternehmen verschiedener Marktstufen über Mindest-
+oder Festpreise sowie bei Abreden in Vertriebsverträgen über die Zuweisung von Ge-
+bieten, soweit Verkäufe in diese durch gebietsfremde Vertriebspartner ausgeschlossen
+werden. Vorliegend kommt eine Gebietsschutzabrede in Frage, weshalb nachfolgend
+die entsprechenden Tatbestandselemente geprüft werden.
+
+185. Im Sinne einer Vorbemerkung zu den nachfolgenden Ausführungen zu Art. 5
+Abs. 4 KG sei darauf verwiesen, dass es dem Willen des Gesetzgebers entspricht, im
+Bereich vertikaler Absprachen eine analoge Politik zu jener der Europäischen Kommis-
+sion zu fahren.62 Im Rahmen der parlamentarischen Beratung von Art. 5 Abs. 4 KG
+kam klar zum Ausdruck, dass mit vertikalen Preis- und Gebietsabreden in der Schweiz
+in Zukunft – nach dem Vorbild der EU – strenger verfahren werden sollte.63 Dement-
+sprechend lehnt sich die Vertikalbekanntmachung der WEKO64 an die Vertikal-GVO
+der Europäischen Kommission65 und die entsprechenden Vertikal-Leitlinien66 an und
+
+
+
+
+62
+ RPW 2009/2 151 Rz 70 Sécateurs et cisailles, m.V.a. DEISS, AB 2002 N 1434 ff.
+63
+ RPW 2009/2 151 Rz 70, Sécateurs et cisailles, m.V.a. BÜHRER, AB 2002 1293.
+64
+ Siehe oben Fn 25.
+65
+ Verordnung (EU) Nr. 330/2010 der Kommission vom 20. April 2010 über die Anwendung von
+Artikel 101 Absatz 3 des Vertrags über die Arbeitsweise der Europäischen Union auf Gruppen
+von vertikalen Vereinbarungen und abgestimmten Verhaltensweisen, ABl. L 102 vom 23.4.2010
+S. 1 (im Folgenden: Vertikal-GVO).
+66
+ Mitteilung der EU-Kommission: Leitlinien für vertikale Beschränkungen, ABl. C 130 vom
+19.5.2010 S.1, Rz 50 (im Folgenden: Vertikal-Leitlinien).
+
+
+22/2010/00038/COO.2101.111.4.153527 38
+hat die WEKO die europäischen Regeln als analog anwendbar erklärt (Erw.-Gr. VI. f.
+VertBek; siehe unten Rz 202).
+
+B.3.2.1. Vorliegen einer vertikalen Abrede über die Zuweisung von Gebieten
+
+186. Unter den gesetzlichen Vermutungstatbestand von Art. 5 Abs. 4 KG fallen Abre-
+den in Vertriebsverträgen über die Zuweisung von Gebieten, soweit Verkäufe in diese
+Gebiete durch gebietsfremde Vertriebspartner ausgeschlossen werden.
+
+187. Nikon macht geltend, der Tatbestand des absoluten Gebietsschutzes von Art. 5
+Abs. 4 KG sei nur erfüllt, wenn kumulativ:
+
+ der Hersteller das Gebiet der Schweiz einem Händler exklusiv zuweise, und
+
+ der Hersteller sich gegenüber diesem Exklusivhändler in der Schweiz verpflichte,
+ Passivverkäufe (bzw. Querlieferungen im Falle eines Selektivvertriebs) absolut
+ (wasserdicht) in die Schweiz zu unterbinden.
+
+188. Laut Nikon sind alle anderen Formen von Gebietsbeschränkungen in Vertikalab-
+reden höchstens unter Art. 5 Abs. 1 KG zu prüfen. Auf diese Vorbringen wird nachfol-
+gend im Zusammenhang mit der Prüfung der einzelnen Tatbestandselemente einge-
+gangen.
+
+B.3.2.1.1. Abreden in Vertriebsverträgen über die Zuweisung von Gebieten
+189. Zunächst setzt Art. 5 Abs. 4 KG Abreden in Vertriebsverträgen über die Zuwei-
+sung von Gebieten voraus.
+
+Abrede
+190. Für die Definition von Wettbewerbsabreden wird nach oben verwiesen (Rz 92 ff.).
+
+Vertriebsvertrag
+191. Gemäss dem Gesetzestext werden sämtliche Vertriebsverträge erfasst, unab-
+hängig davon, ob der Vertrieb selektiv, exklusiv oder offen organisiert ist. Darüber hin-
+aus werden auch Vertriebsklauseln erfasst, die sich nicht in eigentlichen Vertriebsver-
+trägen, sondern z.B. in Franchise- oder Lizenzverträgen befinden.67 Damit stösst das
+Argument von Nikon, wonach es sich beim alten Grossistenvertrag (Rz 99) und beim
+„D3S/D3X“-Vertrag (Rz 107) nicht um einen selektiven Vertriebsvertrag bzw. beim
+„NPSD“-Vertrag (Rz 112) nicht um einen Vertriebsvertrag i.S.v. Art. 5 Abs. 4 KG hand-
+le, ins Leere.
+
+Gebiet
+
+192. Art. 5 Abs. 4 KG erfasst jede Art geographischer Aufteilung von Absatzgebieten,
+die eine Marktabschottung zum Resultat hat, indem anderen oder potenziellen Wett-
+bewerbsteilnehmern der Zutritt auf den fraglichen Markt erschwert oder verunmöglicht
+wird. Damit soll der freie markeninterne Wettbewerb (sog. Intrabrand-Wettbewerb)
+grundsätzlich auf allen Gebieten gewährleistet werden. Folglich kann sich Art. 5
+
+
+
+
+67
+ Vgl. PATRICK L. KRAUSKOPF/OLIVIER SCHALLER, in: in: Basler Kommentar, Kartellgesetz, Am-
+stutz/Reinert (Hrsg.), 2010, Art. 5 KG N 534 ff.
+
+
+22/2010/00038/COO.2101.111.4.153527 39
+Abs. 4 KG sowohl auf den rein inländischen als auch auf den grenzüberschreitenden
+Vertrieb eines Produkts beziehen.68
+
+Zuweisung
+
+193. Die Bildung eines geografischen Verkaufsgebiets muss kausal auf eine Zuwei-
+sung durch den Lieferanten bzw. Hersteller zurückzuführen sein. Nicht unter den Ver-
+mutungstatbestand von Art. 5 Abs. 4 KG fällt somit eine auf dem freien Entschluss des
+Wiederverkäufers basierende Beschränkung des Vertragsgebiets. Unter Art. 5 Abs.
+4 KG wird sowohl die direkte als auch die indirekte Zuweisung von Gebieten erfasst
+(Ziff. 10 Abs. 2 VertBek, siehe Rz 222).69 Namentlich können auch Klauseln wie Allein-
+bezugsverpflichtungen in selektiven Vertriebsverträgen, die den Händler verpflichten,
+einen wesentlichen Anteil seines Bedarfs beim Schweizer Generalimporteur oder
+Grossisten zu beziehen, zu einem indirekten Gebietsschutz führen.70
+
+194. Vorliegend bestehen folgende Abreden in Vertriebsverträgen über die Zuweisung
+von Gebieten:
+
+ im alten Grossistenvertrag, im „D3S/D3X“-Vertrag und im „NPSD“-Vertrag wird
+ den Vertriebspartnern das Vertragsgebiet Schweiz und Liechtenstein zugewie-
+ sen;
+
+ in den Vertriebsverträgen in Deutschland, Österreich, Slowenien, Ungarn, den
+ USA, Grossbritannien, Polen und Griechenland wird den Vertriebspartnern das
+ jeweilige Staatsgebiet zugewiesen.
+
+Keine Beschränkung auf schweizerische Vertriebsverträge
+195. Nikon bringt vor, der Wortlaut von Art. 5 Abs. 4 KG decke (wie auch die Entste-
+hungsgeschichte zeige) nur die Abrede mit dem schweizerischen Händler, nicht jedoch
+diejenige mit dem gebietsfremden Partner ab. Nikon macht geltend, Art. 5 Abs. 4 KG
+setze einen schweizerischen Vertriebsvertrag voraus. Der Inhalt der Vertriebsverträge
+mit gebietsfremden Händlern sei für die Tatbestandsmässigkeit nicht relevant. Insbe-
+sondere sehe der Wortlaut von Art. 5 Abs. 4 KG nicht vor, dass ausländische Ver-
+triebsverträge eine unzulässige Abrede im Sinne dieser Bestimmung sein können. Dies
+sei dadurch zu erklären, dass der Gesetzgeber genau die Beweisführungsprobleme
+vermeiden wollte, über welche sich die WEKO im Zusammenhang mit ausländischen
+Abreden beklage.
+
+196. Den im Zusammenhang mit der historischen Auslegung von Art. 5 Abs. 4 KG
+durch Nikon aufgeführten Materialien ist kein Hinweis darauf zu entnehmen, dass nur
+Abreden in schweizerischen Vertriebsverträgen von Art. 5 Abs. 4 KG erfasst werden
+sollten. Art. 5 Abs. 4 KG spricht denn auch einfach von „Vertriebsverträgen“, ohne eine
+Differenzierung in ausländische und schweizerische Vertriebsverträge vorzunehmen.
+Die historische Auslegung führt zum selben Resultat: Als der Gesetzgeber Art. 5 Abs. 4
+KG schuf, hatte er nämlich gerade jene Sachverhalte im Auge, bei welchen ausländi-
+sche Hersteller über Vertriebssysteme den Schweizer Markt abschotten und das
+Preisniveau höher halten als in der EU. So war in den Voten mehrerer Parlamentarier71
+
+
+68
+ BSK KG-KRAUSKOPF/SCHALLER (Fn 67), Art. 5 KG N 528.
+69
+ BSK KG-KRAUSKOPF/SCHALLER (Fn 67), Art. 5 KG N 530 ff.; vgl. Vertikal-Leitlinien (Fn 66),
+Rz 50.
+70
+ BSK KG-KRAUSKOPF/SCHALLER (Fn 67), Art. 5 KG N 530.
+71
+ Die historische Auslegung von Art. 5 Abs. 4 KG stützt sich in erster Linie auf die parlamenta-
+rische Diskussion, da die Bestimmung erst in diesem Stadium des Gesetzgebungsprozesses
+
+22/2010/00038/COO.2101.111.4.153527 40
+von der „Hochpreisinsel Schweiz“, von Marktabschottung und Verhinderung bzw. Er-
+schwerung von Parallelimporten die Rede.72 Diese Marktabschottung kann sowohl
+über Bezugsbeschränkungen in schweizerischen Vertriebsverträgen als auch über Ex-
+portverbote in ausländischen Vertriebsverträgen herbeigeführt werden. Folglich ver-
+langt eine wirksame Bekämpfung von Marktabschottungen, dass auch Exportverbote in
+ausländischen Vertriebsverträgen erfasst werden. Im Übrigen legt auch das Auswir-
+kungsprinzip (Art. 2 Abs. 2 KG; Rz 74) nahe, dass Gebietsabreden in ausländischen
+Vertriebsverträgen, die zu einer Abschottung des Schweizer Markts nach aussen füh-
+ren, von Art. 5 Abs. 4 KG erfasst werden. Auf die Frage der erforderlichen Intensität
+der Abschottung bzw. des Ausschlusses von Verkäufen wird nachfolgend eingegangen
+(siehe Rz 210 ff.).
+
+Keine exklusive Zuweisung des Gebiets
+197. Nikon macht geltend, der Tatbestand des absoluten Gebietsschutzes von Art. 5
+Abs. 4 KG sei nur erfüllt, wenn der Hersteller das Gebiet der Schweiz einem Händler
+exklusiv zuweise.
+
+198. Dies lässt sich weder dem Gesetzestext noch der Vertikalbekanntmachung ent-
+nehmen. Art. 5 Abs. 4 KG setzt „Abreden in Vertriebsverträgen über die Zuweisung von
+Gebieten voraus“ und Ziff. 10 Abs. 1 lit. b der Vertikalbekanntmachung „die Zuweisung
+von Gebieten“. Auch aus den nachfolgenden Ausführungen zum Ausschluss von Ver-
+käufen durch gebietsfremde Vertriebspartner geht klar hervor, dass das Gebiet nicht
+einem Händler exklusiv zugewiesen werden muss.
+
+B.3.2.1.2. Ausschluss von Verkäufen durch gebietsfremde Vertriebspartner
+199. Gemäss Art. 5 Abs. 4 KG wird die Beseitigung wirksamen Wettbewerbs vermutet
+bei Abreden in Vertriebsverträgen über die Zuweisung von Gebieten, soweit Verkäufe
+in diese durch gebietsfremde Vertriebspartner ausgeschlossen werden.
+
+Ausschluss von passiven Verkäufen
+200. Im Vordergrund des Tatbestandes von Art. 5 Abs. 4 KG steht der Ausschluss von
+passiven Verkäufen (Ziff. 10 Abs. 1 lit. b VertBek).73 Zwecks besseren Verständnisses
+wird zunächst auf den Begriff passiver Verkäufe eingegangen, bevor der Frage nach
+dem Ausmass des Ausschlusses nachgegangen wird.
+
+
+
+
+Eingang ins Gesetz gefunden hat. Die Diskussion im Nationalrat drehte sich um eine Formulie-
+rung von Art. 5 Abs. 4 KG, welche letztlich keinen Niederschlag im Gesetz gefunden hat.
+72
+ Vgl. z.B. HILDEGARD FÄSSLER, JOHANN N. SCHNEIDER, GEROLD BÜHRER, RUTH GENNER,
+LUCREZIA MEIER-SCHATZ, WALTER DONZÉ, RUDOLF STRAHM, SIMONETTA SOMMARUGA, AB 2002
+S 1290 ff.; BSK-KRAUSKOPF/SCHALLER (Fn 67), Art. 5 KG N 36.
+73
+ Nicht unter den Vermutungstatbestand von Art. 5 Abs. 4 KG fällt das Verbot des aktiven Ver-
+kaufs. Darunter ist in Bezug auf den vorliegenden Sachverhalt die aktive Ansprache einzelner
+Kunden (Endkunden oder Händler) in einem Gebiet zu verstehen, das der Anbieter sich selbst
+vorbehalten oder ausschliesslich einem anderen Händler zugewiesen hat (Ziff. 2 VertBek). Dies
+bedeutet allerdings nicht, dass die Beschränkung von aktiven Verkäufen kartellrechtlich unprob-
+lematisch ist. Vielmehr werden Abreden über die Beschränkung des aktiven Verkaufs als quali-
+tativ schwerwiegend betrachtet, wenn sich der Anbieter das Gebiet nicht selbst vorbehalten o-
+der exklusiv einem anderen Händler zugewiesen hat (Ziff. 12 Abs. 2 lit. b VertBek). Auch inner-
+halb von selektiven Vertriebsverträgen werden solche Beschränkungen als qualitativ schwer-
+wiegend betrachtet (Ziff. 12 Abs. 2 lit. c VertBek) und können den Tatbestand von Art. 5 Abs. 1
+KG erfüllen.
+
+
+22/2010/00038/COO.2101.111.4.153527 41
+201. Unter passivem Verkauf ist in Bezug auf den vorliegenden Sachverhalt die Erfül-
+lung unaufgeforderter Bestellungen einzelner Kunden (Endkunden oder Händler) aus
+einem Gebiet zu verstehen, das der Anbieter sich selbst vorbehalten oder ausschliess-
+lich einem anderen Händler zugewiesen hat (Ziff. 3 VertBek).
+
+202. Nikon bringt vor, an dieser Stelle werde richtig festgehalten, dass das Gebiet
+ausschliesslich einem anderen Händler zugewiesen sein müsse. Dazu ist zu sagen,
+dass sich die zitierte Definition von Passivverkäufen in Ziff. 3 der schweizerischen Ver-
+tikal-Bekanntmachung an jene in den europäischen Vertikal-Leitlinien anlehnt, die ana-
+log auch für die Schweiz gelten (Erw.-Gr. VI. f. VertBek). Die Definition in der schwei-
+zerischen Vertikal-Bekanntmachung ist insofern etwas unglücklich formuliert, als von
+einem Gebiet die Rede ist, das „ausschliesslich einem anderen Händler zugewiesen“
+ist: Es geht nicht darum, dass das Gebiet einem Händler exklusiv zugewiesen wird,
+sondern darum, dass jene Händler, denen ein anderes Gebiet zugewiesen wird, nicht
+einmal passiv, d.h. auf Anfrage hin, in das fragliche Gebiet verkaufen dürfen. Das Ge-
+biet kann also auch mehreren Händlern zugewiesen sein, z.B. kann das Vertragsgebiet
+Schweiz und Liechtenstein allen Vertragspartnern von Nikon Schweiz zugewiesen sein
+und das Vertragsgebiet Deutschland allen Vertragspartnern von Nikon Deutschland.
+Massgebend ist einzig, dass Händler, denen das Gebiet Deutschland zugewiesen wur-
+de, nicht passiv in die Schweiz verkaufen dürfen und zwar unabhängig vom Vertriebs-
+system.
+
+203. Aus den europäischen Vertikal-Leitlinien selbst wird ersichtlich, dass passive
+Verkäufe nicht zwingend einen Alleinvertriebsvertrag voraussetzen:
+ „Passiver Verkauf bedeutet die Erledigung unaufgeforderter Bestellungen einzelner
+ Kunden, d. h. das Liefern von Waren an bzw. das Erbringen von Dienstleistungen
+ für solche Kunden. Allgemeine Werbe- oder Verkaufsförderungsmassnahmen, die
+ Kunden in Gebieten oder Kundengruppen, die anderen Händlern (ausschliesslich)
+ zugewiesen sind, erreichen, die aber eine vernünftige Alternative zur Ansprache
+ von Kunden ausserhalb dieser Gebiete oder Kundengruppen, z. B. im eigenen
+ Gebiet, darstellen, sind passive Verkäufe. Allgemeine Werbe- oder Verkaufsförde-
+ rungsmassnahmen werden als vernünftige Alternative zur Ansprache dieser Kun-
+ den angesehen, wenn es für den Abnehmer auch dann attraktiv wäre, die entspre-
+ chenden Investitionen zu tätigen, wenn Kunden in den Gebieten oder Kunden-
+ gruppen, die anderen Händlern (ausschliesslich) zugewiesen sind, nicht erreicht
+ würden.“74
+
+204. Aus dieser Definition geht eindeutig hervor, dass passive Verkäufe nicht nur Ver-
+käufe in ein Gebiet umfassen, welches ausschliesslich einem einzigen Händler zuge-
+wiesen ist, sondern auch Verkäufe in Gebiete, die anderen Händlern (ausschliesslich)
+zugewiesen sind. Aufgrund der Klammerbemerkung wird klar, dass die Gebiete ande-
+ren Händlern ausschliesslich zugewiesen sein können, aber nicht sein müssen.
+
+205. Zum selben Ergebnis führt auch eine systematische Auslegung des europäi-
+schen Wettbewerbsrechts. Dieses kennt sog. Kernbeschränkungen, d.h. Vertragsklau-
+seln, welche die Beschränkung des Wettbewerbs bezwecken und bei denen zu vermu-
+ten ist, dass sie den Verbrauchern so stark schaden, dass sie gegen Art. 101 AEUV75
+verstossen. Findet sich auch nur eine Kernbeschränkung in einem Vertrag, führt dies
+dazu, dass der gesamte Vertrag nicht mehr von der Freistellung durch die Gruppen-
+
+
+
+
+74
+ Vertikal-Leitlinien (Fn 66), Rz 51.
+75
+ Konsolidierte Fassung des Vertrags über die Arbeitsweise der Europäischen Union vom
+13. Dezember 2007 (Vertrag von Lissabon), ABl. C 115 vom 9.5.2008 S. 47 (AEUV).
+
+
+22/2010/00038/COO.2101.111.4.153527 42
+freistellungsverordnung (GVO) profitieren kann. Die Vermutung ist allerdings durch ei-
+ne Effizienzverteidigung widerlegbar, wobei die Beweislast den Parteien obliegt. 76
+
+206. In der EU gehört namentlich folgende Beschränkung zu den Kernbeschränkun-
+gen, die zum Ausschluss des Rechtsvorteils der Gruppenfreistellung führt:
+ Die Beschränkung des Gebiets oder der Kundengruppe, in das oder an die ein an
+ der Vereinbarung beteiligter Abnehmer, vorbehaltlich einer etwaigen Beschrän-
+ kung in Bezug auf den Ort seiner Niederlassung, Vertragswaren oder
+ -dienstleistungen verkaufen darf (vgl. Art. 4 lit. b Vertikal-GVO).
+
+207. Jedoch gilt eine Ausnahme für:
+ Die Beschränkung des aktiven Verkaufs in Gebiete oder an Kundengruppen, die
+ der Anbieter sich selbst vorbehalten oder ausschliesslich einem anderen Abneh-
+ mer zugewiesen hat, sofern dadurch der Verkauf durch die Kunden des Abneh-
+ mers nicht beschränkt wird (vgl. Art. 4 lit. b Abs. 1 Vertikal-GVO).
+
+208. Im europäischen Wettbewerbsrecht stellen Verbote des Aktiv- und Passivver-
+kaufs also grundsätzlich eine unzulässige Kernbeschränkung dar (Art. 4 lit. b Vertikal-
+GVO). Eine Ausnahme von dieser Regel gilt für Alleinvertriebsvereinbarungen (d.h.
+Exklusivvertriebsverträge), in deren Rahmen ein vertragliches Verbot von Aktivverkäu-
+fen in Vertragsgebiete anderer Händler zulässig ist (Art. 4 lit. b Abs. 1 Vertikal-GVO).77
+Im Unterschied zu dieser Ausnahme setzt der Grundtatbestand in Art. 4 lit. b Vertikal-
+GVO allerdings keinen Alleinvertriebsvertrag voraus. Genau so wenig setzt Art. 5
+Abs. 4 KG eine Alleinvertriebsvereinbarung bzw. ein Exklusivvertriebssystem voraus:
+ „Die Beseitigung wirksamen Wettbewerbs wird vermutet bei Abreden in Vertriebs-
+ verträgen über die Zuweisung von Gebieten, […].“
+
+209. Auch aus dem Wortlaut von Art. 5 Abs. 4 KG wird also klar ersichtlich, dass der
+Tatbestand nicht nur Abreden in einer bestimmten Art von Vertriebsverträgen, nament-
+lich in Exklusivvertriebsverträgen, erfassen soll, sondern allgemein Abreden in „Ver-
+triebsverträgen“, welche Passivverkäufe in die Schweiz verhindern. Folglich stösst das
+Argument von Nikon, wonach das Gebiet der Schweiz vorliegend an einen (einzigen)
+Händler hätte zugewiesen werden müssen, damit der Sachverhalt von Art. 5 Abs. 4 KG
+erfasst wird, ins Leere.
+
+210. In Bezug auf das erforderliche Ausmass des Ausschlusses von passiven Verkäu-
+fen vertritt Nikon die Aufassung, der Tatbestand des absoluten Gebietsschutzes nach
+Art. 5 Abs. 4 KG sei nur erfüllt, wenn der Hersteller sich gegenüber einem Exklu-
+sivhändler in der Schweiz verpflichte, Passivverkäufe (bzw. Querlieferungen im Falle
+eines Selektivvertriebs) in die Schweiz absolut (wasserdicht) zu unterbinden (vgl.
+Rz 184).
+211. Vorliegend bestehen in folgenden Nikon Verträgen Bezugsverbote ausserhalb
+des Vertragsgebiets (Schweiz und Liechtenstein), welche zum Ausschluss von Paralle-
+limporten durch die Vertragshändler führen: Alter Grossistenvertrag (Rz 99), D3S-
+/D3X-Vertrag (Rz 107) und „NPSD“-Vertrag (Rz 112). Zudem bestehen in folgenden
+Ländern Vertriebsverträge der Nikon Gruppe mit expliziten Exportverboten, die zum
+Ausschluss von Parallelexporten in die Schweiz führen: Deutschland (Rz 119), Öster-
+reich (Rz 124), Slowenien (Rz 124), Ungarn (Rz 124) und USA (Rz 143). Schliesslich
+
+
+76
+ STEPHAN SIMON, Die neue Kartellrechtsverordnung (EU) Nr. 330/2010 für Vertriebs- und Lie-
+ferverträge, Europäisches Wirtschafts- und Steuerrecht, 12. Dezember 2010, S. 497 ff., S. 500.
+77
+ Langen/Bunte-NOLTE (Fn 53) Art. 81 EGV EGV N 526.
+
+
+22/2010/00038/COO.2101.111.4.153527 43
+bestehen in den Vertriebsverträgen der Nikon Gruppe in Grossbritannien (Rz 126),
+Griechenland (Rz 134) und Polen (Rz 130) implizite Exportverbote, die in Zusammen-
+hang mit weiteren Massnahmen zum Ausschluss von Parallelexporten in die Schweiz
+führen. Dass derartige Massnahmen gegen Parallelexporte in die Schweiz vorliegend
+ergriffen wurden, geht aus der bei Nikon beschlagnahmten E-Mail Korrespondenz (sie-
+he unten Rz 272 a und b, 283 und 286) hervor.
+
+212. In den Vertriebsverträgen in Dänemark, Schweden, Norwegen, Portugal, Spani-
+en, Italien und Ex-Jugoslawien bestehen zwar Klauseln, die im Zusammenhang mit
+Massnahmen gegen passive Verkäufe aus diesen Ländern in die Schweiz als implizite
+Exportverbote qualifiziert werden könnten. Allerdings liegen der WEKO keine Beweise
+vor, dass Nikon in diesen Ländern derartige Massnahmen ergriffen hat. Darüber hinaus
+verfügen die Wettbewerbsbehörden über keine Hinweise, dass aus diesen Ländern
+nennenswerte Parallelimporte in die Schweiz stattgefunden haben. Folglich bilden die
+Vertriebsverträge in diesen Ländern nicht Gegenstand der vorliegenden Untersuchung
+(siehe oben Rz 150).
+
+213. In Bezug auf die Länder, in denen Nikon tätig ist, die vorangehend aber nicht ge-
+nannt wurden (z.B. Frankreich), bestehen zurzeit keine Anhaltspunkte für vertragliche
+Exportverbote, die zum Ausschluss von passiven Verkäufen in die Schweiz führen
+(siehe oben Rz 151).
+
+214. Vorliegend scheinen insbesondere aus den Nachbarländern der Schweiz, in wel-
+chen die Nikon Gruppe keine vertraglichen Exportverbote in die Schweiz implementiert
+hat (Frankreich) bzw. keine impliziten vertragliche Exportverbote verbunden mit weite-
+ren Massnahmen gegen Parallelimporte in die Schweiz bestanden (Italien), keine nen-
+nenswerten Parallelimporte stattgefunden zu haben. Von den befragten inländischen
+Händlern hat denn auch keiner angegeben, im Jahr 2009 aus Frankreich oder Italien
+parallel importiert zu haben (vgl. Tabelle 1 Anhang E.1. und Tabelle 1 Anhang E.2.).
+Basierend auf den Angaben dieser Händler scheint der von Parallelimporten aus den
+Nachbarländern generierte Druck primär von Deutschland ausgegangen zu sein (Ta-
+belle 1 Anhang E.1. und Tabelle 1 Anhang E.2.). Auch gemäss Nikon werden Nikon
+Imaging Produkte primär aus Deutschland in die Schweiz importiert. Dies ist insofern
+plausibel, als es sich bei Deutschland um den wichtigsten Handelspartner der Schweiz
+handelt.78 Mit anderen Worten scheint es nicht nötig gewesen zu sein, die Schweiz von
+Frankreich und Italien abzuschotten, da aus diesen Ländern ohnehin kein (bedeuten-
+der) Druck aus Parallelhandel zu erwarten war.
+
+215. Betreffend das vertragliche Bezugsverbot ist weiter festzuhalten, dass nicht alle
+Händler, die in der Schweiz mit Nikon Imaging Produkten gehandelt haben, d vom
+Verbot betroffen waren, sondern nur jene, die den alten Grossistenvertrag, den D3S-
+/D3X-Vertrag oder den „NPSD“-Vertrag unterzeichnet haben. Laut Nikon wurden diese
+Verträge zudem innerhalb eines offenen Vertriebssystems abgeschlossen, so dass
+nichtvertragsgebundene Händler Nikon Imaging Produkte ausserhalb des Vertragsge-
+biets beziehen konnten. Ebenfalls festzuhalten ist, dass nicht in allen Ländern, in de-
+nen Nikon tätig ist, Exportverbote in Bezug auf die Schweiz bestehen. Folglich besteht
+keine absolut wasserdichte Unterbindung von Passivverkäufen in die Schweiz, wie sie
+laut Nikon bestehen müsse, damit Art. 5 Abs. 4 KG vorliegend greife. Nachfolgend wird
+geprüft, ob Art. 5 Abs.4 KG tatsächlich eine wasserdichte Unterbindung von Passivver-
+käufen in die Schweiz voraussetzt.
+
+
+
+78
+ Eidgenössische Zollverwaltung, Analyse Aussenhandel, S. 20 abrufbar unter
+http://www.ezv.admin.ch/themen/00504/01530/03209/index.html?lang=de (28.11.2011).
+
+
+22/2010/00038/COO.2101.111.4.153527 44
+216. Der Wortlaut von Art. 5 Abs. 4 KG verlangt, dass mit Abreden in Vertriebsverträ-
+gen über die Zuweisung von Gebieten Verkäufe durch gebietsfremde Vertriebspartner
+in die zugewiesenen Gebiete ausgeschlossen werden. Nikon hat im Rahmen der histo-
+rischen Auslegung von Art. 5 Abs. 4 KG u.a. auf die Beratung der Revisionsvorlage
+durch die Kommission für Wirtschaft und Abgaben des Ständerats vom 29. und 30. Ja-
+nuar 200379 verwiesen. Anlässlich dieser Beratung standen sich die folgenden Formu-
+lierungsanträge gegenüber:
+
+ „Antrag der Mehrheit: Die Beseitigung wirksamen Wettbewerbs wird auch vermutet
+ bei Abreden zwischen Unternehmen verschiedener Marktstufen über Mindest- oder
+ Festpreise sowie bei Abreden in Vertriebsverträgen über die Zuweisung von Ge-
+ bieten, soweit Verkäufe in diese durch gebietsfremde Vertriebspartner ausge-
+ schlossen werden.“80
+
+ „Antrag der Minderheit (DAVID, BÉGUELIN, LEUENBERGER, MAISSEN, WICKI): Die Be-
+ seitigung wirksamen Wettbewerbs wird auch vermutet bei Abreden zwischen Un-
+ ternehmen verschiedener Marktstufen über die direkte oder indirekte Festsetzung
+ von Mindest- oder Festpreisen sowie bei Abreden in Vertriebsverträgen über die
+ Aufteilung von Märkten nach Gebieten oder Geschäftspartnern, welche eine
+ Marktabschottung zum Gegenstand haben.“81
+
+217. FRITZ SCHIESSER sagte in seinem Votum, dem von Nikon – angesichts des Feh-
+lens einer Botschaft (vgl. Fn 71) – für die systematische Auslegung von Art. 5 Abs.
+4 KG zentrale Bedeutung beigemessen wird, Folgendes:
+
+ „Worum geht es konkret? Es geht darum, ob der Begriff der Marktabschottung, wie
+ er im Nationalrat hineingekommen ist und von der Minderheit der Kommission
+ übernommen wird, verwendet oder ob der Begriff des absoluten Gebietsschutzes
+ umschrieben werden soll. Diese beiden Begriffe sind für die Mehrheit nicht de-
+ ckungsgleich. Die Mehrheit zielt auf den absoluten Gebietsschutz ab. Dieser be-
+ steht dann, wenn ein Unternehmen sein gesamtes Vertriebsgebiet so aufteilt, dass
+ in jedem Teilgebiet nur ein Händler über die fragliche Ware verfügt, z. B. Automobi-
+ le der Marke X, ohne dass die fragliche Ware aus einem anderen Gebiet importiert
+ werden kann. Um ein System absoluten Gebietsschutzes aufzuziehen, braucht ein
+ Hersteller nicht marktbeherrschend zu sein. Es genügt, dass er seinen Händlerver-
+ trägen folgende Klauseln beifügen kann: 1. Der Hersteller verspricht seinen Händ-
+ lern in den einzelnen Vertragsgebieten, nur sie und keine anderen Händler in die-
+ sem Gebiet zu beliefern. 2. Der Hersteller verspricht seinen Händlern in den ein-
+ zelnen Vertragsgebieten, nicht direkt an Endabnehmer zu liefern. 3. Dies ist ent-
+ scheidend: Der Hersteller verspricht seinen Händlern in den einzelnen Vertragsge-
+ bieten, dafür zu sorgen, dass seine Händler in den anderen Vertragsgebieten kei-
+ ne Lieferungen in das fragliche Vertragsgebiet ausführen. Ein solches System
+ - wenn es eingehalten wird – ist wasserdicht. Der Wettbewerb innerhalb der Marke
+ X ist ausgeschaltet. Gemäss der Rechtsprechung der Europäischen Union – und
+ wir haben uns immer auch an der Europäischen Union orientiert – liegt ein solcher
+ absoluter Gebietsschutz nicht vor, wenn passive Verkäufe in andere Vertragsge-
+ biete erlaubt sind. Das bedeutet, dass ein Hersteller die oben genannten Klauseln
+ 1 und 2 in seine Vertriebsverträge aufnehmen darf, nicht aber die Klausel 3. Wenn
+ Kunden aus anderen Vertragsgebieten an einen vertraglich gebundenen Händler
+
+
+79
+ Amtliches Bulletin der Bundesversammlung (AB) 2003, Ständerat (S), Frühjahrssession,
+12. Sitzung vom 20.03.03, 317 ff.
+80
+ AB 2003 S 329 (Fn 79).
+81
+ AB 2003 S 329 (Fn 79).
+
+
+22/2010/00038/COO.2101.111.4.153527 45
+ gelangen, so muss es diesem erlaubt sein, in das andere Vertragsgebiet zu ver-
+ kaufen und zu liefern, und es darf ihm durch den Hersteller nicht untersagt werden.
+ Genau dies wird mit der von der Mehrheit vorgeschlagenen Formulierung möglich
+ sein. Damit werden inskünftig Schweizer – Private und Händler – im Ausland Wa-
+ ren einkaufen können, sowohl für den Privatgebrauch als auch für den Weiterver-
+ trieb. Ausgeschlossen ist dies bei Medikamenten; hier gilt die Lex specialis des
+ Heilmittelgesetzes.
+
+ Kommen wir zum Begriff der Marktabschottung, wie er vom Nationalrat und von
+ der Minderheit der Kommission verwendet wird. Herr Professor Baudenbacher ver-
+ tritt ganz klar die Auffassung, dass dieser Begriff unscharf sei. "Abschotten" bedeu-
+ tet ja in einem sehr allgemeinen Sinn "isolieren" und "abriegeln". Nach Aussage
+ von Herrn Professor Baudenbacher handelt es sich nicht um einen stehenden
+ Rechtsbegriff. Sollte dieser Begriff in Artikel 5 Absatz 4 verwendet werden, so wäre
+ in der Tat nicht klar, ob damit nur der Ausschluss des passiven Wettbewerbes un-
+ tersagt wird oder auch der Ausschluss des aktiven Wettbewerbes. Das wäre Sache
+ der Weko; sie hätte ein relativ freies Ermessen und könnte damit letztlich auch Se-
+ lektiv- und Exklusivverträge nach Artikel 5 Absatz 4 verfolgen. Mit dem Einbezug
+ des aktiven Wettbewerbes unter die Norm wäre die schweizerische Regelung
+ schärfer als jene der Europäischen Union. Das wollte die Mehrheit nicht. Unser
+ Grundsatz war: Gleich scharfe Regelungen, aber nicht schärfere Regelungen als
+ die Europäische Union.“82
+
+218. Wie SCHIESSER einleitend bemerkt, war es das Ziel seines Votums, den absolu-
+ten Gebietsschutz in Abgrenzung zur allgemeineren Marktabschottung zu umschrei-
+ben. Im Ergebnis unterscheidet sich der absolute Gebietsschutz dadurch von der
+Marktabschottung, dass absoluter Gebietsschutz nur dann vorliegt, wenn auch passive
+Verkäufe ausgeschlossen werden.
+
+219. Dasselbe geht auch aus dem Votum von JOSEPH DEISS betreffend die Anträge
+zur Formulierung von Art. 5 Abs. 4 KG hervor:
+
+ „ Le Conseil fédéral n'avait pas l'intention, lors de la rédaction du message,
+ d'inclure cette question dans son projet. Suite au débat au Conseil national, nous
+ avons décidé que nous pouvions nous rallier à cet ajout, au fond, au projet, et nous
+ avons proposé une formulation puisque celle qui avait été adoptée au Conseil na-
+ tional, aux yeux de ses auteurs mêmes, n'était pas encore définitivement au point.
+ Il s'agit ici des accords verticaux sur les prix, mais aussi des accords sur l'attribu-
+ tion de territoires. Dans ce deuxième cas, notamment lorsque de tels accords pré-
+ voient une protection territoriale absolue ou lorsque toute importation parallèle est
+ impossible. Les contrats de concession exclusive prévoient évidemment une cer-
+ taine protection territoriale qui doit pouvoir rester licite aussi longtemps qu'elle n'a
+ pas un caractère absolu. On peut dire que le caractère absolu n'existe pas tant que
+ des ventes passives sont possibles en dehors du territoire prévu par le contrat, soit
+ tant que tout commerce parallèle n'est pas impossible. “83
+
+220. Dementsprechend greift gemäss Praxis der WEKO der Vermutungstatbestand in
+Art. 5 Abs. 4 KG, wenn Abreden in Vertriebsverträgen über die Zuweisung von Gebie-
+ten vorliegen und passive Verkäufe in diese Gebiete durch gebietsfremde Vertriebs-
+partner ausgeschlossen werden (sog. absoluter Gebietsschutz).84
+
+
+82
+ AB 2003 S 329 f. (Fn 79).
+83
+ AB 2003 S 331 (Fn 79); Hervorhebung durch die WEKO.
+84
+ RPW 2010/1, 73 Rz 98, Gaba.
+
+
+22/2010/00038/COO.2101.111.4.153527 46
+221. Im Prinzip greift der Vermutungstatbestand bereits dann, wenn Passivverkäufe
+aus einem bestimmten Gebiet bzw. Land in die Schweiz ausgeschlossen werden. Be-
+stehen beispielsweise in den deutschen Vertriebsverträgen für ein bestimmtes Produkt
+Exportverbote, die zum Ausschluss von Parallelimporten aus Deutschland in die
+Schweiz führen, reicht dies bereits für die Erfüllung des Vermutungstatbestands. Ob
+ein derartiges Exportverbot zur Beseitigung des Wettbewerbs bzw. zu einer erhebli-
+chen Beeinträchtigung des Wettbewerbs auf den relevanten Märkten führt, ist Gegen-
+stand der Prüfung der Auswirkungen des vertraglichen Exportverbots. Je nach Produkt
+ist es durchaus denkbar, dass ein vertragliches Exportverbot in Deutschland derartige
+Auswirkungen haben kann. Dies zumal es sich bei Deutschland laut Import- und Ex-
+portstatistik um den wichtigsten Handelspartner der Schweiz handelt (siehe oben Rz
+212). Vorliegend bestehen neben Deutschland in sechs weiteren EWR-Ländern und in
+den USA Exportverbote, die zum Ausschluss von Verkäufen in die Schweiz führen.
+Hinzu kommen die vertraglichen Bezugsverbote ausserhalb des Vertragsgebiets
+(Schweiz und Liechtenstein). Sofern diese Bezugs- und Exportverbote zum Ausschluss
+von passiven Verkäufen in die Schweiz führen, was nachfolgend im Einzelnen geprüft
+wird (Rz 226 ff.), greift damit die Vermutung der Beseitigung in Art. 5 Abs. 4 KG für je-
+de einzelne Vertragsklausel.
+
+Direkter und indirekter Gebietsschutz
+222. Art. 5 Abs. 4 KG umfasst sowohl Abreden, die direkt als auch solche, die indirekt
+zu einem absoluten Gebietsschutz führen (Ziff. 10 Abs. 1 lit. b. und Abs. 2 VertBek). In
+diesen Fällen liegt eine qualitativ schwerwiegende Wettbewerbsbeeinträchtigung vor
+(Rz 489 ff.). Folglich werden nicht nur Verkaufsverbote in die Schweiz, sondern auch
+Bezugsverbote ausserhalb der Schweiz erfasst, die ebenfalls zum Ausschluss von
+Verkäufen in die Schweiz führen.
+
+223. Daher stösst das Argument von Nikon, die Vermutung nach Art. 5 Abs. 4 KG er-
+fasse nur Abreden über „den Ausschluss von Verkäufen in ein Gebiet“ und nicht die
+genannten Vertragsbestimmungen, die sich nicht auf Verkäufe, sondern auf Bezüge
+von Produkten beziehen, ebenfalls ins Leere.
+
+Gebietsfremde Vertriebspartner
+
+224. Art. 5 Abs. 4 KG setzt einen Vertriebspartner voraus, der aus einem fremden Ge-
+biet heraus Verkäufe tätigt. Gebietsfremd ist der Vertriebspartner, wenn ihm ein Gebiet
+ausserhalb des fraglichen Gebiets zugewiesen wurde.85
+
+225. Nachfolgend wird im Einzelnen geprüft, ob vorliegend mittels Abreden in Ver-
+triebsverträgen über die Zuweisung von Gebieten direkt oder indirekt passive Verkäufe
+durch gebietsfremde Vertriebspartner in die Schweiz ausgeschlossen werden bzw.
+wurden.
+
+Alter Grossistenvertrag, „D3S/D3X“-Vertrag, „NPSD“-Vertrag
+226. Mit den Bezugsbeschränkungen im alten Grossistenvertrag (Rz 99), im
+„D3S/D3X“-Vertrag (Rz 107) und im „NPSD“-Vertrag (Rz 112) wurden die Vertrags-
+partner verpflichtet, die Vertragserzeugnisse nur von Nikon oder von einem anderen
+von Nikon autorisierten Händler im Vertragsgebiet zu beziehen. Damit wurden indirekt
+passive Verkäufe durch gebietsfremde Vertriebspartner der Nikon Gruppe in das Ver-
+tragsgebiet Schweiz und Liechtenstein ausgeschlossen, denn die Vertriebspartner von
+Nikon konnten gar keine entsprechenden Kaufanfragen im Ausland stellen, welche
+
+
+85
+ BSK KG-KRAUSKOPF/SCHALLER (Fn 67), Art. 5 KG N 547.
+
+
+22/2010/00038/COO.2101.111.4.153527 47
+passive Verkäufe hätten auslösen können. Folglich erfüllen diese Abreden den Tatbe-
+stand von Art. 5 Abs. 4 KG.
+
+227. Nikon wendet ein, die genannten Verträge seien innerhalb eines offenen Ver-
+triebssystems abgeschlossen worden. Eine geografische Bezugsbeschränkung einiger
+weniger Händler könne in einem offenen Vertrieb weder nach dem Wortlaut noch nach
+dem Sinn von Art. 5 Abs. 4 KG den Vermutungstatbestand der Wettbewerbsbeseiti-
+gung erfüllen.
+
+228. Wie bereits erwähnt (Rz 191), kommt es für die Erfüllung der Vermutungsbasis
+von Art. 5 Abs. 4 KG nicht darauf an, ob die Abrede im Rahmen eines selektiven, ex-
+klusiven oder offenen Vertriebssystem vereinbart wurde, sondern einzig darauf, dass
+es sich um eine Vertriebsklausel handelt, mit der passive Verkäufe durch gebietsfrem-
+de Vertriebspartner ausgeschlossen werden. Ob die Abrede sämtliche Verkäufe in die
+Schweiz auszuschliessen vermag (Vermutungsfolge), ist eine Frage der Auswirkungen
+der Abrede, die weiter unten geprüft wird (Rz 352 ff.).
+
+229. In Bezug auf das Argument von Nikon, wonach es den nicht vertraglich gebun-
+denen Händlern in der Schweiz und in Liechtenstein möglich war, ausserhalb des Ver-
+tragsgebiets Nikon Produkte zu beziehen, ist dennoch bereits an dieser Stelle zu er-
+wähnen, dass neben den Bezugsbeschränkungen in den Verträgen innerhalb des Ver-
+tragsgebiets (Rz 98) in Nikon Händlerverträgen ausserhalb des Vertragsgebiets ver-
+tragliche Exportverbote (Rz 116) bestanden, so dass auch jene Händler, welche keinen
+Vertrag mit Nikon Schweiz hatten und daher vom Bezugsverbot nicht betroffen waren,
+beim Bezug von Nikon Produkten ausserhalb des Vertragsgebiets in Folge der Export-
+verbote beschränkt wurden.
+230. Weiter bringt Nikon vor, dass vertragsgebundene Händler im Inland die Möglich-
+keit hatten, indirekt Parallelimporte über nicht-vertragsgebundene Händler im Inland zu
+beziehen. In den entsprechenden inländischen Verträgen steht allerdings etwas ande-
+res. Gemäss dem alten Grossistenvertrag, dem „D3S/D3X“-Vertrag und dem „NPSD“-
+Vertrag verpflichtet sich der Grossist bzw. der Einzelhändler, Vertragserzeugnisse nur
+von Nikon oder von einem anderen von Nikon autorisierten (d.h. zugelassenen) Distri-
+butor im Vertragsgebiet zu beziehen (Rz 99, 107, 112). Folglich war für Vertragspartner
+des alten Grossistenvertrags, des „D3S/D3X“-Vertrags und des „NPSD“-Vertrags ein
+Bezug über nicht-vertragsgebundene Händler im In- und Ausland vertraglich ausge-
+schlossen. Für Retailhändler, die über Vertriebsverträge ohne Bezugsbeschränkungen
+verfügten, war ein Bezug bei Nichtvertragshändlern im Ausland eingeschränkt. Bei-
+spielsweise hat Nikon selbst geltend gemacht, Nikon Deutschland habe Warenflüsse
+an […], einen deutschen Parallelhändler, der nicht zum selektiven Vertrieb zugelassen
+war, legitimerweise unterbunden. Darüber hinaus erhalten Nichtvertragshändler von
+Nikon beim Einkauf in der Regel schlechtere Konditionen (Rz 409). Folglich können
+Nichtvertragshändler Nikon Produkte in der Regel auch zu schlechteren Konditionen
+weiterverkaufen als Vertragshändler. Daher ist ein Bezug bei Nichtvertragshändlern
+weniger attraktiv als bei Vertragshändlern. Somit stossen die Vorbringen von Nikon ins
+Leere.
+
+231. Schliesslich macht Nikon geltend, die Bezugsbeschränkung auf das Vertragsge-
+biet Liechtenstein und Schweiz im alten Grossistenvertrag beschränke die Bezugsquel-
+len weniger stark, als dies bei einer Alleinbezugspflicht der Fall wäre. Immerhin stelle
+die Bezugsbeschränkung – unter der Annahme, dass sie den Grossisten zum Bezug
+von mehr als 80 % seiner auf der Grundlage des Einkaufswerts berechneten Einkäufe
+von Nikon Imaging Produkten und ihrer Substitute von Nikon Schweiz oder den
+schweizerischen Vertriebspartnern von Nikon Schweiz verpflichte – ein Wettbewerbs-
+
+
+
+22/2010/00038/COO.2101.111.4.153527 48
+verbot gemäss Ziff. 6 VertBek dar. Nikon verweist auf Ziff. 12 VertBek 200786, wonach
+lediglich Wettbewerbsverbote, welche für eine unbestimmte Dauer oder für eine Dauer
+von mehr als fünf Jahren vereinbart werden, den Wettbewerb erheblich im Sinne von
+Art. 5 Abs. 1 KG beeinträchtigen. Das Wettbewerbsverbot gemäss § 6 Abs. 1 des alten
+Grossistenvertrags – unter der Annahme, dass ein solches im Einzelfall auf der Basis
+des tatsächlichen Einkaufs bestanden habe – habe jedoch in keinem einzigen Fall län-
+ger als drei Jahre gegolten. Es sei nicht ersichtlich, inwiefern ein so kurzes Wettbe-
+werbsverbot den Wettbewerb erheblich beeinträchtigen solle.
+
+232. Mögliche Wettbewerbsverbote sind Verpflichtungen des Abnehmers, nicht mit
+Waren zu handeln, die mit den Vertragswaren im Wettbewerb stehen bzw. mehr als
+80 % seiner gesamten Einkäufe von Vertragswaren sowie ihrer Substitute auf dem re-
+levanten Markt vom Anbieter oder von einem anderen vom Anbieter benannten Unter-
+nehmen zu beziehen (Ziff. 6 VertBek; Art. 1 Abs. 1 Bst. d Vertikal-GVO). Als Wettbe-
+werbsverbote gelten also zum einen Verbote, mit der Vertragsware konkurrierende
+Produkte anzubieten. Auf der anderen Seite werden aber auch Mindestabnahmever-
+pflichtungen erfasst, weil diese dazu führen können, dass der Händler gar nicht in der
+Lage ist, konkurrierende Produkte zu beziehen bzw. anzubieten.87 Derartige Wettbe-
+werbsverbote werden unter bestimmten Umständen als qualitativ schwerwiegende
+Wettbewerbsbeschränkungen qualifiziert (Ziff. 12 Abs. 2 lit. f VertBek). Im Vordergrund
+steht dabei der Schutz des Wettbewerbs zwischen Waren unterschiedlicher Marken
+(sog. Interbrand-Wettbewerb).
+
+233. Die Bezugsbeschränkung auf das Vertragsgebiet in den Vertriebsverträgen von
+Nikon erfüllt mangels Beschränkung des Vertriebs konkurrierender Produkte die Defini-
+tion eines Wettbewerbsverbots nach Ziff. 6 VertBek nicht. Im Übrigen werden Wettbe-
+werbsverbote, die für eine unbestimmte Dauer vereinbart werden, als qualitativ
+schwerwiegende Beeinträchtigung des Wettbewerbs betrachtet (Ziff. 12 lit. f VertBek).
+Die vorliegende Bezugsbeschränkung in den Vertriebsverträgen von Nikon wurde auf
+unbestimmte Dauer vereinbart (Rz 99, 107 und 112). Dies müsste bei einem Vergleich,
+der vorliegend nicht angebracht ist, ebenfalls berücksichtigt werden.
+
+234. In Bezug auf Alleinbezugspflichten macht Nikon geltend, diese würden den Wett-
+bewerb unbestrittenermassen nicht erheblich beeinträchtigen. Sie würden in Ziff. 12
+VertBek 2007 nicht unter den Verhaltensweisen aufgeführt, welche den Wettbewerb
+erheblich beeinträchtigen könnten. Auch aus der Praxis der WEKO würden sich keine
+Hinweise dafür ergeben, dass Alleinbezugspflichten im offenen Vertrieb den Wettbe-
+werb erheblich beeinträchtigen können. Gemäss den Vertikal-Leitlinien sei sogar eine
+Kombination von Alleinvertrieb und Alleinbezugspflichten vom Kartellverbot freigestellt
+(Ziff. 152 und 162 Vertikal-Leitlinien). Wenn aber eine Alleinbezugspflicht den In-
+trabrand-Wettbewerb nicht erheblich beeinträchtige, ergebe sich a maiore ad minus,
+dass dies auch die Pflicht zum Bezug von Nikon Schweiz oder Schweizer bzw. Liech-
+tensteiner Händlern nicht tun könne.
+
+235. Hierzu ist zunächst zu sagen, dass eine Kombination von Alleinvertrieb und Al-
+leinbezugspflichten nach der Vertikal-GVO nur dann freigestellt ist, wenn sowohl der
+Anbieter als auch der Abnehmer auf ihrem jeweiligen Markt nicht mehr als 30 Prozent
+Marktanteil halten. Für die Würdigung von Alleinvertriebsverträgen in Einzelfällen, in
+
+86
+ (Ehemalige) Bekanntmachung der WEKO vom 2. Juli 2007 über die wettbewerbsrechtliche
+Behandlung vertikaler Abreden (Vertikalbekanntmachung; VertBek; im Folgenden: VertBek
+2007). Die WEKO stützt sich für die vorliegende Beurteilung auf die VertBek 2010, weil darin die
+jüngste Fallpraxis zu vertikalen Abreden nach Art. 5 Abs. 4 KG berücksichtigt wurde (vgl.
+Fn 25).
+87
+ BSK KG-NEFF (Fn 26), Ziff. 6 Vert-BM N 1.
+
+
+22/2010/00038/COO.2101.111.4.153527 49
+denen diese Marktanteilsschwelle überschritten wird, enthalten die Vertikal-Leitlinien
+Hinweise (Ziff. 152 Vertikal-Leitlinien). Gemäss den Vertikal-Leitlinien erhöht eine Ver-
+knüpfung von Allleinvertrieb und Alleinbezug die Gefahr des Verlusts an markeninter-
+nem Wettbewerb und einer Aufteilung von Märkten, was insbesondere der Preisdiskri-
+minierung Vorschub leisten könne. Alleinvertrieb alleine enge schon die Möglichkeiten
+der Kunden ein, Preisunterschiede auszunutzen, weil er die Zahl der Vertriebshändler
+begrenze und gewöhnlich auch deren Freiheit in Bezug auf aktive Verkäufe einschrän-
+ke. Der Alleinbezug wiederum, der die Händler zwinge, die Produkte der betreffenden
+Marke direkt beim Hersteller zu beziehen, nehme darüber hinaus den Alleinvertriebs-
+händlern die etwaige Möglichkeit, Preisunterschiede auszunutzen, da er sie am Bezug
+der Produkte bei anderen dem System angeschlossenen Händlern hindere. Damit er-
+halte der Anbieter mehr Möglichkeiten, den markeninternen Wettbewerb zu begrenzen
+und gleichzeitig unterschiedliche Verkaufsbedingungen anzuwenden, es sei denn, die
+Kombination aus Alleinvertrieb und Alleinbezug ermögliche Effizienzgewinne, die sich
+in niedrigeren Preisen für die Endverbraucher niederschlagen (Ziff. 162 Vertikal-
+Leitlinien; vgl. auch das Beispiel in Ziff. 167 Vertikal-Leitlinien). Daraus erhellt, dass die
+Kombination von Alleinvertrieb und Alleinbezug nur unter ganz bestimmten Umstän-
+den, deren Vorliegen im Einzelfall zu prüfen ist, mit dem EU-Wettbewerbsrecht verein-
+bar ist. Da wir es vorliegend nicht mit einer Alleinbezugspflicht, sondern mit Bezugsbe-
+schränkungen zu tun haben, die zum Ausschluss von passiven Verkäufen in die
+Schweiz führt, erübrigt sich eine derartige Prüfung vorliegend; der von Nikon vorge-
+brachteVergleich stösst daher ins Leere.
+
+Neuer Selektivvertriebsvertrag Grossisten ab 1. September 2009
+236. Per 1. September 2009 wurden die alten Grosshandelsverträge durch neue se-
+lektive Vertriebsverträge ersetzt, welche keine Bezugsbeschränkung auf das Vertrags-
+gebiet mehr enthalten. Selektive Vertriebsverträge ohne Bezugsbeschränkung erfüllen
+für sich alleine in der Regel den Tatbestand von Art. 5 Abs. 4 KG nicht. Allerdings kön-
+nen sie unter gewissen Umständen als Instrument zur Abschottung des Schweizer
+Marktes dienen. Ob in casu derartige Umstände vorliegen, wird in Rz 315 ff. geprüft.
+
+Deutschland, Österreich, Slowenien und Ungarn
+237. Die Vertriebsverträge von Nikon in Deutschland, Österreich, Slowenien und Un-
+garn enthalten eine Verpflichtung des Händlers, keine Nikon Imaging Produkte aus-
+serhalb des EWR zu verkaufen (Rz 119, 124). Damit werden passive Verkäufe durch
+gebietsfremde Vertriebspartner in die Schweiz ausgeschlossen. Folglich erfüllen diese
+Abreden den Tabestand von Art. 5 Abs. 4 KG.
+
+238. Nikon ist der Auffassung, diese Bestimmungen und der erstellte Sachverhalt
+würden die Voraussetzungen des Auswirkungsprinzips nach Art. 2 Abs. 2 KG nicht er-
+füllen. Die Verpflichtung der Händler, keine Produkte ausserhalb des EWR zu verkau-
+fen, habe keine qualifizierte Inlandauswirkung auf die Schweiz. Sie falle auch nicht un-
+ter den Wortlaut von Art. 5 Abs. 4 KG. Nikon geht davon aus, dass Art. 5 Abs. 4 KG
+kumulativ folgende Tatbestandsmerkmale voraussetze: Das Vorliegen eines schweize-
+rischen Vertriebsvertrags sowie eine Abrede in diesem Vertriebsvertrag, welche ein
+Vertragsgebiet einem einzigen Händler zuweise (exklusive Gebietszuweisungsabrede)
+und wonach sich der Lieferant verpflichte sicherzustellen, dass keine Verkäufe in das
+zugewiesene Gebiet durch gebietsfremde Vertriebspartner erfolgen (Verkaufsaus-
+schlussabrede; vgl. Rz 187).
+
+239. Wie beim räumlichen Geltungsbereich (Rz 74) erwähnt, wird im Rahmen der
+Analyse der Auswirkungen der vorliegenden Wettbewerbsabreden auf den Wettbewerb
+in den relevanten Märkten geprüft, ob sich die vertraglichen Exportverbote in den ge-
+nannten Händlerverträgen auf die Schweiz auswirken (siehe unten Rz 352 ff.).
+
+22/2010/00038/COO.2101.111.4.153527 50
+240. In Bezug auf die Subsumtion der vertraglichen Exportverbote unter Art. 5
+Abs. 4 KG ist Folgendes festzuhalten: Dass nicht nur Gebietsabreden in schweizeri-
+schen Exklusivvertriebsverträgen von Art. 5 Abs. 4 KG erfasst werden, wurde bereits
+aufgezeigt (Rz 196 und 200). Ebenfalls bereits widerlegt wurde das Argument von Ni-
+kon, wonach eine „wasserdichte“ Unterbindung passiver Verkäufe vorausgesetzt sei
+(Rz 210 ff.).
+
+241. Vorliegend haben sich die deutschen, österreichischen, slowenischen und unga-
+rischen Grosshändler bzw. Einzelhändler gegenüber Nikon verpflichtet, innerhalb des
+EWR den aktiven Verkauf von Nikon Produkten in Vertragsgebieten, die Nikon exklusiv
+unabhängigen Importeuren/Distributoren zugewiesen hat, zu unterlassen sowie die Ni-
+kon Produkte ausserhalb des EWR nicht zu verkaufen (vgl. Rz 119 ff.). Damit werden
+sowohl passive als auch aktive Verkäufe in die Schweiz ausgeschlossen. Folglich greift
+die Vermutung der Beseitigung wirksamen Wettbewerbs nach Art. 5 Abs. 4 KG.
+
+Grossbritannien
+242. Die Vertriebsverträge in Grossbritannien enthalten eine Vertriebspflicht in Bezug
+auf das Vereinigte Königreich (Rz 126). Diese Zuweisung des Vertragsgebiets ist im
+Zusammenhang mit Massnahmen gegen Parallelexporte aus dem Vereinigten König-
+reich (siehe unten Rz 286) im Sinne eines impliziten Exportverbots geeignet, passive
+Verkäufe in die Schweiz auszuschliessen. Folglich greift die Vermutung der Beseiti-
+gung wirksamen Wettbewerbs nach Art. 5 Abs. 4 KG.
+
+243. Damit ist das Argument von Nikon, wonach eine solche Abrede nicht als Abrede
+über den Ausschluss von Passivverkäufen in die Schweiz ausgelegt werden könne,
+hinfällig.
+
+Polen
+
+244. Die Vertriebsverträge in Polen enthalten Vertriebsrechte für Polen (siehe oben
+Rz 130). Diese Zuweisung des Vertragsgebiets ist im Zusammenhang mit Massnah-
+men gegen Parallelexporte aus Polen (siehe unten Rz 272 a und b) ebenfalls im Sinne
+eines impliziten Exportverbots geeignet, passive Verkäufe in die Schweiz auszu-
+schliessen. Folglich greift auch hier die Vermutung der Beseitigung wirksamen Wett-
+bewerbs nach Art. 5 Abs. 4 KG.
+
+245. Damit ist das Argument von Nikon, eine solche Bestimmung könne nicht als Ab-
+rede über den Ausschluss von Passivverkäufen in die Schweiz ausgelegt werden,
+ebenfalls hinfällig.
+
+Griechenland
+
+246. Der Vertriebsvertrag mit dem griechischen Generalimporteur enthält eine Ver-
+triebsklausel und eine Informationspflicht betreffend Kaufanfragen (Rz 134). Wie be-
+reits erwähnt (Rz 139), eröffnet diese Informationspflicht Nikon die Möglichkeit, auf Ex-
+porte des Generalimporteurs Einfluss zu nehmen und dadurch ein faktisches Verbot
+des Passivverkaufs durchzusetzen. Eine derartige Informationspflicht vermag für sich
+alleine noch keine Abrede i.S.v. Art. 5 Abs. 4 KG darzustellen.88 Im Zusammenhang
+mit weiteren Massnahmen gegen Parallelexporte aus Griechenland (siehe unten
+Rz 282), ist allerdings auch dieses implizite Exportverbot geeignet, passive Verkäufe in
+die Schweiz auszuschliessen, weshalb die Vermutung in Art. 5 Abs. 4 KG greift.
+
+
+
+
+88
+ RPW 2010/1, 80 Rz. 130 f., Gaba.
+
+
+22/2010/00038/COO.2101.111.4.153527 51
+247. Das Argument von Nikon, wonach der Vertriebsvertrag mit dem Generalimpor-
+teur […] (Griechenland) nur den aktiven Verkauf ausserhalb des jeweiligen Vertrags-
+gebiets beschränke, nicht aber den passiven Verkauf, stösst folglich ins Leere.
+
+USA
+248. Das „Retail Dealer Sales Agreement“ und das „Internet Dealer Sales Agreement“
+in den USA enthalten eine fett gedruckte Bestimmung, wonach der Händler in keinem
+Fall direkt oder indirekt Vertragsware in Gebiete ausserhalb des Vertragsgebiets (USA)
+verkaufen soll (Rz 143). Damit werden passive Verkäufe in die Schweiz vertraglich
+ausgeschlossen, weshalb auch hier die Vermutung in Art. 5 Abs. 4 KG greift.
+
+249. Somit stösst das Argument von Nikon, wonach Passivverkäufe von Nikon Ima-
+ging Produkten aus den USA in die Schweiz nicht vertraglich ausgeschlossen würden,
+ins Leere.
+
+250. Darüber hinaus bleibt darauf hinzuweisen, dass gemäss den Angaben eines US
+amerikanischen Internethändlers, der über einen Vertriebsvertrag „Nikon Sport Optics“
+verfügt (Rz 145), es dem Internethändler ausdrücklich untersagt wurde, „Nikon Sport
+Optics“ Produkte international zu verkaufen. Dies sei sowohl von Nikon USA als auch
+von Vertretern von Nikon in Japan mündlich und schriftlich so kommuniziert worden.
+Dem Internethändler sei die Auflösung des Vertriebsvertrags angedroht worden für den
+Fall, dass er „Nikon Sport Optics“ Produkte international vertreibe. Beim Exportverbot
+handle es sich folglich um eine Bedingung, die erfüllt werden müsse, um weiterhin als
+zugelassener Händler von Nikon tätig zu sein. Der Internethändler habe seine Ge-
+schäftstätigkeit deshalb anpassen müssen. Er gab an, ein Interesse daran zu haben,
+Nikon Produkte international und vor allem in Europa zu vertreiben. Er sei der Ansicht,
+dass internationale Kunden, insbesondere europäische, stark von einem internationa-
+len Vertrieb durch ihn profitieren würden.
+
+251. Die Angaben des Internethändlers beziehen sich allerdings allesamt auf den für
+diese Untersuchung nicht massgebenden Markt der Sport Optics Produkte. Aufgrund
+der im Ergebnis identischen Vertragsbestimmung für die Sport Optics Produkte und
+Imaging Produkte (vgl. Rz 143 und Rz 145) indizieren die Angaben des Internethänd-
+lers jedoch, dass im Imaging Markt das gleiche Prinzip gilt und Exporte von Nikon Ima-
+ging Produkten in die Schweiz ebenfalls nicht erlaubt sind.
+
+B.3.2.1.3. Fazit
+252. Aus den obigen Ausführungen ergibt sich, dass die folgenden Vertragsklauseln in
+den Vertriebsverträgen von Nikon resp. der Nikon Gruppe – einzeln für sich sowie im
+Bündel – die Tatbestandselemente von Art. 5 Abs. 4 KG erfüllen:
+
+ die Bezugsbeschränkungen auf das Vertragsgebiet in den schweizerischen Ver-
+ triebsverträgen (alter Grossistenvertrag, „D3S/D3X“-Vertrag, „NPSD“-Vertrag);
+
+ die expliziten vertraglichen Exportverbote in Deutschland, Österreich, Slowenien,
+ Ungarn und den USA;
+
+ die impliziten vertraglichen Exportverbote in Grossbritannien, Polen und Grie-
+ chenland im Zusammenhang mit weiteren Massnahmen gegen Parallelexporte in
+ die Schweiz.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 52
+B.3.2.1.4. Umsetzung des vertraglichen Gebietsschutzes
+
+253. Nachfolgend wird geprüft, ob die vorgenannten Vertragsbestimmungen tatsäch-
+lich umgesetzt wurden. Dazu wird zu einem grossen Teil auf Dokumente (v.a. E-Mails)
+abgestellt, die bei Nikon anlässlich der Hausdurchsuchung beschlagnahmt wurden.
+Vorliegend werden lediglich einzelne Auszüge aus diesen Dokumenten wiedergege-
+ben.
+
+B.3.2.1.4.1. Umsetzung der Bezugsbeschränkungen und Exportverbote
+
+254. Gemäss der Bezugsbeschränkung im alten Grossistenvertrag (Rz 99),
+„D3S/D3X“-Vertrag (Rz 107) und „NPSD“-Vertrag (Rz 112) verpflichteten sich die Ver-
+tragshändler, die Vertragsware nur von Nikon oder von einem anderen von Nikon auto-
+risierten Händler im Vertragsgebiet (Schweiz und Liechtenstein) zu beziehen. Diese
+Klausel verbietet passive Anfragen von Schweizer Vertragshändlern im Ausland. Sie ist
+somit geeignet, passive Verkäufe aus sämtlichen Ländern, mit Ausnahme der von
+Liechtenstein, an Vertragshändler in die Schweiz auszuschliessen.
+
+Argument des „toten Buchstabens“
+
+255. Nikon macht geltend, die kartellrechtliche Zulässigkeit von § 6 Abs. 1 des alten
+Grossistenvertrags wäre möglicherweise anders zu beurteilen, wenn sie im Rahmen
+eines tatsächlich gelebten Selektivvertriebs vereinbart worden wäre. Beim alten Gros-
+sistenvertrag habe es sich nicht um einen selektiven Vertriebsvertrag gehandelt, da
+keine Zulassungskriterien definiert worden seien und entsprechend nicht zwischen zu-
+gelassenen und nicht zugelassenen Händlern unterschieden worden sei. Unter ande-
+rem daraus wird geschlossen, dass es sich bei § 6 Abs. 1 des alten Grossistenvertrags
+um „toten Buchstaben“ gehandelt habe.
+256. Damit wird aber ausser Acht gelassen, dass § 6 Abs. 1 des alten Grossistenver-
+trags den Grossisten unabhängig davon, ob ein selektives Vertriebssystem mit autori-
+sierten Händlern bestand, verbot, ihre Ware ausserhalb des Vertragsgebietes zu be-
+ziehen. Insofern tatsächlich kein selektives Vertriebssystem bestand, wovon vorliegend
+ausgegangen wird, und es keine autorisierten Distributoren gab, musste die Vertrags-
+klausel von den Grossisten zumindest dahingehend verstanden werden, dass sie die
+Ware mangels Existenz zugelassener Händler zwar bei sämtlichen Händlern, aber nur
+im Vertragsgebiet beziehen durften. Der Vollständigkeit halber sei noch einmal er-
+wähnt, dass die Qualifikation als Selektivvertriebsvertrag vorliegend gar keine Rolle
+spielt, da die Vermutung der Beseitigung wirksamen Wettbwerbs greift, sofern Abreden
+in Vertriebsverträgen über die Zuweisung von Gebieten vorliegen und Verkäufe in die-
+se durch gebietsfremde Vertriebspartner ausgeschlossen werden (Art. 5 Abs. 4 KG; Rz
+101).
+
+257. Das Argument, wonach das Bezugsverbot nicht gelebt worden sei, scheint ledig-
+lich vorgeschobener Natur zu sein. Anlässlich der Anhörung hat Nikon nämlich bestä-
+tigt, dass Parallelimporteure bekämpft werden sollten. Dass Parallelimporte effektiv
+behindert wurden bzw. behindert werden sollten, belegen die nachfolgenden Auszüge
+aus beschlagnahmter E-Mail Korrespondenz. Sie zeigen, dass Nikon bereits unter der
+Geltung des alten Grossistenvertrags keine Parallelimporte von Vertragsware aus an-
+deren Ländern als Liechtenstein duldete. Die beschlagnahmten E-Mails zeigen, dass
+Nikon nicht mit parallel importierenden Händlern zusammenarbeiten wollte, dass Nikon
+mit Hilfe von Testkäufen bei parallel importierenden Händlern anhand der Seriennum-
+mern der Nikon Produkte deren Herkunft nachverfolgte und unter Beizug der ausländi-
+schen Nikon Ländergesellschaften Druck auf die parallel in die Schweiz exportierenden
+Händler im Ausland ausübte.
+
+
+22/2010/00038/COO.2101.111.4.153527 53
+258. Auf die Vorbringen von Nikon, wonach keiner der sechs durch das Sekretariat
+befragten Grossisten angegeben habe, aufgrund der Bestimmung in § 6 Abs. 1 des al-
+ten Grossistenvertrags (oder einer ausservertraglichen Abrede mit Nikon Schweiz) auf
+Parallelimporte verzichtet zu haben, wird unten eingegangen (siehe Rz 326, 430, 452).
+
+Disziplinierung von bzw. keine Zusammenarbeit mit Parallelhändlern im Vertragsgebiet
+259. Die nachfolgenden E-Mails zeigen, dass Nikon unter Geltung des alten Grossis-
+tenvertrags nicht mit Parallelhändlern zusammenarbeitete.
+
+a. Von: [Nikon Schweiz] Gesendet: Montag, 20. April 2009 09:13 An: [Nikon
+ Deutschland] Cc: [Nikon Schweiz] Betreff: D5000 Grauimportangebote von
+ […] in die Schweiz; Wichtigkeit: Hoch
+
+ „[…] bietet die D5000 in einer Variante mit dem non-VR 18-55mm an. Die-
+ se Variante wird von uns in der Schweiz nicht verkauft, daher ist es sehr
+ einfach nachzuvollziehen, dass es sich bei einer Lieferung dann um Deut-
+ sche Ware handeln wird. Die D5000 ist für uns alle ein wichtiges Produkt,
+ damit wir unsere Position im Entry-D-SLR Segment festigen können. Dazu
+ haben wir in der CH die Konditionen von Palettenschiebern weiter ver-
+ schlechtert, damit die D5000 für den stationären Handel ein attraktives
+ Produkt sein wird und nicht bereits vor dem Verkaufsstart im Internet ver-
+ rissen wird. Darf ich Euch bitten zu schauen, dass […] und / oder andere
+ Palettenschieber keine Ware in die Schweiz liefern werden und alle Ange-
+ bote auf Schweizer Plattformen per sofort zurückziehen! Wie bereits mehr-
+ fach angesprochen, möchten wir die Verträge mit […] auflösen. Wir können
+ dies per Ende eines Monats mit einer Kündigungsfrist von drei Monaten
+ machen. Idealerweise sollte dies gemeinsam mit der GmbH89 gesche-
+ hen.“90
+
+260. Laut Nikon seien Nikon Schweiz und Nikon Deutschland bestrebt gewesen, Ak-
+tivverkäufe von […] und Liechtenstein in die Schweiz zu unterbinden. […] habe gegen-
+über den Wettbewerbsbehörden aber ausgeführt, dennoch weiterhin „Parallelhandel“ in
+die Schweiz getätigt zu haben. Die Verträge mit seien im Anschluss an die zitierte E-
+Mail nicht aufgelöst worden. Die Zusammenarbeit mit […] sei erst per Ende August
+2009 aufgelöst worden, weil […] die Zulassungskriterien des neu eingeführten Selek-
+tivvertriebs nicht erfüllen konnte oder wollte.
+261. Dazu ist zunächst festzuhalten, dass aus dem Wortlaut der zitierten E-Mail nicht
+eindeutig hervorgeht, dass nur Aktivverkäufe verhindert werden sollten. Vielmehr bittet
+Nikon Schweiz Nikon Deutschland, dafür zu sorgen, dass […] und andere „Paletten-
+schieber“ keine Ware mehr in die Schweiz liefern und alle Angebote auf Schweizer
+Plattformen zurückziehen. Mit dem ersten Satzteil werden auch Passivverkäufe in die
+Schweiz ausgeschlossen. Einem Grossteil der zitierten E-Mail Korrespondenz lässt
+sich nicht eindeutig entnehmen, ob aktive und passive Verkäufe in die Schweiz verhin-
+dert wurden. Immerhin geht aus einer beschlagnahmten E-Mail des [Geschäftslei-
+tungsmitglied] Nikon Imaging Schweiz klar hervor, dass auch passive Verkäufe in die
+Schweiz verhindert wurden (Rz 279). Weiter kann einer E-Mail des [Geschäftslei-
+tungsmitglied] Nikon Imaging, entgegen der Vorbringen von Nikon, entnommen wer-
+den, dass der Vertrag mit […] infolge von deren Parallelhandelstätigkeiten aufgelöst
+wurde. Darin steht nämlich: „We have cancelled our contract with […] a few months
+ago, as our opinion is that Nikon should not work with box movers”.
+
+89
+ Nikon GmbH Deutschland [Anmerkung der WEKO].
+90
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 54
+262. Der folgenden E-Mail ist ebenfalls zu entnehmen, dass Nikon unter Geltung des
+alten Grossistenvertrags nicht mit Parallelhändlern zusammenarbeitete:
+
+b. Von: [Nikon Schweiz] Gesendet: Mittwoch, 22. Juli 2009 13:52 An: [Händ-
+ ler]; [Nikon Schweiz] Cc: [Nikon Schweiz]; [Händler] Betreff: AW: Zusam-
+ menarbeit digitale Produkte
+ „Unsere Voraussetzungen für eine mögliche Zusammenarbeit sind immer
+ noch dieselben:
+
+ 1. Keine Exportgeschäfte
+
+ 2. Keine Importgeschäfte
+
+ 3. Keine Direktgeschäfte
+
+ Sondern 100% Bezug der Waren (analog und digital) über Nikon Schweiz und
+ Aufbau einer nachhaltigen Distribution an Wiederverkäufer.“
+
+263. Es sei noch einmal darauf verwiesen, dass zum Zeitpunkt des Versands dieser
+E-Mails gemäss Angaben von Nikon auf Stufe Grosshandel in der Schweiz noch kein
+Selektivvertriebssystem implementiert war. Damit wurden Parallelimporte insgesamt,
+d.h. ohne Unterscheidung zwischen Querlieferungen91 (siehe unten Rz 315) und
+Graumarkthandel,92 verhindert oder behindert. Eine solche Verhaltensweise ist geeig-
+net, eine absolute Gebietsabschottung herbeizuführen.
+
+264. Nikon macht geltend, die E-Mail von [Nikon Schweiz] an [Händler] sei aus dem
+Zusammenhang gerissen worden. Ernsthafte Schlüsse zur Frage, ob Nikon Schweiz
+die Zusammenarbeit mit Parallelhändlern generell verweigere, liessen sich daraus
+nicht ziehen. Die Beziehung zwischen Nikon Schweiz und [Händler] sei seit Jahren
+vorbelastet. Zwischen Herrn [Nikon Schweiz] und Herrn [Händler] würden persönliche
+Differenzen bestehen, weshalb Nikon Schweiz nicht an einer direkten Zusammenarbeit
+interessiert sei. Nikon Schweiz habe davon ausgehen können, dass [Händler] die drei
+Voraussetzungen nicht akzeptieren würde und die Anfrage damit erledigt sei.
+265. In diesem Zusammenhang wendete [Händler] anlässlich der Anhörung ein, dass
+es sich bei der Aussage, wonach Nikon nicht mit Parallelimporteuren zusammenarbei-
+te, nicht um eine spontane Äusserung des [Geschäftsleitungsmitglied] Nikon Imaging
+Schweiz gehandelt habe. Gemäss [Händler] habe Nikon systematisch darauf hingear-
+beitet, den schweizerischen Markt abzuschotten.
+
+266. Auch wenn diese E-Mail möglicherweise durch persönliche Differenzen zwischen
+Herrn [Nikon Schweiz] und Herrn […] motiviert sein mag, steht fest, dass die darin ge-
+nannten Voraussetzungen für eine Zusammenarbeit grundsätzlich mit den Pflichten im
+Grossistenvertrag übereinstimmen. Unter dem alten Grossistenvertrag hat sich der
+Grossist nämlich verpflichtet, den aktiven Verkauf von Nikon Produkten ausserhalb des
+Vertragsgebietes zu unterlassen (§ 4 Abs. 1), die Vertragserzeugnisse nur von Nikon
+oder von einem anderen von Nikon autorisierten Distributor im Vertragsgebiet zu be-
+ziehen (§ 6 Abs. 1) und Nikon Produkte nicht an Endverbraucher zu verkaufen (§ 4
+Abs. 5). Folglich hat es sich nicht bloss um vorgeschobene Kriterien gehandelt, um ei-
+
+
+
+91
+ Siehe oben Fn 38.
+92
+ Als sog. „Grauimporte“ oder „Graumarktwaren“ werden Waren bezeichnet, die der Händler
+von einem Wiederverkäufer bezogen hat, der nicht zum Vertrieb im selektiven Vertriebssystem
+zugelassen ist (Langen/Bunte-NOLTE [Fn 53], Art. 81 EGV N 642).
+
+
+22/2010/00038/COO.2101.111.4.153527 55
+nen nicht erwünschten Geschäftspartner abzulehnen, sondern um Voraussetzungen
+der Zusammenarbeit mit Grossisten, wie sie damals vertraglich vorgesehen waren.
+
+267. Die nachfolgende E-Mail zeigt, dass der zwischenstaatliche Handel mit Nikon
+Imaging Produkten ein Problem für die Nikon Europazentrale BV darstellte. Es wird all-
+gemein von Grauimporten (siehe Rz 99) gesprochen, obwohl in verschiedenen Län-
+dern – insbesondere in der Schweiz, in Polen und in Grossbritannien – noch kein Se-
+lektivvertrieb implementiert war.
+
+ From: [Nikon Schweiz], To: [Nikon Europe BV], Sent: March 08, 2009 1:20
+ PM Cc: [Nikon BV], Subject: GM Meeting: European Grey Import
+
+ “After talking to different markets and first feedback from PMA it is evident
+ that currently trade between the countries is a concrete topic. A Situation,
+ as you might be aware, where local market disturbances lead to anger and
+ frustration.”93
+
+268. Nikon bestreitet nicht, dass der Parallelhandel für die einzelnen Nikon Länderge-
+sellschaften in Europa zu Ärger führen kann. Der Unmut rühre daher, dass die einzel-
+nen Ländergesellschaften bonusrelevante Zielvorgaben betreffend Umsatz, Marktanteil
+und Gewinn vorgeschrieben erhielten und so untereinander im Wettbewerb stünden.
+Um diese Umsatzvorgaben zu erreichen, würden verschiedene Nikon Ländergesell-
+schaften gewisse Produkte regelmässig unter dem von der Nikon-Europazentrale
+gruppenintern vorgeschriebenen, absoluten Mindesthändlerpreis (sog. „triple-net“ oder
+„BDNNN“) verkaufen. Namentlich sei konzernintern bekannt, dass Nikon […] wie auch
+Nikon […] in den letzten Jahren verschiedentlich unter dem Mindesthändlerpreis ver-
+kauft hätten. Dieser Verstoss gegen konzerninterne Vorschriften löse bei anderen Ni-
+kon Ländergesellschaften, namentlich Nikon Schweiz, selbstverständlich grossen Un-
+mut aus, weil sie sich mit importierten Nikon Produkten konfrontiert sehen, die im Aus-
+land offensichtlich unter dem konzernweit vorgeschriebenen Mindesthändlerpreis ver-
+kauft worden waren. Letztlich würden Nikon Schweiz damit bonusrelevante Geschäfte
+entgehen.
+
+269. Derartige konzerninterne Mindesthändlerpreise können aus kartellrechtlicher
+Sicht, mangels einer Abrede zwischen wirtschaftlich selbständigen Unternehmen
+(Art. 4 Abs. 1 KG), nicht geahndet werden. Hingegen wird die Beseitigung wirksamen
+Wettbewerbs vermutet, wenn konzernunabhängige ausländische Vertragshändler an-
+gehalten werden, keine passiven Verkäufe an Vertragshändler in der Schweiz zu täti-
+gen (Art. 5 Abs. 4 KG), wie es vorliegend praktiziert wurde (siehe unten Rz 270). Im
+Übrigen lassen sich längst nicht alle beschlagnahmten E-Mails im Zusammenhang mit
+der Eindämmung von Parallelimporten damit begründen, dass eine Nikon Länderge-
+sellschaft die fraglichen Nikon Produkte unter dem konzerninternen Mindesthändler-
+preis verkaufte, was nachfolgend aufgezeigt wird.
+
+Testkäufe bei Parallelhändlern, „Tracking“ von Seriennummern und Druckausübung
+auf Parallelexporteure im Ausland
+
+270. Das bei Nikon beschlagnahmte Material sowie Antworten auf die Fragebögen,
+die das Sekretariat an Nikon Händler verschickt hat, belegen, dass Nikon – unter Gel-
+tung des alten Grossistenvertrags und vor Implementierung des Selektivvertriebs – bei
+Parallelhändlern Testkäufe tätigte und anhand der Seriennummern ausfindig machte,
+aus welchem Land die fraglichen Nikon Produkte stammten, um anschliessend die
+entsprechende Nikon Ländergesellschaft dazu anzuhalten, solche Parallelexporte zu
+
+
+93
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 56
+unterbinden. Es sei erneut darauf verwiesen, dass in der Schweiz noch kein Selektiv-
+vertriebssystem galt und daher nicht zwischen Querlieferungen und Graumarktliefe-
+rungen (siehe Rz 263) unterschieden wurde, sondern Parallelimporte generell nachver-
+folgt wurden, um die entsprechenden Quellen abzumahnen.
+
+271. Das Tracking von Seriennummern und das Auffordern ausländischer Nikon Län-
+dergesellschaften, dafür zu sorgen, dass aktive Parallelexporte unterlassen werden,
+bestreitet Nikon nicht. Allerdings wird geltend gemacht, Nikon würde über folgende le-
+gitime Gründe verfügen, ihre Produkte zu „tracken“: Die Identifikation von Händlern, die
+sich nicht an die Regeln des Selektivvertriebs hielten, die Ermittlung der Nikon Länder-
+gesellschaften, die Nikon Imaging Produkte unter dem konzernintern vorgegebenen
+Mindesthändlerpreis verkauft hatten sowie die Identifikation von Diebesgütern und Fäl-
+schungen.
+
+272. Es mag durchaus sein, dass das Tracking von Seriennummern unter anderem
+dazu benutzt wurde, Fälschungen und Diebesgüter zu ermitteln. Aus den nachfolgen-
+den E-Mails, die bei Nikon beschlagnahmt wurden, geht allerdings hervor, dass die Se-
+riennummern auch dazu verwendet wurden, die Herkunft parallel in die Schweiz impor-
+tierter Ware zu ermitteln und die jeweiligen Nikon Ländergesellschaften dazu anzuhal-
+ten, diese Parallelhändler von weiteren Verkäufen in die Schweiz abzuhalten. Es han-
+delt sich bei den nachfolgend aufgeführten E-Mails lediglich um einen Auszug aus dem
+anlässlich der Hausdurchsuchung bei Nikon beschlagnahmten Beweismaterial:
+
+a. From: [Nikon Schweiz] Sent: Friday, June 05, 2009 3:59 PM To: [Nikon
+ Polen] Cc: [Nikon BV] Subject: D5000 from Poland at Swiss Internet dealer
+ […] ruins our market pricing Importance: High
+ “Unfortunately, it seems that your efforts to better control exports from Po-
+ land did not show the (desired) success. The […] Swiss Internet dealer […]
+ is offering the DS5000 with AF-S 18-55mm VR for CHF 989.- (Euro 650.-)
+ and is crashing our market price. […] indicates a stock level of higher than
+ 50 pieces. We sourced one camera, the serial number is 6011280 and it is
+ from Poland. We can easily source more, but at your expenses. We take
+ serious actions to improve your and our retailer's profitability by controlling
+ our street prices as much as possible.94 But when a Nikon family member is
+ shooting in your back, it is not that easy.”
+
+273. Nikon macht diesbezüglich geltend, Nikon […] habe die D5000 unterhalb des
+konzerninternen Mindesthändlerpreises verkauft, weshalb sich Nikon Schweiz über die
+Herkunft erkundigt und sich anschliessend bei Nikon […] über den Verstoss gegen die
+konzerninternen Preisvorgaben beklagt habe. Wie bereits erwähnt (Rz 269), rechtferti-
+gen derartige konzerninterne Mindesthändlerpreise keine Massnahmen gegen kon-
+zernunabhängige Parallelexporteure.
+
+b. From: […] To: […]; […], Cc: […]; […]; […], […] Sent: July 03, 2009 5:13 PM,
+ Subject: AW: NIKON PL REPORT ON GREY STOCK OF D5000 FROM
+ POLAND AT […]
+ “Please find attached all 122 D5000 serial numbers of our purchase from
+ […]. All serial numbers are from Poland, so there must be a source for bulk
+ purchases in your country, despite your explanations.”
+
+
+
+
+94
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 57
+ RE: “We investigated roughly this case. As we expected there is no one
+ dealer which supplied directly wholesale in Germany and […] in Switzer-
+ land (please look into enclosed table). About second shipment of 55 pcs to
+ German wholesale, we can imagine that supply chain could be as follows:
+ NIKON PL > […] (NIKON' official local dealer) > […] (non NIKON's dealer,
+ middle size retail chain + internet shop) > […] > […]. Unfortunately […] re-
+ fused […] to provide him with his business partner. In reaction […] has
+ stopped sales to […]. Nevertheless: 1. It is likely the same reason and the
+ same mechanism occurred as I presented in my previous report. 2. We
+ have just introduced complex of countermeasures against grey. Unfortu-
+ nately some stock purchased from NIKON Polska at old trade terms by July
+ 1th could be found in Europe in next 1-2 months. Sorry. But just introduced
+ countermeasures will lead to grey elimination however it is not possible in
+ 100% what we are facing in Poland now.”95
+
+274. Gemäss Nikon sei die deutsche […] nicht zum selektiven Vertrieb in Deutschland
+zugelassen, weshalb der Warenfluss gegen den deutschen Selektivvertieb verstossen
+habe. Daher sei es absolut legitim, dass Nikon Polen sämtliche Weiterverkäufe an […]
+in Deutschland unterbunden habe.
+
+275. Dieses Argument scheint aus folgenden Gründen vorgeschobener Natur zu sein:
+Zunächst ist festzuhalten, dass zum Zeitpunkt, als [Geschäftsleitungsmitglied] der Ima-
+ging Division von Nikon Schweiz die E-Mail geschrieben hat, in der Schweiz noch kein
+selektives Vertriebssystem implementiert war. Vor diesem Hintergrund ist es unplausi-
+bel, dass die E-Mail Korrespondenz lediglich auf die Tatsache zurückzuführen sein soll,
+dass ein in Deutschland angeblich nicht zugelassener Händler Ware an den Schweizer
+Händler […] geliefert hatte. Vielmehr ergibt sich aus dem Zusammenhang, dass die
+Parallelimporte Nikon Schweiz unabhängig von der Art des Vertriebssystems im Aus-
+land ein Dorn im Auge waren. Dies suggerieren auch die Aussagen in obiger E-Mail
+Korrespondenz, gemäss welcher die Lieferungen an […] – selbst nicht offizieller Nikon
+Händler – eingestellt worden sind, weil dieser seine Geschäftspartner nicht offenlegen
+wollte. Wäre es lediglich um das Kriterium ihrer Zulassung gegangen, hätte […] von
+[…] (offizieller Nikon Händler in Deutschland) erst gar nicht beliefert werden dürfen. Im
+Rahmen eines selektiven Vertriebssystems darf den zugelassenen Händlern nämlich
+untersagt werden, die Vertragsprodukte an nicht zum Vertrieb zugelassene Händler im
+In- und Ausland zu vertreiben (vgl. unten Rz 312).
+
+276. Die nachfolgende E-Mail zeigt, dass Lieferungen von europäischen Grosshänd-
+lern an Händler in der Schweiz für Nikon ein Problem darstellten und verhindert werden
+sollten.
+
+ From: [Nikon Schweiz] To: [Nikon Deutschland] CC: 1. [Nikon Schweiz] 2.
+ [Nikon Deutschland ] 3. [Nikon Europe BV] Subject: S210 from […] to […]
+ Sent: 08.01.2009 20:20:28 Attachments: image001.jpg
+
+ “We discovered some S210 at a […] near Zurich that were supplied by […]
+ (please check the serial number in the e-mail below). I think this is a seri-
+ ous issue. If […] starts to purchase Nikon merchandise from wholesaler all-
+ over Europe, we are all in deep trouble. Let's cross our fingers that this will
+ stay a single case. Please do your outmost and stop […] to do such things,
+ especially with a camera which is in a backorder situation since months.”96
+
+
+95
+ Hervorhebung durch die WEKO.
+96
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 58
+277. Nikon behauptet, dass die Verkäufe von […] in die Schweiz in den auf diese E-
+Mail folgenden Monaten stark zugenommen haben, was belege, dass Nikon Deutsch-
+land die Aufforderung von Nikon Schweiz ignoriert habe. Weiter habe in Bezug auf die-
+se spezifische Kamera eine sog. „Backorder Situation“ bestanden. Dies bedeute, dass
+Nikon Schweiz zu diesem Zeitpunkt selber nicht in der Lage gewesen sei, die Kamera
+an die Händler zu liefern, so dass sich Lieferungen aus dem Ausland umso gravieren-
+der auf die Reputation von Nikon Schweiz ausgewirkt hätten.
+
+278. Hiergegen ist Folgendes einzuwenden: Die E-Mail zeigt, dass Nikon Schweiz Ni-
+kon Deutschland aufgefordert hat, gegen Verkäufe von deutschen Grosshändlern an
+Händler in der Schweiz vorzugehen. Zudem kann allein aus dem Umstand, dass die
+Verkäufe des abgemahnten Parallelhändlers in der Folge zu- und nicht abnahmen
+nicht geschlossen werden, dass die Abmahnung keine Wirkung hatte. Es ist nämlich
+genau so gut denkbar, dass ohne Abmahnung noch mehr parallel in die Schweiz ex-
+portiert worden wäre. Schliesslich kann eine „Backorder Situation“ nicht als Rechtferti-
+gung dienen, im Ausland gegen Parallelexporteure vorzugehen. Ein solches Verhalten
+schränkt die Angebotsvielfalt im Schweizer Handel (temporär) künstlich ein und redu-
+ziert somit die Konsumtenwohlfahrt (Rz 514).
+279. Die nachfolgende E-Mail zeigt, dass Nikon Schweiz nicht nur bei aktiven Verkäu-
+fen von ausländischen Nikon Händlern in die Schweiz intervenierte, sondern auch
+dann, wenn schweizerische Händler im Ausland Nikon Ware suchten. Folglich wurden
+sowohl aktive als auch passive Verkäufe in die Schweiz blockiert.
+
+ From: [Nikon Schweiz] To: [Nikon Schweiz], Sent: 17.02.2009 14:31:38,
+ Subject: […] D90
+ „Soeben hat mich Deutschland informiert, dass […] wie wahnsinnig D90 auf
+ dem deutschen Markt sucht. GmbH wird die Lieferungen blockieren.“
+
+280. Die nachfolgenden Dokumente zeigen des Weiteren, dass Nikon Schweiz nicht
+mehr mit Händlern zusammenarbeitete, die Parallelhandel betrieben (a.) und in sol-
+chen Fällen eine Vertragsauflösung erwog (b.).
+
+a. Semiannual Report, April – September 2008
+ “On the other hand the revenue of our distributors decreased by 8%. Main
+ reason for this is that we stopped business with […] for the last 6 months
+ due to export/import problems.” 97
+
+b. Von: [Nikon Schweiz] Gesendet: Montag, 20. April 2009 09:13 An: [Nikon
+ Deutschland] Cc: [Nikon Schweiz]; [Nikon Deutschland]; Betreff: D5000
+ Grauimportangebote von […] in die Schweiz (siehe oben Rz 259)
+
+ „[…] bietet die D5000 in einer Variante mit dem non-VR 18-55mm an. Die-
+ se Variante wird von uns in der Schweiz nicht verkauft, daher ist es sehr
+ einfach nachzuvollziehen, dass es sich bei einer Lieferung dann um deut-
+ sche Ware handeln wird. […] Darf ich Euch bitten zu schauen, dass […]
+ und / oder andere Palettenschieber keine Ware in die Schweiz liefern wer-
+ den und alle Angebote auf Schweizer Plattformen per sofort zurückziehen!
+ Wie bereits mehrfach angesprochen, möchten wir die Verträge mit […] auf-
+ lösen. Wir können dies per Ende eines Monats mit einer Kündigungsfrist
+
+
+
+
+97
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 59
+ von drei Monaten machen. Idealerweise sollte dies gemeinsam mit der
+ GmbH geschehen. Besten Dank für die entsprechenden Informationen.“ 98
+
+281. Nikon verweist in diesem Zusammenhang auf den „Semiannual Report, April –
+September 2008“, in dem Nikon Schweiz ausführte, „due to export/import problems“ im
+Jahr 2008 keine Geschäfte mit […] getätigt zu haben. Nikon macht in diesem Zusam-
+menhang geltend, Nikon Schweiz habe weniger Produkte an […] verkauft, weil diese
+im Vorfeld regelmässig viel zu viele – wohl für den Export bestimmte – Produkte bei
+Nikon Schweiz einkaufte, diese dann aber weder in der Schweiz noch anderswo ver-
+kaufen konnte. Nikon Schweiz habe schliesslich grosse Lagerbestände an veralteten
+Produkten wieder zurücknehmen müssen.
+
+282. Damit lassen sich zwar die „export problems“, aber nicht die ebenfalls erwähnten
+„import problems“ erklären, die Nikon Schweiz mit […] Liechtenstein offenbar hatte.
+Wie aus einer bei Nikon beschlagnahmten E-Mail hervorgeht, hat Nikon den Vertrag
+mit […] aufgrund von deren Parallelhandelstätigkeiten aufgelöst.
+
+283. Die nachfolgende E-Mail zeigt, dass Nikon bei einem Parallelhändler in der
+Schweiz Testkäufe machte und anhand der Seriennummer feststellen konnte, dass die
+Produkte von Nikon Europe BV an den griechischen Generalimporteur geliefert worden
+waren. Nikon Schweiz verweist darauf, dass die Preise, die der Parallelhändler ([…]) in
+der Schweiz verlangte, weit unter der europäischen Preiskoordination gelegen hätten,
+was ein ernsthaftes Problem dargestellt habe. Der E-Mail ist weiter zu entnehmen,
+dass in Zusammenarbeit mit dem griechischen Generalimporteur herausgefunden
+werden sollte, auf welchem Weg die Ware in die Schweiz kam, um die nötigen Mass-
+nahmen gegen die involvierten „Box Movers“99 zu ergreifen.
+
+ Von: [Nikon Schweiz] Gesendet: Dienstag, 14. Juli 2009 15:08 An: [Nikon
+ Europe BV] Cc: [Nikon Schweiz]; [Nikon BV]; [Nikon Schweiz] Betreff: D300
+ grey from […]
+ “[…], the largest Swiss Internet dealer (with 3 Shops!), advertised in a Sun-
+ day newspapers the D300 for CHF 1799.- (Euro 1'175.-) and the AF-S 70-
+ 200mm for CHF 2'169.- (Euro 1'417.-). A test purchase (D300) identified
+ the serial number 4169609, supplied from BV to […] end of May. Even con-
+ sidering EOL activities, both prices are far away from European price coor-
+ dination and caused us serious troubles. Some retailers informed us that
+ they will ship back their entire D300 stock and cancel all open orders. We
+ had to pay compensation money. Total costs for this operation are estimat-
+ ed at Euro 30k. Considering the high costs for advertising in Sunday news-
+ papers, the stock level at […] is estimated at >30pcs for D300 and >15pcs
+ for the AF-S 70-200mm. Please check with […] which way the merchandise
+ took (for which prices) and how many pieces might be involved. Please
+ kindly report to us ASAP, as we need to control the involved box movers
+ and take necessary actions.”100
+
+284. Nikon macht geltend, in diesem Fall seien Lieferungen von D300 Kameras aus
+Griechenland in die Schweiz gelangt, die von Nikon unter dem Mindesthändlerpreis
+nach Griechenland verkauft worden seien. Dies habe dazu geführt, dass Händler in der
+Schweiz ihre Erwartungen an ihre eigene Marge nicht erfüllen konnten und gegenüber
+
+
+98
+ Hervorhebung durch die WEKO.
+99
+ Siehe oben Rz 88.
+100
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 60
+von Nikon Schweiz Kompensationszahlungen für Margenverluste forderten. Die Händ-
+ler hätten Nikon Schweiz gedroht, sämtliche Bestellungen von D300 Kameras zu an-
+nullieren und vorhandene Lagerware der D300 an Nikon Schweiz zurückzuschicken.
+Nikon Schweiz sei aufgrund des internationalen Drucks der Händler gezwungen gewe-
+sen, solche Zahlungen im Umfang von CHF 30‘000 an Händler zu leisten. Nikon
+Schweiz habe die Nikon-Europazentrale daher aufgefordert dafür zu sorgen, dass kei-
+ne Imaging Produkte unter dem Mindesthändlerpreis an den griechischen Generalim-
+porteur verkauft würden.
+
+285. Wie bereits mehrmals erwähnt (Rz 269 und 273), rechtfertigt die angeblich kon-
+zerninterne Problematik betreffend den Verkauf unter Mindestverkaufspreisen keine
+Massnahmen gegenüber den von Nikon unabhängigen Händlern, welche die D300 in
+die Schweiz verkauft haben („we need to control the involved box movers and take ne-
+cessary actions“; Rz 283). Vielmehr greift in diesem Fall die Vermutung der Beseiti-
+gung wirksamen Wettbewerbs i.S.v. Art. 5 Abs. 4 KG, weil dadurch – zusammen mit
+dem vertraglichen Exportverbot in Griechenland (Rz 134) – Verkäufe in die Schweiz
+durch gebietsfremde Vertriebspartner ausgeschlossen wurden.
+
+286. Die nachfolgende E-Mail zeigt, dass Nikon Schweiz bereits im Jahr 2008 mit den
+ausländischen Nikon Ländergesellschaften Kontakt aufnahm, damit diese Parallelex-
+porte in das Vertragsgebiet von Nikon Schweiz verhinderten.
+
+ From: [Nikon Schweiz] To: [Nikon Schweiz] Subject: Probleme mit Grauim-
+ porten > Nikon D300 Cash-Back Promotion > […] Sent: 27.05.2008
+ 09:04:34 Attachment @
+ “Ich möchte Sie gerne informieren, dass wir (... obwohl die Promotion noch
+ nicht voll durchgestartet ist) bereits gravierende Probleme mit Käufern ha-
+ ben, die eine Nikon D300 bei Wahl Trading gekauft haben (... und die na-
+ türlich nicht von Nikon AG ausgeliefert wurden). Alle bisher aufgetauchten
+ und von Wahl Trading verkauften Nikon D300 stammen ursprünglich von
+ […] in London / UK. Könnten Sie bitte bei Gelegenheit mit [Mitarbeiter von
+ Nikon UK] darüber sprechen. Besten Dank.”101
+
+287. Nikon macht hierzu geltend, es habe sich um eine interne Besprechung darüber
+gehandelt, wie über die Händlerverkaufspreise von Nikon Grossbritannien der Anreiz
+der englischen Händler verkleinert werden konnte, Exporte ins Ausland zu tätigen. Aus
+der E-Mail gehe aber nicht hervor, ob es sich um aktive oder passive Verkäufe gehan-
+delt habe. Aus diesem Argument kann Nikon nichts zu ihren Gunsten ableiten.
+
+288. Die nachfolgende E-Mail stammt zwar aus der Zeit kurz nach der Einführung des
+Selektivvertriebs in der Schweiz, ist allerdings dennoch geeignet, zu zeigen, was Nikon
+unter dem alten Grossistenvertrag für ein System aufgebaut hat, um Parallelexporte in
+die Schweiz zu verhindern. Insbesondere geht deutlich daraus hervor, dass Nikon die
+Parallelexporteure identifiziert hat, um die entsprechenden Nikon Ländergesellschaften
+bei der Verhinderung von Parallelexporten in die Schweiz beiziehen zu können.
+
+ Von: [Nikon Deutschland] Gesendet: Mittwoch, 14. Oktober 2009 07:23 An:
+ [Nikon Schweiz] Cc: [Nikon Schweiz]; [Nikon Deutschland] Betreff: AW: Pa-
+ rallel imports from Germany > updated list > documents
+ „I will come back to our issue of deliveries from Germany to the Swiss. First
+ of all thank you very much for providing us the clear information about the
+
+
+101
+ Hervorhebung durch die WEKO.
+
+
+22/2010/00038/COO.2101.111.4.153527 61
+ dealers which are acting into the cross border activities. I will refer to your
+ list and as we can see, three dealers have continuously sold to your coun-
+ try. […]: Since this customer already was outed and still ignore our Policy
+ we drove down all kind of activities. This means, we are not offering any
+ promotion or special price to them, only standard pricing. Of course this will
+ be and should be in line with the current law to avoid a caught case. Begin-
+ ning of the new business term 147Ki we will do not offer a new contract to
+ this customer and stop the relationship. […]: […] do not direct sold to Swit-
+ zerland. The goods were delivered to the central warehouse at Frankfurt
+ and then they sold to a member. We are still waiting for their feedback to
+ whom this goods were sold. As far as we will get the information we will
+ keep you updated. […]: […] is specialized IT distributor where we have a
+ good relationship until now. We told them the whole story and what dam-
+ age we have had by this company. He understood, excused this mistake
+ and promise not to do and take care in the future. All other named dealers
+ we already have or we will contact and make the situation / our policy
+ clear.”102
+
+289. Nikon macht hierzu geltend, Nikon habe davon ausgehen müssen, dass […] und
+[…] in Deutschland aktiv Nikon Imaging Produkte in die Schweiz verkauft hatten bzw.
+nach Einführung des Selektivvertriebs in der Schweiz per 1. September 2009 nicht un-
+terschieden hätten, ob es sich bei den Abnehmern in der Schweiz um zugelassene o-
+der nicht zugelassene Händler gehandelt habe. Es gehe aus den Untersuchungsakten
+hervor, dass z.B. […] aktiv Angebote an Händler in der Schweiz verschickt habe. In
+Bezug auf […] habe Nikon Deutschland keine Informationen darüber erhalten, wie die
+Verkäufe in die Schweiz erfolgt waren.
+
+290. Fest steht, dass es in der fraglichen E-Mail um Verkäufe aus Deutschland in die
+Schweiz ging und um Massnahmen gegen die entsprechenden Händler in Deutsch-
+land. Im Zusammenhang mit den deutschen Vertriebsverträgen, in denen sich der
+Händler verpflichtet, Nikon Produkte nicht ausserhalb des EWR zu verkaufen (Rz 119),
+wird klar, dass sowohl aktive als auch passive Verkäufe aus Deutschland in die
+Schweiz gestoppt werden sollten.
+
+Fazit
+
+291. Die erwähnten Auszüge aus den bei Nikon beschlagnahmten Dokumenten und
+E-Mails zeigen deutlich, dass die vertraglichen Bezugsbeschränkungen und die ver-
+traglichen Exportverbote umgesetzt wurden. Der Vollständigkeit halber sei an dieser
+Stelle nochmals darauf hingewiesen, dass es sich bei den oben zitierten E-Mails ledig-
+lich um Auszüge aus dem Beweismaterial handelt, das die Wettbewerbsbehörden an-
+lässlich der Hausdurchsuchung bei Nikon beschlagnahmt haben.
+
+B.3.2.1.4.2. Einführung „Swiss Garantie“
+
+System der „Swiss Garantie“
+
+292. Per 1. September 2009 führte Nikon Schweiz das Programm „Nikon Swiss Ga-
+rantie“ (nachfolgend: „Swiss Garantie“) ein. Dabei handelt es sich um eine Garantiever-
+längerung von Nikon Schweiz.103 Die einjährige „Nikon European Service Warranty“
+
+
+
+102
+ Hervorhebung durch die WEKO.
+103
+ „Nikon Swiss Garantie“ wird von Nikon Schweiz finanziert. Die Einführungskosten der „Swiss
+Garantie“ beliefen sich gemäss Nikon auf ca. CHF […] bis […], jene für die Einführung des „Lo-
+
+22/2010/00038/COO.2101.111.4.153527 62
+bzw. die einjährige „Nikon Worldwide Service Warranty“ verlängert sich dadurch je
+nach Produkt von einem Jahr auf zwei oder drei Jahre. Nikon Kameras profitieren nach
+der Verlängerung von einer insgesamt zweijährigen und Nikon Objektive und Blitzgerä-
+te von einer insgesamt dreijährigen Garantieperiode.
+
+293. Seit Einführung des Programms im September 2009 sind sämtliche von Nikon
+vertriebenen Nikon Imaging Produkte mit einem „Swiss Garantie“-Aufkleber versehen.
+Um von dieser Garantieverlängerung zu profitieren, muss der Endkunde das Produkt
+innert 90 Tagen auf der Website von Nikon registrieren. Er muss dazu den Code auf
+dem „Swiss Garantie“-Aufkleber (z.B. CH KIT XXXXXXXX) angeben und diverse
+Pflichtfelder ausfüllen. Neben Namen und Adresse des Kunden verlangt Nikon auch
+das Kaufdatum und den Händler, bei dem das Nikon Produkt gekauft wurde.
+
+294. Darüber hinaus musste der Kunde in der Einführungsphase die Seriennummer
+des Produkts registrieren, um die erweiterte Garantie in Anspruch nehmen zu können.
+Die zwingende Angabe der Seriennummer wird von Nikon damit begründet, dass für
+Produkte, die ab dem 1. Januar 2009 gekauft worden waren, eine rückwirkende Regist-
+rierung („Swiss Garantie“ wurde erst per 1. September 2009 eingeführt) zugelassen
+wurde. Die Produkte, die zwischen dem 1. Januar 2009 und dem 1. September 2009
+verkauft worden seien, hätten über keine Aufkleber mit „Swiss Garantie“-Code verfügt.
+Erst die Registrierung der Seriennummer durch den Endkunden habe es Nikon ermög-
+licht zu prüfen, ob es sich um ein von Nikon Schweiz verkauftes Produkt gehandelt ha-
+be.
+
+295. Für parallel in die Schweiz importierte Nikon Produkte kann die Garantieverlän-
+gerung „Swiss Garantie“ nämlich nicht in Anspruch genommen werden. Nikon macht in
+diesem Zusammenhang geltend, der Code auf dem „Swiss Garantie“-Aufkleber diene
+nicht der Nachverfolgung der Herkunft des entsprechenden Nikon Produkts, sondern
+stelle nur sicher, dass es sich um ein durch Nikon Schweiz vertriebenes Nikon Produkt
+handle.
+
+296. Ergänzend wird darauf hingewiesen, dass seit dem 1. März 2010 laut Angaben
+von Nikon grundsätzlich nur noch Kameras mit einem „Swiss Garantie Code“ registriert
+werden können. Seit diesem Zeitpunkt sei die Eingabe der Seriennummer des Geräts
+nicht mehr erforderlich, um das Produkt für die „Swiss Garantie“ zu registrieren. Seit
+Ende 2009 seien praktisch keine Nikon Produkte mehr anhand der Seriennummer re-
+gistriert worden. Falls der Endverbraucher bei der Registration neben dem „Swiss Ga-
+rantie Code“ auch noch die Seriennummer angebe, prüfe Nikon Schweiz die Serien-
+nummer nicht. Nur in denjenigen Fällen, in denen ein Endverbraucher ein Gerät nur
+anhand der Seriennummer registrieren möchte und über keinen „Swiss Garantie Code“
+verfüge, prüfe Nikon Schweiz, ob sie das Gerät selbst verkauft habe.
+
+Zweck der „Swiss Garantie“
+297. Nach dem Zweck der „Swiss Garantie“ gefragt, hat Nikon geantwortet, es handle
+sich in erster Linie um ein Mittel zur Steigerung der Wettbewerbsfähigkeit gegenüber
+konkurrierenden Lieferanten von Nikon Imaging Produkten in der Schweiz, d.h. gegen-
+über Parallelimporteuren (Intrabrand-Wettbewerb). Als weiteres Ziel wurde die Stär-
+kung der Konkurrenzfähigkeit von Nikon Imaging Produkten gegenüber Produkten an-
+derer Hersteller (Interbrand-Wettbewerb) genannt. Schliesslich wurde darauf verwie-
+sen, dass mit der „Swiss Garantie“ ein […] werden soll, damit […].
+
+
+
+yalty Managment“ Programms (Rz 297) auf ca. CHF […] bis […]. Die laufenden Kosten für
+„Swiss Garantie“ würden CHF […] bis […] betragen.
+
+
+22/2010/00038/COO.2101.111.4.153527 63
+298. Es ist durchaus denkbar, dass ein Marketinginstrument wie die „Swiss Garantie“
+aus Sicht von Nikon ein wirksames Mittel zur Steigerung der eigenen Wettbewerbsfä-
+higkeit gegenüber dem Importkanal darstellt und somit als Ausdruck von Leistungs-
+wettbewerb interpretiert werden kann. Damit hat der Schweizer Kunde zumindest theo-
+retisch die Wahl zwischen billigeren importieren Produkten ohne erweiterte Garantie
+und (falls verfügbar) teureren Produkten mit erweiterter Garantie.
+
+299. Offenbar zieht der Schweizer Konsument die teurere Variante mit erweiterter Ga-
+rantie vor: Laut Angaben der befragten Händler würden die Schweizer Endkunden
+grossen Wert auf Garantieverlängerung legen, weshalb etliche Händler parallel impor-
+tierte Produkte, auf denen die „Swiss Garantie“ nicht gewährt werde, nicht im Angebot
+hätten. Dass die „Swiss Garantie“ aus Sicht der Händler tatsächlich ein Argument ge-
+gen Parallelimporte darstellt, wird auch von Seiten von Nikon bestätigt, indem im Rah-
+men einer […]. Gegen einen Rückgang von parallel importierten Produkten mangels
+Nachfrage der Schweizer Kunden für ein Produkt mit einer kürzeren Garantiedauer ist
+aus wettbewerbsrechtlicher Sicht nichts einzuwenden.
+
+300. Allerdings kann die „Swiss Garantie“ auch ein wirksames Instrument zur Identifi-
+kation der Herkunft jener Nikon Produkte darstellen, die nicht über Nikon Schweiz auf
+den Schweizer Markt gekommen sind. Dies wiederum eröffnet Nikon die Möglichkeit,
+Massnahmen gegen die entsprechenden ausländischen Bezugsquellen zu ergreifen.
+
+301. Aus der bei Nikon beschlagnahmten E-Mail Korrespondenz geht deutlich hervor,
+dass Nikon die „Swiss Garantie“ u.a. dazu benutzte, um die Herkunft parallel importier-
+ter Nikon Ware ausfindig zu machen. Um dies zu illustrieren, werden im Folgenden
+einzelne Auszüge aus diesen E-Mails abgedruckt.
+302. Die nachfolgende E-Mail zeigt, dass Nikon sich bereit erklärte, parallel importierte
+Nikon Produkte zur „Swiss Garantie“ zuzulassen, falls der Parallelimporteur seinen Lie-
+feranten, d.h. den Parallelexporteur, preisgibt:
+ From: [Nikon Schweiz] To: [Händler] CC: [Nikon Schweiz] Subject: […]
+ Sent: 23.10.2009 08:26:27
+
+ […]
+303. Für die Zulassung zur „Swiss Garantie“ sollte es nur darauf ankommen, dass das
+Produkt nicht parallel importiert ist (siehe oben Rz 130). Mit anderen Worten muss Ni-
+kon Schweiz einzig feststellen können, ob sie das Produkt importiert hat oder nicht. Die
+Identifikation des Parallelexporteurs spielt für die „Swiss Garantie“ keine Rolle. Mög-
+licherweise hat Nikon die Namen der Parallelexporteure ermittelt, um sie an die jeweili-
+gen Nikon Ländergesellschaften weiterzugeben, damit diese wiederum die Parallelex-
+porteure unter Druckausübung dazu anhalten konnten, derartige Lieferungen in die
+Schweiz in Zukunft zu unterlassen (siehe oben Rz 270).
+
+304. Nikon bestreitet dieses Vorgehen und erklärt, dass anhand der Kaufunterlagen
+des Händlers […] geprüft worden sei, ob es sich bei den Verkäufen im Ausland um
+nicht-zugelassene Händler aus einem Selektivvertriebsgebiet gehandelt habe (z.B. mit
+Bezug auf Ware aus Deutschland und Österreich) und ob es sich allenfalls um ge-
+fälschte oder gestohlene Ware gehandelt habe.
+
+305. Dass Nikon aufgrund der Registrierungen für die „Swiss Garantie“ die Quelle von
+Parallelimporten ausfindig gemacht hat, geht auch aus den nachfolgenden E-Mails
+deutlich hervor.
+
+a. From: [Nikon Schweiz] To: [Nikon Schweiz] CC: [Nikon Schweiz] Subject:
+ […] Sent: 03.09.2009 11:31:39 Attachments: […]
+
+
+22/2010/00038/COO.2101.111.4.153527 64
+ […]
+
+306. Die Tabelle in der Beilage zu dieser E-Mail enthält [200-300] Nikon Produkte, die
+im Jahr 2009 parallel in die Schweiz importiert wurden. […] Bei jenen Artikeln, […]
+
+b. From: [Nikon Schweiz] To: [Nikon UK] Cc: [Nikon UK] Sent: Tue Oct 13
+ 09:26:08 2009 Subject: […] / […]
+ […]
+
+307. Nikon hält hierzu fest, Nikon Schweiz habe in der Tat den Warenfluss von impor-
+tierten Produkten zurückverfolgt und dies aus guten und legitimen Gründen (Identifika-
+tion der Nikon Ländergesellschaft, die unter dem konzerninternen vorgegebenen Min-
+desthändlerpreis verkauft hätten, Unterbindung von Lieferungen durch nicht-
+zugelassene ausländische Händler in die Schweiz, Unterbindung von Aktivverkäufen in
+die Schweiz, Unterbindung von Verkäufen an nicht-zugelassene Händler in der
+Schweiz nach 1. September 2009, Identifikation gestohlener bzw. gefälschter Produk-
+te, vgl. Rz 271). Die Investitionskosten für den Aufbau und den Unterhalt der „Swiss
+Garantie“ sowie des […] würden in keinem Verhältnis zu den [200-300] Kameras ste-
+hen, die während der Periode vom 1. September 2009 bis Ende Oktober 2009 zurück-
+verfolgt worden seien. Nikon Schweiz habe bereits vor Einführung der „Swiss Garantie“
+Möglichkeiten gehabt, Informationen über den Warenfluss von Parallelimporten zu er-
+halten (z.B. Testkäufe). Eine Investition von weit über CHF […] wäre zu diesem Zweck
+nicht notwendig gewesen.
+
+Würdigung der „Swiss Garantie“
+308. Nikon hat laut eigenen Angaben während ca. drei Monaten systematisch die
+Herkunft der im Rahmen der „Swiss Garantie“ registrierten Produkte ermittelt. Es habe
+sich dabei um [200-300] Produkte gehandelt, die zwischen Januar 2008 und November
+2009 in der Schweiz verkauft worden seien. Für Nikon Schweiz sei diese Übergangs-
+phase eine einmalige Gelegenheit gewesen, einen Überblick über die Warenflüsse der
+vorangegangenen ca. 15 Monate zu erhalten. Das Tracking habe ausschliesslich legi-
+timen Zwecken (vgl. Rz 307) gedient. Zudem habe das Tracking erlaubt, die identifi-
+zierten Parallelexporteure darauf hinzuweisen, dass in der Schweiz per 1. September
+2009 der Selektivvertrieb eingeführt worden sei (vgl. unten Rz 312 ff.) und somit nur
+noch Querlieferungen an in der Schweiz zugelassene Händler erfolgen dürtfen.
+
+309. Tatsache ist, dass die „Swiss Garantie“ das Tracking von Seriennummern vo-
+rübergehend erleichterte. Jedoch war das Tracking auch ohne „Swiss Garantie“ bereits
+möglich (vgl. Rz 270 ff. und 307). Weiter wurden seit Ende 2009 praktisch keine Nikon
+Produkte mehr anhand der Seriennummer registriert. Vor diesem Hintergrund ist es
+zwar nicht unproblematisch, dass Nikon mit Hilfe der „Swiss Garantie“ Registrierung
+eine temporäre Liste von Parallelexporteuren anfertigte. Diese Liste reicht jedoch nicht
+aus, um eine (indirekte) Gebietsabschottung zu beweisen.
+310. Seit dem 1. März 2010 ist die Eingabe der Seriennummer des Geräts nicht mehr
+erforderlich, um das Gerät für die „Swiss Garantie“ zu registrieren. In Abwesenheit ei-
+nes Trackings von Seriennummern bestehen aus kartellrechtlicher Sicht keine Beden-
+ken, dass mit dem Garantieprogramm eine Marktabschottung umgesetzt werden könn-
+te. Als solches ist die „Swiss Garantie“ ein legitimes Programm von Nikon Schweiz im
+Leistungswettbewerb mit dem inoffiziellen Importkanal. Die Antworten der befragten
+Händler bestätigen denn auch, dass die „Swiss Garantie“ zu einem wichtigen Ver-
+kaufsargument gegenüber parallel importierten Produkten wurde. Dementsprechend
+führte ein bedeutender Schweizer Händler im Jahr 2009 für parallel importierte Produk-
+te (herstellerübergreifend) eine eigens finanzierte erweiterte Garantie ein.
+
+22/2010/00038/COO.2101.111.4.153527 65
+311. Zusammenfassend ergeben sich keine rechtsgenüglichen Hinweise dafür, dass
+die „Swiss Garantie“ infolge des damit verbundenen erleichterten Trackings von Se-
+riennummern als Instrument zur Abschottung des Schweizer Marktes benutzt worden
+wäre.
+
+B.3.2.1.4.3. Selektivvertrieb von Nikon Schweiz
+
+Grundsätzliche Regeln im Selektivvertrieb
+
+312. Nikon führte per 1. September 2009 in der Schweiz eine Selektivvertriebssystem
+für Nikon Imaging Produkte ein. Ziff. 4 Abs. 1 VertBek definiert selektive Vertriebssys-
+teme als Vereinbarungen zwischen Lieferanten und Händlern, wonach
+
+ der Lieferant die Vertragswaren oder -dienstleistungen nur an Händler verkaufen
+ darf, die aufgrund festgelegter Merkmale ausgewählt werden (zugelassene
+ Händler) und
+
+ diese Händler die betreffenden Waren oder Dienstleistungen nicht an Händler
+ weiter verkaufen dürfen, die nicht zum Vertrieb zugelassen sind.
+313. Im Rahmen von selektiven Vertriebssystemen darf ein Hersteller seinen zum Ver-
+trieb zugelassenen Händlern somit verbieten, die Vertragsprodukte an nicht zugelas-
+sene Händler weiterzuverkaufen.
+314. Herstellern steht es grundsätzlich frei, sich für ein selektives Vertriebssystem zu
+entscheiden. Die wettbewerbsrechtliche Beurteilung solcher Vertriebssysteme erfolgt
+dabei nach den Bestimmungen der Vertikalbekanntmachung.
+315. Gemäss Ziff. 12 Abs. 2 Bst. d VertBek stellen Beschränkungen von Querlieferun-
+gen zwischen Händlern innerhalb eines selektiven Vertriebssystems qualitativ schwer-
+wiegende Wettbewerbsbeeinträchtigungen dar.104 Dies bedeutet, dass der Bezug der
+Vertragsware durch einen zugelassenen Händler bei allen anderen zugelassenen
+Händlern zulässig sein muss. Zweck dieser Bestimmung ist es, die Austauschmöglich-
+keiten von zugelassenen Händlern innerhalb von selektiven Vertriebssystemen und
+damit insbesondere systeminterne Arbitragemöglichkeiten und Parallelimporte zu er-
+möglichen.105 Daraus folgt, dass auch Bezüge bei offiziellen ausländischen Lieferanten
+zulässig sein müssen. Mit anderen Worten kann der offizielle Generalimporteur oder
+die jeweilige Ländergesellschaft des Herstellers nicht gegen Lieferungen von ausländi-
+schen offiziellen Vertriebspartnern an offizielle inländische Vertriebspartner vorgehen.
+In Ländern mit selektivem Vertriebssystem sind dies sämtliche zugelassenen Händler
+und in Ländern, in denen der Vertrieb über ein offenes Vertriebssystem erfolgt, sind
+dies alle Händler, welche die Produkte anbieten.
+
+Selektivvertrieb von Nikon als Instrument zur Abschottung des Schweizer Markts?
+316. Ob der Selektivvertrieb von Nikon als solcher kartellrechtlich zulässig ist, wird in
+der vorliegenden Untersuchung offen gelassen, da die Untersuchung nicht auf die
+wettbewerbsrechtliche Beurteilung des Selektivvertriebs von Nikon fokussiert ist, son-
+dern auf die Frage, ob Nikon Parallelhandel mit Nikon Imaging Produkten verhindert
+oder behindert und dadurch gegen Art. 5 Abs. 4 KG verstossen hat. Vor diesem Hin-
+tergrund wird in Zusammenhang mit dem Selektivvertrieb lediglich untersucht, ob Ni-
+kon den Selektivvertrieb als unterstützendes Instrument für eine Abschottung des
+
+
+104
+ Vgl. RPW 2002/3, 455 ff. Rz 25, Système de distribution Citroën.
+105
+ BSK KG-NEFF (Fn 26), Ziff. 12 Vert-BM N 18.
+
+
+22/2010/00038/COO.2101.111.4.153527 66
+Schweizer Marktes benützte. Ein selektives Vertriebssystem kann insofern als Instru-
+ment für die Abschottung des Schweizer Marktes verwendet werden, als Querlieferun-
+gen behindert oder verhindert werden und/oder unliebsame Händler, die Druck auf das
+Preisniveau ausüben, vom Vertrieb ausgeschlossen werden.
+
+317. In den neuen Selektivvertriebsverträgen auf Grosshandels- und Einzelhandels-
+stufe für Nikon Imaging Produkte (ohne „D3S/D3X“) werden Querlieferungen im Sinne
+von Ziff. 12 Abs. 2 lit. d VertBek zum Teil ausdrücklich zugelassen und die Möglichkeit,
+Parallelimporte zu tätigen, erwähnt.
+
+318. Beschlagnahmte Dokumente suggerieren jedoch, dass die Zulassung zum selek-
+tiven Vertrieb mit einem Verzicht auf Parallelimporte verbunden war: In der internen
+Präsentationen von Nikon mit dem Titel […] wird festgehalten, dass […]
+
+319. Nikon bestreitet, dass der Status „Nikon autorisierter Internethändler“ an die Be-
+dingung geknüpft worden sei, dass der Händler auf Parallelimporte verzichten würde.
+Dies werde von den betroffenen Händlern auch gar nicht behauptet. Tatsächlich liefer-
+ten die Antworten der bzw. die Korrespondenz mit den befragten Händlern keine Hin-
+weise dafür, dass diese intern diskutierte Spielregel nach aussen kommuniziert worden
+wäre.
+320. Im Zusammenhang mit der Anzeigerin Wahl Trading führt Nikon zudem aus,
+dass diese mangels Erfüllung der Zulassungskriterien nicht zum Vertrieb zugelassen
+werden könne. Einer Zulassung von Wahl Trading als Grossistin würden insbesondere
+Wahl Tradings Direktgeschäfte mit Endverbrauchern entgegenstehen, welche gegen
+Ziff. 6.3 der Selektivvereinbarung Grossisten verstossen würden. Dass Wahl Trading
+Direktgeschäfte tätige, ergebe sich aus der Website von Wahl Trading, gemäss wel-
+cher Wahl Trading u.a. Berufsfotografen beliefere. Im Übrigen habe sich Wahl Trading
+bis im Herbst 2010 gar nie um die Zulassung zum Selektivvertriebssystem bemüht.
+
+321. Zusammenfassend ergeben sich keine rechtsgenüglichen Hinweise, dass Nikon
+mit Hilfe des Selektivvertriebs nach dem 1. September 2009 unliebsame Händler vom
+Vertrieb ausgeschlossen hat, um Parallelimporte zu verhindern. Zudem enthalten die
+neuen selektiven Vertriebsverträge keine Klauseln, welche Querlieferungen behindern
+würden.
+
+B.3.2.1.4.4. Fazit
+322. Aus den oben aufgeführten Dokumenten, die bei Nikon beschlagnahmt wurden,
+geht hervor, dass die Bezugsbeschränkungen und Exportverbote, für welche die Ver-
+mutung der Beseitigung wirksamen Wettbewerbs in Art. 5 Abs. 4 KG greift, umgesetzt
+wurden. Ob neben den vertraglichen Parallelimportverboten auch Massnahmen wie die
+„Swiss Garantie“ und die Einführung von Selektivvertriebsverträgen der Umsetzung
+des absoluten Gebietschutzes gedient haben, kann vorliegend nicht rechtsgenüglich
+nachgewiesen werden.
+323. Da sich die Bezugsbeschränkungen und Exportverbote auf die gesamte Produkt-
+palette von Nikon Imaging beziehen (Digitalkameras mit Wechselobjektiv, Digitalkame-
+ras ohne Wechselobjektiv, Objektive in Einzelausführung, Blitzgeräte), gilt die Unzuläs-
+sigkeitsvermutung für sämtliche Nikon Imaging Produkte.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 67
+B.3.2.1.5. Abredepartner
+
+Inländische Abredepartner
+324. In der Schweiz sind auf der einen Seite Nikon Schweiz und auf der anderen Seite
+alle Händler als Abredepartner zu qualifizieren, die sich Nikon gegenüber verpflichtet
+haben, Nikon Produkte nicht von ausserhalb des Vertragsgebiets (Schweiz und Liech-
+tenstein) zu beziehen. Folglich sind all diejenigen Händler als Abredepartner zu qualifi-
+zieren, die den alten Grossistenvertrag (Rz 99), den Vertriebsvertrag D3S oder D3X
+(Rz 107 ff.) oder den NPDS-Vertrag (Rz 112 ff.) mit der darin enthaltenen Bezugsbe-
+schränkung unterzeichnet haben.
+
+325. Nikon macht geltend, sie könne ihre Verteidigungsrechte nur dann wahrnehmen,
+wenn die angeblichen Abredepartner im Inland namentlich bezeichnet würden und zu-
+dem belegt würde, welchen Inhalt welche Abrede mit welchem Abredepartner gehabt
+haben soll. Die Bezugsbeschränkung sei weder von Nikon Schweiz durchgesetzt, noch
+sei sie von den betroffenen Händlern beachtet worden:
+
+ Grosshandelsstufe: Die Antworten der sechs Grossisten als Vertragspartner des
+ alten Grossistenvertrags ([…]) würden deutlich zeigen, dass die Grossisten ent-
+ weder trotz des Bezugsverbots Produkte importierten oder aber dass sie aus an-
+ deren Gründen (z.B. Vertriebspolitik, fehlende Logistik, exzellentes Verhältnis zu
+ Nikon Schweiz) keine Parallelimporte tätigten;
+
+ Einzelhandelsstufe: Keiner der vom Sekretariat befragten Vertragspartner der
+ „D3S/D3X“- und der „NPSD“-Verträge habe auf die expliziten Fragen des Sekre-
+ tariats geantwortet, er sei vertraglich oder anderweitig daran gehindert geworden,
+ Parallelimporte zu tätigen.
+326. Die Vorbringen von Nikon stossen aus folgenden Gründen ins Leere: Eine Auflis-
+tung der inländischen Vertragspartner von Nikon erübrigt sich, da diese Nikon bestens
+bekannt sind. Zu den von Nikon zitierten Antworten der Grossisten und der Einzelhänd-
+ler ist Folgendes festzuhalten:
+
+ Grosshandelsstufe: Wie der Tabelle 1 in Anhang E.4 zu entnehmen ist, importier-
+ te von den fünf inländischen Grossisten, welche bis zum 31. August 2009 durch
+ den alten Grossistenvertrag von Nikon gebunden waren, lediglich ein einziger Ni-
+ kon Imaging Produkte. Der Anteil an Parallelimporten dieses Grosshändlers be-
+ trug weniger als […] % seines jährlichen Gesamtumsatzes mit Nikon Imaging
+ Produkten. Dies entspricht weniger als […] % des jährlichen Gesamtumsatzes
+ mit Nikon Imaging Produkten aller Distributoren in der Schweiz (vgl. Tabelle 1 in
+ Anhang E.1). Es handelt sich bei diesem Grossisten zudem insofern um einen
+ Spezialfall, als er die Produkte über eine Schwestergesellschaft in Deutschland
+ beziehen konnte. Wie bereits erwähnt (Rz 103), dürfte es für einen Hersteller
+ schwieriger sein, Querlieferungen zwischen Schwestergesellschaften innerhalb
+ desselben Konzerns zu unterbinden als solche zwischen voneinander unabhän-
+ gigen Unternehmen. Weitere drei Händler begründeten ihren Verzicht auf Paral-
+ lelimporte mit guten Geschäftsbeziehungen mit Nikon Schweiz, einem Wider-
+ spruch zur Geschäftsstrategie und einer exklusiven Zusammenarbeit mit Nikon.
+ Der fünfte inländische Grossist wies in diesem Zusammenhang auf die vertragli-
+ che Bindung mit Nikon hin. Insgesamt haben sich also vier von fünf Schweizer
+ Grossisten nach dem Grundsatz pacta sunt servanda an die Bezugsbeschrän-
+ kung in ihrem Vertriebsvertrag mit Nikon gehalten und keine Nikon Produkte von
+ ausserhalb des Vertragsgebiets (Schweiz und Liechtenstein) parallel importiert.
+
+
+
+22/2010/00038/COO.2101.111.4.153527 68
+ Der von Nikon Schweiz genannte sechste Grossist, […], ist in Liechtenstein und
+ nicht in der Schweiz ansässig. Dieser Grosshändler konnte laut eigenen Anga-
+ ben über […] Deutschland – also tatsächlich von einem Händler ausserhalb des
+ Vertragsgebiets – importieren. Allerdings stellt […] wiederum einen Spezialfall
+ dar (siehe Rz 103, weil seine Bezugsquelle in Deutschland – […] – zur selben
+ Unternehmensgruppe gehört. Im Übrigen seien die beiden Unternehmen der […]-
+ Gruppe von Nikon wiederholt mündlich dazu angehalten worden, Parallelhandel
+ zu unterlassen; Parallelhandel sei aber weiterhin betrieben worden. Ein solches
+ Ignorieren von Vorgaben des Herstellers dürfte innerhalb eines Konzerns – wie
+ gesagt – einfacher sein, als wenn es sich beim Exporteur und Importeur um zwei
+ voneinander unabhängige Unternehmen handeln würde (siehe Rz 103).
+
+ Einzelhandelsstufe: Die von Nikon zitierten Händler haben in der Tat keine
+ Schwierigkeiten beim Parallelimport geltend gemacht. Allerdings geht aus diesen
+ Antworten hervor, dass fünf dieser elf zitierten Händler gar nicht erst versucht
+ haben, parallel zu importieren ([…]); zwei weitere liessen die Frage nach Schwie-
+ rigkeiten beim Import unbeantwortet ([…]). Von den zitierten elf Händlern haben
+ deren […] Parallelimporte getätigt ([…]). Wie aus Tabelle 2 in Anhang E.4 her-
+ vorgeht, erreichten die getätigten Parallelimporte lediglich einen bescheidenen
+ Umfang. Zudem stammten in zwei der genannten […] Fälle sämtliche Parallelim-
+ porte aus Liechtenstein und somit aus dem Vertragsgebiet. Insgesamt haben al-
+ so lediglich drei der zitierten Händler – in bescheidenem Umfang – Nikon Produk-
+ te ausserhalb des Vertragsgebiets bezogen. Die restlichen Händler haben sich
+ nach dem Grundsatz pacta sunt servanda an die Bezugsbeschränkung gehalten.
+
+Ausländische Abredepartner
+
+327. Im Ausland sind auf der einen Seite Nikon Europe BV bzw. die Nikon Länderge-
+sellschaften jener Länder, in denen offizielle Vertriebspartner von Nikon vertraglich o-
+der faktisch dazu angehalten wurden, Lieferungen in die Schweiz zu unterlassen, als
+Abredepartner zu qualifizieren. Auf der anderen Seite handelt es sich bei den Parallel-
+exporteuren, die sich dazu verpflichtet haben, nicht in die Schweiz zu exportieren, um
+Abredepartner von Nikon. Damit sind zum einen sämtliche Händler, die einen Vertrag
+mit Nikon unterzeichnet haben, in dem sie sich direkt oder indirekt dazu verpflichtet
+haben, nicht an Abnehmer in der Schweiz zu liefern, als Abredepartner zu qualifizieren.
+Zum anderen sind auch jene Parallelhändler, die sich unabhängig von einer derartigen
+Vertragsklausel dem Druck von Nikon gebeugt und nicht mehr im gleichen Ausmass
+bzw. gar nicht mehr in die Schweiz geliefert haben, als Abredepartner zu qualifizieren.
+
+328. Hierzu bringt Nikon wiederum vor, dass hätte aufzeigt werden müssen, welche
+Nikon Ländergesellschaft mit welchem namentlich bezeichneten Händler welche Abre-
+de mit welchem Inhalt getroffen habe. Ansonsten könne Nikon ihre Verteidigungsrechte
+nicht wahrnehmen. Tatsache sei, dass kein einziger ausländischer Händler identifiziert
+worden sei, der eine solche Verpflichtung mit Bezug auf die Schweiz eingegangen wä-
+re. Insbesondere bleibe unklar, welches die Parallelhändler seien, die sich angeblich
+unabhängig von einer Vertragsklausel dem Druck von Nikon gebeugt und darum weni-
+ger oder nicht mehr in die Schweiz geliefert hätten.
+
+329. Die Vorbringen von Nikon zu den ausländischen Abredepartnern stossen aus fol-
+genden Gründen ins Leere: Eine Auflistung der ausländischen Vertragspartner von Ni-
+kon erübrigt sich, da diese den einzelnen Ländergesellschaften der Nikon Gruppe bes-
+tens bekannt sind. Gleiches gilt für die Frage, welche Ländergesellschaften von Nikon
+die oben identifizierten problematischen Verträge mit ihren Vertriebshändler abge-
+schlossen haben. Von einer fehlenden Identifikation ausländischer Händler, welche
+sich zu einem Exportverbot in die Schweiz verpflichtet hatten, kann aus diesem Grund
+
+
+22/2010/00038/COO.2101.111.4.153527 69
+und angesichts des oben dargelegten Wortlauts der Vertriebsverträge von Nikon keine
+Rede sein.
+
+330. Ferner erübrigt sich eine Auflistung der Parallelhändler, die sich unabhängig von
+einer Vertragsklausel dem Druck von Nikon gebeugt und deshalb weniger bzw. gar
+nicht mehr in die Schweiz geliefert haben, aus folgenden Gründen: Eine abschliessen-
+de Nennung dieser Parallelhändler ist basierend auf den verfügbaren Informationen
+gar nicht möglich. Die Wettbewerbsbehörden kennen die Namen sämtlicher ausländi-
+scher Vertragshändler von Nikon nicht. Somit lässt sich nicht feststellen, ob ein gewis-
+ser Parallelhändler allein infolge von Druckausübung durch Nikon auf Parallelhandel
+verzichtet hat oder ob dies auch eine Folge einer vertraglichen Verpflichtung mit Nikon
+war. Eine abschliessende Identifikation sämtlicher Abredepartner – darunter insbeson-
+dere der Gruppe, welche in Abwesenheit von vertraglichen Verpflichtungen infolge
+Druckausübung durch Nikon auf Parallelhandel verzichteten – ist indes auch gar nicht
+nötig, da sich die vorliegende Untersuchung ausschliesslich gegen Nikon richtet, was
+unter dem Titel Untersuchungsadressaten begründet wird (vgl. Rz 345).
+
+B.3.2.1.6. Abrededauer
+
+Bezugsverbote ausserhalb des Vertragsgebiets
+331. Der alte Grossistenvertrag wurde durch Nikon Schweiz ca. Ende 2004 eingeführt
+und nach und nach mit den Grosshändlern abgeschlossen. Bis Ende August 2009 be-
+stand zwischen Nikon und insgesamt sechs Grossisten ([…], siehe oben Rz 99) ein
+derartiger Vertrag, mit dem der Bezug ausserhalb des Vertragsgebiets (Schweiz und
+Liechtenstein) ausgeschlossen wurde. Per 1. September 2009 wurden diese Gross-
+handelsverträge durch neue, selektive Vertriebsverträge ersetzt, welche kein Bezugs-
+verbot mehr enthalten (vgl. Rz 179 und 236).
+
+332. Die Vertriebsvereinbarungen Einzelhändler Nikon „D3S/D3X“ enthalten seit No-
+vember 2008 bzw. 2009 ein solches Bezugsverbot ausserhalb des Vertragsgebiets
+(vgl. Rz 226 ff.). Dasselbe gilt für die „NPSD“-Verträge seit 2007 (vgl. Rz 226 ff.). Die
+Bezugsverbote in diesen Verträgen sind zum Zeitpunkt des vorliegenden Entscheids
+der WEKO noch in Kraft.
+333. Diese Verträge waren bzw. sind geeignet, Parallelimporte in die Schweiz zu be-
+hindern bzw. verhindern. Die beschlagnahmte E-Mail Korrespondenz zeigt denn auch,
+dass diese Verträge Anwendung fanden (Rz 259 und 261).
+
+Exportverbote in die Schweiz in ausländischen Verträgen
+334. In Deutschland (2004 bis 2009), Österreich/Slowenien (2006 bis 2010), Ungarn
+(seit 2005) und den USA (z.B. im Jahr 2007 und 2010) bestehen bzw. bestanden in
+den Vertriebsverträgen von Nikon Klauseln, wonach die Vertragswaren nicht in Länder
+ausserhalb des EWR bzw. der USA verkauft und damit nicht in die Schweiz exportiert
+werden dürfen bzw. durften (sog. explizite Exportverbote). Diese Verträge waren bzw.
+sind geeignet, Parallelexporte in die Schweiz zu behindern bzw. verhindern.
+
+335. In Griechenland (1996 bis 2010), Grossbritannien (z.B. im Jahr 2003) und Polen
+(z.B. im Jahr 2006) sehen die Vertriebsverträge den Verkauf nur im jeweiligen Staats-
+gebiet vor (sog. implizite Exportverbote). Diese Verträge waren bzw. sind zusammen
+mit weiteren Massnahmen gegen Parallelexporte geeignet, Parallelexporte in die
+Schweiz zu behindern bzw. verhindern.
+336. Den Wettbewerbsbehörden liegen zumindest für die Zeitspanne von Frühjahr
+2008 bis Oktober 2009 beschlagnahmte Dokumente vor, die beweisen, dass ausländi-
+
+
+22/2010/00038/COO.2101.111.4.153527 70
+sche Parallelexporteure durch die jeweilige Nikon Ländergesellschaft dazu angehalten
+wurden, nicht mehr in die Schweiz zu liefern und dies zumindest teilweise befolgt ha-
+ben (siehe oben Rz 280, 286 ff.).
+
+337. Für diese Zeitspanne ist die Umsetzung der expliziten Exportverbote und der im-
+pliziten vertraglichen Exportverbote in den genannten ausländischen Vertriebsverträ-
+gen folglich erstellt. Ein dauerhafter Verstoss seit Inkrafttreten der Verträge kann basie-
+rend auf den vorliegenden Beweisen jedoch nicht nachgewiesen werden. Diesem Um-
+stand wird bei der Sanktionsbemessung Rechnung getragen (vgl. Rz 567 f.).
+
+Strategieänderung per 1. September 2009
+338. Im Laufe des Jahres 2009 schienen die Massnahmen zur Behinderung von Pa-
+rallelhandel (gebietsabschottende Klauseln und Druckausübung auf Parallelhändler in-
+nerhalb und ausserhalb des Vertragsgebiets) nicht mehr befriedigend zu funktionieren.
+Offensichtlich wurde der Druck aus Parallelhandelstätigkeiten genügend hoch, dass
+sich Nikon zu einem Strategiewechsel entschied: Im September 2009 ersetzte Nikon
+die alten Grossistenverträge mit der problematischen Bezugsbeschränkung durch se-
+lektive Vertriebsverträge, welche keine solche Beschränkung mehr enthielten. Gleich-
+zeitig wurde die erweiterte „Swiss Garantie“ eingeführt, mit welcher Nikon stärker in
+Konkurrenz zum Parallelhandelskanal treten konnte. Zudem nahm Nikon Verhandlun-
+gen mit […], einem der vormals wichtigsten Parallelimporteure von Nikon Produkten,
+auf. Ende 2009 kam es mit […] zu einem Vertragsverhältnis. Der Preis hierfür waren
+preisliche Zugeständnisse an […]. In der Folge tätigte […] mangels Arbitragepotenzial
+keine Parallelimporte von Nikon Imaging Produkten mehr.
+
+339. Des Weiteren liegen der WEKO für den Zeitraum nach Oktober 2009 auch keine
+E-Mail Korrespondenzen mehr vor, die belegen, dass die nach wie vor bestehenden
+Bezugsverbote in den „D3S/D3X“- und „NPSD“-Verträgen sowie die expliziten und im-
+pliziten Exportverbote in den ausländischen Verträgen umgesetzt worden wären.
+
+Fazit
+340. Seit dem Inkrafttreten des revidierten Kartellgesetzes und somit der direkten
+Sanktionierbarkeit von harten Vertikalabreden am 1. April 2004 bestehen bzw. bestan-
+den in gewissen Vertriebsverträgen der Nikon Gruppe Klauseln, bei welchen der Ver-
+mutungstatbestand von Art. 5 Abs. 4 KG greift. Zum Zeitpunkt des vorliegenden Ent-
+scheids der WEKO haben die Exportverbote in ausländischen Vertriebsverträgen, Be-
+zugsbeschränkungen in den „D3S/D3X“- und „NPSD“-Verträgen nach wie vor Gültig-
+keit.
+
+341. Es liegt in der Verantwortung von Nikon, die zum Zeitpunkt des vorliegenden
+Entscheids immer noch geltenden vertraglichen Bezugsbeschränkungen und die ver-
+traglichen Exportverbote der Nikon Gruppe kartellrechtskonform umzugestalten.
+
+342. Die vertraglich vereinbarten Bezugsbeschränkungen, die expliziten Exportverbote
+in ausländischen Vertriebsverträgen sowie die impliziten Exportverbote in Zusammen-
+hang mit weiteren Massnahmen gegen Parallelexporte waren in der gesamten Zeitper-
+iode seit dem 1. April 2004 geeignet, Parallelimporte in die Schweiz zu behindern oder
+zu verhindern.
+
+343. Die folgende Abbildung illustriert die zeitliche Abfolge der verschiedenen Verträ-
+ge bzw. Abreden und der unterstützenden Massnahmen.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 71
+Abb. 1: Zeitachse der Abreden und Massnahmen gegen Parallelimporte
+
+ Alter Grossistenvertrag mit Bezugsverbot
+ ausserhalb des Vertragsgebiets
+
+
+ NPSD-Vertrag mit Bezugsverbot ausserhalb des
+ Vertragsgebiets
+
+
+ Selektivvertriebsvertrag D3X mit Bezugsverbot
+ ausserhalb des Vertragsgebiets
+
+
+ Selektivvertriebsvertrag D3S mit Bezugsverbot
+ ausserhalb des Vertragsgebiets
+
+
+ Disziplinierung von bzw. keine Zusammenarbeit
+ mit Parallelhändlern im Vertragsgebiet
+
+
+ Vertragliche Exportverbote in die Schweiz f ür
+ Händler ausserhalb des Vertragsgebiets
+
+
+ Abmahnung von Parallelexporteuren ausserhalb
+ des Vertragsgebiets
+ Apr 08
+
+
+
+
+ Okt 08
+
+
+
+
+ Apr 09
+
+
+
+
+ Okt 09
+ Jul 08
+
+
+
+
+ Feb 09
+
+
+
+
+ Jul 09
+
+
+
+
+ Feb 10
+ Mai 08
+ Jun 08
+
+
+
+
+ Jan 09
+
+
+
+
+ Mai 09
+ Jun 09
+
+
+
+
+ Jan 10
+ Aug 08
+ Sep 08
+
+
+ Nov 08
+ Dez 08
+
+
+
+
+ Aug 09
+ Sep 09
+
+
+ Nov 09
+ Dez 09
+ Mrz 08
+
+
+
+
+ Mrz 09
+
+
+
+
+ Mrz 10
+344. Für die Zeitspanne Frühjahr 2008 bis Herbst 2009 ist die Behinderung von Paral-
+lelimporten aufgrund der beschlagnahmten E-Mail Korrespondenz erstellt. Ein dauer-
+hafter Verstoss seit Inkrafttreten der Verträge kann Nikon basierend auf den vorliegen-
+den Beweisen jedoch nicht nachgewiesen werden. Zudem hat Nikon im Herbst 2009
+einen Strategiewechsel vollzogen (vgl. Rz 338). Diesen Umständen wird bei der Sank-
+tionsbemessung Rechnung getragen (vgl. Rz 567 f.).
+
+B.3.2.1.7. Untersuchungsadressaten
+345. Die vorliegende Untersuchung wurde am 24. März 2010 gegenüber Nikon eröff-
+net und am 5. Oktober 2010 auf Digitec ausgedehnt. Weil die WEKO nicht mit hinrei-
+chender Wahrscheinlichkeit feststellen konnte, dass es zwischen Nikon und Digitec zu
+einer Abrede nach Art. 4 Abs. 1 KG gekommen ist (siehe oben Rz 166 f.), wird das
+Verfahren gegenüber Digitec ohne Folgen eingestellt.
+346. Das Sekretariat hat im Übrigen auf eine Ausdehnung der Untersuchung auf sämt-
+liche inländischen und ausländischen Händler verzichtet, was sich aus den folgenden
+Gründen rechtfertigt:
+
+Interessenasymmetrie
+
+347. Die Gebietsschutzabrede begünstigte insbesondere Nikon. Mit anderen Worten
+lag die Gebietsschutzabrede vor allem im Interesse von Nikon; die in- und ausländi-
+schen Abredepartner konnten daraus, wenn überhaupt, lediglich einen geringen Vorteil
+ziehen:
+
+ Inländische Händler, welche sich vertraglich zu einem Bezugsverbot ausserhalb
+ des Vertragsgebiets verpflichteten, befanden sich in einer „take it or leave it“-
+ Position: Entweder sie unterschrieben den Vertrag oder sie waren kein offizieller
+ Vertriebshändler von Nikon. Eine Nichteinhaltung des Bezugsverbots hatte die
+ fristlose Kündigung zur Folge (§ 11 Abs. 2 lit. d [alter Grossistenvertrag]; § 5 Abs.
+ 2 lit. b [D3S-/D3X-Vertrag]; § 7 Abs. 2 lit. b [„NPSD“-Vertrag]). Ein derartiges Be-
+ zugsverbot kann nicht im Interesse der Schweizer Händler gewesen sein, da
+ ihnen das Ausnützen von Arbitragemöglichkeiten eine Erhöhung der eigenen
+ Marge erlaubt hätte.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 72
+ Ausländische Lieferanten bedienen in aller Regel schwerpunktmässig den eige-
+ nen Markt. Die Auswirkungen der vorliegenden Gebietsschutzabreden zeitigten
+ durch die Verringerung des Wettbewerbsdrucks in der Schweiz jedoch Auswir-
+ kungen auf dem Schweizer Markt und nicht auf denjenigen Märkten, auf welchen
+ die ausländischen Lieferanten schwerpunktmässig tätig waren (vgl. Rz 505 ff.).
+ Insofern konnten ausländische Lieferanten im Gegensatz zu inländischen Händ-
+ lern nicht vom geringeren Preisdruck infolge der Gebietsabschottung profitieren.
+ Zudem bedeutet eine Einschränkung des Kundenkreises für ausländische Liefe-
+ ranten eine Reduktion ihres Absatz- und Gewinnpotenzials. Gewinnmaximieren-
+ de Lieferanten haben üblicherweise ein Interesse daran, zusätzliche (ausländi-
+ sche) Kunden zu bedienen. Vor diesem Hintergrund dürften ausländische Liefe-
+ ranten ein noch geringeres Interesse an den absoluten Gebietsschutzabreden
+ gehabt haben als inländische Händler. Wenn sie sich jedoch nicht an die Vorga-
+ ben der jeweiligen Nikon Ländergesellschaft – und somit an die Wettbewerbsab-
+ rede – hielten, mussten sie mit Retorsionsmassnahmen rechnen, welche sogar in
+ einer Vertragskündigung bestehen konnten (vgl. Rz 270).
+
+ Parallelhändler: Schliesslich gab es sowohl im In- als auch im Ausland diverse
+ Parallelhändler, die sich über die Massnahmen von Nikon zur Verhinderung von
+ Parallelimporten in die Schweiz hinweggesetzt und trotzdem Parallelhandel be-
+ trieben haben. Es lässt sich allerdings nicht abschliessend feststellen, auf welche
+ Händler im In- und Ausland dies zutrifft bzw. zutraf. Würde die Untersuchung auf
+ alle Händler ausgedehnt, würden falsche Signale gesetzt. Das Ziel der vorliegen-
+ den Untersuchung ist es in erster Linie, den Urheber der möglicherweise unzu-
+ lässigen Massnahmen gegen Parallelimporte in die Schweiz gegebenenfalls zu
+ sanktionieren und nicht die Händler, die sich zu deren Einhaltung gezwungen sa-
+ hen und schon gar nicht jene, die sich allenfalls darüber hinweggesetzt haben.
+
+Praxis der Europäischen Kommission
+348. Es entspricht der Praxis der Europäischen Kommission, bei vertraglich vereinbar-
+ten Exportverboten nur den Hersteller bzw. Importeur zu büssen:
+
+ In ihrem Entscheid in Sachen „Peugeot“ 106 hatte die Kommission Massnahmen
+ (im Wesentlichen ging es um Boni, die nur für Verkäufe in den Niederlanden
+ ausbezahlt wurden) zu beurteilen, die von der Automobiles Peugeot SA ergriffen
+ worden waren, um Exportverkäufe zu beschränken.107 Sie hielt dabei fest, es
+ würde sich nicht um einseitige Verhaltensweisen handeln, denn sie hätten sich in
+ die vertragliche Beziehung zwischen Peugeot und den offiziellen Vertriebspart-
+ nern von Peugeot in den Niederlanden eingefügt.108 Die Kommission verwies da-
+ bei auf die Rechtsprechung des Gerichtshofes, wonach ein Vertragshändler nur
+ in ein Vertriebsnetz aufgenommen werden kann, wenn er ausdrücklich oder still-
+ schweigend die Politik des Herstellers und seines Lieferanten akzeptiere.109 Im
+ Zusammenhang mit einer möglichen Verhängung einer Geldbusse gegen die
+ Peugeot-Vertragshändler in den Niederlanden war die Kommission der Auffas-
+
+
+106
+ KOMM ABl. L 173/20 vom 27.6.2006, Peugeot (Zusammmenfassung), bestätigt durch Urteil
+des EuG vom 9.7.2009 T-450/05 Automobiles Peugeot SA, Peugeot Nederland
+NV/Kommission, Slg. 2009 S. II-02533; für eine Vollversion vgl. Kommission vom 5.10.2005 i.S.
+Automobiles Peugeot SA, Rz 11, abrufbar unter:
+http://ec.europa.eu/competition/antitrust/cases/dec_docs/36820/36820_190_1.pdf (28.11.2011);
+107
+ Automobiles Peugeot SA (Fn 106), Rz 11.
+108
+ Automobiles Peugeot SA (Fn 106), Rz 89.
+109
+ Automobiles Peugeot SA (Fn 106), Rz 91.
+
+
+22/2010/00038/COO.2101.111.4.153527 73
+ sung, dass die Peugeot-Vertragshändler in den Niederlanden zwar an den gegen
+ das Wettbewerbsrecht verstossenden Vereinbarungen beteiligt waren, die Initia-
+ tive dazu allerdings von Automobiles Peugeot SA ausgegangen war, weshalb
+ gegen die Vertriebspartner keine Geldbussen zu verhängen seien.110 Dement-
+ sprechend wurde nur der Automobiles Peugeot SA bzw. Peugeot Nederland NV
+ eine Geldbusse auferlegt.111
+
+ Im Entscheid in Sachen „Opel“ hatte die Kommission Massnahmen von Opel
+ Nederland BV zur Einschränkung von Exporten aus den Niederlanden zu beurtei-
+ len.112 Sie kam darin zum Schluss, dass eine Geldbusse gegen Opel Nederland
+ BV und deren Muttergesellschaft, die General Motors Nederland BV, angebracht
+ sei. Sie qualifizierte „die niederländischen Opel-Vertragshändler als zusammen
+ mit Opel Nederland BV Beteiligte an Vereinbarungen zur Verhinderung oder Ein-
+ schränkung von Exporten“ als „Opfer der von ihrem Vertragspartner beschlosse-
+ nen restriktiven Politik, der sie auf Druck zustimmen mussten“. Nach Ansicht der
+ Kommission hatten die Händler nicht aktiv mitgewirkt, weshalb gegen sie keine
+ Geldbusse verhängt wurde.113
+
+ Bereits in ihrem Entscheid in Sachen „Volkswagen“ war die Kommission zum
+ Schluss gekommen, dass es sich bei den von Volkswagen AG, Audi AG und Au-
+ togerma SpA (Generalimporteurin von VW und Audi in Italien) ergriffenen Mass-
+ nahmen zur Verhinderung bzw. Behinderung von Parallelexporten nicht um ein-
+ seitige Massnahmen handle, sondern um solche, die sich in die vertraglichen Be-
+ ziehungen zwischen der Herstellerin bzw. der Generalimporteurin und den Händ-
+ lern des selektiven Vertriebsnetzes einfügen.114 Unter dem Titel „Adressat dieser
+ Entscheidung“ führte die Kommission allerdings aus, die Volkswagen AG, als
+ Muttergesellschaft der Audi AG und der Autogerma SpA, sei für die festgestellten
+ Zuwiderhandlungen gegen das europäische Wettbewerbsrecht allein verantwort-
+ lich.115 Dementsprechend hat sie nur gegen die Volkswagen AG eine Geldbusse
+ verhängt.116
+
+Grundsatz der Gleichbehandlung
+349. Gemäss Art. 29 Abs. 1 BV117 hat jede Person in Verfahren vor Gerichts- und
+Verwaltungsinstanzen Anspruch auf gleiche und gerechte Behandlung. Nikon hat im
+In- und Ausland zahlreiche Händler unter Vertrag. Den Wettbewerbsbehörden sind ba-
+sierend auf die verfügbaren Informationen (insbesondere die beschlagnahmten Doku-
+mente) nur eine Auswahl von Abredepartnern bekannt. Vorliegend wurde nicht zuletzt
+aus Gründen der Gleichbehandlung auf die Eröffnung einer Untersuchung gegenüber
+einzelnen Abredepartnern verzichtet. Im Übrigen besteht in der Regel kein Anspruch
+auf Gleichbehandlung im Unrecht.
+
+
+
+
+110
+ Automobiles Peugeot SA (Fn 106), Rz 160.
+111
+ Automobiles Peugeot SA (Fn 106), Rz 159.
+112
+ KOMM ABl. L59/1 vom 28.02.2001 – Opel.
+113
+ Opel (Fn 112), Rz 174.
+114
+ KOMM, ABl. 1998 L 124/60, VW, Rz 128, bestätigt durch Urteil des EuGH vom 18.9.2003 C-
+338/00 P Volkswagen AG, Slg. 2003, I-9189, Rz 52 ff.
+115
+ VW (Fn 114), Rz 205.
+116
+ VW (Fn 114), S. 94.
+117
+ Bundesverfassung der schweizerischen Eidgenossenschaft vom 18. April 1999 (BV;
+SR 101).
+
+
+22/2010/00038/COO.2101.111.4.153527 74
+Territorialitätsprinzip
+
+350. Gemäss dem Territorialitätsprinzip kann ein Staat Hoheitsakte nur in seinem ei-
+genen Hoheitsgebiet vornehmen. Wie im Rahmen des Geltungsbereichs (siehe oben
+Rz 74) aufgezeigt, steht das Territorialitätsprinzip einer Anwendung des Kartellgeset-
+zes auf Auslandsachverhalte, die sich in der Schweiz auswirken, grundsätzlich nicht
+entgegen. Allerdings kann die Durchsetzung des Kartellrechts im Zusammenhang mit
+exterritorialen Unternehmen ohne Vertretung in der Schweiz zu Problemen führen, weil
+den Wettbewerbsbehörden in diesen Fällen grundsätzlich die Kompetenz fehlt, im Aus-
+land sowohl die nötigen Ermittlungsmassnahmen vorzunehmen, als auch allfällige
+Sanktionen mittels hoheitlicher Gewalt durchzusetzen.118 Diese prozessökonomischen
+Gründe sprachen zusätzlich gegen eine Eröffnung der Untersuchung gegenüber den
+ausländischen Abredepartnern.
+
+Fazit
+351. Basierend auf diesen Überlegungen wurde auf die Ausdehnung der Untersu-
+chung auf die in- und ausländischen Abredepartner von Nikon verzichtet. Somit ist Ni-
+kon Schweiz bzw. die Nikon Gruppe vorliegend neben Digitec die einzige Untersu-
+chungsadressatin.
+
+B.3.2.2. Widerlegung der gesetzlichen Vermutung gemäss Art. 5 Abs. 4 KG
+352. Für die Widerlegung der Vermutung der Beseitigung des wirksamen Wettbe-
+werbs ist eine Gesamtbetrachtung des Marktes unter Berücksichtigung des Intrabrand-
+und Interbrand-Wettbewerbs massgebend. Ausschlaggebend ist, ob genügend In-
+trabrand- oder Interbrand-Wettbewerb auf dem relevanten Markt besteht oder die
+Kombination der beiden zu genügend wirksamem Wettbewerb führt (Ziff. 11 VertBek).
+
+353. Im vorliegenden Fall kann die Vermutung widerlegt werden, wenn Händler von
+Nikon Imaging Produkten in der Schweiz Parallelimporte von Nikon Imaging Produkten
+in genügendem Umfang tätigen bzw. tätigen konnten und wenn sich diese Händler hin-
+sichtlich eines anderen Wettbewerbsparameters – insbesondere des Preises – einen
+wirksamen Wettbewerb liefern (Intrabrand-Wettbewerb; vgl. Abschnitt B.3.2.2.2.).
+
+354. Eine zweite Möglichkeit zur Widerlegung der gesetzlichen Vermutung besteht im
+Nachweis eines intensiven Wettbewerbs zwischen verschiedenen Herstellern von Ima-
+ging Produkten (Interbrand-Wettbewerb; vgl. Abschnitt B.3.2.2.3.). Als dritte Möglich-
+keit zur Vermutungswiderlegung kommt schliesslich die Kombination des vorhandenen
+Intrabrand- und Interbrand-Wettbewerbs in Betracht.119
+
+355. Zur Prüfung der Marktverhältnisse werden vorab die relevanten Märkte in sachli-
+cher und räumlicher Hinsicht abgegrenzt.
+
+
+
+
+118
+ BSK KG-LEHNE (Fn 8), Art. 2 KG N 57.
+119
+ Vgl. auch RPW 2010/1, 85 Rz 171 und 103 Rz 300, Gaba.
+
+
+22/2010/00038/COO.2101.111.4.153527 75
+B.3.2.2.1. Relevante Märkte
+
+B.3.2.2.1.1. Sachlich relevante Märkte
+
+Vorbemerkungen
+356. Der sachliche Markt umfasst alle Waren oder Leistungen, die von der Marktge-
+genseite hinsichtlich ihrer Eigenschaften und ihres vorgesehenen Verwendungszwecks
+als substituierbar angesehen werden (Art. 11 Abs. 3 lit. a VKU120, analog).
+
+357. Marktgegenseite von Nikon auf der Absatzseite sind zum einen Distributoren
+(Grosshändler bzw. Grossisten), welche Nikon Imaging Produkte ihrerseits an Retail-
+händler vertreiben. Andererseits gehören grosse Retailhändler, sog. Direktkunden, wie
+[…] zu den Kunden von Nikon. Da die Nachfrage von Retailhändlern nach Nikon Ima-
+ging Produkten wiederum vom Nachfrageverhalten der Endverbraucher geleitet wird
+(abgeleitete Endnachfrage), sind die Präferenzen und das Verhalten der Endverbrau-
+cher Ausgangspunkt der nachfolgenden Marktdefinition.
+
+358. Die bisherige Praxis der europäischen Kommission im Zusammenhang mit Fo-
+tokameras tendierte dahin, den Markt für Kameras in einen Markt für Kompaktkameras,
+einen Markt für Spiegelreflexkameras und einen Markt für Digitalkameras aufzuteilen.
+Auf eine abschliessende Marktabgrenzung wurde indes verzichtet.121 Die nachfolgen-
+den Ausführungen zeigen, dass die aus dem Jahr 2003 stammenden Überlegungen
+zur Marktdefinition infolge der technologischen Entwicklung heute überholt sind. So
+sind heute sowohl Kompaktkameras als auch Spiegelreflexkameras in der Regel digi-
+tal.122 Entsprechend produzieren heute viele Kamerahersteller überhaupt keine analo-
+gen Kompakt- und Spiegelreflexkameras mehr. Die Kunden dieser Kameras sind laut
+Angaben von Nikon entweder Liebhaber und Nostalgiker oder professionelle Fotogra-
+fen, die mehrere Monate in der Abgeschiedenheit Fotoaufnahmen machen und eine
+analoge Spiegelreflexkamera als Ersatzkamera bei sich haben. Abgesehen von diesen
+Ausnahmen hat die analoge Kamera keine Bedeutung mehr. So verkaufte Nikon zwi-
+schen April 2009 und März 2010 gerade noch […] analoge Spiegelreflexkameras in der
+Schweiz, […] analogen Kompaktkameras. Vor diesem Hintergrund wird im Folgenden
+auf weitere Ausführungen zu analogen Kameras verzichtet.
+
+359. Vorliegend sind Produkte aus den Produktgruppen Digitalkameras mit und ohne
+Wechselobjektiv, Wechselobjektive und Blitzgeräte von Behinderungen beim Paralle-
+limport betroffen (vgl. Rz 323). Nachfolgend wird analysiert, wie die relevanten Märkte
+für diese Produktgruppen zu definieren sind.
+
+Digitalkameras ohne Wechselobjektiv
+
+360. Als digitale Kameras ohne Wechselobjektiv (auch Kompaktkameras genannt)
+werden Fotoapparate bezeichnet, die als Aufnahmemedium einen elektronischen
+Bildsensor enthalten und über ein fest eingebautes Objektiv verfügen. Das Licht ge-
+langt bei diesen Kameras durch das fest installierte Objektiv auf den Bildsensor. Die
+
+
+120
+ Verordnung vom 17. Juni 1996 über die Kontrolle von Unternehmenszusammenschlüssen
+(VKU; SR 251.4).
+121
+ KOMM, COMP/M.3091, 11.07.2003, Konica/Minolta, Rz 18–23.
+122
+ Im Jahr 2003 gab es auch bereits sowohl digitale Kompaktkameras als auch digitale Spiegel-
+reflexkameras. Da es sich damals um einen jungen und schnell wachsenden Markt handelte,
+wurde es indes als zu früh beurteilt, den Markt für digitale Kameras weiter zu unterteilen.
+KOMM, COMP/M.3091, 11.07.2003, Konica/Minolta, Rz 20.
+
+
+22/2010/00038/COO.2101.111.4.153527 76
+fest eingebauten Objektive unterscheiden sich in der verfügbaren Brennweite (Zoom-
+und Weitwinkelobjektive) und Lichtstärke. Assistenzfunktionen unterstützen den Foto-
+grafen bei der Bilderstellung. Beispielsweise analysiert die Motivautomatik das Motiv
+und die Umgebungsbedingungen und wählt dann automatisch das zur Aufnahme pas-
+sende Motivprogramm aus. Einige Kameras ohne Wechselobjektiv lassen sich auch
+manuell einstellen. Weiter können mit einigen Kameras ohne Wechselobjektiv auch
+Filmaufnahmen gemacht werden. Kameras ohne Wechselobjektive sind meistens
+kompakt, so dass sie leicht mitgeführt werden können.
+
+361. Digitalkameras ohne Wechselobjektive können sich hinsichtlich ihrer Qualität
+bzw. Leistung beträchtlich unterscheiden. So verfügen digitale Kompaktkameras von
+Nikon entweder über CCD (Charge Coupled Device123)- oder CMOS (Complementary
+Metal Oxide Semiconductor124)-Bildsensoren mit unterschiedlichen Auflösungen und
+Leistungswerten. Diese Unterschiede schlagen sich im Preis nieder.
+
+362. Auf dem Markt wird denn auch je nach Bedürfnis eine breite Preis- und Quali-
+tätspalette von der günstigen Einsteigerkamera bis zur hochwertigen Kamera für an-
+spruchsvolle Konsumenten angeboten. Zu den Kunden von Digitalkameras ohne
+Wechselobjektive gehören Fotografie-Einsteiger, Hobbyfotografen und Profi-
+Fotografen, welche die Kameras im Alltagsgebrauch und zu Hobbyzwecken (z.B. Rei-
+sefotografie) sowie in der professionellen Fotografie (d.h. dort, wo das Gewicht eine
+grosse Rolle spielt, z.B. Extremklettern) einsetzen.
+
+Digitalkameras mit Wechselobjektiv
+363. Als digitale Kameras mit Wechselobjektiv werden Fotoapparate bezeichnet, bei
+denen das Objektiv ausgewechselt werden kann, um den unterschiedlichen fotografi-
+schen Anforderungen besser gerecht zu werden. Digitale Kameras mit Wechselobjektiv
+werden auch als Systemkameras bezeichnet. Bei einer Systemkamera lässt sich un-
+terschiedliches Zubehör vom Hersteller oder von Drittanbietern montieren, um das
+Kamerasystem zu erweitern, wie z.B. Blitzgeräte, Objektive, Fernbedienungs-, WLAN-,
+GPS-, Sucher- und Computerzubehör.
+
+364. Mit einer Kamera mit Wechselobjektiv kann sowohl manuell wie auch automa-
+tisch fotografiert werden. Verschiedene Assistenzsysteme unterstützen den Fotogra-
+fen. Dank diesen Systemen können auch Anfänger ohne Schwierigkeiten mit einer
+Kamera mit Wechselobjektiv fotografieren. Mit einigen Kameras mit Wechselobjektiv
+können auch Filmaufnahmen gemacht werden.
+
+
+
+
+123
+ Ein CCD ist ein elektronischer lichtempfindlicher Sensor, der das einfallende Licht in ein zur
+Lichtmenge proportionales Signal umwandelt. CCD-Bildsensoren bestehen aus einer Matrix mit
+lichtempfindlichen Fotodioden, die Pixel genannt werden. In den Anfangsjahren enthielten die
+Digitalkameras fast ausschliesslich CCD-Sensoren. Mittlerweile existiert eine Vielzahl unter-
+schiedlicher Sensortypen.
+124
+ Ein Active Pixel Sensor (APS, dt. aktiver Pixelsensor) ist ein Halbleiterdetektor zur Lichtmes-
+sung, der in CMOS-Technik gefertigt ist und deshalb oft als CMOS-Sensor bezeichnet wird.
+Durch die Verwendung der CMOS-Technik wird es möglich, weitere Funktionen in den Sen-
+sorchip zu integrieren, wie beispielsweise die Belichtungskontrolle oder die Kontrastkorrektur.
+CMOS-Sensoren verbrauchen weniger Strom. CCD-Sensoren hingegen produzieren weniger
+Störungen im Bild, sogenanntes Bildrauschen, und können Licht etwas effizienter nutzen. Mit
+CMOS-Sensoren wurden früher nur die preisgünstigen "low-end"-Geräte ausgestattet. Seitdem
+deren wesentliche Nachteile weitgehend auf ein vergleichbares Mass minimiert wurden, ver-
+drängen CMOS-Sensoren zunehmend die CCD-Sensoren auch im Bereich der digitalen Spie-
+gelreflexkameras.
+
+
+22/2010/00038/COO.2101.111.4.153527 77
+365. Zu den Kunden von Digitalkameras mit Wechselobjektiven zählen Fotografie-
+Einsteiger, Hobbyfotografen sowie Profi-Fotografen, welche die Kameras im Alltagsge-
+brauch (z.B. zur Aufnahme von Schnappschüssen), zu Hobbyzwecken (z.B. für die
+Reisefotografie) und in der professionellen Fotografie (z.B. Reportage und Sport) ein-
+setzen.
+
+366. Es gibt zwei Konstruktionstypen von digitalen Kameras mit Wechselobjektiv: Ka-
+meras mit Spiegel und Kameras ohne Spiegel. Bei Kameras mit Spiegel (digitale Spie-
+gelreflexkameras) wird das Motiv zur Betrachtung und Einstellung vom Objektiv über
+einen Spiegel umgelenkt, auf einer Mattscheibe abgebildet und durch einen optischen
+Sucher betrachtet. Die Belichtung erfolgt nach Aufklappen des Spiegels auf digitalen
+Bildsensoren. Bei Kameras ohne Spiegel (DCIL-Kameras) erfolgen die Betrachtung di-
+rekt auf dem eingebauten Monitor und die Belichtung direkt auf dem Bildsensor. Dabei
+handelt es sich um Kameras, welche wie die Kompaktkamera über keinen Spiegel ver-
+fügen, aber wie die Spiegelreflexkamera die Möglichkeit bieten, verschiedene Objekti-
+ve auf das Gehäuse zu montieren.
+
+367. In Zusammenhang mit den beiden Konstruktionstypen von Kameras mit Wech-
+selobjektiv (Kameras mit Spiegel und Kameras ohne Spiegel) stellt sich die Frage, ob
+der Markt für Digitalkameras mit Wechselobjektiv je nach Konstruktionstyp zu segmen-
+tieren ist. Nikon verneint dies mit dem Argument, dass die Bilderstellungstechnik (digi-
+tale Spiegelreflextechnik oder spiegellose Digitaltechnik) im Bereich der Digitalkameras
+für den Endverbraucher und die Branche nur noch eine untergeordnete Bedeutung ha-
+be. Von grösserer Bedeutung sei, ob eine Digitalkamera über ein fest installiertes Ob-
+jektiv oder über Wechselobjektive verfüge. Wichtig sei in dieser Hinsicht vor allem die
+Geschwindigkeit des Autofokus und des Bildverarbeitungsprozessors der Kamera so-
+wie die Qualität und Lichtempfindlichkeit des Objektivs. Bei Kameras mit Wechselob-
+jektiven sei die Leistung mit Bezug auf diese Funktionen wesentlich höher als bei Ka-
+meras ohne Wechselobjektiv.
+
+368. In Anbetracht dieses Arguments sowie der Tatsache, dass es sich bei der spie-
+gellosen Digitaltechnik um eine Innovation handelt, die erst im Jahr 2008 durch Olym-
+pus und Panasonic auf den Markt gebracht wurde – sie wird heute zusätzlich von
+Sony, nicht jedoch von Nikon angeboten – und deshalb im Vergleich zur Spiegelre-
+flextechnik weitaus geringere Umsätze generieren dürfte, verzichtet die WEKO auf eine
+Segmentierung des Marktes für Digitalkameras mit Wechselobjektiven nach Konstruk-
+tionstyp (mit/ohne Spiegel).
+
+369. Jedoch ist nach Ansicht von Nikon eine Segmentierung des Marktes für Kameras
+mit Wechselobjektiv je nach Leistung bzw. Qualität angezeigt: Bei Kameras mit Wech-
+selobjektiv gibt es beträchtliche Leistungs- bzw. Qualitätsunterschiede, welche sich im
+Preis niederschlagen. Auf dem Markt wird denn auch je nach Bedürfnis eine breite
+Preis- und Qualitätspalette von der günstigen Einsteigerkamera bis zur hochwertigen
+Kamera für anspruchsvolle Konsumenten angeboten. Laut einem Beitrag der Konsu-
+mentenzeitschrift Saldo würden heute immer häufiger Einsteigermodelle für rund
+CHF 600 angeboten. Semiprofesionelle Geräte gebe es für CHF 1‘000 bis CHF 2‘000;
+Profimodelle würden schnell mehrere tausend Franken kosten.125
+
+370. Gemäss Nikon sind diese Leistungs- bzw. Qualitätsunterschiede zwischen Ka-
+meras für professionelle Fotografen (Pro-Segment, Pro-DSLR) und den übrigen Kame-
+ras (Hobby-Segment, Hobby-DSLR) derart signifikant, dass die beiden Segmente ei-
+gene sachlich relevante Märkt darstellen würden. Pro-DSLR Kameras (Nikon
+
+
+125
+ Vgl. Spiegelreflexkameras – nicht nur für Profis geeignet, Saldo, 02/2010.
+
+
+22/2010/00038/COO.2101.111.4.153527 78
+„D3S/D3X“126) würden nur von einer sehr kleinen Kundengruppe nachgefragt, die zu
+ca. 90 % aus Berufsfotografen bestehe. Diese Kunden würden auch bei einem gerin-
+gen, aber signifikanten und dauerhaften Preisaufschlag von 5–10 % nicht auf eine
+Hobby-DSLR umsteigen (SSNIP-Test127). Somit bestehe aus Sicht der Berufsfotogra-
+fen nur eine sehr geringe Substituierbarkeit zwischen Pro-DSLR und Hobby-DSLR
+Kameras. Für die in Bezug auf Qualität und Funktionalität hochwertigen D3-Kameras
+seien Berufsfotografen denn auch bereit, einen deutlich höheren Preis zu bezahlen (ab
+ca. CHF 5‘500 für die Nikon D3S) verglichen mit der teuersten Kamera im Hobby-
+DSLR Segment (ca. CHF 2‘400 für die D700 für ambitionierte Amateure). Zudem wür-
+den die unterschiedlichen Verkaufskanäle für eine Marktsegmentierung sprechen: Pro-
+DSLR Kameras seien in der Regel dem hoch spezialisierten Fachhandel vorbehalten,
+welcher verschiedene Dienstleistungen für Berufsfotografen erbringe (z.B. Wartung
+und Reparaturen). Berufsfotografen seien darauf angewiesen, dass sie weltweit unver-
+züglich Support- und Serviceleistungen des Herstellers in Anspruch nehmen könnten.
+Einzig Nikon und Canon seien in der Lage, diese Ansprüche zu erfüllen. Dementspre-
+chend führten keine anderen Hersteller vergleichbare Kameras des Pro-DSLR Seg-
+ments im Angebot.
+
+371. Die von Nikon dargelegten Argumente legen nahe, dass in Bezug auf Digitalka-
+meras mit Wechselobjektiv zwei sachlich relevante Märkte voneinander zu unterschei-
+den sind: Digitalkameras mit Wechselobjektiv für professionelle Fotografen (Pro-DSLR)
+und Digitalkameras mit Wechselobjektiv ohne professionelle Kameras (Hobby-DSLR).
+
+372. Obwohl die Argumente von Nikon, die für eine Segmentierung des Produktmark-
+tes für Digitalkameras mit Wechselobjektiv sprechen, plausibel erscheinen, wird die
+Frage nach der genauen Marktabgrenzung offen gelassen, da sie das Ergebnis der
+vorliegenden Untersuchung aus folgenden Gründen nicht beeinflusst: Erstens betreffen
+die Bezugsbeschränkungen und Exportverbote beide Segmente (vgl. Rz 323). Zwei-
+tens bestehen laut beschlagnahmter E-Mail Korrespondenz und der nachfolgenden
+Analyse betreffend Arbitragemöglichkeiten (vgl. Rz 387 ff.) in beiden Segmenten Arbit-
+ragemöglichkeiten (vgl. Rz 428), deren Ausnutzung durch Parallelhändler einen Anreiz
+geben können, Parallelhandel zu unterbinden. Drittens ist davon auszugehen, dass Ni-
+kon im Pro-Segment über […] Marktanteile verfügt als im Gesamtmarkt „Digitalkame-
+ras mit Wechselobjektiv“ (vgl. hierzu Rz 462). Im Pro-Segment sind nämlich lediglich
+Nikon und Canon tätig. Andere Hersteller wie z.B. Olympus oder Sony haben laut An-
+gaben von Nikon keine vergleichbaren Kameras des Pro-Segments im Angebot, die
+den hohen Ansprüchen der Berufsfotografen genügen würden. Darüber hinaus gehö-
+ren die Kameras im Pro-Segment […] im Bereich Digitalkameras mit Wechselobjektiv
+(vgl. Tabelle 2 Anhang E.1). Nikon Schweiz erzielt […] im Bereich Digitalkameras mit
+Wechselobjektiv im Pro-Segment. Angesichts dieser Umsatzanteile sowie der […]
+Marktanteile im Pro-Segment haben die nachfolgenden Aussagen zur Wettbewerbsin-
+tensität im Produktbereich Digitalkameras mit Wechselobjektiv auch Gültigkeit bei einer
+isolierten Betrachtung der einzelnen Segmente. Schliesslich bleibt darauf hinzuweisen,
+dass auch das Marktforschungsinstitut GfK den Bereich Digitalkameras mit Wechsel-
+objektiv nicht weiter segmentiert. Somit stünden aus dieser Quelle keine Daten für die
+vorliegende Analyse zur Verfügung. Vor diesem Hintergrund werden die beiden Markt-
+segmente in der nachfolgenden wettbewerbsrechtlichen Analyse gemeinsam betrach-
+tet.
+
+
+
+
+126
+ Vgl. Fn 36.
+127
+ Der sogenannte SSNIP-Test (Small but Significant and Non-transitory Increase in Prices) er-
+fasst die Reaktion von Nachfragern auf Preiserhöhungen quantitativ.
+
+
+22/2010/00038/COO.2101.111.4.153527 79
+Kein Gesamtmarkt für Digitalkameras
+
+373. Die WEKO ging im Zusammenhang mit der Marktabgrenzung von Digitalkameras
+ebenfalls der Frage nach, ob Digitalkameras mit und ohne Wechselobjektiv einem Ge-
+samtmarkt für Digitalkameras zuzuordnen sind. Folgende Elemente sprechen gegen
+eine solche Marktabgrenzung:
+
+ Mangelnde Substituierbarkeit aus Sicht der Nachfrager von Kameras ohne
+ Wechselobjektiv: Infolge des höheren Preisniveaus von Kameras mit Wechselob-
+ jektiv (vgl. Abbildung 2) dürfte es für einen potenziellen Nachfrager nach einer
+ Kamera ohne Wechselobjektiv in der Regel zu teuer sein, eine Kamera ohne
+ Wechselobjektiv durch eine mit Wechselobjektiv zu substituieren. Zudem stellen
+ Kameras mit Wechselobjektiven im Schnitt höhere Anforderungen an den Foto-
+ grafen als Kameras ohne Wechselobjektive. Die befragten Kamerahersteller –
+ darunter Nikon – geben denn auch mehrheitlich an, dass nicht eine Kamera mit
+ Wechselobjektiv das beste Ersatzprodukt für eine Kamera ohne Wechselobjektiv
+ darstelle, sondern vielmehr eine Mobiltelefonkamera. Im Übrigen verneinte Nikon
+ die Frage, ob eine Preiserhöhung von 10 % auf digitalen Kameras ohne Wech-
+ selobjektive bei Konstanz der Preise von Kameras mit Wechselobjektiven einen
+ Durchschnittskonsumenten dazu veranlassen würde, eine digitale Kamera mit
+ Wechselobjektiv zu kaufen (sog. SSNIP-Test [vgl. Fn 127]). Dieses vermutete
+ Konsumentenverhalten spricht gegen eine breitere Marktdefinition.
+
+Abb. 2: Preisvergleich Digitalkameras mit und ohne Wechselobjektiv April 2009 bis Ap-
+ril 2010
+[…]
+
+Quelle: GfK.
+
+ Asymmetrische Substituierbarkeit aus Sicht der Kamerahersteller: Die Befragung
+ der Kamerahersteller ergab, dass die Umstellung der Produktion von Kameras
+ mit Wechselobjektiv auf Kameras ohne Wechselobjektiv einfach möglich ist, da
+ für die Herstellung von digitalen Kameras mit Wechselobjektiv eine höherwertige
+ Technologie erforderlich ist als für die Herstellung digitaler Kompaktkameras oh-
+ ne Wechselobjektiv. Alle Hersteller von Kameras mit Wechseloptik bieten denn
+ auch Kameras ohne Wechseloptik an. Laut Nikon bestehe heute zudem die Mög-
+ lichkeit, die Produktion oder Teile der Produktion für digitale Kompaktkameras
+ ohne Wechselobjektiv an Erstausrüster auszulagern. Unter diesen Vorausset-
+ zungen könne ein Hersteller von digitalen Kameras mit Wechselobjektiv inner-
+ halb eines Jahres auf die Herstellung und den Verkauf von Kompaktkameras oh-
+ ne Wechselobjektiv umstellen. Die damit verbundenen Umstellungskosten wür-
+ den von verschiedenen Faktoren abhängen, wie beispielsweise von der Benut-
+ zung von Outsourcing-Möglichkeiten, der Strategie, vom Budget, vom Marktanteil
+ und von der Grösse des Unternehmens. Im Rahmen einer Produktionsumstel-
+ lung bestehe ein grosses Potential zur Nutzung von Synergien, sowohl mit Bezug
+ auf Herstellung wie auch auf die Vermarktung und Markenbildung/Branding.
+ Auch die Umstellung der Produktion von digitalen Kompaktkameras ohne Wech-
+ selobjektiv auf digitale Kameras mit Wechselobjektiv sei grundsätzlich möglich,
+ infolge der qualitativen Unterschiede und Patente im Bereich der Spiegelre-
+ flextechnologie jedoch nur mit erheblichem Investment bzw. einer Partnerschaft
+ zu bewältigen. Momentan bestehe für Kameras mit Wechselobjektiv auch keine
+ Möglichkeit des Outsourcing an Erstausrüster. Zudem sei mit längeren Produkti-
+ onsumstellungszeiten zu rechnen und die Möglichkeiten zur Nutzung von Syner-
+ gien seien begrenzter.
+
+
+22/2010/00038/COO.2101.111.4.153527 80
+ Zusammenfassend ist von einer asymmetrischen Produktionsumstellungsflexibili-
+ tät der Kamerahersteller auszugehen: Die Produktionsumstellung von Kameras
+ mit Wechselobjektiv auf Kameras ohne Wechselobjektiv ist einfacher als umge-
+ kehrt. Insgesamt wird die vorhandene Angebotsubstituierbarkeit jedoch nicht als
+ genügend hoch erachtet, um von einem Gesamtmarkt für Digitalkameras auszu-
+ gehen.
+
+Wechselobjektive (Einzelausführung)
+
+374. Wechselobjektive in Einzelausführung werden als Zubehör für Kameras mit
+Wechselobjektiv angeboten. Es gibt Wechselobjektive für unterschiedliche Anwendun-
+gen (Makroaufnahmen, Landschaftsaufnahmen, Architekturaufnahmen, Sportfotografie
+etc.). Weiter kann zwischen Objektiven mit Fixbrennweiten und Zoom-Objektiven128
+sowie zwischen Objektiven mit manueller und solchen mit automatischer Scharfstel-
+lung unterschieden werden. Wechselobjektive verfügen zudem über verschiedene
+Lichtstärken129. Sie werden mittels genormtem Verschluss an eine Kamera mit Wech-
+selobjektivvorrichtung befestigt. Wechselobjektive werden von Kameraherstellern und
+von spezialisierten Objektivherstellern wie Tamron angeboten. Sie ermöglichen die
+Abdeckung eines breiten fotografischen Spektrums.
+
+375. Eine Unterteilung des Marktes für Wechselobjektive scheint nicht sachgerecht zu
+sein: Wechselobjektive lassen sich zwar auf der Grundlage gewisser technischer Wer-
+te sowie von Qualitätsmerkmalen unterscheiden. Als Unterscheidungsmerkmale könn-
+ten beispielsweise die Lichtstärke, die Brennweite (Fixbrennweite/Zoom) des Wechsel-
+objektivs oder das Format des Bildsensors (FX/DX)130 dienen. Hersteller von Wechsel-
+objektiven verfügen jedoch über eine hohe Angebotsumstellungsflexibilität über die ge-
+samte Breite der heute angebotenen Lichtstärken, Brennweiten und Bildsensorformate
+hinweg. Dementsprechend führen auch alle Hersteller von Wechselobjektiven – na-
+mentlich Canon, Sigma, Tamron, Tokina, Sony, Olympus, Zeiss, Pentax, Samyang und
+Nikon (Nikkor) – als Vollsortimentanbieter die gesamte Produktpalette im Verkaufssor-
+timent. Weiter lassen sich innerhalb des Geschäfts mit Wechselobjektiven keine Preis-
+gruppen bilden, sondern es besteht ein preisliches Kontinuum über die gesamte Pro-
+duktbreite hinweg.
+
+Blitzgeräte
+376. Blitzgeräte (auch Elektronenblitzgeräte genannt) dienen dazu, die natürlichen
+Lichtverhältnisse zu verändern. Sie werden im Alltagsgebrauch (z.B. zur Aufnahme von
+Schnappschüssen), zu Hobbyzwecken (z.B. für die Reisefotografie) und in der profes-
+sionellen Fotografie (z.B. Reportage- und Studiofotografie) eingesetzt und von Fotogra-
+fie-Einsteigern, Hobbyfotografen sowie von professionellen Fotografen gekauft.
+
+377. Blitzgeräte lassen sich in mobile Blitzgeräte und Studioblitze unterteilen oder
+können auch auf der Grundlage der sogenannten Leitzahl131 unterschieden werden.
+
+
+128
+ Gewisse Wechselobjektive verfügen über eine fixe Brennweite, was bedeutet, dass diese
+Wechselobjektive über keine Zoom-Funktion verfügen. Wechselobjektive mit Zoom-Funktion
+decken verschiedene Brennweiten ab.
+129
+ Anhand der Lichtstärke eines Wechselobjektivs lässt sich beurteilen, wieviel Originalhellig-
+keit eines Gegenstandes auf den Sensor übertragen wird.
+130
+ Die lichtempfindliche Fläche eines DX-Format-Bildsensors hat eine andere Grösse als die
+eines FX-Format-Bildsensors. Das FX-Format basiert auf der Bildgrösse eines Kleinbildfilmes
+(24 x 36 mm), während die Sensorgrösse beim DX-Format ungefähr 16 x 24 mm beträgt.
+131
+ Die Leitzahl beziffert die Lichtenergie eines Blitzgerätes und bezieht sich auf die Helligkeit,
+die ein Blitz erzielen kann. Die Leitzahl der verschiedenen Kameraprodukte steigt graduell an.
+
+
+22/2010/00038/COO.2101.111.4.153527 81
+Wie nachfolgend dargelegt wird, scheint es dennoch nicht sachgerecht zu sein, den
+Markt für Blitzgeräte zu segmentieren.
+
+378. Bis vor ungefähr sieben Jahren wurde in der Branche grundsätzlich zwischen
+mobilen Blitzgeräten und Studioblitzanlagen unterschieden. Heute sind die beiden Ge-
+rätetypen aufgrund der fortgeschrittenen Technologie weitgehend austauschbar ge-
+worden: Einerseits sind die Funktionen der mobilen Blitzgeräte in den letzten Jahren
+stetig verbessert worden, so dass sie heute vergleichbare Resultate erzielen wie die
+meisten Studioblitzanlagen. Deshalb sind sie heute auch im Studio einsetzbar. Ande-
+rerseits sind Studioblitzausrüstungen wesentlich kleiner und handlicher geworden, so
+dass diese auch im Aussenbereich zum Einsatz kommen. Zudem werden heute spezi-
+elle Lichteffekte nicht mehr mit dem Blitz erzielt, sondern zunehmend mithilfe der nach-
+träglichen Bildbearbeitung am Computer in das Bild eingefügt.
+
+379. Nebst dieser Zunahme der Substituierbarkeit von mobilen Blitzgeräten und Stu-
+dioblitzanlagen während der letzten Jahre scheint eine Segmentierung des Marktes für
+Blitzgeräte auch deshalb nicht sachgerecht zu sein, weil sich innerhalb des Geschäfts
+mit Blitzgeräten keine Preisgruppen bilden lassen. So sind Studioblitzanlagen teilweise
+günstiger als mobile Blitzgeräte. Darüber hinaus steht Nikon laut eigenen Angaben im
+direkten Wettbewerb mit Herstellern von Studioblitzanlagen, obwohl Nikon selbst aus-
+schliesslich mobile Blitzgeräte herstellt. Zwar würde der Eintritt von Nikon in das Ge-
+schäft mit Studioblitzanlagen […] erfordern. Aufgrund der hohen Substituierbarkeit der
+Nachfrage […]. Nikon verfolge die Geschäftsstrategie, […].
+
+380. Auch eine Segmentierung des Marktes von Blitzgeräten hinsichtlich deren Leit-
+zahl ist nicht angezeigt, da die Leitzahl der verschiedenen Kameraprodukte graduell
+ansteigt und Blitzgeräte mit unterschiedlichen Leitzahlen keinen Preisgruppen zuge-
+ordnet werden können. Blitzgeräte mit identischen Leitzahlen werden sodann in unter-
+schiedlichen Preissegmenten angeboten.
+
+Fazit
+381. Im vorliegenden Fall sind die folgenden sachlich relevanten Märkte voneinander
+zu unterscheiden:
+
+ Digitalkameras ohne Wechselobjektiv;
+
+ Digitalkameras mit Wechselobjektiv: Ob dieser Markt weiter zu segmentieren ist
+ in den Markt für Digitalkameras mit Wechselobjektiv für professionelle Fotografen
+ (Pro-DSLR) und Digitalkameras mit Wechselobjektiv ohne professionelle Kame-
+ ras (Hobby-DSLR) wird vorliegend offen gelassen, da die Ergebnisse der Unter-
+ suchung dadurch nicht beeinflusst werden. Vor diesem Hintergrund werden die
+ beiden Marktsegmente in der nachfolgenden wettbewerbsrechtlichen Analyse
+ gemeinsam betrachtet;
+
+ Wechselobjektive;
+
+ Blitzgeräte.
+
+B.3.2.2.1.2. Räumlich relevante Märkte
+
+382. Der räumliche Markt umfasst das Gebiet, in welchem die Marktgegenseite die
+den sachlichen Markt umfassenden Waren oder Leistungen nachfragt oder anbietet
+(Art. 11 Abs. 3 lit. b VKU, analog).
+
+383. Wie in Rz 357 erwähnt, bilden auf der Absatzseite die Distributoren (Grosshänd-
+ler) und Direktkunden die Marktgegenseite von Nikon. Auch wenn deren Nachfrage
+
+22/2010/00038/COO.2101.111.4.153527 82
+nach Nikon Imaging Produkten wiederum vom Nachfrageverhalten der Endverbraucher
+geleitet wird (abgeleitete Endnachfrage), kann sich die räumliche Dimension des rele-
+vanten Marktes aus Sicht der direkten Nachfrager (Gross- und Retailhändler) von jener
+aus Sicht der indirekten Nachfrager (Endverbraucher) unterscheiden, etwa infolge ei-
+nes unterschiedlichen Nachfragevolumens oder weil ein ganzes Sortiment nachgefragt
+werden muss. Deshalb wird die räumliche Dimension des Absatzmarktes nachfolgend
+aus Sicht der direkten Abnehmer betrachtet. Es bleibt darauf hinzuweisen, dass die
+Einnahme der Perspektive der direkten Abnehmer die räumliche Marktdimension in der
+Tendenz vergrössert, da der typische Endkunde infolge geringerer Einkaufsmengen
+und der damit verbundenen höheren Transaktionskosten pro Stück im Vergleich zu
+Gross- und Einzelhändlern innerhalb eines tendenziell kleineren Einkaufsradius ein-
+kauft.132
+
+384. Die EU-Kommission hat bisher offen gelassen, ob die Märkte für Kameras natio-
+nal oder EWR-weit abzugrenzen sind.133 Im vorliegenden Fall sprechen folgende Fak-
+toren dafür, dass sämtliche relevanten Produktmärkte eine nationale Dimension haben:
+
+ In allen betrachteten Produktgruppen sind Produkte zu identifizieren, deren Prei-
+ se in der Schweiz und anderen (europäischen) Ländern unterschiedlich hoch
+ sind. Diese Preisunterschiede schlagen sich in Arbitragemöglichkeiten in allen
+ Produktgruppen nieder (vgl. Rz 387 ff. und 482). Weil diese Preisunterschiede
+ u.a. wechselkursbedingt sind, fallen sie zwischen der Schweiz und dem Euro-
+ raum tendenziell höher aus als zwischen einzelnen Ländern im Euroraum.
+
+ Den Vertrieb in Europa organisieren die verschiedenen Hersteller grundsätzlich
+ entweder über ihre eigenen Niederlassungen bzw. Länderorganisationen in den
+ jeweiligen Ländern ober über Generalimporteure. In der Schweiz verfügen Nikon,
+ Sony, Olympus und Canon über eine eigene Niederlassung oder Landesorgani-
+ sation; Panasonic, Elinchrom, Tamron und Sigma sind durch Generalimporteure
+ vertreten. Die Notwendigkeit von nationalen Ländergesellschaften wird in der
+ Regel durch spezifische Vertriebs- und Kundencharakteristika, welche eine
+ Marktbearbeitung mit dem entsprechenden Know-how vor Ort erfordern, begrün-
+ det. Deshalb spricht die Existenz von nationalen Niederlassungen für eine natio-
+ nale Marktabgrenzung.
+
+ Einige nationale Vertriebsgesellschaften und Generalimporteure gewähren ei-
+ gens finanzierte, erweiterte Garantieleistungen für Produkte, die sie selbst impor-
+ tiert haben. So gewährt Nikon Schweiz mit der im August 2009 eingeführten „Ni-
+ kon Swiss Garantie“ eine erweiterte Garantie für Kameras (Garantieverlängerung
+ von einem auf zwei Jahre) sowie für Objektive und Blitzgeräte (Garantieverlänge-
+ rung von einem auf drei Jahre). Der Generalimporteur von Tamron-Produkten
+ gewährt eine Garantieverlängerung von einem auf drei Jahre auf Objektiven,
+ Fujifilm (Switzerland) AG eine Verlängerung von einem auf zwei Jahre. Der Ge-
+ neralimporteur von Sigma-Objektiven bietet sogar eine lebenslange Garantie auf
+ eigens eingeführten Produkten an. Werden solche erweiterten Garantien auf-
+ grund der Präferenzen der Endkunden in einem Land rege nachgefragt, werden
+ weniger Produkte mit einer geringeren Garantieleistung importiert. Laut Aussage
+ von Marktteilnehmern ist die erweiterte Garantie von Nikon für Schweizer Kunden
+ ein wichtiges Verkaufsargument. Schweizer Kunden seien dementsprechend be-
+
+
+132
+ Diese Einschätzung schliesst nicht aus, dass gewisse Endkunden Imaging Produkte über
+den Internet-Kanal im Ausland bestellen. Wird der durchschnittliche Einkaufsradius der End-
+kunden mit jenem der Händler verglichen, dürfte Ersterer in aller Regel jedoch kleiner ausfallen.
+133
+ Vgl. KOMM, COMP/M.3091, 11.07.2003, Rz 29 ff., Konica/Minolta.
+
+
+22/2010/00038/COO.2101.111.4.153527 83
+ reit, für die Garantie einen Preisaufschlag in Höhe von ca. 10 % zu zahlen. Ein
+ solches Nachfrageverhalten spricht ebenfalls für eine nationale Marktabgren-
+ zung.
+
+ Der Anteil an Parallelimporten am Gesamtvolumen der in der Schweiz abgesetz-
+ ten Imaging Produkten variiert laut Schätzungen der befragten Hersteller vom tie-
+ fen einstelligen Bereich bis zu beträchtlichen 45 %. Die hohen Importschätzun-
+ gen stammen jedoch von einem Hersteller, der seinen Vertrieb in der Schweiz
+ über einen Generalimporteur organisiert hat und insofern eine Ausnahme dar-
+ stellt. Die Importquote von Nikon Imaging Produkten lag im Zeitraum 2005 bis
+ 2007 laut Angaben von Nikon zwischen […] % und im Zeitraum 2008 bis 2009 in-
+ folge Wechselkursveränderungen sowie der zunehmenden Preistransparenz
+ durch das Internet bei […] % (vgl. Rz 431). Basierend auf Angaben von Schwei-
+ zer Distributoren und Retailhändlern ergeben sich für den Zeitraum 2008 bis
+ 2009 Importquoten zwischen 3–10 % auf Grosshandelsebene und zwischen 7–
+ 8 % auf Retailhandelsebene (vgl. Rz 434). In Anbetracht dieser Zahlen ist festzu-
+ halten, dass von der Importtätigkeit der Schweizer Händler zwar ein gewisser
+ disziplinierender Effekt ausgeht, welcher bei der nachfolgenden wettbewerbs-
+ rechtlichen Analyse (vgl. Rz 483) berücksichtigt wird. Die vorhandene Importtä-
+ tigkeit reicht unter Berücksichtigung der übrigen oben genannten Elemente, wel-
+ che für eine nationale Marktabgrenzung sprechen, jedoch nicht aus, um den
+ Markt grösser als national zu definieren.
+
+ Das Vertriebssystem von Nikon weist europaweit […] auf. Die einzelnen Nikon
+ Niederlassungen verfügen laut Aussagen von Nikon denn auch über eine […].
+ Wie bereits erwähnt, ist der Vertrieb in den einzelnen Ländern entweder über ei-
+ gene Niederlassungen oder über Generalimporteure organisiert. Ferner ist der
+ Vertrieb in den […] europäischen Ländern ([…]) offen – d.h. weder selektiv noch
+ exklusiv – gestaltet. In […] und (seit 2009) der Schweiz besteht ein Selektivver-
+ trieb. In jenen Ländern, in welchen Nikon ihre Produkte über Generalimporteure
+ vertreibt ([…] etc.), ist der Vertrieb oft exklusiv organisiert. Diese unterschiedliche
+ Gestaltung des Vertriebssystems in den einzelnen Ländern spricht ebenfalls für
+ eine nationale Marktabgrenzung.
+
+ Nach Ansicht von Nikon ist die räumliche Dimension der relevanten Produktmärk-
+ te grösser als national. Die Abgrenzung nationaler räumlicher Märkte stehe im
+ Widerspruch zum Zweck der gesamten Untersuchung. Die nationale räumliche
+ Abgrenzung bedeute, dass in- und ausländische Nikon Imaging Produkte von
+ Händlern und Endverbrauchern nicht als substituierbar betrachtet würden. Ohne
+ eine Nachfrage für ausländische Produkte hätte jedoch ein absoluter Gebiets-
+ schutz gar keine Auswirkungen auf den Wettbewerb. Dieses Vorbringen stösst
+ ins Leere: Es ist sehr wohl denkbar, dass Händler und Endverbraucher ein im In-
+ und Ausland identisches Produkt, das aus Nachfragersicht an sich sehr gut sub-
+ stituierbar ist und wofür eine grosse Nachfrage besteht, nicht importieren, weil
+ etwa staatliche oder private Marktschranken – wie etwa Behinderungen von Pa-
+ rallelhandel – bestehen und sich deshalb ein Import nicht lohnt oder erst gar nicht
+ möglich ist. Im Übrigen basiert die geografische Marktabgrenzung nicht auf dem
+ Verhalten eines Marktteilnehmers allein, sondern auf dem Verhalten sowie den
+ Marktstrukturen einer ganzen Branche. Entsprechend beziehen sich die obigen
+ Ausführungen zur räumlichen Marktabgrenzung auf Aussagen aller Hersteller
+ von Imaging Produkten und nicht nur auf jene von Nikon.
+
+385. Die obigen Ausführungen sprechen gegen homogene Wettbewerbsbedingungen
+in der Schweiz und dem EWR. Deshalb wird der räumlich relevante Markt für alle sach-
+lich relevanten Märkte national abgegrenzt.
+
+
+22/2010/00038/COO.2101.111.4.153527 84
+B.3.2.2.2. Intrabrand-Wettbewerb
+
+386. Zur Analyse des Ausmasses an Wettbewerb zwischen Anbietern von Nikon Ima-
+ging Produkten in den verschiedenen sachlich relevanten Märkten wird geprüft, ob Pa-
+rallel- und Direktimporte134 von Nikon Imaging Produkten in jedem Produktmarkt in ge-
+nügendem Umfang getätigt wurden bzw. hätten getätigt werden können, um disziplinie-
+rend auf das Wettbewerbsgeschehen zu wirken. Hierzu wird untersucht, ob überhaupt
+eine Arbitragemöglichkeit gegeben war (B.3.2.2.2.1.) und ob Parallelimporte tatsächlich
+getätigt wurden (B.3.2.2.2.2.). Möglicherweise herrscht auf dem Schweizer Markt zwi-
+schen Nikon Händlern unabhängig von allfälligen Parallelimporten ein funktionierender
+Intrabrand-Wettbewerb hinsichtlich Preis und Service. Dieser Frage wird in Abschnitt
+B.3.2.2.2.3. nachgegangen.
+
+B.3.2.2.2.1. Arbitragemöglichkeit
+
+Vorbemerkung
+387. Eine wichtige Voraussetzung für die Ausübung von Parallelhandel durch Händler
+und/oder Direktimporte durch Endkunden und somit für den Anreiz, den Wettbewerb
+auf einem Markt durch Behinderung oder Verhinderung von Parallel- und Direktimpor-
+ten zu beeinträchtigen oder zu beseitigen, sind internationale Preisunterschiede bzw.
+Arbitragemöglichkeiten.135 Zunächst stellt sich deshalb die Frage, ob es sich für
+Schweizer Distributoren, Retailhändler und Endkunden aufgrund bestehender Preisdif-
+ferenzen zum Ausland lohnt, Nikon Imaging Produkte (parallel) zu importieren. Im
+Zentrum des Interesses stehen dabei mögliche Preisunterschiede bei Gross- und
+Retailhandelspreisen, da die hier beanstandeten Massnahmen von Nikon auf die Be-
+hinderung oder Verhinderung von Parallelimporten durch Grosshändler und Retailer
+abzielten. Für eine allfällige Behinderung von Direktimporten durch Endkunden (etwa
+durch die Verweigerung von Garantieleistungen bei importierten Produkten) ergaben
+sich keine glaubhaften Anhaltspunkte (vgl. unten Rz 442 f.). Der Vollständigkeit halber
+werden die Preisunterschiede dennoch auf allen drei Ebenen (Grosshandel, Retailhan-
+del, Endkunden) untersucht.
+
+388. Für den internationalen Preisvergleich stehen vor allem Preisdaten aus den Jah-
+ren 2009 und 2010 zur Verfügung. Im Laufe der Untersuchung zeigte sich, dass die
+Abrede für die Zeitperiode von Frühling 2008 bis Herbst 2009 rechtsgenüglich nach-
+gewiesen werden kann. Somit deckt sich die Zeitperiode, für welche die Preisdaten
+vorhanden sind, nicht vollumfänglich mit der Untersuchungsperiode. Dennoch erlauben
+die Preisdaten aus den Jahren 2009 und 2010 Rückschlüsse auf das Arbitragepotenzi-
+al im Zeitraum 2008, da das Arbitragepotenzial im Jahr 2008 im Vergleich zu den Jah-
+ren 2009 und 2010 gemäss Aussagen von Marktteilnehmern höher war. Mit anderen
+Worten gelten die unten stehenden Ausführungen zu internationalen Preisunterschie-
+den in den Jahren 2009 und 2010 umso mehr für das Jahr 2008.
+
+Internationale Unterschiede der Grosshandels-Einstandspreise
+
+389. Zur Analyse internationaler Preisunterschiede auf Grosshandelsebene fragte das
+Sekretariat Distributoren (Grosshändler) von Nikon Imaging Produkten in der Schweiz
+und Liechtenstein nach jenen parallel importierten Produkten, bei welchen die Einspa-
+
+134
+ Von Parallelimporten wird gesprochen, wenn Schweizer Händler über den inoffiziellen Kanal
+im Ausland Nikon Imaging Produkte beschaffen (siehe Fn 1). Ein Einkauf von Endkunden im
+Ausland wird Direktimport genannt.
+135
+ Nebst Preisunterschieden kann auch die mangelnde Verfügbarkeit von gewissen Produkten
+Anreiz zu Parallelhandel geben (vgl. Rz 513 f.).
+
+
+22/2010/00038/COO.2101.111.4.153527 85
+rung bei einem Bezug im Ausland am grössten war. Tabelle 1 in Anhang E.1 fasst die
+Antworten der Grosshändler zusammen.
+
+390. Der Tabelle ist zu entnehmen, dass die Einsparungen beim Import in den Jahren
+2009 bis 2010 in der Produktgruppe Digitalkameras mit Wechselobjektiv zwischen [0-
+10] % und [0-10] % und in der Produktgruppe Wechselobjektive zwischen [10-20] %
+und [40-50] % lagen. Die Tabelle enthält lediglich Beispiele für die Produktgruppen Di-
+gitalkameras mit Wechselobjektiv und Wechselobjektive. Laut Angaben von […] wer-
+den jedoch Produkte aus allen vier relevanten Produktmärkten (Kompaktkameras, Digi-
+talkameras mit Wechselobjektiv, Wechselobjektive und Blitzgeräte) importiert. Die feh-
+lenden Angaben für die Produktmärkte Kompaktkameras und Blitzgeräte dürften mit
+der von den befragten Marktteilnehmern geltend gemachten fehlenden Verfügbarkeit
+der Vergleichszahlen bei einem Bezug in der Schweiz zu begründen sein (vgl. auch
+Rz 391).
+
+391. In diesem Zusammenhang ist der Hinweis eines liechtensteinischen Grosshänd-
+lers interessant, welcher angab, dass in den Jahren 2008 und 2009 aufgrund der zu-
+nehmend hohen Warenbezugspreise bei Nikon Schweiz bedeutend mehr im Ausland
+eingekauft wurde als bei Nikon Schweiz. Die durchschnittlichen Einsparungen bei ei-
+nem Bezug ausserhalb der Schweiz konnte der Distributor auf Nachfrage des Sekreta-
+riats jedoch nicht beziffern, weil die Beschaffungsentscheide einzelfallweise aufgrund
+von aktuellen Preisvergleichen und Verfügbarkeitsüberlegungen getroffen würden. Zu-
+dem würden die Einkaufspreise auch über einen kurzen Zeitraum von einem oder we-
+nigen Monaten starken Schwankungen unterliegen, was beispielsweise auf Monatsen-
+daktionen zurückzuführen sei. Schliesslich sei ein internationaler Vergleich der Waren-
+bezugspreise auch infolge des schwankenden Wechselkurses zwischen dem Euro (bei
+einem Bezug in Deutschland) und dem Schweizer Franken (bei einem Bezug in der
+Schweiz) schwierig.
+
+392. Nikon kritisiert den vorgenommenen Preisvergleich in Tabelle 1 in Anhang E.1
+mit den folgenden Argumenten:
+
+ Erstens würde er sich auf eine extrem dünne und für eine repräsentative Analyse
+ unbrauchbare Datenbasis abstützen;
+
+ Zweitens sei […] von einem unzutreffenden Vergleichspreis von Nikon Schweiz
+ ausgegangen. Zur Richtigstellung des Preisvergleichs von […] und der Tabelle 1
+ in Anhang E.1 stellte Nikon in ihrer Stellungnahme zum Antrag des Sekretariats
+ ihre Rechnungspreise136 (vor Skonti) für die Periode vom 1. Juni 2009 bis
+ 31. März 2010 für die von […] bezeichneten Produkte zusammen. Diese Über-
+ sicht mache deutlich, dass die Rechnungspreise von Nikon Schweiz in vielen Fäl-
+ len gar unter den von […] behaupteten Importpreisen liegen würden;
+
+ Drittens seien viele der verwendeten zehn Datensätze irrelevant, da der behaup-
+ tete Importpreis von einem Produkt aus einem Gebiet (Hong Kong) stamme, in
+ dem gar keine Abrede behauptet werde.
+
+393. Diese Kritik stösst ins Leere:
+
+ Ad erstens: Es wurde nie behauptet, der vorgenommene Preisvergleich sei re-
+ präsentativ. Es handelt sich um eine Aufstellung sämtlicher verwertbaren Daten,
+ welche die Händler den Wettbewerbsbehörden zur Verfügung stellten.
+
+
+
+136
+ Quelle: SAP von Nikon.
+
+
+22/2010/00038/COO.2101.111.4.153527 86
+ Ad zweitens: Den von Nikon zur Verfügung gestellten SAP-Auszügen ist in der
+ Tat zu entnehmen, dass gewisse Grosshändler die in Tabelle 1 in Anhang E.1
+ aufgeführten Produkte von Nikon Schweiz punktuell zu tieferen Preisen bezogen
+ haben als […] beim Bezug im Ausland. Berücksichtigt man hingegen den durch-
+ schnittlichen Bezugspreis der Schweizer Grosshändler bei einem Bezug bei Ni-
+ kon Schweiz gemäss SAP-Auszug von Nikon, wird deutlich, dass die Angaben
+ von […] dadurch nicht grundsätzlich in Frage gestellt werden (vgl. Tabelle 1 An-
+ hang E.1). Lediglich die neu berechnete Preisdifferenz beim Objektiv NIKKOR
+ AF-S DX 18-200/3.5-5.6G ED VR II in Höhe von [0-10] % dürfte nach Abzug von
+ Skonti und sonstigen nachgelagerten Konditionen (Sonderrabatte und Kick-
+ backs) vernachlässigbar sein. Hingegen erhöht sich das Arbitragepotenzial bei
+ einem anderen Objektiv (NIKKOR Objektiv AF-S DX VR 55-200/4-5.6G IF-ED)
+ mit den Daten von Nikon von [40-50] % auf [40-50] %.
+
+ Ad drittens: In Hong Kong gibt es laut Angaben von Nikon keine […] zwischen
+ der Nikon Niederlassung in Hong Kong und den Nikon Händlern. Nikon Hong
+ Kong beliefere ihre Händler auf Grundlage von […], welche keine Bestimmungen
+ zu Parallelhandel, Export in andere Länder oder Vertragsgebieten enthalten wür-
+ den. Dennoch macht es Sinn, auch Arbitragepotenziale in Hong Kong zu berück-
+ sichtigen, zumal die Begrenzung des Bezugsgebiets im alten Grossistenvertrag
+ sowie in den „D3S/D3X“- und den „NPSD“-Verträgen auch Bezüge in Hong Kong
+ verboten. Darüber hinaus waren Preisunterschiede zu Hong Kong und die Be-
+ hinderung des dadurch entstehenden Parallelhandels auch Gegenstand interner
+ E-Mail Korrespondenz von Nikon.
+394. Weiter stellte Nikon dem Sekretariat die durchschnittlichen Einstandspreise von
+Distributoren in ganz Europa (inkl. Schweiz) der jeweils fünf umsatzstärksten Nikon
+Imaging Produkte je Produktmarkt für die Zeitperiode April 2009 bis März 2010 zu.137
+Die fünf umsatzstärksten Nikon Imaging Produkte in jedem Produktmarkt sind der Ta-
+belle 2 in Anhang E.1 zu entnehmen. Diese Daten benutzte das Sekretariat, um einen
+internationalen Preisvergleich durchzuführen und eine Aussage zu den Arbitragemög-
+lichkeiten der Distributoren zu machen.
+
+395. Bezüglich der zur Verfügung gestellten Einstandspreise brachte Nikon den Vor-
+behalt an, dass nachgelagerte Konditionen (z.B. […]) und die Preisreduktion von Nikon
+per 15. April 2010 infolge des tieferen Eurowechselkurses in den Daten unberücksich-
+tigt blieben. Ferner würden die Nikon Ländergesellschaften in Europa die Rechnungs-
+preise unterschiedlich berechnen: So würden die sog. „cash discounts“ von einigen
+Ländergesellschaften vor, von anderen Ländergesellschaften hingegen erst nach den
+Rechnungspreisen in Abzug gebracht. Die Rechnungspreise der Nikon Niederlassun-
+gen in Europa seien somit nicht vergleichbar. Hierzu ist anzumerken, dass Preisver-
+gleiche stets mit gewissen Ungenauigkeiten behaftet sind und sie deshalb lediglich
+Grössenordnungen von Preisdifferenzen – und keine exakten Preisunterschiede – an-
+geben können. Dennoch stellen sie als Indikator von Preisunterschieden ein nützliches
+Analyseinstrument dar. Darüber hinaus wird den Vorbehalten von Nikon durch eine
+grosszügig gewählte Filterschwelle (vgl. Rz 400 f.) Rechnung getragen.
+
+396. Nikon kritisiert am vorgenommenen Preisvergleich weiter, dieser liesse keine
+Aussage über die Arbitragemöglichkeiten eines Schweizer Händlers zu, weil die Preis-
+unterschiede zwischen der Schweiz und dem Ausland auf verschiedenen Handelsstu-
+fen berechnet würden: Schweizer Händler könnten Nikon Imaging Produkte nämlich
+nicht direkt bei einer ausländischen Nikon Niederlassung beziehen, sondern nur bei ei-
+
+
+137
+ Quelle: SAP von Nikon.
+
+
+22/2010/00038/COO.2101.111.4.153527 87
+nem ausländischen Händler, dessen Preise höher seien, weil er seine Kosten und eine
+Marge draufschlage. Auch diesem Vorbehalt wird unten durch das Setzen einer hohen
+Filterschwelle (vgl. Rz 400 f.) Rechnung getragen. Darüber hinaus wird der geforderte
+Vergleich der Bezugspreise bei ausländischen Händlern mit jenen bei Nikon Schweiz
+oder inländischen Händlern in Tabelle 1 in Anhang E.1 basierend auf die verfügbaren
+Händlerantworten vorgenommen.
+
+397. Im Folgenden werden die Ergebnisse der Preisanalyse des Sekretariats präsen-
+tiert. Abbildung 1 in Anhang E.1 zeigt die Einstandspreise der Distributoren in der
+Schweiz (Basis) im Ländervergleich mit Deutschland (DE), Grossbritannien (GB),
+Frankreich (FR), Italien (IT), Österreich (AT), Tschechien (CZ), der Niederlanden (NL),
+Slowenien (SI) und Schweden (SE). Die Ordinate bildet den Preisindex ab (Schweiz =
+100). Liegen die Punkte unterhalb von 100, sind die Produkte in der Schweiz teurer
+und umgekehrt. Die Abszisse zeigt die verschiedenen Produkte nach Produktnum-
+mern, wie sie Tabelle 2 in Anhang E.1 zu entnehmen sind.
+398. Der Ländervergleich lässt erkennen, dass die grosse Mehrheit der betrachteten
+Produkte138 einzig in den Niederlanden und Slowenien auf der Grosshandelsebene bil-
+liger ist als in der Schweiz. In den übrigen Ländern bestehen keine systematischen
+Preisunterschiede.
+
+399. Das Punktediagramm in Abbildung 2 in Anhang E.1 zeigt zudem für alle beo-
+bachteten Produktpreise, ob die jeweiligen Produkte in der Schweiz oder im Ausland
+teurer sind. Liegen die Punkte unterhalb von 100, sind die Produkte im Ausland billiger
+und umgekehrt. Im Diagramm liegen 126 von 261 Beobachtungen unter der Schwelle
+von 100. Somit sind ca. 48 % der beobachteten Preise im Ausland billiger als in der
+Schweiz. Allerdings variieren die Preisunterschiede innerhalb der einzelnen Produkt-
+gruppen beträchtlich:
+
+ In der Produktgruppe Digitalkameras mit Wechselobjektiven liegen 51 von 72
+ Beobachtungen unterhalb der Schwelle von 100. Somit sind in dieser Produkt-
+ gruppe ca. 70 % der beobachteten Preise im Ausland billiger als in der Schweiz.
+
+ In der Produktgruppe Digitalkameras ohne Wechselobjektiv liegen 35 von 44 Be-
+ obachtungen unterhalb der Schwelle von 100. Somit sind in dieser Produktgrup-
+ pe ca. 80 % der beobachteten Preise im Ausland billiger als in der Schweiz.
+
+ In der Produktgruppe Objektive liegen 34 von 79 Beobachtungen unter der
+ Schwelle von 100. Somit sind in dieser Produktgruppe ca. 43 % der beobachte-
+ ten Preise im Ausland billiger als in der Schweiz.
+
+ In der Produktgruppe Blitzgeräte beträgt der entsprechende Wert lediglich 9 %.
+
+ Dem Punktediagramm ist auch zu entnehmen, dass die Preisdifferenzen der
+ Produktgruppen Digitalkameras mit und ohne Wechselobjektiv (Punkte bis Lauf-
+ nummer 116, linke Hälfte des Diagramms) weniger gross sind als jene der Pro-
+ duktgruppen Objektive und Blitzgeräte (Punktwolke ab Laufnummer 117, rechte
+ Hälfte des Diagramms).
+
+400. Schliesslich wurden die Preisdaten gefiltert, um jene Produkte zu identifizieren,
+die im Ausland bedeutend billiger sind als in der Schweiz. Als Schwellenwert wurde ein
+Preisunterschied von 15 % gewählt, auch wenn laut beschlagnahmter Nikon interner E-
+Mail Korrespondenz bereits Preisunterschiede von mehr als 5 % ausreichen, damit
+
+138
+ Es handelt sich um die Preise der fünf umsatzstärksten Nikon Imaging Produkte in jedem
+Produktmarkt (vgl. Rz 394).
+
+
+22/2010/00038/COO.2101.111.4.153527 88
+Händler Parallelimporte tätigen. Diese Filterschwelle erscheint auch vor dem Hinter-
+grund hoch angesetzt, dass das Arbitragepotenzial gemäss Aussage eines Distributors
+in den Jahren 2008 und 2009 noch grösser war als im hier vorliegenden Vergleichsjahr
+von April 2009 bis März 2010.
+
+401. Die Filterschwelle wurde deshalb so hoch angesetzt, um den von Nikon genann-
+ten Vorbehalten, wonach in den zur Verfügung gestellten Preisdaten diverse Posten
+bzw. Tatsachen unberücksichtigt blieben (vgl. Rz 395), Rechnung zu tragen.
+
+402. Die Filterung von Preisdifferenzen von mindestens 15 % der betrachteten139 Ein-
+standspreise für Distributoren (vgl. Tabelle 2 in Anhang E.1) führte zu folgenden Resul-
+taten:
+
+ In der Produktgruppe Digitalkameras mit Wechselobjektiv sind 4 von 72 Be-
+ obachtungen und damit ca. 6 % der betrachteten Distributorenpreise im Ausland
+ mindestens 15 % günstiger als in der Schweiz.
+
+ In der Produktgruppe Digitalkameras ohne Wechselobjektiv sind 5 von 44 Be-
+ obachtungen und damit ca. 11 % der betrachteten Distributorenpreise im Ausland
+ mindestens 15 % günstiger als in der Schweiz.
+
+ In der Produktgruppe Objektive sind 11 von 79 Beobachtungen und damit ca.
+ 14 % der betrachteten Distributorenpreise im Ausland mindestens 15% günstiger
+ als in der Schweiz.
+
+ In der Produktgruppe Blitzgeräte ist das Preisniveau bei allen untersuchten Pro-
+ dukten nicht signifikant (>15 %) tiefer im Ausland.
+
+ Die Preise im Ausland sind bis zu 36 % billiger als in der Schweiz.
+
+403. Die Filterung zeigt, dass für einzelne Produkte in den Märkten Digitalkameras mit
+und ohne Wechselobjektiv sowie Objektive sehr wohl ein beträchtliches Arbitragepo-
+tenzial besteht, jedoch nicht für die gesamte Produktpalette von Nikon Schweiz.
+
+404. Zusammenfassend führen die verschiedenen Analysen internationaler Unter-
+schiede der Einstandspreise auf Grosshandelsstufe sowie die Angaben der befragten
+Marktteilnehmer zu folgendem Resultat:
+
+ Die Schweiz befindet sich bezüglich des Niveaus der Grosshandelspreise im eu-
+ ropäischen Mittelfeld;
+
+ Ein Ländervergleich über alle beobachteten Produkte hinweg zeigt, dass die
+ Grosshandelspreise im Ausland weder systematisch billiger noch systematisch
+ teurer sind als in der Schweiz. Einzig in den Niederlanden und Slowenien ist die
+ grosse Mehrheit der Nikon Imaging Produkte auf der Grosshandelsebene billiger
+ als in der Schweiz;
+
+ Werden hingegen die Preisunterschiede innerhalb einzelner Produktgruppen fo-
+ kussiert, zeigt sich, dass Digitalkameras mit und ohne Wechselobjektiv in der
+ grossen Mehrheit der Länder billiger sind als in der Schweiz. Diese Kameras ent-
+ sprechen ca. 77 % des Gesamtumsatzes von Nikon und stellen somit die zentra-
+ len Produktgruppen dar;
+
+
+
+
+139
+ Es handelt sich um die Preise der fünf umsatzstärksten Nikon Imaging Produkte in jedem
+Produktmarkt (vgl. Rz 394).
+
+
+22/2010/00038/COO.2101.111.4.153527 89
+ Die Preisunterschiede übertreffen bei gewissen Produkten die Schwelle von
+ 15 %, welche in casu unter Berücksichtigung aller Erhebungsungenauigkeiten als
+ Daumenregel für beträchtliche Preisunterschiede benutzt wurde.
+
+405. Insgesamt ist für einzelne Produkte auf Grosshandelsebene ein beträchtliches
+Arbitragepotenzial festzustellen, nicht jedoch für die gesamte Produktpalette von Nikon
+Schweiz. Ungeachtet der Filterschwelle sind vor allem Digitalkameras mit und ohne
+Wechselobjektiv im Ausland billiger im Angebot. Dies ist vor dem Hintergrund zu se-
+hen, dass diese Produktgruppen zusammen ca. 77 % des Gesamtumsatzes von Nikon
+ausmachen und somit die zentralen Produktgruppen darstellen.
+
+Internationale Unterschiede der Retailhandels-Einstandspreise
+406. Zur Analyse internationaler Preisunterschiede auf Retailhandelsebene fragte das
+Sekretariat Schweizer Retailhändler von Nikon Imaging Produkten nach jenen parallel
+importierten Produkten, bei welchen die Einsparung bei einem Bezug im Ausland am
+grössten war. Tabelle 1 in Anhang E.2 fasst die Antworten für jeden Produktmarkt zu-
+sammen. Wird in der Tabelle als Herkunftsland die Schweiz angegeben, hat der
+Retailhändler das Produkt über einen Schweizer Distributor bezogen, der das Produkt
+seinerseits parallel importierte. Mit anderen Worten handelt es sich in diesem Fall um
+einen Bezug über den „inoffiziellen Kanal“ in der Schweiz. Bei diesen Tabelleneinträ-
+gen kann keine direkte Aussage zum Preisunterschied zwischen der Schweiz und dem
+Ausland gemacht werden, sondern lediglich zum Preisunterschied zwischen dem offi-
+ziellen Nikon Kanal und dem inoffiziellen Kanal. Weiter bleibt festzuhalten, dass die
+Preisunterschiede im offiziellen und inoffiziellen Kanal je nach Abnehmer variieren
+können. Laut Informationen aus dem Markt würden gewisse Händler über gute Kondi-
+tionen bei inoffiziellen Händlern und über weniger gute Konditionen im offiziellen Kanal
+verfügen. Bei anderen Händlern sei dies gerade umgekehrt. Die Preisunterschiede
+dürften deshalb nicht verallgemeinert werden. Diesem Vorbehalt wird insofern Rech-
+nung getragen, als sich die in der Tabelle ausgewiesenen Einsparungen beim Import –
+sprich: das Arbitragepotenzial jedes einzelnen Händlers – auf die konkreten Bezugs-
+preise des jeweiligen Händlers beziehen.
+
+407. Der Tabelle 1 in Anhang E.2 ist zu entnehmen, dass die Einsparungen beim Im-
+port in den Jahren 2009 und 2010 im Produktmarkt Digitalkameras ohne Wechselob-
+jektiv zwischen [0-10] % und [40-50] %, im Produktmarkt Digitalkameras mit Wechsel-
+objektiv zwischen [0-10] % und [30-40] %, im Produktmarkt Wechselobjektive zwischen
+[0-10] % und [30-40] % und im Produktmarkt Blitzgeräte zwischen [10-20] % bis [10-
+20] % lagen. Die Anzahl der Tabelleneinträge pro Produktmarkt lässt vermuten, dass
+vor allem bei Produkten in den Märkten Digitalkameras mit Wechselobjektiv und
+Wechselobjektive verbreitet Arbitragegewinne zu erzielen waren. Der beschlagnahm-
+ten E-Mail Korrespondenz ist denn auch zu entnehmen, dass Nikon Parallelimporte
+dieser Produkte besonders fokussierte (vgl. Rz 428).
+
+408. Hinsichtlich bestehender Arbitragepotenziale erhielt das Sekretariat aus dem
+Markt zudem die folgenden Informationen:
+
+ Gemäss einer beschlagnahmten E-Mail Korrespondenz zwischen einem Schwei-
+ zer Retailhändler und Nikon bestand bei Objektiven – zumindest im Zeitraum
+ 2008/2009 – in der Regel ein Arbitragepotenzial im Umfang von 12–15 %, im Ext-
+ remfall bis 40 %. Diese Zahlen sind insofern mit Vorsicht zu lesen, weil – wie von
+ Nikon geltend gemacht – nicht auszuschliessen ist, dass der fragliche Händler
+ die Preisdifferenzen zum Ausland gegenüber Nikon Schweiz überzeichnet dar-
+ gestellt habe, um seine Verhandlungsposition zu stärken und von Nikon Schweiz
+ möglichst günstige Konditionen zu erhalten;
+
+
+22/2010/00038/COO.2101.111.4.153527 90
+ Eine weitere beschlagnahmte Nikon interne E-Mail Korrespondenz von Januar
+ 2009 belegt, dass die Händlerpreise in der Schweiz zu diesem Zeitpunkt rund
+ 25 % über den Endverkaufspreisen in den USA lagen. Daraus kann geschlossen
+ werden, dass das Arbitragepotenzial für Händler mindestens 25 % betragen ha-
+ ben muss;
+
+ Ein Händler gab ferner an, die Preise für Nikon Produkte in der Schweiz seien im
+ Zeitraum Frühjahr 2008 bis Frühjahr 2010 10–20 % höher gewesen als im euro-
+ päischen Raum;
+
+ Für einen weiteren Händler ([…]) sei seit Ende 2009 kein Arbitragepotenzial mehr
+ vorhanden, weil Nikon ihm so gute Konditionen offeriert habe, dass er Ende 2009
+ praktisch das ganze Einkaufsvolumen auf Nikon Schweiz verlagert habe.
+
+409. Nikon kritisiert den vorgenommenen Preisvergleich mit folgenden Argumenten:
+
+ Erstens würde er sich auf eine extrem dünne und für eine repräsentative Analyse
+ unbrauchbare Datenbasis abstützen;
+
+ Zweitens dürfe zum Zwecke der Untersuchung nicht auf Preise in Ländern (Hong
+ Kong) abgestellt werden, in denen keine nach Art. 5 Abs. 4 KG tatbestandsmäs-
+ sige Abrede behauptet würde;
+
+ Drittens könne Nikon die Angaben der Händler mit den Informationen, die Nikon
+ zur Verfügung stünden, nicht auf ihre Richtigkeit hin prüfen. Die Angaben würden
+ von Nikon deshalb mit Nichtwissen bestritten;
+
+ Viertens seien die für Nikon ersichtlichen Angaben bereits in sich widersprüch-
+ lich, da verschiedene Händler für dasselbe Produkt im selben Jahr unterschiedli-
+ che Preise bei einem Bezug in der Schweiz geltend gemacht hätten (D90 Body
+ im Jahr 2009 und D700 Body im Jahr 2009) oder für ähnliche Produkte (Coolpix
+ P90 und Coolpix P100) im gleichen Jahr beträchtliche Unterschiede im Arbitra-
+ gepotenzial ([0-10] % versus [30-40] %) ausgewiesen würden;
+
+ Fünftens werde ein Vergleich zwischen Preisen von zugelassenen Händlern und
+ Preisen von nicht-zugelassenen Händlern vorgenommen, soweit sich die Einträ-
+ ge in Tabelle 1 in Anhang E.2 auf Preise nach Einführung des Selektivvertriebs
+ am 1. September 2009 beziehen. Die Preise der zugelassenen Händler seien na-
+ türlich höher, da diese die Mehrkosten für die Erfüllung der Zulassungskriterien
+ decken müssten.
+
+410. Die Kritik von Nikon stösst aus folgenden Gründen ins Leere:
+
+ Ad erstens und zweitens: Hinsichtlich der wiederholten Vorwürfe der mangelnden
+ Repräsentativität der Daten und der fehlenden Abrede in Hong Kong wird auf die
+ obigen Ausführungen in Rz 393 verwiesen;
+
+ Ad drittens: Nikon hat anlässlich der Zeugeneinvernahmen (vgl. Rz 66) die Mög-
+ lichkeit gehabt, ihre Zweifel an den Angaben der Zeugen aus dem Weg zu räu-
+ men. Die WEKO sieht keinen Anlass, die Antworten der befragten Händler in
+ Frage zu stellen.
+
+ Ad viertens: Da die befragten Händler Nikon Imaging Produkte bei verschiedenen
+ Schweizer Bezugsquellen gekauft haben oder kaufen wollten, ist durchaus plau-
+ sibel, dass sich die Einstandspreise (auch beträchtlich) unterscheiden können.
+ Darüber hinaus hängt der Einstandspreis auch massgeblich vom genauen Zeit-
+ punkt des Kaufs ab. Den von Nikon zur Verfügung gestellten Rechnungsprei-
+
+
+22/2010/00038/COO.2101.111.4.153527 91
+ sen140 für die Periode 1. Juni 2009 bis 31. März 2010 ist denn auch zu entneh-
+ men, dass Nikon in dieser Zeitspanne dasselbe Produkt zu sehr unterschiedli-
+ chen Preisen an die Händler verkaufte. So wurde das Objektiv NIKKOR AF-S DX
+ 16-85mm/3.5-5.6G ED VR in der genannten Zeitperiode zwischen CHF […] und
+ CHF […] an Händler weiterverkauft. Dies entspricht einem Preisunterschied von
+ rund [40-50] %. Darüber hinaus sieht die WEKO wiederum keinen Anlass, die
+ Antworten der befragten Händler in Zweifel zu ziehen.
+
+ Ad fünftens: Es ist unwahrscheinlich, dass Schweizer Händler, die ab 1. Septem-
+ ber 2009 ins selektive Vertriebssystem von Nikon aufgenommen wurden,
+ dadurch derart höhere Kosten verzeichneten, dass die Angaben in Tabelle 1 in
+ Anhang E.2 verfälscht worden wären. Der umsatzmässig wichtigste Grosshänd-
+ ler gab im Fragebogen denn auch an, dass die Anforderungen von Nikon
+ Schweiz, um als offizieller Nikon Vertriebshändler zugelassen zu werden, mit der
+ Einführung des Selektivvertriebs auf Grosshandelsstufe ähnlich geblieben seien
+ wie vorher. Zudem wurde der neue Selektivvertrag den Retailhändlern erst im
+ Herbst 2010 zugestellt. Somit konnte dieser im Herbst 2009 noch keine Auswir-
+ kungen auf die Kosten der Retailhändler haben.
+
+411. Das Sekretariat analysierte zudem die von Nikon zur Verfügung gestellten durch-
+schnittlichen Einstandspreise von Retailhändlern in ganz Europa (inkl. Schweiz) der
+jeweils fünf umsatzstärksten Nikon Imaging Produkte je Produktmarkt für die Zeitperio-
+de April 2009 bis März 2010 (vgl. Rz 394).
+
+412. Abbildung 1 in Anhang E.2 zeigt wiederum den Ländervergleich mit Deutschland
+(DE), Grossbritannien (GB), Frankreich (FR), Italien (IT), Österreich (AT), Tschechien
+(CZ), den Niederlanden (NL), Slowenien (SI) und Schweden (SE), diesmal bezüglich
+der Einstandspreise der Retailhändler. Die Schlussfolgerung dieses Ländervergleichs
+deckt sich mit jener betreffend die Einstandspreise der Grosshändler (vgl. Rz. 398):
+Lediglich in den Niederlanden und Slowenien ist die grosse Mehrheit der betrachteten
+Produkte auf der Retailhandelsebene billiger als in der Schweiz. In den übrigen Län-
+dern bestehen keine systematischen Preisunterschiede.
+
+413. Das Punktediagramm in Abbildung 2 in Anhang E.2 zeigt wiederum für alle beo-
+bachteten Produktpreise, ob die jeweiligen Produkte in der Schweiz oder im Ausland
+teurer sind (vgl. Rz 399). Im Diagramm liegen 109 von 310 Beobachtungen unter der
+Schwelle von 100. Somit sind ca. 35 % der beobachteten Preise im Ausland billiger als
+in der Schweiz. Allerdings variieren die Preisunterschiede innerhalb der einzelnen Pro-
+duktgruppen – mit Ausnahme der Produktgruppe Digitalkamera mit Wechselobjektiv –
+beträchtlich.
+
+414. Bei den Preisen, die Retailhändler für den Bezug von Nikon Imaging Produkten
+bezahlen, finden sich in den relevanten Produktmärkten nur vereinzelt Produkte, die im
+Ausland mindestens 15 % billiger sind als in der Schweiz (vgl. Tabelle 2 in Anhang
+E.2). So ist etwa die Digitalkamera ohne Wechselobjektiv Coolpix S570 in Slowenien
+18 %, die Digitalkamera mit Wechselobjektiv D700 in Norwegen 19 % und das Objektiv
+70-300mm in den Niederlanden 24 % billiger als in der Schweiz.
+
+415. Aus dem internationalen Preisvergleich der Einstandspreise der Retailhändler
+kann zusammenfassend festgehalten werden,
+
+ dass sich die Schweiz bezüglich des Niveaus der Retailhandelspreise im europä-
+ ischen Mittelfeld befindet;
+
+
+140
+ Quelle: SAP von Nikon.
+
+
+22/2010/00038/COO.2101.111.4.153527 92
+ dass für einzelne Produkte auf Retailhandelsebene ein beträchtliches Arbitrage-
+ potenzial festzustellen ist, nicht jedoch für die gesamte Produktpalette von Nikon
+ Schweiz;
+
+ dass die Arbitragemöglichkeiten der Schweizer Retailhändler, insbesondere in
+ den Produktmärkten Digitalkameras mit und ohne Wechselobjektiv, geringer sind
+ als jene der Schweizer Distributoren. […]. Diese […] Konditionen reduzieren die
+ durchschnittlichen Einstandspreise der Retailhändler. Das Fazit, wonach die Ar-
+ bitragemöglichkeiten in den Produktmärkten Digitalkameras mit und ohne Wech-
+ selobjektiv auf Stufe Retailhandel geringer sind als auf Grosshandelsebene, wird
+ durch die Angaben der befragten Grossisten und Retailhändler allerdings nicht
+ bestätigt (vgl. Tabellen 1 in Anhängen E.1 und E.2). Dieser scheinbare Wider-
+ spruch wird dadurch zu erklären sein, dass die Einträge in den Tabellen 1 der
+ Anhänge E.1 und E.2 die individuellen Arbitragemöglichkeiten der einzelnen
+ Händler wiedergeben,während die SAP Daten von Nikon die durchschnittlichen
+ Einstandspreise auf Grosshandels- und Retailhandelsebene reflektieren.
+
+416. Nikon kritisiert am vorgenommenen Preisvergleich wiederum, dass basierend da-
+rauf keine Aussage zu den Arbitragemöglichkeiten möglich sei, weil die Preisunter-
+schiede zwischen der Schweiz und dem Ausland auf verschiedenen Handelsstufen be-
+rechnet würden (vgl. Rz 396). Diese Kritik stösst angesichts der hoch angesetzten Fil-
+terschwelle ins Leere. Darüber hinaus wird der geforderte Vergleich der Bezugspreise
+bei ausländischen Händlern mit jenen bei Nikon Schweiz oder inländischen Händlern in
+Tabelle 1 in Anhang E.2 dargelegt (vgl. Rz 396).
+
+Internationale Unterschiede der Endverkaufspreise
+417. Zur Eruierung internationaler Unterschiede der Endverkaufspreise fragte das
+Sekretariat Schweizer Distributoren und Retailhändler, ob hinsichtlich der Endver-
+kaufspreise Unterschiede in einem Ausmass bestehen würden, die einen Import von
+Nikon Imaging Produkten für Schweizer Endkunden lohnenswert machen. Die Antwor-
+ten fielen widersprüchlich aus. Während gewisse Händler der Ansicht waren, dass kei-
+ne signifikanten Preisunterschiede bestünden, schätzten andere Händler die Preisun-
+terschiede – in einem Fall basierend auf Kundenangaben – auf 10–15 %. Ein Händler
+gab ferner an, dass die Endkundenpreise für Nikon Produkte in der Schweiz im Zeit-
+raum Frühjahr 2008 bis Frühjahr 2010 deutlich höher gewesen seien als im europäi-
+schen Raum. Zudem wurde das Niveau der Endkundenpreise in den USA und Asien
+tiefer eingeschätzt als in der Schweiz. Einigkeit bestand darin, dass (allenfalls kurzfris-
+tige) Arbitragemöglichkeiten für Endkunden massgeblich von Währungsdifferenzen ab-
+hängen.
+
+418. Zudem analysierte das Sekretariat die durchschnittlichen Endverkaufspreise der
+wichtigsten Produktfamilien141 von Nikon in den Produktmärkten Digitalkamera mit und
+ohne Wechselobjektiv in ganz Europa für den Zeitraum April 2009 bis März 2010. Die
+Daten basieren auf Erhebungen des Marktforschungsinstituts GfK. Sie wurden durch
+das Sekretariat zu Vergleichszwecken mehrwertsteuerbereinigt142. Für die Produkt-
+märkte Wechselobjektive und Blitzgeräte waren keine GfK-Zahlen erhältlich. Betreffend
+
+
+141
+ Dabei handelt es sich nicht um die fünf umsatzstärksten Produkte von Nikon Schweiz. Ein
+internationaler Preisvergleich der Endverkaufspreise der fünf umsatzstärksten Produkte von Ni-
+kon Schweiz war mangels vorhandener Preisstatistik bei Nikon Schweiz nicht durchführbar.
+142
+ Die verwendeten Mehrwertsteuersätze sind in Tabelle 2 in Anhang E.3. aufgeführt. In jenen
+Fällen, in denen ein ausländischer Mehrwertsteuersatz in der massgebenden Periode April
+2009 bis März 2010 angepasst wurde, ging die WEKO zugunsten von Nikon für die ganze Peri-
+ode vom jeweils tieferen Satz aus.
+
+
+22/2010/00038/COO.2101.111.4.153527 93
+die Daten brachte Nikon den Vorbehalt an, dass das Marktforschungsunternehmen
+GfK in seiner Studie nicht die Preise der einzelnen Produktvarianten erfasse, sondern
+nur jene der Produktfamilien insgesamt. Dies sei bei einem internationalen Preisver-
+gleich deshalb problematisch, weil in der Schweiz in gewissen Kits143 qualitativ bessere
+Objektive enthalten seien als im Vergleichskit im Ausland. Diese Verzerrung des inter-
+nationalen Preisvergleichs treffe für alle Kameras mit Wechselobjektiven zu. Diesem
+Vorbehalt wird in den nachfolgenden Ausführungen Rechnung getragen.
+
+419. Der Ländervergleich der Endverkaufspreise der Produktgruppen Digitalkameras
+mit und ohne Wechselobjektiv in Tabelle 1 in Anhang E.3 zeigt, dass 60 % der Digital-
+kameras mit und ohne Wechselobjektiv im Ausland billiger verkauft werden als in der
+Schweiz. Ein möglicher Grund für den Aufpreis von Digitalkameras mit Wechselobjektiv
+in der Schweiz ist, dass die Wechselobjektive in der Schweiz laut Angaben von Nikon
+in der Regel von einer besseren Qualität sind (vgl. Rz 418).
+
+420. Der Tabelle ist auch zu entnehmen, dass von den 126 Preisbeobachtungen 26
+und damit ca. 20 % im Ausland über 15 % billiger sind als in der Schweiz. Es handelt
+sich hierbei um folgende Digitalkameras:
+
+ Bei den Digitalkameras mit Wechselobjektiv sind die […] und die […] beinahe in
+ allen verglichenen Ländern über 15 % günstiger als in der Schweiz. Die Preisdif-
+ ferenz beträgt bis zu [20-30]%. Laut Nikon ist der Vergleich mit Deutschland und
+ den Niederlanden infolge von Erhebungsfehlern nicht aussagekräftig. Die End-
+ verkaufspreise für die […] sind in Grossbritannien, Slowenien, Ungarn und Polen
+ über […]% günstiger als in der Schweiz. Somit lässt sich auf dem Produktmarkt
+ Digitalkameras mit Wechselobjektiv bei drei der fünf wichtigsten Produktfamilien
+ ein beträchtliches Arbitragepotenzial feststellen;
+
+ Bei den Digitalkameras ohne Wechselobjektiv ist einzig die […] in Polen mindes-
+ tens […]% günstiger erhältlich als in der Schweiz.
+421. Zusammenfassend dürfte sich für Schweizer Konsumenten in der Zeitperiode Ap-
+ril 2009 bis März 2010 – in Abhängigkeit der damit verbundenen Transaktionskosten
+(z.B. Suchkosten, Zollkosten) – ein Direktimport gewisser Modelle von Nikon Kameras
+gelohnt haben. Um entsprechende Aussagen für die Zeitperiode vor April 2009 und die
+Produktmärkte Objektive sowie Blitzgeräte machen zu können, fehlen die notwendigen
+Daten.
+
+422. Betrachtet man nicht nur die wichtigsten Produktfamilien, sondern sämtliche Ima-
+ging Produkte in den Produktmärkten Digitalkameras mit und ohne Wechselobjektiv in
+einer längeren Zeitperiode (April 2007 bis März 2010 anstelle April 2009 bis März
+2010), fallen die Preisunterschiede zum Ausland etwas tiefer aus: BAKBASEL hat im
+Auftrag von Nikon Schweiz u.a. untersucht, wie hoch die Preisdifferenz von Imaging
+Produkten zwischen der Schweiz und dem umliegenden Ausland ist. Als Datenquelle
+für die Preisvergleiche dienten die von GfK erhobenen durchschnittlichen Monatspreise
+für die europäischen Imaging Märkte. BAKBASEL kommt zu folgenden Schlussfolge-
+rungen (vgl. Tabelle 1):
+
+
+
+
+143
+ Von einem Kit wird gesprochen, wenn das Gehäuse (sog. Body) zusammen mit einem oder
+zwei Objektiven im Paket angeboten wird.
+
+
+22/2010/00038/COO.2101.111.4.153527 94
+Tabelle 1: Internationaler Preisvergleich Endverkaufspreise (ohne Mwst.)
+
+
+
+
+Quelle: BAKBASEL.
+
+ Digitalkameras mit Wechselobjektiv (SLR) waren zwischen April 2007 und De-
+ zember 2010 im umliegenden Ausland durchschnittlich zwischen 14–18 % (exkl.
+ Mwst.) günstiger zu kaufen als in der Schweiz. Wird die Mehrwertsteuer nicht ab-
+ gezogen, reduziert sich die Preisdifferenz auf 1–6 %;
+
+ Im Bereich Digitalkameras ohne Wechselobjektiv (Kompaktkameras) sind die ge-
+ fundenen Preisdifferenzen über den gesamten untersuchten Zeitraum kleiner.
+ Kompaktkameras waren im nahen Ausland rund 9–16 % (exkl. Mwst.) günstiger
+ als in der Schweiz. Wird die Mehrwertsteuer in den Preisvergleich mit einbezo-
+ gen, sind nahezu keine Preisunterschiede mehr auszumachen;
+
+ Ein grosser Teil der grösseren Preisdifferenzen im Geschäftsjahr 2009 gegen-
+ über 2007 lässt sich laut BAKBASEL durch die starke Aufwertung des Schweizer
+ Frankens seit 2008 erklären.
+
+423. Die Gegenüberstellung der Resultate der Preisvergleiche des Sekretariats und
+derjenigen von BAKBASEL zeigen, dass das Ausmass der festgestellten internationa-
+len Preisunterschiede davon abhängt, wie viele Preise miteinander verglichen werden
+(Vergleich der Preisdaten sämtlicher Kameras [Analyse BAKBASEL] versus der fünf
+wichtigsten im Bereich Digitalkameras mit und ohne Wechselobjektiv [Analyse Sekreta-
+riat]) und wie hoch der Aggregationsgrad der verglichenen Preisindizes ist (Vergleich
+der Durchschnittspreise pro Produkt [Analyse Sekretariat] oder des Durchschnittsprei-
+ses sämtlicher Produkte [Analyse BAKBASEL]). Preisvergleiche, welche sich auf ein
+einzelnes Produkt beziehen (Analyse Sekretariat), eignen sich zur Beantwortung der
+hier interessierenden Frage – gibt es bei Nikon Imaging Produkten ein Arbitragepoten-
+zial aufgrund internationaler Preisunterschiede – grundsätzlich besser als ein Vergleich
+aggregierterer Preisindizes (Analyse BAKBASEL). Unabhängig von der Wahl des Da-
+tensamples und des Aggregationsgrades zeigen die Preisanalysen jedoch auf, dass
+insbesondere für den Produktmarkt Digitalkameras mit Wechselobjektiv im Zeitraum
+2007 bis 2009 für Endkonsumenten beträchtliche Arbitragepotenziale vorhanden wa-
+ren.
+
+Internationale Unterschiede der Endverkaufspreise im Vergleich zu Konkurrenzmarken
+424. Basierend auf GfK-Daten untersuchte BAKBASEL, ob die Konsumentenpreise in
+der Schweiz im Vergleich zum umliegenden Ausland bei Nikon Kameras systematisch
+höher sind als bei den Kameras anderer Hersteller. Systematisch höhere Preise bei
+Nikon Imaging Produkten würden laut Nikon darauf hindeuten, dass der gebietsüber-
+
+22/2010/00038/COO.2101.111.4.153527 95
+greifende Intrabrand-Wettbewerb bei Nikon weniger gut funktionieren würde als bei ih-
+ren Konkurrenten. Als eine von verschiedenen möglichen Ursachen dafür würde ein
+absoluter Gebietsschutz in Frage kommen.
+
+425. Die Studie zeigt auf, dass sich die internationalen Preisdifferenzen von Nikon
+Produkten in den allermeisten Fällen in einem ähnlichen Rahmen bewegen wie die
+Preisdifferenzen der Kameras anderer Hersteller. In den Jahren 2007 bis 2009 liessen
+sich laut der Studie sogar mehr Fälle identifizieren, wo die Preisdifferenz bei Nikon
+Kameras kleiner sei als bei den anderen Kameras. Laut Nikon könne daraus geschlos-
+sen werden, dass – wenn überhaupt – die Konkurrenten von Nikon, aber sicher nicht
+Nikon eine schweizerische Preisinsel geschaffen haben. Das Resultat der Studie sei
+ein sehr gewichtiges ökonomisches Indiz dafür, dass Nikon keinen absoluten Gebiets-
+schutz mit Bezug auf die Schweiz betrieben habe.
+
+426. Hierzu ist anzumerken, dass internationale Preisunterschiede von Konkurrenz-
+marken für die Frage nach bestehenden Arbitragemöglichkeiten bei Nikon Imaging
+Produkten und somit für den Anreiz, den Intrabrand-Wettbewerb um Nikon Imaging
+Produkte durch Behinderung oder Verhinderung von Parallel- und Direktimporten zu
+beeinträchtigen oder zu beseitigen, keine Rolle spielen. Im Übrigen kann aus festge-
+stellten internationalen Preisdifferenzen allein weder bei Konkurrenzmarken von Nikon
+noch bei Nikon Imaging Produkten eine Wettbewerbsbeschränkung abgeleitet werden.
+Wie oben erwähnt (vgl. Rz 387), dient die Identifikation von Arbitragemöglichkeiten le-
+diglich zur Pfüfung der Frage, ob Anreize zur Behinderung von Importen bestehen.
+
+Fazit
+427. Aus den internationalen Preisvergleichen der Einstandspreise der Gross- und
+Retailhändler der umsatzstärksten Nikon Imaging Produkte sowie der Endverkaufs-
+preise der wichtigsten Kamera-Produktfamilien kann zusammenfassend festgehalten
+werden, dass in der Zeitperiode April 2009 bis März 2010
+
+ die Rechnungspreise an Gross- und Retailhandel von Nikon Schweiz im europäi-
+ schen Durchschnitt lagen;
+
+ in jedem Produktmarkt Produkte mit einem Arbitragepotenzial zu identifizieren
+ waren;
+
+ das Arbitragepotenzial der Händler bei Blitzgeräten generell tiefer lag als in den
+ übrigen Produktgruppen;
+
+ die Arbitragemöglichkeiten der Schweizer Retailhändler, insbesondere in den
+ Produktmärkten Digitalkameras mit und ohne Wechselobjektive, geringer ausfie-
+ len als jene der Schweizer Distributoren;
+
+ ein Direktimport gewisser Modelle von Nikon Kameras für Schweizer Konsumen-
+ ten lohnenswert war, was durch Aussagen der befragten Marktteilnehmer teilwei-
+ se bestätigt wurde (vgl. Rz 417). Um entsprechende Aussagen für die Produkt-
+ märkte Objektive sowie Blitzgeräte machen zu können, fehlen die hierfür not-
+ wendigen Daten;
+
+ das Arbitragepotenzial der Schweizer Endkunden im Bereich Digitalkameras mit
+ und ohne Wechselobjektiv höher lag als jenes der Distributoren und Retailhänd-
+ ler in der Schweiz. Laut Nikon lässt sich dies mit einem kostenbedingten grösse-
+ ren Preisaufschlag der Schweizer Händler erklären.
+428. Unabhängig von den quantitativen Analysen internationaler Preisunterschiede,
+belegen in der Hausdurchsuchung beschlagnahmte Dokumente, dass es für Schweizer
+
+
+22/2010/00038/COO.2101.111.4.153527 96
+Händler im Untersuchungszeitraum offenbar attraktiv war, Produkte aus allen relevan-
+ten Produktgruppen aus dem Ausland zu beziehen. Die beschlagnahmte E-Mail Kor-
+respondenz legt nahe, dass Nikon besonders auf Parallelimporttätigkeiten von Digital-
+kameras mit Wechselobjektiv fokussierte. Dies ist insofern nachvollziehbar, als es sich
+dabei um den Markt mit den teuersten Produkten handelt.
+
+429. Aus dem beschlagnahmten Material kann geschlossen werden, dass es in jedem
+relevanten Markt Produkte gab, die im Ausland günstiger beschafft werden konnten.
+Insbesondere müssen die Preisunterschiede genügend gross gewesen sein, dass sich
+der mit Parallelimporttätigkeiten verbundene administrative Aufwand für die Händler
+auch lohnte. Nikon unternahm denn auch beträchtliche Anstrengungen, um der Aus-
+nutzung dieser Arbitragepotenziale Schranken zu setzen (vgl. Rz 253 ff.). Dass in
+sämtlichen relevanten Produktgruppen beträchtliche Arbitragemöglichkeiten bestan-
+den, deren Ausnützung betriebswirtschaftlich lohnenswert war, belegen auch die nach-
+folgend aufgezeigten Parallelhandelstätigkeiten von Schweizer Händlern.
+
+B.3.2.2.2.2. Parallelimporte
+
+Ausmass Parallelimporte von Nikon Imaging Produkten
+
+430. Das Sekretariat ging des Weiteren der Frage nach, in welchem Umfang Parallel-
+und Direktimporte von Schweizer Händlern und Endkunden angesichts der teilweise
+beträchtlichen Arbitragemöglichkeiten getätigt wurden. Nachfolgend wird zunächst auf
+die Angaben von Nikon und anschliessend auf jene der befragten Händler eingegan-
+gen.
+
+431. Zunächst fragte das Sekretariat Nikon, wie hoch der geschätzte Anteil der in der
+Schweiz jährlich abgesetzten Nikon Imaging Produkte sei, der aus Parallelimporten
+stammt. Nikon schätzt den Parallelimport von Nikon Imaging Produkten in den Jahren
+2005 bis 2007 auf ca. CHF […] Mio. In den Jahren 2008 und 2009 seien die Paralle-
+limporte sprunghaft angestiegen und dürften im Jahr 2009 auf über CHF […] Mio. an-
+gewachsen sein. Basierend auf die von Nikon zur Verfügung gestellten Gesamtumsät-
+ze in diesen Jahren entsprechen diese Schätzungen einem Importanteil von […] % in
+den Jahren 2005 bis 2007 und […] % in den beiden darauf folgenden Jahren. Der
+Hauptgrund des Anstiegs von Parallelimporten in den Jahren 2008 und 2009 sieht Ni-
+kon in den starken Devisenkursschwankungen. Ebenfalls zum Anstieg beigetragen ha-
+be die weltweite Preistransparenz, die das Internet in den letzten Jahren zunehmend
+ermöglicht habe. Mit dem Internet sei eine neue Generation von Parallelimporteuren
+geschaffen worden, die den gesamten Handel und Verkauf über das Internet abwickeln
+und sich fast ausschliesslich über den Preis im Wettbewerb positionieren würden.
+
+432. Gefragt nach den Umsatzanteilen von Parallelimporten in den einzelnen Pro-
+duktmärkten, schätzte Nikon den Importanteil im Produktmarkt Wechselobjektive auf
+[…] % und im Produktmarkt Blitzgeräte auf […] %. Eine Schätzung für die Märkte Digi-
+talkameras mit und ohne Wechselobjektive sei Nikon nicht möglich.
+
+433. Nikon geht davon aus, dass Nikon Imaging Produkte primär aus […], vereinzelt
+aber auch aus […] in die Schweiz importiert werden. Zudem würden Nikon Imaging
+Produkte in einzelnen Fällen vermutungsweise auch aus […] parallel in die Schweiz
+importiert.
+
+434. Basierend auf die Angaben der befragten Händler lassen sich die Parallelim-
+portanteile auf Gross- und Einzelhandelsstufe abschätzen: Vergleicht man den Gesam-
+tumsatz, den die befragten Nikon Händler in der Schweiz mit Nikon Imaging Produkten
+erzielen, mit dem Anteil parallel importierter Nikon Imaging Produkte dieser Händler,
+ergibt sich im Zeitraum 2008 bis 2009 ein Importanteil von 3–10 % auf Grosshandels-
+
+22/2010/00038/COO.2101.111.4.153527 97
+stufe und von 7–8 % auf Retailhandelsstufe über alle Produktgruppen (vgl. Tabellen 1
+und 2 in Anhang E.4). Berücksichtigt man bei den Parallelimporten der Retailhändler
+auch indirekte Parallelimporte – d.h. Bezüge über Schweizer Grosshändler, welche die
+Produkte ihrerseits importiert haben – ergibt sich auf Retailstufe in den Jahren 2008 bis
+2009 schätzungsgemäss ein Parallelimportanteil von 8–11 % (vgl. Tabelle 3 in Anhang
+E.4). Zu diesen Importanteilen ist festzuhalten, dass
+
+ der Parallelimportanteil auf Grosshandelsstufe massgeblich auf den vertraglich
+ nicht gebundenen Grosshändler […] zurückzuführen ist. Von den vier übrigen in-
+ ländischen Grossisten, welche bis Herbst 2009 alle durch den alten Grossisten-
+ vertrag von Nikon gebunden waren, importierte lediglich ein einziger Nikon Ima-
+ ging Produkte im Umfang von weniger als […] % seines jährlichen Gesamtum-
+ satzes mit Nikon Imaging Produkten. Dies entspricht weniger als […] % des jähr-
+ lichen Gesamtumsatzes mit Nikon Imaging Produkten aller Distributoren in der
+ Schweiz (vgl. Tabelle 1 in Anhang E.1). Es handelt sich bei diesem Grossisten
+ zudem insofern um einen Spezialfall, als er die Produkte über eine Schwesterge-
+ sellschaft in Deutschland beziehen konnte;
+
+ die befragten Retailhändler keine repräsentative Stichprobe darstellen, da das
+ Sekretariat bei der Auswahl der befragten Unternehmen darauf achtete, mög-
+ lichst viele Unternehmen anzuschreiben, welche potenziell mit Parallelhandelstä-
+ tigkeiten zu tun haben. Vor diesem Hintergrund dürfte die hier berechnete Im-
+ portquote etwas höher liegen als dies basierend auf einer repräsentativen Stich-
+ probe der Fall gewesen wäre. Ungeachtet dieser Verzerrung deckt sich die im
+ Markt erhobene Importquote weitgehend mit den Schätzungen von Nikon. Für ei-
+ ne Aufschlüsselung des Importanteils der Retailhändler nach den verschiedenen
+ Produktmärkten fehlen die hierfür notwendigen Daten.
+
+435. Die parallel importierten Produkte der befragten Händler decken alle relevanten
+Produktmärkte ab. Den Tabellen 1 in den Anhängen E.1 und E.2 ist zu entnehmen,
+dass Digitalkameras ohne Wechselobjektiv aus Deutschland, Digitalkameras mit
+Wechselobjektiv aus Deutschland und Hong Kong und Objektive aus Deutschland,
+Hong Kong und den USA importiert wurden.
+
+436. Laut Angaben von […] werden Digitalkameras (mit und ohne Wechselobjektiv)
+aufgrund der damit verbundenen Garantie und der Sprache der Bedienungsanleitun-
+gen grundsätzlich aus zwei EU-Ländern […] importiert. Die Garantieleistung bei Digi-
+talkameras sei nicht weltweit, sondern entweder europaweit oder USA-weit. Aus Län-
+dern ausserhalb der EU […] würden Wechselobjektive und Blitzgeräte importiert.
+Wechselobjektive und Blitzgeräte hätten entweder eine weltweite Garantie oder […]
+übernehme das Risiko bei einem Garantiefall selbst. Dies sei bei Wechselobjektiven im
+Gegensatz zu Kameras möglich, weil Wechselobjektive billiger seien und eher selten
+eine Garantieleistung erfordern würden.
+
+437. Basierend auf die Aussagen der befragten Händler kann festgehalten werden,
+dass in allen Produktmärkten in einem gewissen Umfang Parallelimporte von Nikon
+Imaging Produkten getätigt werden. Diese Parallelimporttätigkeiten erreichen im Ver-
+gleich zu den geschätzten Parallelimportquoten von […] und […], den […] Konkurren-
+ten von Nikon (vgl. Rz 462 ff.), welche den Parallelimportanteil ihrer Produkte je nach
+Produktmarkt zwischen […] % und […] % schätzen, einen bescheideneren Umfang.
+
+438. Die Importquoten von Nikon Imaging Produkten zeigen dennoch auf, dass die
+vorliegenden Bezugsverbote ausserhalb des Vertragsgebiets sowie die Exportverbote
+in ausländischen Vertriebsverträgen – wie von Nikon geltend gemacht (vgl. Rz 187) –
+nicht zu einer „wasserdichten“ Abschottung des Schweizer Marktes führten. Wie in
+Rz 210 ff. dargelegt, kann sich eine durch absoluten Gebietsschutz herbeigeführte
+
+22/2010/00038/COO.2101.111.4.153527 98
+Wettbewerbsbeschränkung jedoch auch in Fällen ergeben, in denen ein Gebiet nicht
+„wasserdicht“ abgeschottet wird. Die Beschränkung ergibt sich in solchen Fällen nicht
+aus der Elimination, sondern aus der Reduktion der getätigten Parallelimporte und des
+daraus resultierenden geringeren Preisdruckes auf dem Schweizer Markt. Inwiefern die
+gebietsabschottenden Klauseln das Ausmass an getätigten Parallelimporten beein-
+flussten, wird in Rz 440 ff. analysiert.
+
+Ausmass Direktimporte von Nikon Imaging Produkten
+
+439. Wie bedeutend Direktimporte durch Schweizer Endkunden sind, welche sich al-
+lenfalls disziplinierend auf das Preisniveau auswirken würden, muss mangels diesbe-
+züglichen Informationen offen gelassen werden. In der Untersuchung wurden jedenfalls
+keine glaubhaften Hinweise auf Behinderungen von Direktimporten durch Nikon – etwa
+durch die Verweigerung von Garantieleistungen bei parallel importierten Produkten –
+gefunden (vgl. Rz 442 f.). Generell ist davon auszugehen, dass Direktimporte seit Ein-
+führung der „Swiss Garantie“ weniger attraktiv geworden sind.
+
+Behinderungen des Imports in die Schweiz?
+440. Im Folgenden wird der Frage nachgegangen, ob die getätigten Parallelimporte
+bedeutender ausgefallen wären ohne entsprechende Behinderungen von Nikon und
+ihren Abredepartnern. Zunächst gilt es zu unterscheiden zwischen Händlern, die trotz
+bestehender Arbitragepotenziale ohne Interventionen (vertraglicher oder sonstiger Art)
+von Nikon aus betriebswirtschaftlichen Gründen von Parallelhandel absahen (erste
+Gruppe), und jenen, welche dies infolge von Interventionen von Nikon unterliessen
+(zweite Gruppe).
+
+441. Zur ersten Gruppe scheinen jene Händler zu gehören, welche keine Bezugsbe-
+schränkungen in ihren Vertriebsverträgen haben und den Verzicht auf Parallelhandel-
+stätigkeiten namentlich mit einem zu grossen Aufwand im Verhältnis zur Bezugsmenge
+und einem Widerspruch zur Geschäftsstrategie begründeten.
+442. Zur zweiten Gruppe gehören nebst gewissen ausländischen Händlern (vgl.
+Rz 446 ff.) jene Schweizer Händler, die aufgrund von Interventionen (vertraglicher oder
+sonstiger Art) von Nikon entweder gänzlich auf Parallelhandel verzichteten oder diesen
+reduzierten. In den Antworten zu den Fragebögen gaben zunächst acht von 48 Händ-
+lern an, bei ihren Parallelhandelstätigkeiten mit Nikon Imaging Produkten mit Schwie-
+rigkeiten (z.B. Druckausübung von Herstellerseite) oder daraus resultierenden Nachtei-
+len konfrontiert gewesen zu sein:
+
+ So habe es laut einem Händler Anzeichen gegeben, dass Nikon auf ausländi-
+ sche Lieferanten zugegangen sei und versucht habe, Parallelimporte zu verhin-
+ dern; dennoch sei es dem Händler jederzeit möglich gewesen, im Ausland an die
+ Ware zu gelangen;
+
+ Ferner habe Nikon gewisse Händler angefragt, von welchen ausländischen Liefe-
+ ranten sie Nikon Imaging Produkte beziehen würden;
+
+ Zudem seien Händler, die Parallelimporte tätigten, von Nikon Schweiz auf eine
+ sog. „black list“ gesetzt und in der Folge nicht mehr beliefert worden oder es sei
+ mit einem Lieferstopp gedroht worden;
+
+ Darüber hinaus bestand nach Einführung des selektiven Vertriebs laut Angaben
+ eines Retailhändlers die Befürchtung, bei Parallelhandelsaktivitäten den Status
+ als zugelassener Händler zu verlieren;
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 99
+ Sodann habe Nikon gemäss Angaben eines weiteren Händlers bei importierter
+ Ware Garantieleistungen verweigert und nicht für alle importierten Kameras
+ Handbücher in deutscher Sprache bereitgestellt;
+
+ Schliesslich gab ein Einzelhändler an, dass einer seiner Schweizer Lieferanten
+ infolge Intervention von Nikon Schweiz seit September 2009 keine Nikon Imaging
+ Produkte mehr aus dem Europäischen Raum bzw. Deutschland beziehen könne.
+ Diese Angaben wurden vom betroffenen Lieferanten auf Nachfrage des Sekreta-
+ riats hin jedoch nicht bestätigt.
+
+443. Auf Antrag von Nikon wurden Händler, die in den Fragebögen angaben, bei ihren
+Parallelhandelstätigkeiten mit Schwierigkeiten oder daraus resultierenden Nachteilen
+konfrontiert gewesen zu sein, am 5. und 19. September 2011 von der WEKO als Zeu-
+gen gemäss Art. 42 Abs. 1 KG (vgl. Rz 64 und 66) einvernommen. An diesen Anhö-
+rungen revidierten die befragten Personen ihre Aussagen in dem Sinne, als sie ver-
+neinten, bei ihren Parallelhandelsaktivitäten mit Nikon Imaging Produkten mit Schwie-
+rigkeiten konfrontiert gewesen zu sein:
+
+ Namentlich stellte sich heraus, dass die Unternehmen, die angaben, auf einer
+ „black list“ gestanden zu haben, deshalb nicht beliefert wurden, weil sie zu die-
+ sem Zeitpunkt die Selektionskriterien des Selektivvertriebs von Nikon nicht erfüll-
+ ten. Beide Unternehmen wurden im Sommer 2011 zum Vertrieb zugelassen,
+ nachdem sie zwecks Erfüllung der Zulassungskriterien ihre internen Strukturen
+ angepasst hatten;
+
+ Der Händler, welcher befürchtete, die Zulassung als Vertriebshändler zu verlie-
+ ren, wenn er Parallelimporte tätigen würde, begründete diese Befürchtung an-
+ lässlich der Zeugeneinvernahme mit dem aktuell geltenden (neuen) selektiven
+ Vertriebsvertrag von Nikon. Diesem Vertrag ist keine solche Klausel zu entneh-
+ men. Laut dem Händler gab es keine weiteren Massnahmen von Seiten Nikon,
+ welche diese Befürchtung stützen könnten;
+
+ Schliesslich legte ein Mitarbeiter der Serviceabteilung in Form einer Zeugenaus-
+ sage gemäss Art. 42 Abs. 1 KG glaubhaft dar, dass Nikon bei parallel importier-
+ ten Produkten keine Garantie- und Reparaturarbeiten verweigert. Demgemäss
+ honoriere Nikon die Herstellergarantie weltweit. Die Garantie werde lediglich in
+ solchen Fällen verweigert, in denen die weltweite Herstellergarantie abgelaufen
+ sei und sich das Produkt (infolge Parallelimport) nicht für die (durch Nikon
+ Schweiz finanzierte) erweiterte „Swiss Garantie“ qualifiziere. Entgeltliche Repara-
+ turarbeiten würden nach Ablauf der Garantie auch bei parallel importierten Pro-
+ dukten ausgeführt.
+
+444. Somit bestehen gewisse Widersprüche zwischen den Angaben der Händler in
+den Fragebögen und deren Aussagen an den mündlichen Zeugeneinvernahmen. Im
+Rahmen der freien Beweiswürdigung ist zu berücksichtigen, dass die Zeugeneinver-
+nahmen in Präsenz von Nikon und deren Rechtsvertretern durchgeführt wurden, wobei
+einige der befragten Zeugen (inzwischen) in einem Vertragsverhältnis zu Nikon stehen.
+Vor diesem Hintergrund ist nicht auszuschliessen, dass die Antworten der Zeugen teil-
+weise strategisch motiviert waren.
+
+445. Zusammenfassend gibt es abgesehen von den vertraglichen Bezugsbeschrän-
+kungen in den inländischen Vertriebsverträgen keine darüber hinausgehenden rechts-
+genüglichen Beweise, dass inländische Händler bei ihren Parallelhandelsaktivitäten mit
+Nikon Imaging Produkten mit Schwierigkeiten (z.B. Druckausübung durch Nikon auf
+ausländische Lieferanten) konfrontiert waren. Allerdings haben Bezugsverbote aus-
+serhalb des Vertragsgebiets infolge des Grundsatzes pacta sunt servanda in aller Re-
+
+22/2010/00038/COO.2101.111.4.153527 100
+gel negative Auswirkungen auf das Importverhalten der Marktteilnehmer (vgl.
+Rz 451 f.).
+
+Behinderungen des Exports in die Schweiz?
+446. Zur zweiten Gruppe von Händlern, welche infolge von Interventionen von Nikon
+Parallelhandel unterliessen, gehören auch ausländische Händler, die infolge vertragli-
+cher Exportverbote und/oder Druckausübung durch die jeweilige Nikon Ländergesell-
+schaft Parallelexporte in die Schweiz einschränkten oder gänzlich darauf verzichteten,
+Schweizer Händler oder Endkunden zu beliefern.
+447. Von den befragten 19 ausländischen Händlern haben mangels Auskunftspflicht
+lediglich deren sechs den Fragebogen des Sekretariats beantwortet oder darauf rea-
+giert (vgl. Rz 35 und 38, wobei ein Händler im Bereich Sport Optics tätig ist, welcher
+nicht zu den hier relevanten Produktgruppen gehört. Dieser Händler bestätigte jedoch
+eine Druckausübung durch Nikon, was ihn dazu veranlasst habe, von Exporten nach
+Europa abzusehen (vgl. Rz 250). Die Angaben dieses Händlers indizieren, dass sich
+die Einflussnahme von Nikon auf Händler in den USA nicht nur auf den Vertrieb von
+„Nikon Sport Optics“ Produkte beschränkt hat. Vielmehr ist davon auszugehen, dass
+auch die hier relevanten Nikon Imaging Produkte von solchen oder ähnlichen Einfluss-
+nahmen betroffen waren.
+
+448. Von den restlichen fünf Händlern gaben lediglich zwei zur selben Unternehmens-
+gruppe zugehörige Händler ([…]) an, in den letzten Jahren von Nikon mehrfach ange-
+halten worden zu sein, Parallelhandel zu unterlassen; Parallelhandel sei jedoch weiter-
+hin betrieben worden. Nikon begründet diese geltend gemachte Einflussnahme mit
+dem Argument, dass es sich dabei um eine rechtmässige Unterbindung von Aktivver-
+käufen gehandelt habe, welche vor Einführung des Selektivvertriebs in der Schweiz
+stattgefunden habe.
+
+449. Zu dieser zweiten Gruppe von Händlern gehört auch die Anzeigerin Wahl Tra-
+ding. Deren Vorbringen, wonach ihre ausländischen Bezugsquellen durch Nikon dazu
+angehalten worden seien, sie nicht mehr zu beliefern, und wonach ihre Schweizer
+Kunden diszipliniert worden seien, weil sie bei Wahl Trading einkauften (vgl. Rz 1),
+konnten in der Untersuchung jedoch nicht belegt werden:
+
+ Die Bezugsschwierigkeiten von Wahl Trading begannen zum Zeitpunkt der Ein-
+ führung des selektiven Vertriebssystems von Nikon Schweiz im September 2009.
+ Die Nichtbelieferung von Wahl Trading wird von Nikon mit der fehlenden Zulas-
+ sung zum selektiven Vertriebssystem infolge Nichterfüllung der Zulassungskrite-
+ rien für Grosshändler begründet. Einer Zulassung von Wahl Trading als Grossist
+ seien insbesondere Wahl Tradings Direktgeschäfte mit Endverbrauchern (Berufs-
+ fotografen) entgegengestanden, welche gegen Ziff. 6.3 der Selektivvertriebsver-
+ einbarung mit Grossisten verstossen hätten;
+
+ Von den mutmasslich drei disziplinierten Kunden von Wahl Trading gab auf
+ Nachfrage des Sekretariats hin keiner an, von Nikon diszipliniert oder mit Nach-
+ teilen bedroht worden zu sein, weil sie bei Wahl Trading einkauften: Der ehemals
+ bedeutendste Handelspartner von Wahl Trading […] stellte die Bestellungen bei
+ Wahl Trading im Winter 2010 laut eigenen Angaben ein, weil er […]. Ein weiterer
+ Händler begründete seinen Entscheid mit der erweiterten „Swiss Garantie“, die
+ nur für Produkte gelte, die über Nikon Schweiz importiert werden. Der dritte
+ Händler gab schliesslich an, entgegen den Vorbringen der Anzeigerin auch nach
+ Herbst 2009 Produkte bei Wahl Trading bezogen zu haben, allerdings in deutlich
+ reduziertem Umfang. Der Rückgang der Bestellungen bei Wahl Trading sei mit
+ attraktiveren Bezugspreisen bei Nikon Schweiz zu begründen. Sobald Wahl Tra-
+
+
+22/2010/00038/COO.2101.111.4.153527 101
+ ding wieder interessante Angebote mache, würde der Händler wieder bei Wahl
+ Trading beziehen. Gegen eine Einstellung bzw. Reduktion der Bestellungen bei
+ Wahl Trading infolge billigerer Angebote bzw. besserer Leistungen („Swiss Ga-
+ rantie“) bei Nikon Schweiz ist aus wettbewerbsrechtlicher Sicht nichts einzuwen-
+ den.
+
+Fazit
+
+450. Zusammenfassend kann festgehalten werden, dass im Beobachtungszeitraum in
+allen Produktmärkten in einem gewissen Umfang Parallelimporte getätigt wurden, wel-
+che sich bis zu einem gewissen Grad disziplinierend auf das Wettbewerbsgeschehen
+in der Schweiz auswirken konnten. Ferner gab von den 48 inländischen und 19 aus-
+ländischen befragten Händlern keiner glaubhaft an, während der Abrededauer infolge
+von (nicht vertraglichen) Interventionen durch Nikon auf Parallelhandel mit Nikon Ima-
+ging Produkten verzichtet zu haben. Lediglich hinsichtlich der hier nicht relevanten Ni-
+kon Sport Optics Produkte gab ein ausländischer Händler aus den USA an, infolge von
+Interventionen von Nikon auf Parallelexporte verzichtet zu haben (vgl. Rz 250 f.).
+
+451. In Anbetracht dieser Händleraussagen bleibt darauf hinzuweisen, dass inländi-
+sche Händler, welche sich nicht an das Bezugsverbot ausserhalb des Vertragsgebiets
+gehalten haben, mit einer Vertragskündigung rechnen mussten. Dasselbe galt bzw. gilt
+immer noch für ausländische Händler, deren Vertriebsvertrag ein Exportverbot vor-
+sieht. Solche vertraglichen Verpflichtungen haben infolge des Grundsatzes pacta sunt
+servanda in aller Regel Auswirkungen auf das Import- und Exportverhalten der Ver-
+tragshändler. Vor diesem Hintergrund ist davon auszugehen, dass die Parallelhandel-
+stätigkeiten bedeutender ausgefallen wären und somit zusätzlicher Druck auf das
+Schweizer Preisniveau ausgeübt worden wäre, wenn die Vertriebsverträge von Nikon
+keine gebietsabschottenden Klauseln enthalten hätten.
+
+452. Eine genauere Betrachtung der konkreten Importe suggeriert denn auch, dass
+die gebietsabschottenden Klauseln den Parallelhandel reduzierten:
+
+ Auf Grosshandelsstufe betrug der Importanteil im Zeitraum 2008 bis 2009 laut
+ Schätzungen des Sekretariats lediglich 3–10 %. Dieser Importanteil ist massge-
+ blich auf den vertraglich nicht gebundenen Grosshändler […] zurückzuführen.
+ Von den bis Herbst 2009 fünf vertraglich gebundenen inländischen Grossisten
+ importierte lediglich ein einziger Nikon Imaging Produkte im Umfang von weniger
+ als […] % des jährlichen Gesamtumsatzes mit Nikon Imaging Produkten. Dies
+ entspricht weniger als […] % des jährlichen Gesamtumsatzes mit Nikon Imaging
+ Produkten aller Distributoren in der Schweiz (vgl. Tabelle 1 in Anhang E.1). Es
+ handelt sich bei diesem Grossist zudem insofern um einen Spezialfall, als er die
+ Produkte über eine Schwestergesellschaft in Deutschland beziehen konnte (vgl.
+ Rz 434). Weitere drei Händler begründeten ihren Verzicht auf Parallelimporte mit
+ guten Geschäftsbeziehungen mit Nikon Schweiz, einem Widerspruch zur Ge-
+ schäftsstrategie und einer exklusiven Zusammenarbeit mit Nikon. Der fünfte in-
+ ländische Grossist wies in diesem Zusammenhang auf die vertragliche Bindung
+ mit Nikon hin.
+
+ Auf Retailhandelsstufe betrug der direkte Importanteil der inländischen Händler
+ im Zeitraum 2008 bis 2009 laut Schätzungen des Sekretariats 7–8%. Unter Be-
+ rücksichtigung der indirekten Importe erhöht sich der Importanteil auf 8–11 %
+ (vgl. Rz 434). Von den befragten 43 Retailhändlern verzichteten in den letzten
+ Jahren deren 21 auf das Tätigen von Parallelimporten. Diese Zahl ist vor dem
+ Hintergrund zu lesen, dass das Sekretariat bei der Auswahl der befragten Unter-
+ nehmen darauf achtete, möglichst viele Unternehmen anzuschreiben, welche po-
+ tenziell mit Parallelhandelstätigkeiten zu tun hatten. Bei einer repräsentativen
+
+22/2010/00038/COO.2101.111.4.153527 102
+ Stichprobe wäre die Zahl der Retailhändler, welche keinen Parallelhandel betrei-
+ ben, vermutlich noch höher ausgefallen (vgl Rz 434). Dabei liessen 13 dieser 21
+ Retailhänder die Frage nach dem Grund des Verzichts auf Parallelhandel unbe-
+ antwortet. Weiter tätigten von den elf vom Sekretariat befragten Vertragspartnern
+ des „D3S/D3X“- und „NPSD“-Vertrags mit Bezugsverbot ausserhalb des Ver-
+ tragsgebiets lediglich zwei Händler Parallelimporte; und dies in einem beschei-
+ denen Umfang (vgl. Rz 326, zweiter Punkt).
+
+B.3.2.2.2.3. Intrabrand-Wettbewerb hinsichtlich Preis und Service
+453. Die Tabellen 1 bis 4 in Anhang E.5 illustrieren das Ausmass an Intrabrand-
+Preiswettbewerb in den relevanten Produktmärkten. Die Tabellen 1 und 2 basieren auf
+Daten einer GfK-Marktstudie und zeigen die Mindest-, Höchst- und Durchschnittspreise
+der wichtigsten Kamera-Produktfamilien von Nikon. Diesen beiden Tabellen ist zu ent-
+nehmen, dass sich die Mindest- und Höchstpreise im Markt in den betrachteten Jahren
+2007 bis 2010 beträchtlich unterscheiden. Diese Preisheterogenität spricht für einen
+funktionierenden Intrabrand-Preiswettbewerb in den Produktmärkten Digitalkameras
+mit und ohne Wechselobjektiv.
+
+454. Für die Märkte Wechselobjektive und Blitzgeräte sind keine entsprechenden Da-
+ten von GfK erhältlich. Die Tabellen 3 und 4 enthalten deshalb die Normal-, Aktions-
+und Durchschnittsverkaufspreise der umsatzstärksten Nikon Imaging Produkte der be-
+fragten Schweizer Retailhändler in den Produktmärkten Objektive und Blitzgeräte im
+Jahr 2009. Zusätzlich sind in den Tabellen die Tiefstpreise basierend auf Daten des
+Preisvergleichsdienstes www.toppreise.ch für die Periode April bis Dezember 2009 an-
+gegeben. Hinsichtlich der beiden Tabellen muss der Vorbehalt angebracht werden,
+dass eine Einteilung der Retailpreise in Normal- und Aktionsverkaufspreise derweilen
+schwierig sein kann. So gaben zwei Händler an, sie hätten permanent tiefe Preise,
+weshalb es keine eigentlichen Aktionspreise gäbe. Ungeachtet dieses Vorbehalts sug-
+gieren die heterogenen Preisangaben der Händler sowie die Preisdaten des Preisver-
+gleichsdienstes www.toppreise.ch für die Produktmärkte Objektive und Blitzgeräte ei-
+nen funktionierenden Intrabrand-Preiswettbewerb.
+
+455. Allerdings war der vorhandene Intrabrand-Preiswettbewerb offenbar steigerungs-
+fähig: Als ein bedeutender Schweizer Händler mit Nikon Imaging Produkten mit Nikon
+im Sommer 2011 (nach Aufhebung der Gebietsschutzabreden) einen Vertrag ab-
+schloss, erhielt er so tiefe Einstandspreise, dass sich ein Parallelimport nicht mehr
+lohnte. Die tieferen Einstandspreise hat der Händler laut eigenen Angaben jedoch nicht
+an die Endkunden weitergegeben, sondern stattdessen seine Marge erhöht. Würde ein
+intensiver Intrabrand-Preiswettbewerb vorherrschen, würden solche Preisnachlässe
+den Kunden zumindest teilweise weitergegeben. Diese Aussage gilt ungeachtet der
+Tatsache, dass sich die Aussage des Händlers auf einen Zeitpunkt nach Auflösung der
+Abreden bezieht, da der Intrabrand-Preisdruck in der Schweiz nach Auflösung der Ab-
+reden zugenommen haben dürfte. Mit anderen Worten gilt die Aussage der fehlenden
+Weitergabe tieferer Einstandspreise umso mehr für die Zeitperiode Frühling 2008 bis
+Herbst 2009.
+
+456. Nebst dem Intrabrand-Wettbewerb über den Preis besteht vorliegend auch ein
+gewisser Intrabrand-Wettbewerb über verschiedene Niveaus an Servicedienstleistun-
+gen: So erhalten gewisse Nikon Händler den „NPSD“-Status (vgl. Rz 112 ff.), wenn sie
+gewisse Qualitätsvoraussetzungen erfüllen. Damit sollte laut Angaben von Nikon si-
+chergestellt werden, dass professionelle Fotografen, die Nikon Produkte verwenden,
+einen ihren hohen Bedürfnissen entsprechenden Service erhalten können. Zudem ver-
+treibt Nikon die D3X- und D3S-Kameras aufgrund deren grossen Komplexität und der
+für professionelle Fotografen entwickelten Funktionen der beiden Modelle an […], die
+
+22/2010/00038/COO.2101.111.4.153527 103
+professionelle Fotografen umfassend beraten und betreuen können (vgl. Rz 107 ff.).
+Diese unterschiedlichen Vertragstypen legen nahe, dass unter den Händlern von Nikon
+Imaging Produkten während des Untersuchungszeitraums ein gewisser Qualitätswett-
+bewerb in Form unterschiedlicher Serviceniveaus bestand.
+
+457. Schliesslich kann die „Swiss Garantie“ – wie von Nikon geltend gemacht – als
+Ausdruck eines gebietsübergreifenden Intrabrand-Leistungswettbewerbs interpretiert
+werden. Die für diese Garantieverlängerung notwendigen Investitionen habe Nikon
+Schweiz primär getätigt, um die Wettbewerbsfähigkeit ihrer Produkte gegenüber von
+Parallelimporten zu steigern. Dieses Ziel scheint Nikon erreicht zu haben: So bestäti-
+gen die befragten Händler, dass die „Swiss Garantie“ zu einem wichtigen Verkaufsar-
+gument gegenüber parallel importierten Produkten wurde. Dementsprechend führte ein
+bedeutender Schweizer Händler im Jahr 2009 für parallel importierte Produkte (herstel-
+lerübergreifend) eine eigens finanzierte erweiterte Garantie ein.
+
+B.3.2.2.2.4. Fazit
+458. In sämtlichen Produktmärkten bestand im untersuchten Zeitraum ein (teilweise
+beträchtliches) Arbitragepotenzial für ausgewählte Produkte für Distributoren und
+Retailhändler. Infolge dieses Arbitragepotenzials wurden denn auch Parallelimporte ge-
+tätigt, welche sich bis zu einem gewissen Grad disziplinierend auf das Wettbewerbsge-
+schehen in der Schweiz auswirkten. Darüber hinaus bestand in der Schweiz ein gewis-
+ser Intrabrand-Wettbewerb hinsichtlich Preis und Service. Der vorhandene Intrabrand-
+Preiswettbewerb war jedoch steigerungsfähig, ansonsten müssten Schweizer Händler
+eine Reduktion der Einstandspreise zumindest teilweise an die Kunden weitergeben,
+anstatt ihre Marge damit zu erhöhen.
+459. Von den befragten 48 inländischen und 19 ausländischen Händlern gab keiner
+glaubhaft an, während der Abrededauer infolge von (nicht vertraglichen) Interventionen
+von Nikon auf Parallelhandel mit Nikon Imaging Produkten verzichtet zu haben. Den-
+noch ist zu erwarten, dass das Ausmass an Parallelimporten bedeutender ausgefallen
+und somit zusätzlicher Druck auf das Schweizer Preisniveau ausgeübt worden wäre,
+wenn die Vertriebsverträge von Nikon keine gebietsabschottenden Klauseln enthalten
+hätten, weil sich die meisten Vertriebspartner entsprechend dem Grundsatz pacta sunt
+servanda an die Bezugsbeschränkungen und die Exportverbote gehalten haben. Diese
+Vertragsklauseln wurden in casu durch folgende unterstützenden Massnahmen beglei-
+tet: Die Identifikation ausländischer Parallelhändler über Seriennummern – welche mit
+Hilfe von Schweizer Händlern im Markt erhoben wurden (vgl. Rz 153 ff.) –, und an-
+schliessende Druckausübung auf diese Parallelhändler via andere Nikon Ländergesell-
+schaften (vgl. Rz 270 ff.).
+
+460. Vor diesem Hintergrund geht die Einschätzung von Nikon, wonach in der
+Schweiz ein sehr intensiver Intrabrand-Wettbewerb hinsichtlich Preis und Service für
+Nikon Imaging Produkte bestehen soll, fehl. Die WEKO kommt aufgrund der vorste-
+henden Erwägungen vielmehr zum Schluss, dass auf den relevanten Produktmärkten
+ein gewisses Mass an Intrabrand-Wettbewerb besteht.
+
+B.3.2.2.3. Interbrand-Wettbewerb
+
+461. Zur Analyse des Ausmasses an Wettbewerb zwischen Anbietern unterschiedli-
+cher Imaging Produkte wird zunächst der aktuelle Wettbewerb auf den relevanten
+Märkten untersucht.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 104
+B.3.2.2.3.1. Aktueller Wettbewerb
+
+Marktanteile
+462. Ausgangspunkt für die Beurteilung des aktuellen Wettbewerbs ist die Identifikati-
+on der wichtigsten Wettbewerber auf dem Markt und deren Marktanteile. Die nachfol-
+genden Tabellen 2 bis 5 zeigen die geschätzten umsatzbasierten Marktanteile von Ni-
+kon und deren wichtigsten Konkurrenten auf den relevanten Produktmärkten in der
+Schweiz in den Jahren 2007 bis 2009 oder – falls verfügbar – bis 2010.
+
+Tabelle 2: Marktanteile Digitalkameras ohne Wechselobjektiv 2007–2010
+
+ Hersteller 2007 2008 2009 2010
+
+ Sony […] % […] % […] % […] %
+
+ Canon […] % […] % […] % […] %
+
+ Panasonic […] % […] % […] % […] %
+
+ Olympus […] % […] % […] % […] %
+
+ Nikon [0-10] % [0-10] % [10-20] % [10-20] %
+
+ Casio […] % […] % […] % […] %
+
+ Samsung […] % […] % […] % […] %
+
+ Fujifilm […] % […] % […] % […] %
+
+ Pentax […] % […] % […] % […] %
+
+ BenQ, Rollei u.a. […] % […] % […] % […] %
+
+Quelle: GfK. Die von GfK ausgewiesenen Marktanteile beziehen sich jeweils auf das erste Quartal pro
+Jahr.
+
+Tabelle 3: Marktanteile Digitalkameras mit Wechselobjektiv 2007–2010
+
+ Hersteller 2007 2008 2009 2010
+
+ Nikon [30-40] % [40-50] % [40-50] % [30-40] %
+
+ Canon […] % […] % […] % […] %
+
+ Sony […] % […] % […] % […] %
+
+ Olympus […] % […] % […] % […] %
+
+ Panasonic […] % […] % n.a. […] %
+
+ Pentax […] % […] % […] % […] %
+
+ Sigma, Fujifilm, […] % […] % […] % […] %
+ Leica, Samsung
+ u.a.
+
+Quelle: GfK. Die von GfK ausgewiesenen Marktanteile beziehen sich jeweils auf das erste Quartal pro
+Jahr. Die Marktanteilsangaben für die Jahre 2007–2009 wurden auf Grundlage der Kit-view, d.h. inkl. Kit-
+Ausführungen, berechnet. Von einem Kit wird gesprochen, wenn das Gehäuse (sog. Body) zusammen mit
+einem oder zwei Objektiven im Paket angeboten wird. Die Marktanteilsangaben für das Jahr 2010 basie-
+ren auf einer Component-view, d.h. unter Abzug eines theoretischen Wertes für das Kit-Wechselobjektiv.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 105
+Tabelle 4: Marktanteile Wechselobjektive 2007–2009
+
+ Hersteller 2007 2008 2009
+
+ Canon [...] % [...] % [...] %
+
+ Leica [...] % [...] % [...] %
+
+ Nikon [10-20] % [10-20] % [10-20] %
+
+ Olympus [...] % [...] % [...] %
+
+ Panasonic [...] % [...] % [...] %
+
+ Sigma [...] % [...] % [...] %
+
+ Sony [...] % [...] % [...] %
+
+ Tamron [...] % [...] % [...] %
+
+ Weitere [...] % [...] % [...] %
+
+Quelle: Erhebungen des Sekretariats. Zwecks Wahrung von Geschäftsgeheimnissen sind die Hersteller in
+alphabetischer Reihenfolge aufgeführt. Die Marktanteilberechnungen basieren auf dem von Canon, Nikon
+und Sony geschätzten durchschnittlichen Gesamtumsatz aller Wettbewerber im Schweizer Markt in der
+Zeitperiode 2007–2009 sowie auf die jährlichen Umsatzzahlen der jeweiligen Hersteller.
+
+Tabelle 5: Marktanteile Blitzgeräte 2007–2009
+
+ Hersteller 2007 2008 2009
+
+ Canon [...] % [...] % [...] %
+
+ Elinchrom [...] % [...] % [...] %
+
+ Leica [...] % [...] % [...] %
+
+ Nikon [30-40] % [20-30] % [30-40] %
+
+ Olympus [...] % [...] % [...] %
+
+ Panasonic [...] % [...] % [...] %
+
+ Profoto* [...] % [...] % [...] %
+
+ Sigma [...] % [...] % [...] %
+
+ Sony [...] % [...] % [...] %
+
+ Weitere [...] % [...] % [...] %
+
+* Marktanteilsschätzung von Nikon.
+
+Quelle: Erhebungen des Sekretariats. Zwecks Wahrung von Geschäftsgeheimnissen sind die Hersteller in
+alphabetischer Reihenfolge aufgeführt. Die Marktanteilberechnungen basieren auf dem durch Canon und
+Nikon geschätzten durchschnittlichen Gesamtumsatz aller Wettbewerber im Schweizer Markt in der Zeit-
+periode 2007–2009 sowie auf die jährlichen Umsatzzahlen der jeweiligen Hersteller.
+
+463. Den Tabellen ist zu entnehmen, dass Nikon insbesondere im Markt für Digital-
+kameras mit Wechselobjektiv mit [30-50] % beträchtliche Marktanteile hält und seit
+dem Jahr 2008 Marktführer ist. […] wurde in der Folge zur Nummer Zwei im Markt. Der
+Markt für Digitalkameras mit Wechselobjektiv ist stark konzentriert: Nikon und […] ver-
+
+22/2010/00038/COO.2101.111.4.153527 106
+einen zusammen rund [70-80] % des Marktes auf sich (sog. Konzentrationsindex K2).
+Die übrigen relevanten Produktmärkte sind weniger stark konzentriert. Aber auch dort
+bewegen sich die K2-Konzentrationsindizes zwischen […] % im Jahr 2008 auf dem
+Markt für Wechselobjektive und […] % im Jahr 2007 auf dem Markt für Blitzgeräte.
+
+464. Ein Vergleich der Struktur des Schweizer Imaging Marktes mit den vier Nachbar-
+staaten der Schweiz zeigt keine wesentlichen Unterschiede auf: Laut der von Nikon in
+Auftrag gegebenen Studie von BAKBASEL weist der Schweizer Imaging Markt in den
+Produktgruppen Digitalkameras mit und ohne Wechselobjektiv keine aussergewöhnlich
+hohe Marktkonzentration auf. Auch die Marktanteile von Nikon in der Schweiz würden
+sich in derselben Grössenordnung bewegen wie jene im umliegenden Ausland.
+
+465. Es bleibt darauf hinzuweisen, dass die Zahl der Wettbewerber je nach Produkt-
+markt beträchtlich variiert. So waren im Markt für Kameras ohne Wechselobjektiv im
+Zeitraum April 2007 bis März 2010 57 unterschiedliche Produzenten tätig. Im Produkt-
+markt der Kameras mit Wechselobjektiv war die Zahl der Marktteilnehmer mit 11 Mar-
+ken kleiner. Trotz der hohen Zahl an Wettbewerbern im Kompakt-Segment gibt es mit
+Sony, Canon und Panasonic klare Marktleader (vgl. Tabelle 2).
+
+Marktanteilsentwicklung
+466. Nachfolgende Tabellen geben Auskunft über die Markanteilsentwicklung auf den
+relevanten Märkten in den Jahren 2007 bis 2009 oder – falls verfügbar – bis 2010. Die
+Marktanteilsentwicklung gibt zum einen Auskunft darüber, welche Unternehmen Markt-
+anteile gewinnen konnten und welche Marktanteile verloren haben. Zum anderen wird
+deutlich, ob im Markt Bewegung zu beobachten ist. Starke Marktanteilsschwankungen
+können für einen dynamischen Markt sprechen. Stabile Marktstrukturen sind meist in
+gesättigten (stagnierenden) Märkten anzutreffen.
+
+Tabelle 6: Marktanteilsentwicklung Digitalkameras ohne Wechselobjektiv 2007–2010
+
+[…]
+
+Quelle: GfK.
+
+Tabelle 7: Marktanteilsentwicklung Digitalkameras mit Wechselobjektiv 2007–2010
+
+[…]
+
+Quelle: GfK.
+
+Tabelle 8: Marktanteilsentwicklung Wechselobjektive 2007–2009
+
+[…]
+
+Quelle: Erhebungen des Sekretariats.
+
+Tabelle 9: Marktanteilsentwicklung Blitzgeräte 2007–2009
+
+[…]
+
+Quelle: Erhebungen des Sekretariats.
+
+467. Den Tabellen 6 bis 9 ist Folgendes zu entnehmen:
+
+ Digitalkameras ohne Wechselobjektiv: […] gelang es in der Zeitperiode 2007 bis
+ 2010 als einziger Herstellerin, die Marktanteile kontinuierlich und signifikant zu
+ erhöhen. Die Marktanteile der meisten übrigen Hersteller waren in derselben
+ Zeitperiode (teilweise beträchtlichen) Schwankungen unterworfen ([…]) oder
+
+
+22/2010/00038/COO.2101.111.4.153527 107
+ mussten beträchtliche Marktanteilsverluste hinnehmen ([…]). Lediglich bei […]
+ und […] blieben die Marktanteile bei je […] % konstant.
+
+ Digitalkameras mit Wechselobjektiv: Im Markt für Digitalkameras mit Wechselob-
+ jektiv sind in der Zeitperiode 2007 bis 2010 wiederum beträchtliche Marktanteils-
+ verschiebungen zu beobachten. Allein in der Periode 2009 bis 2010 […] Nikon
+ Marktanteile in Höhe von […] %, während es […] gelang, […] % dazuzugewin-
+ nen. Dennoch konnte Nikon die im Jahr 2008 […] bis ins Jahr 2010 […]. Zudem
+ bleibt darauf hinzuweisen, dass im Markt für Digitalkameras mit Wechselobjektiv
+ in den nächsten Jahren Marktanteilsverschiebungen aufgrund der im Herbst
+ 2008 von Olympus und Panasonic auf den Markt gebrachten spiegellosen Digi-
+ talkamera mit Wechselobjektiv zu erwarten sind (vgl. auch Rz 469). Dabei han-
+ delt es sich um Kameras, welche wie Kameras ohne Wechselobjektiv über kei-
+ nen Spiegel verfügen, aber wie Spiegelreflexkameras die Möglichkeit bieten, ver-
+ schiedene Objektive auf das Gehäuse zu montieren (vgl. Rz 366). Sony hat mit
+ ihren NEX-Kameras im April 2010 ebenfalls ein solches Produkt eingeführt.
+
+ Wechselobjektive: Im Markt für Wechselobjektive gehörten […] in der Zeitperiode
+ 2007 bis 2009 zu den Verlierern von Marktanteilen während die Marktanteile von
+ […] insgesamt konstant blieben, auch wenn bei […] zwischen den einzelnen Jah-
+ ren gewisse Schwankungen in Höhe von […] % zu verzeichnen waren. Kontinu-
+ ierlich Marktanteile dazugewinnen konnten […].
+
+ Blitzgeräte: In der Zeitperiode 2007 bis 2009 verlor […] kontinuierlich Marktantei-
+ le. Die Marktanteile von […] blieben in dieser Beobachtungsperiode konstant, wa-
+ ren jedoch in den einzelnen Jahren beträchtlichen Schwankungen unterworfen
+ (+/-[…] %). Dennoch behielt […] im gesamten Beobachtungszeitraum die Markt-
+ führerschaft. […], der Nummer […] im Markt, gelang es, die Marktanteile kontinu-
+ ierlich zu erhöhen. Die Marktanteile der übrigen Marktteilnehmer verzeichneten
+ keine signifikanten Veränderungen.
+
+468. Zusammenfassend ist in allen relevanten Produktmärkten eine gewisse Dynamik
+zu beobachten. Dies gilt insbesondere für die Märkte Digitalkameras mit und ohne
+Wechselobjektiv. Dieses Fazit wird verstärkt, wenn die Marktanteilsentwicklung von
+Kameras mit und ohne Wechselobjektiv auf monatlicher anstatt auf jährlicher Basis be-
+trachtet wird, wie die beiden nachfolgenden Abbildungen zeigen.
+
+Abb. 3: Marktanteilsentwicklung Nikon Digitalkameras ohne Wechselobjektiv (April
+2007–März 2010)
+[…]
+
+Quelle: Berechnungen von BAKBASEL basierend auf GfK-Daten.
+
+Abb. 4: Marktanteilsentwicklung Nikon Digitalkameras mit Wechselobjektiv (April 2007–
+März 2010)
+
+[…]
+
+Quelle: Berechnungen von BAKBASEL basierend auf GfK-Daten.
+
+Produkt- und Preisdifferenzierung
+
+469. Die Produktpalette von Imaging Produkten zeichnet sich in allen relevanten Märk-
+ten durch eine weitgehende Produktdifferenzierung aus (vgl. Rz 360 ff.), was für einen
+funktionierenden Interbrand-Wettbewerb spricht. So wurden im Zeitraum April 2007 bis
+März 2010 laut BAKBASEL im Kompakt-Segment (Kameras ohne Wechselobjektive)
+
+
+22/2010/00038/COO.2101.111.4.153527 108
+mehr als 1‘200 verschiedene Typen von Kompaktkameras in der Schweiz verkauft. Im
+SLR-Segment (Kameras mit Wechselobjektiv) wurden in diesem Zeitraum 90 Kamera-
+typen angeboten. Ausdruck dieser Produktdifferenzierung ist auch die Innovation der
+spiegellosen Kamera mit Wechseloptik im Herbst 2008, welche laut Angaben von Ni-
+kon innerhalb von zwei Jahren in der EU einen Marktanteil von ca. 5 % erreichte. In
+Japan betrage der Marktanteil bereits ca. 40 %. Ähnlich revolutionäre Innovationen
+werden von den befragten Herstellern in den nächsten zwei Jahren in keinem Pro-
+duktmarkt erwartet.
+
+470. Diese Produktdifferenzierung schlägt sich in einer Preisdifferenzierung nieder.
+Die bei Digitalkameras mit und ohne Wechselobjektiv vorhandene Preisdifferenzierung
+je nach Marke wird in den folgenden Abbildungen 5 bis 8 basierend auf Daten von GfK
+für die Zeitperioden April 2008 bis April 2010 illustriert. Die Abbildungen geben die
+durchschnittlichen Preise für Digitalkameras mit und ohne Wechselobjektiv pro Herstel-
+ler an.
+Abb. 5: Preise Digitalkameras ohne Wechselobjektiv April 2008 bis April 2009
+
+[…]
+
+Quelle: GfK.
+
+Abb. 6: Preise Digitalkameras ohne Wechselobjektiv April 2009 bis April 2010
+
+[…]
+
+Quelle: GfK.
+
+Abb. 7: Preise Digitalkameras mit Wechselobjektiv April 2008 bis April 2009
+
+[…]
+
+Quelle: GfK.
+
+Abb. 8: Preise Digitalkameras mit Wechselobjektiv April 2009 bis April 2010
+
+[…]
+
+Quelle: GfK.
+
+471. Den Abbildungen 5 und 6 ist zu entnehmen, dass […] im Produktmarkt Digital-
+kameras ohne Wechselobjektiv der durchschnittlich teuerste Anbieter ist. Nikon befin-
+det sich mit ihren Produkten (ohne Berücksichtigung der billigeren Anbieter […] und
+[…], welche erst in den letzten Jahren in den Markt eingetreten sind und von GfK erst
+für die Zeitperiode April 2009 bis April 2010 in die Erhebung aufgenommen wurden) im
+unteren Preisbereich. Die Abbildungen 5 und 6 zeigen ferner, dass die Preise für Kom-
+paktkameras im Zeitraum April 2008 bis April 2010 in der Tendenz gefallen sind. Die
+verschiedenen Marken werden innerhalb einer bedeutenden Preisbandbreite angebo-
+ten, wobei pro Anbieter bedeutende Preisschwankungen zu beobachten sind.
+
+472. Im Markt für Digitalkameras mit Wechselobjektiv sind die Preise im Zeitraum April
+2008 bis April 2009 beträchtlich gefallen und blieben in der Periode April 2009 bis April
+2010 eher konstant (vgl. Abbildungen 7 und 8). Laut Nikon ist die Senkung der Durch-
+schnittspreise Ausdruck des intensiven Innovationswettbewerbs und des starken Inter-
+brand-Preiswettbewerbs. Die Hersteller würden sich regelmässig mit Cash Back-
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 109
+Promotionen144 für Endkunden und Händleraktionen, mit Rabatten im Umfang von ca.
+[…] % auf ausgewählten Modellen und regelmässig stattfindenden, umfassenden
+Preisaktionen konkurrieren. Schliesslich finde auch ein Wettbewerb über unterschiedli-
+che Dienstleistungen wie etwa die Nachbetreuung der Kunden, die Fotografieausbil-
+dung sowie die Dauer und den Umfang der Garantie statt.
+
+473. Auch im Markt für Digitalkameras mit Wechselobjektiv bestehen zwischen den
+einzelnen Marken Preisunterschiede. Nikon bot im Zeitraum April 2008 bis April 2009
+durchschnittlich […] an. Im darauf folgenden Jahr erfasste GfK zusätzlich die Firma
+[…], welche in dieser Periode von den beobachteten Marktteilnehmern Nikon als teu-
+erste Anbieterin ablöste. Eine gewisse Rolle bei dieser Entwicklung dürfte die im
+Herbst 2008 von Olympus und Panasonic auf den Markt gebrachten spiegellosen Ka-
+meras mit Wechselobjektiv gespielt haben (vgl. Rz 467).
+
+474. Wie auch auf dem Markt für Kompaktkameras schwanken die beobachteten
+durchschnittlichen Preise pro Marke auf dem Markt für Kameras mit Wechselobjektiv
+während des beobachteten Zeitraums. Diese Schwankungen lassen sich laut Angaben
+von Nikon durch einen intensiven Intrabrand- und Interbrand-Wettbewerb, konstante
+technologische Fortschritte (z.B. Einführung der DCIL-Kamera [vgl. Rz 366] im Jahr
+2008, Einführung der Video-Funktion in Digitalkameras mit Wechselobjektiv im Sep-
+tember 2008, Weiterentwicklung der ISO-Werte145 im November 2009, Weiterentwick-
+lung der Bildschirme146, der Belichtungsmessung und des Bildaufbereitungsprozesses)
+und kurze Technologiezyklen erklären. So würden die einzelnen Kameramodelle in re-
+gelmässigen und kurzen Zeitabständen von 2–3 Jahren durch jeweilige Nachfolgemo-
+delle ersetzt. Dies führe dazu, dass grosse Mengen von Auslaufmodellen zu günstigen
+Preisen verkauft würden, was sich entsprechend auf die Durchschnittspreise auswirke.
+
+475. Zusammenfassend ist auf beiden Kamera-Märkten eine Produkt- und Preisdiffe-
+renzierung festzustellen.
+476. Für die Produktmärkte Wechselobjektive und Blitzgeräte existieren keine ent-
+sprechenden Grafiken von GfK. Das Sekretariat fragte jedoch die Hersteller von Wech-
+selobjektiven und Blitzgeräten nach den Preisbandbreiten (Mindestpreis/Höchstpreis)
+sowie den Durchschnittspreisen, zu welchen ihre jeweils drei umsatzstärksten Produk-
+te im Jahr 2009 in der Schweiz an Endkunden verkauft wurden. Die Angaben der Her-
+steller sind den Tabellen 10 und 11 zu entnehmen. Auch in diesen beiden Produkt-
+märkten schlägt sich die Produktdifferenzierung in einer Preisdifferenzierung nieder.
+
+
+
+
+144
+ Bei einer Cash Back-Promotion kauft der Endkunde bei einem Händler ein Produkt und er-
+hält nach Registrierung über die Hersteller-Homepage vom Hersteller einen Betrag zurücker-
+stattet. Der Vorteil für den Hersteller liegt darin, dass nicht alle Kunden den Betrag zurückfor-
+dern und der Hersteller selber bessere Marktkenntnisse gewinnt, da der Kunde oft angeben
+muss, welche andere Produkte er verwendet.
+145
+ Je höher die ISO-Empfindlichkeit, desto weniger Licht wird für die Fotoaufnahme benötigt.
+146
+ Neue Bildschirme sind wesentlich grösser, geben die Farben besser wieder und erreichen
+eine höhere Auflösung als ältere Bildschirme.
+
+
+22/2010/00038/COO.2101.111.4.153527 110
+Tabelle 10: Endverkaufspreise verschiedener Hersteller von Wechselobjektiven im
+Jahr 2009
+ Hersteller Produkt Preisbandbreite Durchschnittspreis
+ Tiefstpreis Höchstpreis
+ Nikon* AF-S DX VR 55-200 [261-278] n.a. n.a.
+ AF-S VR Micro 105mm [899-999] n.a. n.a.
+ AF-S VR 70-300mm [586-634] n.a. n.a.
+ AF-S 24-70mm [1’942-2’083] n.a. n.a.
+ AF-S VR 18-200mm [728-768] n.a. n.a.
+ AF-S DX 35mm [240-264] n.a. n.a.
+ AF-S VRII 18-200mm [850-985] n.a. n.a.
+ AF-S 50mm/ 1.4G [428-480] n.a. n.a.
+ AF-S DX 16-85mm [641-678] n.a. n.a.
+ AF D50 / 1.8G [158-163] n.a. n.a.
+ Canon EF 70-300mm f/4-5.6 IS USM 586 988 n.a.
+ EF-S 55-250mm IS 281 508 n.a.
+ EF 100mm f/2.8L IS USM 1’117 1’1678 n.a.
+ Tamron 3.5-6.3 18-270mm VC [500-600] [800-900] […]
+ 3.5-6.3 18-200 mm VC [200-300] [300-400] […]
+ 2.8 17-50 mm VC [400-500] [800-900] […]
+ Leica Summilux 35 [4‘000-5‘000] [5‘000-6‘000] […]
+ Summilux 50 [3‘000-4‘000] [4‘000-5‘000] […]
+ Sigma 10-20mm 698 802.7 […]
+ 18-250mm 768 883.2 […]
+ 120-400mm 998 1147.7 […]
+ Sony SAL-18250 650 998 n.a.
+ SAL-70400G 1799 2448 n.a.
+ SAL-2470Z 2299 3198 n.a.
+ Olympus 70-300 mm 649 698 […]
+ 50-200mm 1‘599 1‘898 […]
+ 14-42 mm 358 398 […]
+
+* Die Werte von Nikon beziehen sich auf die Periode April bis Dezember 2009 basierend auf Angaben des
+Preisvergleichsdienstes www.toppreise.ch.
+
+Quelle: Erhebungen des Sekretariats.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 111
+Tabelle 11: Endverkaufspreise verschiedener Hersteller von Blitzgeräten im Jahr 2009
+
+Hersteller Produkt Preisbandbreite Durchschnittspreis
+ Tiefstpreis Höchstpreis
+Nikon* SB-900 [432-456] n.a. n.a.
+ SB-800 [450-617] n.a. n.a.
+ SB-600 [278-295] n.a. n.a.
+ SB-400 [129-136] n.a. n.a.
+Canon Speedlite 430 EX II 287 478 n.a.
+ Speedlite 580 EX II 460 878 n.a.
+ Speedlite 270 EX II 153 238 n.a.
+Leica SF 58 [700-800] [800-900] […]
+ SF 24 [400-500] [400-500] […]
+Olympus FL-50R 750 828 […]
+ FL-36R 319 378 […]
+Sony HVL-F42aM 299 499 n.a.
+ HVL-F58AM 499 949 n.a.
+ HVL-F20AM 169 249 n.a.
+
+* Die Werte von Nikon beziehen sich auf die Periode April bis Dezember 2009 basierend auf Angaben des
+Preisvergleichsdienstes www.toppreise.ch.
+
+Quelle: Erhebungen des Sekretariats.
+
+Preissensitivität der Schweizer Konsumenten
+477. BAKBASEL hat im Auftrag von Nikon mit ökonometrischen Schätzverfahren un-
+tersucht, wie stark (potenzielle) Käufer von Kameras in der Schweiz auf Preisänderun-
+gen reagieren. Die Ergebnisse zeigen, dass eine Verschlechterung (d.h. Erhöhung) der
+relativen Preise von Nikon Kameras im Vergleich zu Konkurrenzprodukten in der Ten-
+denz zu einem Nachfragerückgang nach Nikon Kameras führt. Umgekehrt bewirkt eine
+Verbesserung (d.h. Reduktion) der relativen Preise von Nikon Kameras einen Nachfra-
+geanstieg nach Nikon Kameras. Daraus lässt sich in der Tendenz eine gewisse Preis-
+sensitivität der Schweizer Konsumenten ableiten. Allerdings waren die geschätzten
+Koeffizienten für die relative Preisvariable für einige Nikon Kameras nicht oder nur
+schwach signifikant. Bei nicht signifikanten Koeffizienten kann die Aussage zum Nach-
+fragerückgang infolge einer relativen Preiserhöhung von Nikon Kameras nicht gemacht
+werden, da die die Irrtumswahrscheinlichkeit hoch ist (> 10 %). Zudem weisen die
+Schätzungen tiefe Werte für das Bestimmtheitsmass (R2)147 auf (i.d.R. < 0.4).
+
+Fazit
+
+478. Auf sämtlichen betrachteten Produktmärkten (Digitalkameras ohne Wechselob-
+jektiv, Digitalkameras mit Wechselobjektiv, Wechselobjektive und Blitzgeräte) liegt ak-
+tueller Interbrand-Wettbewerb vor.
+
+479. Obwohl aktueller Wettbewerb besteht, wird der Vollständigkeit halber auch noch
+der potenzielle Wettbewerb untersucht.
+
+
+147
+ Das Bestimmtheitsmass gibt den Anteil der Varianz einer abhängigen Variablen (hier: die
+Veränderung der [logarithmierten] Absatzmenge eines bestimmten Produktes) an, der durch die
+Schätzgleichung erklärt wird (erklärte Streuung). Mit anderen Worten signalisiert das Be-
+stimmtheitsmass die Erklärungskraft eines Modells.
+
+
+22/2010/00038/COO.2101.111.4.153527 112
+B.3.2.2.3.2. Potenzieller Wettbewerb
+
+Markteintrittsbarrieren und Markteintritte
+480. Bei der Beurteilung der Markteintrittsbarrieren ist zwischen den verschiedenen
+relevanten Produktmärkten zu unterscheiden. Die befragten Hersteller von Imaging
+Produkten beurteilen die Markteintrittsbarrieren für die Produktmärkte Digitalkameras
+mit Wechselobjektiv und Objektive als mittel bis hoch, jene für Digitalkameras ohne
+Wechselobjektiv als insgesamt tief bis mittel. Bei Blitzgeräten sind die Meinungen ge-
+teilt: Die Beurteilung der Markteintrittsbarrieren bei Blitzgeräten erstreckt sich von tief
+bis sehr hoch. Überzeugender ist, dass die Eintrittshürden in den Markt für Blitzgeräte
+– gerade auch im Vergleich zu den übrigen relevanten Produktmärkten – eher tief sind
+(vgl. unten). Die Begründungen für diese Einschätzungen lauten wie folgt:
+
+ Digitalkameras mit Wechselobjektiv: Viele Unternehmen z.B. im Bereich der Un-
+ terhaltungselektronik würden bereits über einen wesentlichen Teil des Know-how
+ zur Digitaltechnologie verfügen und könnten daher mit einem mittleren zeitlichen
+ und finanziellen Aufwand das restliche Know-how zur Herstellung von digitalen
+ Spiegelreflexkameras erwerben. Dasselbe gelte grundsätzlich auch für den Er-
+ werb des Kow-how für die Herstellung von spiegellosen Kameras mit Wechselob-
+ jektiv. Die Eintrittsschranken würden stark davon abhängen, aus welcher Bran-
+ che das eintretende Unternehmen stamme und welche Vorkenntnisse, Marktpo-
+ sition usw. es mitbringe. Als konkretes Beispiel eines erfolgreichen Markteintritts
+ im Bereich der digitalen Spiegelreflexkameras sei der Hersteller von Unterhal-
+ tungselektronik Panasonic zu erwähnen. Panasonic habe im Jahr 2008 mit der
+ Herstellung und dem Verkauf von digitalen Spiegelreflexkameras begonnen und
+ erreiche heute beispielsweise in Japan und Grossbritannien bereits einen Markt-
+ anteil von ca. […] %. In der Schweiz beträgt der Marktanteil von Panasonic
+ […] % (vgl. Tabelle 3). Der Hersteller Sony ist im Jahr 2006 mit der Übernahme
+ von Minolta in den Markt eingetreten und hält heute einen Marktanteil von […] %
+ (vgl. Tabelle 3). Im April 2010 habe Sony zudem ihre spiegellose Digitalkamera
+ mit Wechselobjektiv (NEX) eingeführt und mit diesem Produkt in Japan innerhalb
+ von zwei Monaten einen mengenbasierten Marktanteil von ca. […] % erreicht.
+
+ Digitalkameras ohne Wechselobjektiv: Im Vergleich zum Markt für digitale Kame-
+ ras mit Wechselobjektiv seien die Markteintrittsbarrieren im Bereich der digitalen
+ Kompaktkameras ohne Wechselobjektiv tiefer. Insbesondere das für die Herstel-
+ lung von digitalen Kompaktkameras ohne Wechselobjektiv notwendige Know-
+ how sei zeitlich wie auch finanziell einfacher zu erwerben als für Kameras mit
+ Wechselobjektiv. Es ist davon auszugehen, dass die Markteintrittsbarrieren ins-
+ besondere für Hersteller von Digitalkameras mit Wechselobjektiven […] zu über-
+ winden sind. Dies gilt namentlich aufgrund der Möglichkeit, die Produktion oder
+ Teile der Produktion an Erstausrüster auszulagern (vgl. Rz 373). In den letzten
+ Jahren sind denn auch einige Unternehmen in den Markt eingetreten, wie etwa
+ Hyundai, General Electric, Casio, BenQ und Samsung.
+
+ Objektive: Die Entwicklung der Optiktechnologie für die Herstellung von Objekti-
+ ven erfordere relativ viel Zeit. Immerhin bestehe für ein in diesen Markt neu ein-
+ tretendes Unternehmen die Möglichkeit, in der Entwicklung des Objektivs mit
+ Drittanbietern zusammenzuarbeiten. Solche Drittanbieter wie Sigma, Tamron o-
+ der Tokina würden bereits über die notwendige Technologie verfügen und diese
+ neu eintretenden Unternehmen zur Verfügung stellen. Gesamthaft gesehen seien
+ die Markteintrittsbarrieren für ein Unternehmen, welches nicht bereits im Bereich
+ der Optik tätig sei, als „mittel“ zu bewerten.
+
+
+
+22/2010/00038/COO.2101.111.4.153527 113
+ Blitzgeräte: Die Herstellung von Blitzgeräten beruhe auf einer weit weniger auf-
+ wändigen Technologie als etwa die Herstellung von Objektiven. Es bestünde eine
+ Vielzahl von Drittanbietern wie Nissin oder Mertz, die Blitzgeräte für digitale
+ Spiegelreflexkameras von Nikon und anderen Kameraherstellern anbieten wür-
+ den. Gesamthaft betrachtet seien die Markteintrittsschranken im Bereich von
+ Blitzgeräten als […] einzustufen.
+
+481. Nachfolgend wird der Frage nachgegangen, welches Ausmass an Wettbewerbs-
+druck von Parallelimporten von Imaging Produkten aller Herstellermarken – und nicht
+nur von Nikon Imaging Produkten wie bei der Beurteilung des Intrabrand-Wettbewerbs
+– auf die relevanten Produktmärkte ausgeht.
+
+Arbitragemöglichkeit und Parallelimporte
+482. Die Arbitragemöglichkeiten bei verschiedenen Marken von Imaging Produkten
+können basierend auf die Antworten der befragten Hersteller wie folgt beurteilt werden:
+Fujifilm schätzt den Preisunterschied zum Ausland generell auf 20–35 %. Der Gene-
+ralimporteur von Sigma-Produkten […] beurteilt den Preisunterschied zum Ausland für
+Händler von Sigma-Produkten auf 5–10 %, für Endkunden auf 10 %. Olympus schätzt
+die möglichen Arbitragegewinne für Händler und Endkunden auf 3–5 %. Schliesslich
+existieren für Händler von Leica-Produkten laut eigenen Angaben infolge einheitlicher
+Abgabepreise an den Handel keine grossen internationalen Preisunterschiede. End-
+kunden könnten in den USA infolge der Dollarschwäche aktuell rund 15–20 % (exkl.
+Mehrwertsteuer) günstiger einkaufen. Nach Berücksichtigung der Mehrwertsteuer, der
+Bearbeitungsgebühr für die Mehrwertsteuererhebung und des Portos schmelze der
+Preisvorteil auf ca. 5–7 %. Somit bestehen je nach Herstellermarke Unterschiede hin-
+sichtlich der Arbitragemöglichkeiten.
+
+483. Dementsprechend variiert die Parallelimportquote der Schweizer Händler laut
+Schätzungen der befragten Hersteller vom tiefen einstelligen Bereich bis zu beträchtli-
+chen 45 % (vgl. Rz 384). Die Schätzung eines Importanteils von 45 % stammt jedoch
+von einem Hersteller, der seinen Vertrieb in der Schweiz über einen Generalimporteur
+organisiert hat und insofern eine Ausnahme darstellt. Basierend auf diese Zahlen ist
+davon auszugehen, dass von Parallelimporten ein gewisser disziplinierender Effekt
+ausgeht.
+
+Fazit
+484. Die Analyse der Markteintrittsbarrieren und erfolgten Markteintritte in den letzten
+Jahren zeigt, dass die Eintrittsbarrieren je nach Produktmarkt variieren. Generell ist
+davon auszugehen, dass die Hürden, um in den Markt für Digitalkameras ohne Wech-
+selobjektiv und Blitzgeräte einzutreten, tiefer sind als für die Märkte Digitalkameras mit
+Wechselobjektiv und Objektive. In allen Märkten scheinen die Markteintrittsbarrieren
+jedoch zumindest für Unternehmen, die im Bereich Optik bereits aktiv sind, überwind-
+bar zu sein. Ferner geht von Parallelimporten von Imaging Produkten verschiedener
+Hersteller ein gewisser disziplinierender Effekt aus.
+
+B.3.2.2.3.3. Fazit
+
+485. Der auf den relevanten Produktmärkten vorhandene Interbrand-Wettbewerb
+reicht aus, um die Vermutung der Beseitigung wirksamen Wettbewerbs gemäss Art. 5
+Abs. 4 KG – in Kombination mit dem vorhandenen Intrabrand-Wettbewerb – widerle-
+gen zu können.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 114
+B.3.2.3. Zwischenergebnis
+
+486. Die Vermutung der Beseitigung wirksamen Wettbewerbs gemäss Art. 5
+Abs. 4 KG kann durch den vorhandenen Intrabrand- und Interbrand-Wettbewerb für
+sämtliche relevanten Produktmärkte widerlegt werden.
+
+B.3.3. Erhebliche Beeinträchtigung des Wettbewerbs
+487. Wenn die Vermutung der Beseitigung wirksamen Wettbewerbs widerlegt werden
+kann, stellt sich die Frage, ob die Abrede zu einer erheblichen Beeinträchtigung des
+Wettbewerbs im Sinne von Art. 5 Abs. 4 i.V. m. Abs. 1 KG führt.
+
+488. Bei der damit verbundenen Prüfung werden sowohl qualitative wie auch quantita-
+tive Kriterien berücksichtigt. Die Abwägung dieser beiden Kriterien erfolgt in der Regel
+einzelfallweise in einer Gesamtbeurteilung. Dabei kann eine qualitativ schwerwiegende
+Beeinträchtigung trotz quantitativ geringfügiger Auswirkungen erheblich sein. Umge-
+kehrt kann eine Beeinträchtigung mit quantitativ beträchtlichen Auswirkungen den
+Wettbewerb erheblich beeinträchtigen, auch wenn sie qualitativ nicht schwerwiegend
+ist (Ziff. 12 Abs. 1 VertBek).
+
+B.3.3.1. Qualitativ schwerwiegende Beeinträchtigung des Wettbewerbs
+489. Im Fall „Volkswagen Vertriebssystem“ hielt die WEKO fest, dass eine Klausel,
+welche das Verbot von Passivverkäufen in einem selektiven Vertriebssystem bezweckt
+oder bewirkt, eine erhebliche Wettbewerbsbeschränkung im Sinne von Art. 5
+Abs. 1 KG darstellt.148 Im Fall „Système de distribution Citroën“ qualifizierte die WEKO
+zudem verschiedene Elemente eines Vertriebssystems, die in ihrem Zusammenwirken
+eine Beschränkung von Passivverkäufen bezwecken, als vertikale Gebietsabsprache
+und als erhebliche Wettbewerbsbeeinträchtigung.149 Dies entsprach auch Ziff. 3.b der
+damals geltenden Vertikalbekanntmachung 2002.
+
+490. In ihrer jüngeren Praxis zu Art. 5 Abs. 4 KG hielt die WEKO fest, dass Abreden
+zwischen Unternehmen verschiedener Marktstufen über Mindest- oder Festpreise so-
+wie absolute Gebietsschutzabreden im Sinne von Art. 5 Abs. 4 KG vom Gesetzgeber
+als besonders schädlich erachtet wurden und deshalb als qualitativ schwerwiegende
+Beeinträchtigungen des Wettbewerbs zu qualifizieren sind.150 Diese Praxis fand Nie-
+derschlag in Ziff. 12 Abs. 2 VertBek, welche gewisse Abreden als qualitativ schwerwie-
+gend qualifiziert.
+
+491. In casu hat Nikon mit Hilfe von gebietsabschottenden Klauseln (Bezugsverbot
+ausserhalb des Vertragsgebiets im alten Grossistenvertrag, in den „D3S/D3X“- und
+„NPSD“-Verträgen sowie den Exportverboten in die Schweiz in ausländischen Ver-
+triebsverträgen) Parallelimporte behindert (vgl. Rz 252). Diesen vertraglichen Verpflich-
+tungen wurde durch Druckausübung seitens Nikon Ländergesellschaften auf ausländi-
+sche Parallelhändler zusätzlicher Nachdruck verliehen (vgl. Rz 253 ff.). Bei den vorlie-
+genden absoluten Gebietsschutzabreden handelt es sich um qualitativ schwerwiegen-
+de Abreden i.S.v. Ziff. 12 Abs. 2 VertBek.
+
+492. Laut Nikon liegt in casu im Wesentlichen aus folgenden Gründen keine qualitativ
+erhebliche Wettbewerbsbeschränkung vor:
+
+
+148
+ RPW 2000/2, 209 Rz 50, Volkswagen Vertriebssystem.
+149
+ RPW 2002/3, 459 ff. Rz 18 ff., Système de distribution Citroën.
+150
+ Vgl. RPW 2009/2, 153 Rz 75, Sécateurs et cisailles; RPW 2010/1, 103 Rz 307, Gaba.
+
+
+22/2010/00038/COO.2101.111.4.153527 115
+ Die oben zitierte Praxis der WEKO vor Einführung von Art. 5 Abs. 4 KG würde
+ sich auf Beschränkungen von Querlieferungen in selektiven Vertriebssystemen
+ beziehen. Eine geografische Beschränkung des Bezugsgebiets im offenen Ver-
+ trieb – wie er in casu vor Einführung des Selektivvertriebs im September 2009
+ vorgelegen habe – habe jedoch eine wesentlich geringere „abschottende“ Wir-
+ kung als ein Querlieferverbot im Selektivvertrieb. Dies aus folgendem Grund: Die
+ Unterbindung von Querlieferungen zwischen in- und ausländischen zugelasse-
+ nen Händlern führe dazu, dass im Gebiet Schweiz weder zugelassene noch
+ nicht-zugelassene Händler die Möglichkeit hätten, Parallelimporte zu tätigen.
+ Würden hingegen Vertragshändler in einem offenen Vertrieb im Bezug aus dem
+ Ausland eingeschränkt, so hätten daneben hunderte Händler, die in keinem Ver-
+ tragsverhältnis mit dem Hersteller (vorliegend Nikon Schweiz) stehen würden, die
+ Möglichkeit, uneingeschränkt Parallelimporte zu tätigen. Gleichzeitig könnten
+ auch Vertragshändler an Parallelimporte gelangen, indem sie diese von den
+ Händlern ohne Vertrag erwerben würden. Entsprechend dürfe im vorliegenden
+ Fall nicht von einer per se qualitativen Erheblichkeit ausgegangen werden.
+
+ Diese Auffassung werde auch durch den Wortlaut von Ziff. 12 VertBek gestützt:
+ Nach Ziff. 12 Abs. 2 lit. a VertBek 2007 gelte als qualitativ erhebliche Beeinträch-
+ tigung des Wettbewerbs die „geografische Beschränkung des Absatzgebiets“.
+ Auch Ziff. 12 Abs. 2 lit. a VertBek 2010 spreche nur von Verkaufsausschlussab-
+ reden, nicht von Bezugsbeschränkungsabreden. Somit seien letzere Abreden
+ auch nach der Vertikalbekanntmachung 2010 zu Recht nicht als qualitativ erheb-
+ liche Wettbewerbsbeschränkungen zu betrachten.
+493. Diese Vorbringen von Nikon stossen aus folgenden Gründen ins Leere:
+
+ Entgegen den Vorbringen von Nikon konnten auch Schweizer Händler ohne Ver-
+ trag mit Nikon während der Abrededauer nicht uneingeschränkt im Ausland ein-
+ kaufen, weil sich ausländische Händler in einigen Ländern – darunter Deutsch-
+ land als bedeutendste Handelsnation der Schweiz – vertraglich verpflichteten,
+ keine Lieferungen in die Schweiz zu tätigen (vgl. Rz 252). Diesen vertraglichen
+ Verpflichtungen wurde durch die Druckausübung seitens der Nikon Länderge-
+ sellschaften auf ausländische Parallelhändler zusätzlicher Nachdruck verliehen
+ (vgl. Rz 253 ff.). Auch ein Bezug bei ausländischen Händlern, welche nicht zum
+ Vertrieb zugelassen waren und somit in keinem Vertragsverhältnis mit Nikon
+ standen, wurde von Nikon behindert (vgl. Rz 230). Schliesslich ist zwar nicht
+ auszuschliessen, dass Vertragshändler in der Schweiz von inländischen Händ-
+ lern, die nicht in einem Vertragsverhältnis mit Nikon Schweiz standen, inoffizielle
+ Ware kaufen konnten. Allerdings dürfte dies – wenn überhaupt – nur zu einem
+ höheren Preis möglich gewesen sein, da der Parallelimporteur eine Marge für
+ sich einbehält;
+
+ Die von Nikon zitierte ehemaligen Ziff. 12 Abs. 2 lit a VertBek 2007 hielt fest,
+ dass die „direkte oder indirekte Beschränkung des geografischen Absatzgebie-
+ tes“ eine erhebliche Wettbewerbsbeschränkung darstellt. Geografische Bezugs-
+ beschränkungen in inländischen Verträgen führen zu einem indirekten Aus-
+ schluss von Verkäufen in die Schweiz während Exportverbote in Verträgen aus-
+ ländischer Händler zu einem direkten Ausschluss von Verkäufen in die Schweiz
+ führen (vgl. Rz 222). In solchen Fällen lag gemäss Ziff. 12 Abs. 2 lit. a VertBek
+ 2007 eine erhebliche Wettbewerbsbeeinträchtigung aufgrund des Gegenstandes
+ vor. Ziff. 12 Abs. 2 lit. b VertBek 2010 spricht in solchen Fällen von einer qualita-
+ tiv schwerwiegenden Wettbewerbsbeeinträchtigung. Vorliegend stützt sich die
+ WEKO auf die Vertikalbekanntmachung 2010 (vgl. Fn 25).
+
+
+
+22/2010/00038/COO.2101.111.4.153527 116
+B.3.3.2. Quantitative Beeinträchtigung des Wettbewerbs
+
+494. Die Prüfung der quantitativen Beeinträchtigung des Wettbewerbs erfolgt übli-
+cherweise anhand derselben Konzepte wie die Frage, ob die Unzulässigkeitsvermu-
+tung nach Art. 5 Abs. 4 KG widerlegt werden kann;151 d.h. im Fall von Vertikalabreden
+anhand des vorhandenen Intrabrand- und Interbrand-Wettbewerbs. Die Analyse unter-
+scheidet sich jedoch im Mass der Wettbewerbsbeeinträchtigung, welches erreicht sein
+muss, damit eine Abrede den Wettbewerb beseitigt oder (nur) erheblich beeinträchtigt.
+Damit verbunden ist eine unterschiedliche Herangehensweise in der Analyse: Bei der
+Frage der Widerlegung der Unzulässigkeitsvermutung beginnt die Analyse bei der
+Vermutung der Beseitigung wirksamen Wettbewerbs. Davon ausgehend wird unter-
+sucht, ob das Ausmass an vorhandenem Intra- und Interbrand-Wettbewerb ausreicht,
+um die Vermutung zu widerlegen (top-down). Die bisherige Praxis der WEKO zeigt,
+dass die Widerlegung in der Regel gelingt, ausser wenn die Abrede im gesamten rele-
+vanten Markt besteht und somit auch horizontale Auswirkungen zeitigt.152 Bei der Fra-
+ge, ob eine Wettbewerbsbeschränkung den Wettbewerb quantitativ beeinträchtigt, be-
+ginnt die Analyse hingegen ausgehend von einer Situation, in der (hypothetisch) ein
+uneingeschränkter Wettbewerb besteht (bottom-up). Aus dieser Perspektive werden an
+die quantitativen Auswirkungen von qualitativ schwerwiegenden Abreden keine hohen
+Anforderungen gestellt, um die Frage der quantitativen Beeinträchgtigung des Wettbe-
+werbs zu bejahen. Dabei gilt es zu beachten, dass bei qualitativ schwerwiegenden Ab-
+reden im Vergleich zu anderen vertikalen Abreden in quantitativer Hinsicht tiefere An-
+forderungen genügen, um sie als erhebliche Wettbewerbsbeschränkung zu qualifizie-
+ren (Erw.-Gr. IX. VertBek).153
+
+495. Damit gilt für die sanktionierbaren „harten“ vertikalen Abreden dasselbe Prinzip
+wie für „harte“ horizontale Abreden:154 Der Gesetzgeber hat mit der Unterstellung der
+drei „harten“ Typen von horizontalen Abreden unter den Vermutungstatbestand sowie
+unter die Sanktionierbarkeit eine erste Auswahl der schädlichsten Abredetypen getrof-
+fen. Mit der Einführung von Art. 5 Abs. 4 KG im Jahr 2003 hat der Gesetzgeber be-
+wusst die beiden – auch in anderen Jurisdiktionen (vgl. Rz 496) als besonders
+schwerwiegend erachteten – Typen von vertikalen Abreden (Gebietsabschottung und
+Preisbindung zweiter Hand) den drei „harten“ horizontalen Typen gleichgestellt, und
+zwar sowohl bezüglich Vermutung der Wettbewerbsbeseitigung als auch der direkten
+Sanktionierbarkeit.155 Er hat mit anderen Worten die Auswahl der schädlichsten Abre-
+detypen auf fünf ausgedehnt, und zwar als abschliessende Aufzählung, aber ohne Un-
+terscheidung zwischen horizontalen und vertikalen Abreden.
+
+496. Die in quantitativer Hinsicht geringen Anforderungen bei Vorliegen „harter“ (verti-
+kaler und horizonaler) Abreden rechtfertigt sich insbesondere vor dem Hintergrund der
+europäischen Praxis, gemäss welcher die konkreten Auswirkungen einer Kernbe-
+schränkung (vgl. Rz 205) nicht im Einzelnen berücksichtigt werden müssen: Kernbe-
+
+
+151
+ Vgl. RPW 2005/2, 263 Rz 73, Swico/Sens.
+152
+ RPW 2009/2, 143 ff, Sécateurs et cisailles; RPW 2010/1, 65 ff.; Gaba; RPW 2010/4, 649 ff.;
+Hors-Liste Medikamente: Preise von Cialis, Levitra und Viagra.
+153
+ Dieses Prinzip entspricht der Praxis der WEKO, welche im Entscheid Sécateurs et cisailles
+Folgendes festhielt: "En revanche, l’élément quantitatif de notabilité n’est pas atteint lorsque les
+restrictions ne déploient que des effets s’avérant non significatifs sur le marché dans un cas
+donné, voire même pas d’effets du tout, et ne sont pas susceptibles non plus d’entraîner de tels
+effets." RPW 2009/2, 153 Rz 75, Sécateurs et cisailles.
+154
+ RPW 2010/4, 752 Rz 319, Baubeschläge für Fenster und Fenstertüren.
+155
+ Vgl. ROGER ZÄCH, Schweizerisches Kartellrecht, 2 Aufl., 2005, S. 214 Rz 445 f.; BSK-
+KRAUSKOPF/SCHALLER (Fn 67), Art. 5 KG N 8 f.
+
+
+22/2010/00038/COO.2101.111.4.153527 117
+schränkungen werden unabhängig von den Marktanteilen der an der Abrede beteiligten
+Unternehmen nicht von der de minimis-Bekanntmachung156 gedeckt. Dementspre-
+chend brauchen die konkreten Auswirkungen einer abgestimmten Verhaltensweise, die
+eine Verhinderung, Einschränkung oder Verfälschung des Wettbewerbs bezweckt,
+nach ständiger Praxis des EuGH nicht berücksichtigt zu werden.157 Für den wettbe-
+werbswidrigen Zweck reicht es bereits aus, wenn die abgestimmte Verhaltensweise
+das Potenzial hat, negative Auswirkungen auf den Wettbewerb zu entfalten. Demge-
+mäss muss die abgestimmte Verhaltensweise also lediglich konkret geeignet sein, zu
+einer Wettbewerbsbeschränkung zu führen.158 Somit ist in der EU die Einzelfreistellung
+vom Kartellverbot lediglich basierend auf eine Effizienzeinrede der Unternehmen
+(Art. 101 Abs. 3 AEUV) möglich, wobei die Beweislast den Unternehmen obliegt.
+
+497. Im vorligenden Fall zeigte die Wettbewerbsanalyse, dass die Unzulässigkeits-
+vermutung mit dem bestehenden Intra- und Interbrand-Wettbewerb für sämtliche rele-
+vanten Produktmärkte widerlegt werden kann (vgl. Rz 386 ff.). Hinsichtlich des vorhan-
+denen Intrabrand-Wettbewerbs wird in Erinnerung gerufen, dass dieser steigerungsfä-
+hig war (vgl. Rz 458 ff.). Ausdruck hiervon ist die Tatsache, dass Händler Einsparun-
+gen bei den Beschaffungspreisen nicht einmal teilweise an ihre Kunden weitergeben
+mussten.
+
+498. Vor diesem Hintergrund stellt sich die Frage, ob der vorhandene Interbrand-
+Wettbewerb den beeinträchtigten Intrabrand-Wettbewerb kompensieren kann. Das
+Ausmass an Intra- und Interbrand-Wettbewerb wurden unter dem Titel der Unzulässig-
+keitsvermutung anhand verschiedener Kriterien extensiv diskutiert. Eine Wiederholung
+derselben Analyse erübrigt sich an dieser Stelle, da es in Kenntnis und unter Berück-
+sichtigung dieses Resultats um die Frage geht, ob das Ausmass an festgestelltem In-
+tra- und Interbrand-Wettbewerb ausreicht, um die Erheblichkeit der Wettbewerbsbe-
+schränkung zu bejahen oder zu verneinen.
+
+499. Die WEKO hat im Entscheid „Gaba“ Kriterien entwickelt, auf die sie sich zur Be-
+antwortung der Frage, ob das Ausmass an festgestelltem Intra- und Interbrand-
+Wettbewerb ausreicht, um die Erheblichkeit der Wettbewerbsbeschränkung nachzu-
+weisen, in einer Gesamtbetrachtung stützt. Zu diesen Kriterien gehören die Marktstel-
+lung der von der Abrede betroffenen Produkte, die Marktanteile, die Preisunterschiede
+zum Ausland sowie die Auswirkungen der Abrede auf die relevanten Produktmärkte.
+Diese Kriterien werden im Folgenden geprüft.159
+
+Marktstellung von Nikon Imaging Produkten
+500. Die Marke Nikon ist im Markt stark positioniert. Laut Markenstudien von Nikon
+gehört […] Marken im Bereich Digitalkameras im Schweizer Markt. Ein Händler gab in
+
+
+156
+ Bekanntmachung der Kommission über Vereinbarungen von geringer Bedeutung, die den
+Wettbewerb gemäss Artikel 81 Absatz 1 des Vertrags zur Gründung der Europäischen Gemein-
+schaft (nun Artikel 101 Absatz 3 AEUV) nicht spürbar beschränken (de minimis), ABl. C 368
+vom 22.12.2001, 13 ff.
+157
+ Urteil des EuGH vom 13.7.1966 verb. C-56/64 und 58/64 Consten und Grundig, Slg. 1966
+322, 390; Urteil des EuGH vom 21.9.2006 C-105/04 P-Nederlandse Federatieve Vereniging
+voor de Groothandel op Elektrotechnisch Gebied, Slg. 2006 I-8725; Urteil des EuGH vom
+20.11.2008 C-209/07 Beef Industry und Barry Brothers, Slg. 2008 I-8637 Rz. 16; Urteil des
+EuGH vom 4.6.2009 C-8/08 T-Mobile Netherlands, Slg. 2009 I-4529 Rz 29 f.
+158
+ Urteil des EuGH vom 4.6.2009 C-8/08 T-Mobile Netherlands, Slg. 2009 I-4529 Rz. 31; Leitli-
+nien der Kommission zur Anwendung von Artikel 81 Absatz 3 EG (nun Artikel 101 Absatz 3
+AEUV), ABl. 2004 C 101/97, Rz 21.
+159
+ Vgl. RPW 2010/1, 104 Rz 310, Gaba.
+
+
+22/2010/00038/COO.2101.111.4.153527 118
+diesem Zusammenhang an, dass es infolge der Stärke der Marke Nikon schwierig sei,
+Nikon Imaging Produkte ohne „Swiss Garantie“ (vgl. Rz 292) trotz Preisabschlag er-
+folgreich zu verkaufen. Bei schwächeren Konkurrenzmarken würde dies funktionieren.
+Bei Nikon handelt es sich somit um eine wohlbekannte Marke, welche im Markt stark
+positioniert ist.
+
+Marktanteile
+
+501. Die Marktanteile von Nikon liegen auf dem Markt für Digitalkameras ohne Wech-
+selobjektiv zwischen [0–20] %, auf dem Markt für Digitalkameras mit Wechselobjektiv
+zwischen [30–50] %, auf dem Markt für Wechselobjektive zwischen [10–20] % und auf
+dem Markt für Blitzgeräte zwischen [20–40] % (vgl. Tabellen 2–5, Rz 462. Mit diesen
+Marktanteilen gehört Nikon in allen relevanten Produktmärkten zu den […] wichtigsten
+Wettbewerbern.
+
+Preisunterschiede zum Ausland
+502. Eine wichtige Voraussetzung für die Ausübung von Parallelhandel und somit für
+den Anreiz, den Wettbewerb auf einem Markt durch Behinderung von Parallelhandel zu
+beeinträchtigen, sind internationale Preisunterschiede.160 Deshalb wird im Rahmen der
+quantitativen Erheblichkeitsprüfung untersucht, ob während dem Untersuchungszeit-
+raum Preisdifferenzen zum Ausland bestanden, deren Ausnutzung infolge der vorlie-
+genden Gebietsschutzabreden nicht oder nur eingeschränkt möglich war.
+
+503. Die Analyse internationaler Unterschiede der Einstandspreise auf Gross- und
+Retailhandelsebene basierend auf die SAP Rechnungsdaten von Nikon der jeweils fünf
+umsatzstärksten Produkte pro Produktmarkt zeigte, dass die Rechnungspreise an
+Gross- und Retailhandel von Nikon Schweiz im europäischen Durchschnitt liegen.
+Dennoch konnten in allen relevanten Märkten Produkte mit einem Arbitragepotenzial
+identifiziert werden. Dabei ist zu beachten, dass der basierend auf SAP Rechnungsda-
+ten durchgeführte internationale Preisvergleich nicht das gesamte Preisspektrum ab-
+deckt, da es sich um einen Vergleich von Durchschnittspreisen der jeweils fünf um-
+satzstärksten Produkte in jedem Produktmarkt handelt. Wird anstelle des Vergleichs
+der durchschnittlichen Einstandspreise der Gross- und Retailhändler das Arbitragepo-
+tenzial von einzelnen Händlern betrachtet, lassen sich internationale Preisdifferenziale
+von bis zu rund 50 % (vgl. Tabellen 1 Anhang E.1 und E.2, Rz 387 ff.) feststellen. Bei
+solchen Preisdifferenzen haben die Händler mit Sicherheit einen Anreiz, Parallelimpor-
+te zu tätigen. Laut interner E-Mail Korrespondenz von Nikon reichen bereits Preisun-
+terschiede von mehr als 5 %, um Parallelhandel auszulösen (vgl. Rz 400). Die be-
+schlagnahmte E-Mail Korrespondenz zeigt ebenfalls, dass es für Schweizer Händler im
+Untersuchungszeitraum attraktiv war, Produkte aus allen relevanten Produktgruppen
+aus dem Ausland zu beziehen (vgl. Rz 428).
+
+504. Das durchschnittliche Arbitragepotenzial der Schweizer Endkunden im Bereich
+Digitalkameras mit und ohne Wechselobjektiv lag im Beobachtungszeitraum höher als
+jenes der Distributoren und Retailhändler in der Schweiz (vgl. Rz 427). In diesem Zu-
+sammenhang ist darauf hinzuweisen, dass sich die internationalen Preisdifferenzen auf
+Endkundenstufe laut einer im Auftrag von Nikon durch BAKBASEL durchgeführten
+Studie bei Nikon Kameras in den allermeisten Fällen in einem ähnlichen Rahmen be-
+wegen wie die Preisdifferenzen der Kameras anderer Hersteller. In den Jahren 2007
+bis 2009 liessen sich laut der Studie sogar mehr Fälle identifizieren, wo die Preisdiffe-
+renz bei Nikon Kameras kleiner sei als bei den anderen Kameras (vgl. vorne Rz 424 f.).
+
+
+160
+ Nebst Preisunterschieden kann auch die mangelnde Verfügbarkeit von gewissen Produkten
+Anreiz zu Parallelhandel geben (vgl. Rz 513 f.).
+
+
+22/2010/00038/COO.2101.111.4.153527 119
+Im Fokus stehen hier jedoch die Einstandspreise der Händler, da die beanstandeten
+Massnahmen von Nikon auf die Behinderung von Parallelimporten durch Grosshändler
+und Retailer abzielten. Für eine mögliche Behinderung von Direktimporten durch End-
+kunden (etwa durch die Verweigerung von Garantieleistungen, vgl. Rz 442, fünfter
+Punkt) gab es in der Untersuchung keine genügend glaubhaften Anhaltspunkte (vgl.
+Rz 439 und 443, dritter Punkt).
+
+Auswirkungen auf die relevanten Produktmärkte
+
+a) Massnahmen von Nikon zur Behinderung von Parallelimporten
+505. Das oben festgestellte Arbitragepotenzial wurde von Schweizer Händlern teilwei-
+se ausgenutzt (vgl. Rz 452). Der damit verbundene bescheidene Umfang der Importtä-
+tigkeiten der Schweizer Händler (vgl. Rz 430 ff.) weist darauf hin, dass die geografi-
+schen Bezugsbeschränkungen in inländischen Verträgen und die Exportverbote für
+Händler ausserhalb des Vertragsgebiets entgegen den Vorbringen von Nikon nicht tote
+Buchstaben waren. Solche vertraglichen Verpflichtungen haben infolge des Grundsat-
+zes pacta sunt servanda in aller Regel Auswirkungen auf das Import- und Exportver-
+halten der Vertragshändler. Vor diesem Hintergrund ist davon auszugehen, dass die
+Parallelhandelstätigkeiten bedeutender ausgefallen wären und somit zusätzlicher
+Druck auf das Schweizer Preisniveau ausgeübt worden wäre, wenn die Vertriebsver-
+träge von Nikon keine gebietsabschottenden Klauseln enthalten hätten (vgl. Rz 451 f.).
+Diese Vertragsklauseln wurden in casu durch unterstützende Massnahmen begleitet
+(vgl. beschlagnahmte E-Mail Korrespondenz, Rz 270 ff.), welche die Identifikation aus-
+ländischer Parallelhändler über Seriennummern – welche durch Testkäufe oder mit Hil-
+fe von Schweizer Händlern im Markt erhoben wurden – und anschliessende Druckaus-
+übung auf Parallelhändler via anderen Nikon Ländergesellschaften umfassten.
+
+506. Es ist zu bezweifeln, dass ein gewinnmaximierendes Unternehmen die mit diesen
+Massnahmen verbundenen Aufwendungen tätigen würde, wenn sie keinen Effekt auf
+die relevanten Produktmärkte hätten.
+
+b) Reduktion der Einstandspreise nach Aufhebung des absoluten Gebietsschutzes
+507. Im Laufe des Jahres 2009 schienen diese Massnahmen zur Behinderung von
+Parallelhandel nicht mehr befriedigend zu funktionieren. Der Druck aus Parallelhandel-
+stätigkeiten wurde offenbar genügend hoch, dass sich Nikon zu einem Strategiewech-
+sel entschied: Im September 2009 ersetzte Nikon den alten Grossistenvertrag mit der
+problematischen Bezugsbeschränkung durch selektive Vertriebsverträge, welche keine
+solche Beschränkung mehr enthielten. Gleichzeitig führte Nikon die erweiterte „Swiss
+Garantie“ ein, mit welcher Nikon stärker in Konkurrenz zum Parallelhandelskanal treten
+konnte. Zudem nahm Nikon Verhandlungen mit […], einem der vormals wichtigsten Pa-
+rallelimporteure von Nikon Imaging Produkten, auf. Ende 2009 kam es mit […] zu ei-
+nem Vertragsverhältnis. Der Preis hierfür waren preisliche Zugeständnisse an […],
+welche die bestehenden Arbitragepotenziale beseitigten. In der Folge tätigte […] keine
+Parallelimporte von Nikon Imaging Produkten mehr.
+
+508. Ein Rückgang der Verkaufspreise von Nikon an den Schweizer Handel nach
+Herbst 2009 wurde von weiteren Händlern bestätigt: Laut […] seien die Bezugspreise
+im Jahr 2010 im Ausland nicht mehr attraktiv gewesen, da Nikon die Bezugspreise im
+Inland gesenkt habe. Zudem machte […] geltend, dass das vorher vorhandene Arbitra-
+gepotenzial im Jahr 2010 nicht mehr bestanden habe. Als Grund hierfür wurden nicht
+tiefere Bezugspreise in der Schweiz, sondern schlechtere Bezugspreise im Ausland
+genannt. Schliesslich erhielt auch der Grosshändler […] nach Aufnahme ins selektive
+Vertriebssystem im Sommer 2011 so tiefe Einstandspreise, dass sich ein Parallelim-
+port nicht mehr lohnte.
+
+
+22/2010/00038/COO.2101.111.4.153527 120
+509. Die Tatsache, dass die Bezugspreise nach der Strategieänderung gesunken
+sind, lässt darauf schliessen, dass es Nikon vorher gelungen war, den Schweizer Markt
+mit Hilfe der hier beanstandeten Vertragsklauseln (Bezugsverbot ausserhalb des Ver-
+tragsgebiets im alten Grossistenvertrag und in den „D3S/D3X“- und „NPSD“-Verträgen
+sowie den Exportverboten in die Schweiz in ausländischen Vertriebsverträgen) und der
+Druckausübung auf ausländische Parallelhändler abzuschotten. Diese Gebietsabschot-
+tung hat dazu beigetragen, dass die Preise auf einem im Vergleich zum freien Wettbe-
+werb überhöhten Niveau gehalten werden konnten.
+
+c) Strukturbruchanalyse
+
+510. Das Sekretariat verwendete GfK-Daten der durchschnittlichen Endverkaufspreise
+von Kompaktkameras und Digitalkameras mit Wechselobjektiv für die Jahre 2007 bis
+2010, um zu untersuchen, ob in der Periode zwischen September 2009 (nach Einfüh-
+rung des Programms Nikon „Swiss Garantie“ und des Selektivvertriebs) bis Januar
+2010 (nach der Vereinbarung mit […]) ein preislicher Strukturbruch und somit eine
+Strategieänderung von Nikon zu identifizieren waren. Anhand von Strukturbruchtests
+können in einer Datenreihe allfällige ungewöhnliche Veränderungen in der Entwicklung
+der Daten identifiziert werden. Ein Strukturbruch liesse darauf schliessen, dass sich die
+Preise aufgrund gewisser Faktoren – wie etwa der Aufhebung des absoluten Gebiets-
+schutzes im Herbst 2009 – stärker verändert (sprich: reduziert) haben als gemäss dem
+Trend in der Preisentwicklung erwartet würde.
+
+511. Zur Analyse des Vorliegens eines Strukturbruchs führte das Sekretariat den in
+der Fachliteratur161 anerkannten sog. (prognostischen) Chow-Test durch. Im Auftrag
+von Nikon ergänzte BAKBASEL die Chow-Tests mit alternativen Verfahren der Struk-
+turbruchanalyse (Recursive Estimates, Cumulative Sum-Tests). Die verschiedenen
+Testverfahren haben aufgezeigt, dass im Hinblick auf einen vermuteten Strukturbruch
+in der Periode zwischen September 2009 und Januar 2010 keine eindeutigen Schluss-
+folgerungen gezogen werden können. Mit anderen Worten konnte auf Basis der Ge-
+samtheit der Strukturbruchtests die Aussage, wonach Nikon in der Periode zwischen
+September 2009 (nach Einführung des „Swiss Garantie“ Programms und des Selektiv-
+vertriebs) und Januar 2010 (nach der Vereinbarung mit […]) ihre Preisstrategie geän-
+dert und damit das Niveau der Endverkaufspreise beeinflusst hat, nicht gestützt wer-
+den. Somit gelang es nicht, mit Hilfe der Strukturbruchanalyse allfällige Auswirkungen
+der Abreden nachzuweisen.
+
+512. Zur Analyse der Preisdynamik untersuchte BAKBASEL im Auftrag von Nikon zu-
+sätzlich, inwieweit die Preisbewegungen von Nikon Kameras im Zeitraum Januar 2008
+bis Dezember 2010 mit der Preisentwicklung von Konkurrenzprodukten nachvollzogen
+werden können. BAKBASEL kam zum Schluss, dass die Entwicklung der Durch-
+schnittspreise der betrachteten neun Nikon Kameras zu einem grossen Teil mit der all-
+gemeinen Marktentwicklung (sprich: der Preisentwicklung von Konkurrenzprodukten)
+erklärt werden kann. Dies spricht dafür, dass bei den betrachteten neun Kameras
+marktbezogene Faktoren oder die allgemeinen wirtschaftlichen Rahmenbedingungen
+einen hohen Einfluss auf die Preisentwicklung hatten. Dies ist nicht weiter erstaunlich
+und wird in casu auch nicht in Abrede gestellt. Aus dem Resultat darf jedoch nicht ge-
+schlossen werden – und das tut die Studie auch nicht –, dass die vorliegenden Ge-
+bietsschutzabreden keinen Einfluss auf das Preisniveau in der Schweiz gehabt hätten.
+
+d) Künstliche Einschränkung des Angebots in der Schweiz
+
+
+
+161
+ Vgl. dazu z.B. LUDWIG VON AUER, Ökonometrie – Eine Einführung, 4. Aufl., Springer, Ber-
+lin/Heidelberg 2007, 311 ff.
+
+
+22/2010/00038/COO.2101.111.4.153527 121
+513. Gebietsabschottende Klauseln können nicht nur den Wettbewerbsparameter
+Preis beeinflussen, sondern auch die Auswahl an Produkten reduzieren. So können
+solche Klauseln dazu führen, dass Produkte, die in der Schweiz im Gegensatz zum
+Ausland (zeitweilig) nicht im Angebot sind, nicht im Ausland beschafft werden können.
+Dies verringert die Auswahlmöglichkeiten der Schweizer Konsumenten und somit die
+Konsumentenwohlfahrt.
+
+514. Im vorliegenden Fall fanden auch Behinderungen von Parallelhandel statt, der
+vermutlich weniger durch tiefere Preise im Ausland, sondern vielmehr durch mangeln-
+de Verfügbarkeit der Ware in der Schweiz zu begründen war: An der Anhörung vom
+5. September 2011 erklärten Vertreter von Nikon die in Rz 276 zitierte E-Mail – in wel-
+cher Nikon Deutschland von Nikon Schweiz aufgefordert wird, gegen einen deutschen
+Grossisten vorzugehen, der parallel in die Schweiz geliefert hat – mit dem Argument,
+dass es sich hierbei um die damals meistverkaufte Kompaktkamera gehandelt habe,
+bei der Nikon Schweiz zum damaligen Zeitpunkt seit Monaten in Lieferrückstand (sog.
+„Backorder Situation“) an einen wichtigen Kunden gewesen sei. Auch die in Rz 279
+aufgeführte E-Mail, mit welcher Nikon Schweiz intern informierte, dass Nikon Deutsch-
+land die Lieferungen an Digitec blockieren werde, wurde anlässlich der Anhörung mit
+einer „Backorder Situation“ begründet. Solche Massnahmen behinderten den Paralle-
+limport von Produktvarietäten, die Nikon Schweiz (vorübergehend) nicht liefern konnte.
+Damit wurde die Angebotsvielfalt im Schweizer Handel künstlich eingeschränkt oder
+zumindest zeitlich verzögert.
+
+e) Zwischenfazit
+515. Im Laufe des Jahres 2009 schienen die Massnahmen zur Behinderung von Pa-
+rallelhandel (gebietsabschottende Klauseln und Druckausübung auf Parallelhändler in-
+nerhalb und ausserhalb des Vertragsgebiets) nicht mehr befriedigend zu funktionieren.
+Offenbar wurde der Druck aus Parallelhandelstätigkeiten genügend hoch, dass sich
+Nikon zu einem Strategiewechsel entschied: Im September 2009 ersetzte Nikon die al-
+ten Grossistenverträge mit der problematischen Bezugsbeschränkung durch selektive
+Vertriebsverträge, welche keine solche Beschränkung mehr enthielten. Gleichzeitig
+führte Nikon die erweiterte „Swiss Garantie“ ein, mit welcher Nikon stärker in Konkur-
+renz zum Parallelhandelskanal treten konnte. Zudem nahm Nikon Verhandlungen mit
+[…], einem der vormals wichtigsten Parallelimporteure von Nikon Imaging Produkten,
+auf. Ende 2009 kam es mit […] zu einem Vertragsverhältnis. Hierfür musste Nikon
+Schweiz die Bezugspreise senken. In der Folge verzichtete […] – wie auch andere
+Händler – mangels Arbitragepotenzial auf Parallelhandel.
+516. Die Tatsache, dass die Bezugspreise nach der Strategieänderung gesunken
+sind, lässt darauf schliessen, dass es Nikon vorher gelungen war, den Schweizer Markt
+mit Hilfe der hier beanstandeten Vertragsklauseln (Bezugsverbot ausserhalb des Ver-
+tragsgebiets im alten Grossistenvertrag und in den „D3S/D3X“- und „NPSD“-Verträgen
+sowie den Exportverboten in die Schweiz in ausländischen Vertriebsverträgen) und der
+Druckausübung auf ausländische Parallelhändler abzuschotten. Diese Gebietsabschot-
+tung hat dazu beigetragen, dass die Preise auf einem im Vergleich zum freien Wettbe-
+werb überhöhten Niveau gehalten und die Angebotsvielfalt künstlich beschränkt wur-
+den. Somit ist erstellt, dass die Abreden zumindest im Zeitraum Frühjahr 2008 bis
+Herbst 2009 Auswirkungen auf die relevanten Märkte zeitigten.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 122
+Fazit
+
+517. Gestützt auf die Ergebnisse der Analyse des vorhandenen Intrabrand- und Inter-
+brandwettbewerbs sowie basierend auf einer Gesamtschau der dargelegten Kriterien
+kommt die WEKO zum Schluss, dass die absoluten Gebietsschutzabreden auf den re-
+levanten Produktmärkten auch quantitative Auswirkungen zeitigten.
+
+B.3.3.3. Fazit
+
+518. Die gebietsabschottenden Vertragsklauseln (die Bezugsbeschränkung im alten
+Grossistenvertrag und in den „D3S/D3X“- und „NPSD“-Verträgen sowie die Exportver-
+bote in den ausländischen Vertriebsverträgen) beeinträchtigen den Wettbewerb auf
+den relevanten Produktmärkten qualitativ schwerwiegend. Bei solchen Abreden genü-
+gen in quantitativer Hinsicht tiefere Anforderungen, um sie als erhebliche Wettbe-
+werbsbeschränkung zu qualifizieren (Erw.-Gr. IX und Ziff. 12 Abs. 1 VertBek). Diese
+Anforderungen werden mit den oben festgestellten quantitativen Auswirkungen der Ab-
+reden auf den relevanten Produktmärkten erfüllt.
+519. Basierend auf einer Gesamtbeurteilung der dargelegten qualitativen und quanti-
+tativen Kriterien kommt die WEKO zum Schluss, dass die absoluten Gebietsschutzab-
+reden zwischen Nikon und ihren Abredepartnern im Zeitraum Frühjahr 2008 bis Herbst
+2009 zu einer erheblichen Beeinträchtigung des Wettbewerbs im Sinne von Art. 5
+Abs. 4 i.V. m. Abs. 1 KG führten.
+
+B.3.4. Rechtfertigung aus Effizienzgründen
+520. Liegt eine den Wettbewerb erheblich beeinträchtigende Abrede vor, ist zu prüfen,
+ob diese gemäss Art. 5 Abs. 2 KG gerechtfertigt ist. Laut Art. 5 Abs. 2 KG sind Wett-
+bewerbsabreden durch Gründe der wirtschaftlichen Effizienz gerechtfertigt, wenn sie:
+ a. notwendig sind, um die Herstellungs- oder Vertriebskosten zu senken, Produkte
+ oder Produktionsverfahren zu verbessern, die Forschung oder die Verbreitung
+ von technischem oder beruflichem Wissen zu fördern oder um Ressourcen ra-
+ tioneller zu nutzen; und
+ b. den beteiligten Unternehmen in keinem Fall Möglichkeiten eröffnen, wirksamen
+ Wettbewerb zu beseitigen.
+521. Im Falle einer absoluten Gebietsschutzabrede gilt es im Einzelfall zu prüfen, ob
+ein Rechtfertigungsgrund vorliegt (Ziff. 16 Abs. 3 VertBek). Ein möglicher Rechtferti-
+gungsgrund für einen temporären absoluten Gebietsschutz könnte ein zeitlich begrenz-
+ter Schutz von Investitionen für die Erschliessung neuer räumlicher Märkte oder neuer
+Produktmärkte darstellen (Ziff. 16 Abs. 4 lit. a VertBek).162 Es handelt sich hierbei um
+einen Sonderfall eines Trittbrettfahrerverhaltens von Vertriebshändlern.163
+522. Die Intuition dieses Rechtfertigungsgrundes ist den europäischen Vertikal-
+Leitlinien zu entnehmen:
+
+
+
+162
+ Vgl. Urteil des EuGH vom 30.6.1966 Rs. 56/65 Maschinenbau Ulm, Slg. 1966, 282; Urteil
+des EuGH vom 9.7.1969 Rs. 5/69 Voelck / Verweacke, Slg. 1969, 295.
+163
+ Vgl. Vertikal-Leitlinien (Fn 66), Rz 107 lit. b; MASSIMO MOTTA, Competition Policy – Theory
+and Practice, Cambridge University Press, New York 2004, 313 ff.; LESTER G. TELSER, Why
+Should Manufacturers Want Fair Trade?, Journal of Law and Economics, 1960, Vol. 3, 86-105;
+BENJAMIN KLEIN, KEVIN M. MURPHY, Vertical Restraints as Contract Enforcement Mechanisms,
+Journal of Law and Economics, 1988, Vol. 31(2), 265-297.
+
+
+22/2010/00038/COO.2101.111.4.153527 123
+ „Ein Händler, der als Erster eine neue Marke verkauft oder als Erster ei-
+ ne bestehende Marke auf einem neuen Markt verkauft, so dass von ei-
+ nem echten Eintritt in den relevanten Markt gesprochen werden kann,
+ muss möglicherweise beträchtliche Mittel aufwenden, wenn für das be-
+ treffende Produkt im Allgemeinen oder für das betreffende Produkt von
+ diesem Hersteller vorher keine Nachfrage bestand. Diese Aufwendun-
+ gen gehen häufig verloren, so dass es durchaus möglich ist, dass ein
+ Händler die Vertriebsvereinbarung nicht schliessen würde, wenn er nicht
+ für einen bestimmten Zeitraum vor (aktiven und) passiven Verkäufen
+ durch andere Händler in sein Gebiet oder an seine Kundengruppe ge-
+ schützt wird.“164
+
+523. Wenn der Händler bedeutende Investitionen tätigen muss, um den neuen Markt
+zu erschliessen, darf in der EU in der Regel ein absoluter Gebietsschutz für die Dauer
+von zwei Jahren implementiert werden.165
+524. Bei den Produktneuheiten, die Nikon im untersuchungsrelevanten Zeitraum auf
+den Markt gebracht hat, kann nicht von einem „echten Eintritt“ in den relevanten Markt
+gesprochen werden, welcher einen temporären absoluten Gebietsschutz rechtfertigen
+könnte: Erstens ist die Marke Nikon in der Schweiz seit vielen Jahren etabliert (vgl.
+Rz 500). Mit anderen Worten ist Nikon weder eine neue Marke noch eine Marke, die im
+untersuchungsrelevanten Zeitraum neu in der Schweiz verkauft wurde. Zweitens han-
+delt es sich bei den Neuheiten um neue Produktvarietäten in Produktgruppen, welche
+Schweizer Händler von Nikon Imaging Produkten ohnehin schon im Sortiment führten.
+In solchen Fällen müssen vom Händler für die Markterschliessung keine schutzwürdi-
+gen Investitionen getätigt werden. Schweizer Händler würden sich aufgrund der Not-
+wendigkeit solcher Investitionen denn auch kaum weigern, mit Nikon eine Vertriebs-
+vereinbarung für das neue Produkt zu schliessen, wenn Nikon ihnen hierfür keinen
+temporären absoluten Gebietsschutz gewähren würde. Drittens ist Nikon in der
+Schweiz durch eine konzerneigene Tochtergesellschaft vertreten, welche den Markt
+bei Produktneuheiten entsprechend bearbeiten kann. In diesem Fall sind schutzwürdi-
+ge Investitionen weniger wahrscheinlich als in einem Vertriebssystem, in welchem ein
+unabhängiger Generalimporteur die Markteinführung übernimmt.
+
+525. Nebst dem zeitlich begrenzten Schutz von Investitionen für die Erschliessung
+neuer räumlicher Märkte oder neuer Produktmärkte sind für den vorliegenden absolu-
+ten Gebietsschutz keine weiteren Rechtfertigungsgründe nach Art. 5 Abs. 2 KG ersicht-
+lich. Somit kann der absolute Gebietsschutz, den die Abredepartner auf den Produkt-
+märkten Digitalkameras ohne Wechselobjektiv, Digitalkameras mit Wechselobjektiv,
+Wechselobjektive und Blitzgeräten umgesetzt haben, nicht gerechtfertigt werden.
+
+B.3.5. Ergebnis
+526. Die WEKO kommt gestützt auf die vorstehenden Erwägungen zum folgenden Er-
+gebnis:
+
+ Die folgenden Vertriebsverträge von Nikon AG resp. der Nikon Gruppe führen
+ resp. führten zum Ausschluss von passiven Verkäufen durch ausländische Ver-
+ triebspartner (mit Ausnahme jener in Liechtenstein) in die Schweiz und stellen
+ resp. stellten somit unzulässige Gebietsabreden gemäss Art. 5 Abs. 4 i.V.m.
+ Abs. 1 KG dar:
+
+
+164
+ Vertikal-Leitlinien (Fn 66), Rz 61.
+165
+ Vgl. Vertikal-Leitlinien (Fn 66), Rz 61.
+
+
+22/2010/00038/COO.2101.111.4.153527 124
+ o Händlerverträge Distributor zwischen Nikon AG und den Grossisten […] (Ver-
+ träge im Herbst 2009 aufgehoben);
+
+ o Vereinbarungen für den selektiven Vertrieb der digitalen Spiegelreflexkameras
+ D3S sowie D3X in der Schweiz zwischen Nikon AG und diversen Einzelhänd-
+ lern in der Schweiz;
+ o Händlerverträge Nikon Professional Dealer zwischen Nikon AG und diversen
+ Einzelhändlern in der Schweiz;
+
+ o Händlerverträge Grosshandel sowie Händlerverträge Einzelhandel zwischen
+ den Nikon Ländergesellschaften in Deutschland, Österreich, Slowenien und
+ Ungarn und diversen Gross- und Einzelhändlern in diesen Ländern;
+
+ o „Retail Dealer Sales Agreements“ sowie „Internet Dealer Sales Agreements“
+ zwischen Nikon Inc. (USA) und diversen Händlern in den USA;
+
+ o „Distributor’s Agreements“ zwischen Nikon UK limited (Grossbritannien) und
+ diversen Händlern in Grossbritannien;
+ o Distributorship Agreement zwischen Nikon Europe B.V. (Niederlande) und
+ […];
+
+ o Resale Agreements zwischen Nikon Polska Sp. Z O.O (Polen) und diversen
+ Händlern in Polen;
+
+ Die gesetzlich statuierte Vermutung der Beseitigung wirksamen Wettbewerbs
+ kann durch den vorhandenen Intrabrand- und Interbrand-Wettbewerb auf sämtli-
+ chen relevanten Produktmärkten widerlegt werden;
+
+ Die absoluten Gebietsschutzabreden beeinträchtigen den Wettbewerb i.S.v.
+ Art. 5 Abs. 1 KG auf allen relevanten Produktmärkten erheblich;
+
+ Gründe der wirtschaftlichen Effizienz nach Art. 5 Abs. 2 KG liegen nicht vor.
+
+Es handelt sich somit um unzulässige Wettbewerbsabreden gemäss Art. 5 Abs. 4
+i.V.m. Abs. 1 KG.
+
+527. Es ist an der Nikon AG resp. der Nikon Gruppe, die zum Zeitpunkt des vorliegen-
+den Entscheids immer noch geltenden vorgenannten Vertriebsverträge im Sinne der
+Erwägungen mit dem schweizerischen Kartellgesetz in Übereinstimmung zu bringen.
+Es liegt letztlich in ihrer eigenen Verantwortung, die Konsequenzen einer Beibehaltung
+der unzulässigen Vertragsklauseln zu tragen. Inskünftige Widerhandlungen gegen das
+Kartellgesetz sind ausdrücklich mit einer Sanktion gemäss Art. 49a Abs. 1 KG bedroht.
+
+B.4. Sanktionierung
+
+B.4.1. Allgemeine Ausführungen
+
+B.4.1.1. Einleitung
+528. Aufgrund ihrer ratio legis sollen die in Art. 49a KG vorgesehenen direkten Sankti-
+onen die wirksame Durchsetzung der Wettbewerbsvorschriften sicherstellen und mit-
+tels ihrer Präventivwirkung Wettbewerbsverstösse verhindern. Direktsanktionen kön-
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 125
+nen nur mit einer Endverfügung verhängt werden, welche die Unzulässigkeit der fragli-
+chen Wettbewerbsbeschränkung feststellt.166
+
+529. Die Belastung der Verfahrensparteien mit einer Sanktion setzt voraus, dass sie
+den Tatbestand von Art. 49a Abs. 1 KG erfüllt haben.
+
+B.4.1.2. Tatbestandsmerkmale von Art. 49a Abs. 1 KG
+
+B.4.1.2.1. Unternehmen
+
+530. Die Wettbewerbsbeschränkungen, auf die Art. 49a Abs. 1 KG Bezug nimmt,
+müssen von einem Unternehmen ausgehen. Für den Unternehmensbegriff wird dabei
+auf Art. 2 Abs. 1 und 1bis KG abgestellt.167 Nikon und ihre in- und ausländischen Ab-
+redepartner sind als solche Unternehmen i.S. des Kartellgesetzes zu qualifizieren (vgl.
+Rz 72).
+
+B.4.1.2.2. Unzulässige Verhaltensweise
+
+531. Art. 49a Abs. 1 KG sieht entsprechend der verfassungsrechtlichen Ausgangslage
+in erster Linie Massnahmen gegen harte Kartelle im Sinne horizontaler oder vertikaler
+Absprachen gemäss Art. 5 Abs. 3 und 4 KG vor. Es handelt sich dabei um Wettbe-
+werbsverstösse, welche sich für Konsumenten, Unternehmen und die Gesamtwirt-
+schaft besonders schädlich auswirken und aus diesem Grund bereits mit der gesetzlich
+vermuteten Beseitigung wirksamen Wettbewerbs eine Sonderbehandlung erfahren.168
+Gemäss Art. 49a Abs. 1 KG wird ein Unternehmen, das an einer unzulässigen Abrede
+nach Art. 5 Abs. 3 bzw. 4 KG beteiligt ist oder sich nach Art. 7 KG unzulässig verhält,
+mit einer Sanktion belastet. Im Zusammenhang mit dem ersten in Art. 49a Abs. 1 KG
+erwähnten Tatbestand – der Beteiligung an Abreden – sind für die Sanktionierung zwei
+Voraussetzungen zu erfüllen:169 (1) Die Beteiligung an einer Abrede über Preise, Men-
+gen oder die Aufteilung von Märkten nach Art. 5 Abs. 3 oder 4 KG und (2) die Unzuläs-
+sigkeit dieser Abrede.
+
+532. Die vorangehende Prüfung hat ergeben, dass die vertraglichen Bezugsbeschrän-
+kungen in den Vertriebsverträgen von Nikon mit ihren schweizerischen Vertragspart-
+nern, die expliziten Exportverbote in den Vertriebsverträgen in Deutschland, Öster-
+reich, Ungarn, Slowenien und den USA sowie die impliziten Exportverbote in den Ver-
+triebsverträgen von Grossbritannien, Polen und Griechenland im Zusammenhang mit
+weiteren Massnahmen (Rz 252) – je einzeln für sich und im Bündel – den Vermutungs-
+tatbestand von Art. 5 Abs. 4 KG erfüllen. Die Prüfung der Auswirkungen der genann-
+ten Abreden hat ergeben, dass die Vermutung der Beseitigung wirksamen Wettbe-
+werbs widerlegt werden kann, der Wettbewerb auf den relevanten Märkten aber erheb-
+lich beeinträchtigt wurde. Folglich handelt es sich bei den genannten Abreden um un-
+zulässige Wettbewerbsabreden i.S.v. Art. 5 Abs. 4 i.V.m. Abs. 1 KG. Damit sind die
+beiden vorgenannten Voraussetzungen für die Sanktionierung erfüllt.
+
+
+166
+ Botschaft KG 2003 (Fn 23), 2033 ff.
+167
+ Vgl. anstelle vieler JÖRG BORER, Kommentar zum schweizerischen Kartellgesetz, 3. Aufl.,
+Zürich 2011, Art. 49a N 6, und PATRIK DUCREY, in: Kommentar zum schweizerischen Kartellge-
+setz, Homburger/Schmidhauser/Hoffet/Ducrey (Hrsg.), Zürich 1997, Art. 50 N 8.
+168
+ Vgl. dazu Botschaft KG 2003 (Fn 23), 2036 f.
+169
+ Vgl. ROGER ZÄCH, Die sanktionsbedrohten Verhaltensweisen nach Art. 49a Abs. 1 KG, ins-
+besondere der neue Vermutungstatbestand für Vertikalabreden, in: Stoffel/Zäch (Hrsg.), Kartell-
+gesetzrevision 2003, Neuerungen und Folgen, Zürich/Basel/Genf 2004, 34.
+
+
+22/2010/00038/COO.2101.111.4.153527 126
+533. Nikon ist der Auffassung, dass Vertikalabreden, welche von Art. 5 Abs. 4 KG er-
+fasst werden, nur dann direkt sanktioniert werden können, wenn die Beseitigungsver-
+mutung gemäss Art. 5 Abs. 4 KG nicht widerlegt werden kann.
+
+534. Die Frage, ob Abreden i.S.v. Art. 5 Abs. 4 KG auch dann sanktioniert werden
+können, wenn die gesetzliche Vermutung der Beseitigung wirksamen Wettbewerbs wi-
+derlegt werden kann, ist umstritten.170 Gemäss Praxis der WEKO ist die Frage zu beja-
+hen: Weil Art. 49a Abs. 1 KG keine Präzisierung enthält, dass sich die Unzulässigkeit
+aus dem Grad der Beeinträchtigung ergibt, ist die Sanktionierbarkeit unabhängig davon
+gegeben, ob der Wettbewerb beseitigt oder „nur“ erheblich beeinträchtigt wird.171 Das
+Bundesgericht hielt fest, dass mit dem Erlass von Art. 49a KG die Möglichkeit direkter
+Sanktionen für die schädlichsten horizontalen und vertikalen wettbewerbsbeschrän-
+kenden Abreden geschaffen wurde.172 Damit werden sowohl jene Abreden i.S.v. Art. 5
+Abs. 4 KG erfasst, die den Wettbewerb vollständig beseitigen, als auch jene, die ihn
+erheblich beeinträchtigen. Zudem ergibt sich auch aus der Entstehungsgeschichte,
+dass das Umstossen der Gesetzesvermutung gemäss Art. 5 Abs. 3 und 4 KG nicht für
+die Sanktionsbefreiung genügt.173 Dafür muss eine Wettbewerbsabrede überdies kar-
+tellrechtlich zulässig sein, also entweder keine erhebliche Wettbewerbsbeschränkung
+herbeiführen oder sich durch Gründe der wirtschaftlichen Effizienz rechtfertigen las-
+sen.174
+
+B.4.1.2.3. Vorwerfbarkeit
+535. Die Besonderheit der Verwaltungssanktionen liegt darin, dass sie gegen die be-
+troffenen Unternehmen selber und typischerweise ohne Nachweis eines strafrechtlich
+vorsätzlichen Handelns der verantwortlichen natürlichen Personen verhängt werden
+können. Die Botschaft zum revidierten KG hält explizit fest, dass die Verwaltungssank-
+tion (im Gegensatz zur Strafsanktion) kein Verschulden voraussetzt.175 Demenstpre-
+chend vertrat die WEKO früher die Auffassung, dass für die Verhängung einer Sankti-
+on nach Art. 50 ff. KG grundsätzlich kein Verschulden nachzuweisen ist.176
+
+536. Nikon macht geltend, dass die Unschuldsvermutung und das Schuldprinzip ge-
+mäss Art. 6 Abs. 2 EMRK auf direkte Sanktionen gemäss Art. 49a Abs. 1 KG Anwen-
+dung finden. Es wird vorgebracht, die Bewirkung von absolutem Gebietsschutz gemäss
+Art. 5 Abs. 4 KG könne sowohl vorsätzlich als auch fahrlässig begangen werden. Der
+Sorgfaltsmassstab für eine fahrlässige Verletzung einer kartellrechtlichen Bestimmung
+
+
+170
+ CHRISTOPH TAGMANN/BEAT ZIRLICK, in: Basler Kommentar, Kartellgesetz, Amstutz/Reinert
+(Hrsg.), 2010, Art. 49a KG N 6, m.w.N.
+171
+ Vgl. RPW 2009/2, 155 Rz 86, Sécateurs et cisailles, RPW 2010/1, 108 Rz 332 Gaba.
+172
+ BGE 135 II 60, S. 63, E. 2.1.
+173
+ Botschaft KG 2003 (Fn 23), 2037.
+174
+ Vgl. PETER REINERT, in: Baker & McKenzie (Hrsg.), Kartellgesetz, Bern 2007, Art. 49a Rz 8.
+175
+ Botschaft KG 2003 (Fn 23), 2034. Schon die Botschaft KG 1994 (Fn 16) hielt entsprechend
+fest, dass die Sanktionierung gerechtfertigt ist, „weil die Unternehmen in der Lage sein sollten
+und auch verpflichtet sind, sich so zu organisieren, dass rechtsverbindlich festgelegte Pflichten
+von ihnen erfüllt werden“ (Botschaft KG 1994, 153).
+176
+ Vgl. etwa Entscheide der WEKO: RPW 2001/1, 152 Rz 35, BNP/Paribas; RPW 2000/2,
+262 f. Rz 30, X/C-AG und D-AG, und RPW 1998/4, 617 f. Rz 21 ff., Curti & Co. AG; zustimmend
+ROGER ZÄCH/ANDREAS WICKY, Die Bemessung von Verwaltungssanktionen im Zusammenhang
+mit Unternehmenszusammenschlüssen nach schweizerischem Kartellrecht (Art. 51 KG), in:
+Wirtschaft und Strafrecht, FS für N. Schmid, Zürich 2001, 585 ff., insb. 589, sowie Phi-
+lipp ZURKINDEN, Sanktionen, in: von Büren/David (Hrsg.), Schweizerisches Immaterialgüter- und
+Wettbewerbsrecht (SIWR), Band V/2 (Kartellrecht), Basel/Genf/München 2000, 515 ff.
+
+
+22/2010/00038/COO.2101.111.4.153527 127
+sei dabei entgegen der Auffasssung der WEKO nicht ein objektiver, sondern ein sub-
+jektiv-individueller. Weiter ergebe sich aus dem Schuldprinzip, dass sich eine Partei in
+einem Rechtsirrtum befinden könne.
+
+537. In der Lehre sind die Meinungen geteilt: Zum einen wird die Ansicht vertreten,
+dass Sanktionen nach Art. 49a Abs. 1 KG wegen ihrer rein verwaltungsrechtlichen Na-
+tur kein Verschulden voraussetzen. Auf der anderen Seite wird argumentiert, aufgrund
+des strafrechtlichen Charakters der Verwaltungssanktionen würden diese ein Ver-
+schulden voraussetzen.177
+
+538. In ihrer bisherigen Praxis zu Art. 49a Abs. 1 KG178 nimmt die WEKO Bezug auf
+die Rechtsprechung der ehemaligen REKO/WEF (zu Art. 51 KG), welche den Schluss
+nahe legt, dass eine Sanktion nicht ausschliesslich auf objektive Kriterien gestützt wer-
+den darf, sondern dass auch subjektive Elemente zu berücksichtigen sind.179 Die
+REKO/WEF hat die Frage der Notwendigkeit des Verschuldens in diesem Entscheid
+jedoch offengelassen. Dennoch prüfte die WEKO den Aspekt in der Vergangenheit un-
+ter dem Titel der Vorwerfbarkeit.180 Gemäss Praxis der WEKO liegt Vorwefbarkeit dann
+vor, wenn der Täter wissentlich handelt oder Handlungen unterlässt, welche man von
+einer vernünftigen, mit den notwendigen Fachkenntnissen ausgestatteten Person in ei-
+ner entsprechenden Situation hätte erwarten können.181
+
+539. Vorliegend hat die Geschäftsleitung von Nikon Imaging Schweiz folgende Mass-
+nahmen ergriffen, um Parallelimporte von Nikon Imaging Produkten in die Schweiz zu
+behindern:
+
+ Im alten Grossistenvertrag (vgl. Rz 99), in den Vertriebsverträgen D3S und D3X
+ (vgl. Rz 107) und im „NPSD“-Vertrag (vgl. Rz 112) waren bzw. sind Bezugsbe-
+ schränkungen enthalten, mit denen (passive) Verkäufe in die Schweiz ausge-
+ schlossen wurden bzw. werden. Beweise, dass Parallelimporte in die Schweiz ef-
+ fektiv behindert wurden, sind in der bei Nikon beschlagnahmten E-Mail Korres-
+ pondenz enthalten (Rz 253 ff., insb. 262, 279, 280). Die vertraglichen Bezugs-
+ verbote stellen unzulässige Abreden i.S.v. Art. 5 Abs. 4 KG dar.
+
+ In den Vertriebsverträgen der Nikon Gruppe in Deutschland (Rz 119), Österreich
+ (Rz 124), Slowenien (Rz 124), Ungarn (Rz 124) und den USA (Rz 143) befinden
+ sich explizite Exportverbote, die (passive) Verkäufe in die Schweiz ausschliessen
+ (vgl. Rz 116 ff. und 147). In den Vertriebsverträgen der Nikon Gruppe in Gross-
+ britannien (Rz 126), Griechenland (Rz 134) und Polen (Rz 130) befinden sich
+ Vertragsklausen, die in Kombination mit weiteren Massnahmen gegen Parallel-
+ exporte in die Schweiz als Exportverbot in die Schweiz verstanden werden kön-
+ nen (implizites Exportverbot, vgl. Rz 116 ff. und 147). Die Geschäftsleitung von
+ Nikon Imaging Schweiz hat Unternehmen der Nikon Gruppe im Ausland beige-
+ zogen, um Parallelexporteure von weiteren Verkäufen in die Schweiz abzuhalten
+ (siehe oben Rz 270 ff. insb. Rz 272 a und b, 273, 283 und 286). Die expliziten
+ Exportverbote in ausländischen Vertriebsverträgen der Nikon Gruppe stellen für
+ sich alleine unzulässige Abreden i.S.v. Art. 5 Abs. 4 KG dar. Die impliziten Ex-
+
+177
+ BSK KG-TAGMANN/ZIRLICK (Fn 170), Art. 49a KG N 10, m.w.N.
+178
+ Vgl. z.B. RPW 2010/1, 65 Rz 334, Gaba; RPW 2009/3, 196 Rz 105 ff., Elektroinstallationsbe-
+triebe Bern; RPW 2007/2, 241 Rz 393, Terminierung Mobilfunk.
+179
+ Vgl. den Entscheid REKO/WEF in RPW 2002/2, 386 ff., insb. 393 ff., 398 ff., Rhône-Pou-
+lenc/Merck.
+180
+ Vgl. z.B. RPW 2010/1, 65 Rz 333, Gaba; RPW 2009/3, 196 Rz 105 ff., Elektroinstallationsbe-
+triebe Bern; RPW 2007/2, 241 Rz 391, Terminierung Mobilfunk.
+181
+ RPW 2010/1, 65 Rz 334, Gaba.
+
+
+22/2010/00038/COO.2101.111.4.153527 128
+ portverbote in ausländischen Vertriebsverträgen der Nikon Gruppe sind im Zu-
+ sammenhang mit weiteren durch die Geschäftsleitung von Nikon Imaging
+ Schweiz ergriffenen Massnahmen gegen Parallelexporte in die Schweiz ebenfalls
+ als unzulässige Abreden i.S.v. Art. 5 Abs. 4 KG zu qualifizieren.
+
+540. In Bezug auf die Frage, ob sich die Geschäftsleitung von Nikon Imaging Schweiz
+bewusst war, dass dieses Verhalten den Tatbestand von Art. 5 Abs. 4 KG erfüllt, ist
+zunächst Folgendes festzuhalten: Nikon ist ein weltweit tätiges Unternehmen. Daher
+muss der Geschäftsleitung von Nikon Imaging Schweiz die wettbewerbsrechtliche
+Problematik der Behinderung von Parallelimporten bekannt gewesen sein, zumal eine
+Behinderung von Parallelimporten namentlich auch nach der EU-Gesetzgebung unzu-
+lässig ist. Auf jeden Fall darf von einem Unternehmen in der Grösse von Nikon erwartet
+werden, dass es sich in umfassender Weise über die Tragweite seines Handelns in-
+formiert und namentlich wettbewerbsrechtliche Risiken abklärt bzw. abklären lässt.
+
+541. Vorliegend geht aus den bei Nikon beschlagnahmten Akten hervor, dass sich die
+Geschäftsleitung von Nikon Schweiz mit der kartellrechtlichen Problematik der Behin-
+derung von Parallelimporten auseinandergesetzt hat. Aus anlässlich der Hausdurchsu-
+chung beschlagnahmten Dokumenten geht hervor, dass […] Nikon zum Thema Paral-
+lelimporte und Kartellrecht Rechtsberatung eingeholt hat. Das entsprechende rechts-
+anwaltliche Memorandum vom 6. Oktober 2008 ging allerdings in Bezug auf die vorlie-
+gende kartellrechtliche Problematik nicht in der notwendigen Tiefe ein. Der Gutachter
+hält zunächst fest: „Damit ein Vorgehen gegen Parallelimporte als kartellrechtswidrig
+qualifiziert werden kann, müssen im Einzelfall die Voraussetzungen von Art. 5 oder Art.
+7 KG erfüllt sein.“ Anschliessend zitiert der Gutachter Art. 5 Abs. 4 KG und begnügt
+sich mit folgender Einschätzung: „Sofern der Patentinhaber selber die Produkte im In-
+land wie auch im Land der Inverkehrsetzung der geschützten Produkte vertreibt, greift
+diese Bestimmung nicht, da sie sich nur auf (vertikale) Abreden zwischen Unterneh-
+men verschiedener Marktstufen bezieht.“ Weiter wird nicht auf mögliche Probleme im
+Zusammenhang mit Art. 5 Abs. 4 KG eingegangen. Insbesondere werden die Ver-
+triebsverträge von Nikon nicht auf unzulässige Klauseln hin untersucht. Daraus dürfte
+selbst für den Laien ersichtlich sein, dass sich das Gutachten nicht in der erforderlichen
+Tiefe mit der Problematik von Parallelimportbeschränkungen im Zusammenhang mit
+Art. 5 Abs. 4 KG befasst hat. Der Gutachter schreibt denn auch: „Aufgrund meines
+heutigen Wissensstandes nehme ich an, dass der Einrede der Kartellrechtswidrigkeit
+des Einfuhrverbots kein Erfolg beschieden wäre.“
+
+542. Aus den bei Nikon beschlagnahmten Akten wird also ersichtlich, dass sich die
+Geschäftsleitung Nikon Imaging Schweiz der kartellrechtlichen Problematik der Behin-
+derung von Parallelimporten zwar bewusst war, sie aber dennoch weder die erforderli-
+chen rechtlichen Abklärungen eingeholt noch die notwendigen Massnahmen ergriffen
+hat. Aus diesen Gründen scheidet ein Rechtsirrtum, dessen Vorliegen gemäss Nikon
+zu prüfen sei (Rz 536), vorliegend aus. In der einschlägigen Literatur wird nämlich die
+Auffassung vertreten, dass ein Rechtsirrtum – im Kartellgesetz wie im übrigen Recht –
+selten besteht.182 Vorstellbar sei ein Rechtsirrtum aufgrund von (falschen) Auskünften
+durch Behörden oder wenn die zuständigen Behörden den fraglichen Sachverhalt dul-
+den würden. Nicht allgemein beantworten lasse sich die Frage, was im Hinblick auf die
+Auskunft von Rechtsanwälten gelte. Eine rechtliche Abklärung von Sachverhalten
+scheine anzuzeigen, dass der Täter an der Rechtmässigkeit des eigenen Verhaltens
+gezweifelt habe. Dies greife allerdings zu kurz. Wenn die relevanten Rechtsfragen von
+
+
+182
+ CHRISTOPH TAGMANN, Die direkten Sanktionen nach Art. 49a Abs. 1 KG, 2007, 74 f., MARCEL
+ALEXANDER NIGGLI/ CHRISTOF RIEDO in: Basler Kommentar, Kartellgesetz, Amstutz/Reinert
+(Hrsg.), 2010, Vor Art. 49a-53 KG N 162 m.w.H.
+
+
+22/2010/00038/COO.2101.111.4.153527 129
+komplexer Natur seien (was im Wettbewerbsrecht regelmässig zutreffen werde), so
+zeige die Abklärung, dass sich der Täter bemüht habe, rechtskonform zu handeln. Stel-
+le er auf die Auskünfte eines Rechtsberaters ab, der den fraglichen Sachverhalt um-
+fassend geprüft habe, so könne (und werde) ihm das Unrechtsbewusstsein durchaus
+fehlen. Fraglich sei primär, ob die Rechtsfragen vollständig und umfassend abgeklärt
+worden und die entsprechenden Empfehlungen tatsächlich eingehalten worden sei-
+en.183
+
+543. Wäre der vorliegende Sachverhalt tatsächlich vollständig und umfassend abge-
+klärt worden, hätten die Vertriebsverträge von Nikon in einer Art und Weise angepasst
+werden müssen, dass passive Verkäufe in die Schweiz durch gebietsfremde Vertriebs-
+partner möglich sind. Jedenfalls bestehen vorliegend keine Hinweise, dass Nikon in
+Bezug auf den vorliegend relevanten Sachverhalt rechtliche Beratung erhalten hat, die
+einen Rechtsirrtum zu begründen vermöchte.
+
+544. Zusammenfassend hat die Geschäftsleitung von Nikon Schweiz vertragliche Be-
+zugsverbote ausserhalb des Vertragsgebiets (Schweiz und Liechtenstein) implemen-
+tiert und umgesetzt. Darüber hinaus hat sie vertragliche Exportverbote in ausländi-
+schen Vertriebsverträgen der Nikon Gruppe, die zum Ausschluss (passiver) Verkäufe
+in die Schweiz führen, umgesetzt. Aus der bei Nikon beschlagnahmten E-Mail Korres-
+pondenz geht hervor, dass sich die Geschäftsleitung von Nikon Schweiz bewusst war,
+dass die Behinderung von Parallelimporten in die Schweiz kartellrechtlich problema-
+tisch ist. Dennoch hat sie es unterlassen, den Sachverhalt in der erforderlichen Tiefe
+rechtlich abzuklären. Dieses Wissen und diese Sorgfaltspflichtsverletzung werden Ni-
+kon zugerechnet. Aus diesen Gründen ist es Nikon vorwerfbar, dass sie mit ihren Ver-
+triebspartnern unzulässige Abreden i.S.v. Art. 5 Abs. 4 i.V.m. Abs. 1 KG vereinbart und
+umgesetzt hat. Die Frage der Vorwerfbarkeit des Verstosses gegen Art. 49a Abs. 1 KG
+ist somit zu bejahen.
+
+B.4.1.2.4. Ergebnis
+545. Zusammenfassend kann festgehalten werden, dass Nikon mit ihrem Verhalten
+den Tatbestand von Art. 49a Abs. 1 KG im Zeitraum Frühjahr 2008 bis Herbst 2009
+(siehe oben Rz 344) erfüllte und somit zu sanktionieren ist.
+
+B.4.2. Sanktionsbemessung
+
+B.4.2.1. Einleitung und gesetzliche Grundlagen
+546. Rechtsfolge einer Verletzung von Art. 49a Abs. 1 KG ist die Belastung des fehl-
+baren Unternehmens mit einem Betrag bis zu 10 Prozent des in den letzten drei Ge-
+schäftsjahren in der Schweiz erzielten Umsatzes (Art. 49a Abs. 1 KG und
+Art. 7 SVKG184). Der Betrag bemisst sich nach der Dauer und der Schwere des
+Verstosses, wobei der mutmassliche Gewinn, den das Unternehmen dadurch erzielt
+hat, angemessen zu berücksichtigen ist.
+547. Im Folgenden wird zunächst die mögliche Maximalsanktion für Nikon bestimmt.
+Innerhalb des Sanktionsrahmens ist sodann der Basisbetrag gemäss Art. 3 SVKG fest-
+
+183
+ CHRISTOPH TAGMANN, Die direkten Sanktionen nach Art. 49a Abs. 1 KG, 2007, 71.
+BSK KG-NIGGLI/RIEDO (Fn 182), Vor Art. 49a-53 KG N 162 m.w.H.
+184Verordnung vom 12.3.2004 über die Sanktionen bei unzulässigen Wettbewerbsbeschrän-
+
+kungen (KG-Sanktionsverordnung; SR 251.5).
+
+
+22/2010/00038/COO.2101.111.4.153527 130
+zusetzen. Schliesslich sind die Dauer und die Schwere des Verstosses sowie andere
+Strafzumessungskriterien (erschwerende und mildernde Umstände) nach SVKG an-
+gemessen zu berücksichtigen.
+
+548. Trotz den gesetzlich vorgeschriebenen Kriterien handelt es sich bei der Sankti-
+onsbemessung nicht um einen reinen Rechenvorgang, sondern um eine rechtliche und
+wirtschaftliche Gesamtwürdigung aller relevanten Umstände.185 Die effektive Höhe des
+Betrages wird nach den konkreten Umständen des Einzelfalles bemessen, wobei nach
+Art. 2 Abs. 2 SVKG stets auch dem Prinzip der Verhältnismässigkeit Rechnung zu tra-
+gen ist. Überdies ist die Schwere der Sorgfaltspflichtverletzung zu berücksichtigen,
+wobei auch subjektive Elemente gewürdigt werden können.
+
+B.4.2.2. Sanktionsbemessung für Nikon
+
+B.4.2.2.1. Maximalsanktion
+549. Die Obergrenze des Sanktionsrahmens, d.h. die Maximalsanktion, liegt bei 10 %
+des vom Unternehmen in den letzten drei Geschäftsjahren in der Schweiz erzielten
+Gesamtumsatzes. Der Unternehmensumsatz i.S.v. Art. 49a Abs. 1 KG berechnet sich
+dabei sinngemäss nach den Kriterien der Umsatzberechnung bei Unternehmenszu-
+sammenschlüssen, Art. 4 und 5 VKU finden analoge Anwendung.
+550. Nikon erzielte in den Perioden April 2007 bis März 2008, April 2008 bis
+März 2009 und April 2009 bis März 2010 in der Schweiz Umsätze in der Höhe von
+CHF […], CHF […] und CHF […].
+551. Der Gesamtumsatz im Zeitraum April 2007 bis März 2010 beträgt somit CHF […].
+Folglich beläuft sich die Maximalsanktion im Sinne von Art. 49a Abs. 1 KG in casu auf
+CHF […].
+552. Die einzelnen Ausführungen zur konkreten Sanktionsbemessung folgen im
+nächsten Abschnitt.
+
+B.4.2.2.2. Konkrete Bemessung
+553. Nach Art. 49a Abs. 1 KG sind bei der Bemessung des konkreten Sanktionsbe-
+trags die Dauer und Schwere des Verstosses und der dadurch erzielte mutmassliche
+Gewinn angemessen zu berücksichtigen.
+
+554. Als allgemeingültiger Grundsatz ist festzuhalten, dass die Festsetzung des Sank-
+tionsbetrages im pflichtgemässen Ermessen der WEKO steht.186 Zur Bemessung des
+Sanktionsbetrages wird in der Botschaft konkretisiert, dass der Sanktionsrahmen von
+0–10 % einerseits in schwerwiegenden Fällen eine abschreckende Wirkung gewähr-
+leistet, andererseits „aber den Behörden in geringfügigen Fällen die Belastung mit Be-
+trägen von lediglich symbolhaftem Charakter“187 ermöglicht. Damit steht der WEKO ein
+breiter Sanktionsrahmen zur Verfügung, den sie nach pflichtgemässem Ermessen aus-
+zuschöpfen hat. Dabei sind den Grundsätzen der Verhältnismässigkeit und der Gleich-
+behandlung Rechnung zu tragen.
+
+
+
+185
+ RPW 2006/4, 662 Rz 242, Unique, RPW 2007/2, 299 Rz 401, Terminierung Mobilfunk, RPW
+2007/2, 235 Rz 320, Publigroupe.
+186
+ Vgl. dazu und zum Folgenden DUCREY (Fn 167), Art. 50 N 15.
+187
+ Botschaft KG 2003 (Fn 23), 2038.
+
+
+22/2010/00038/COO.2101.111.4.153527 131
+555. Die effektive Höhe des Betrages wird auch nach dem revidierten Kartellgesetz
+anhand der konkreten Umstände bemessen.188 Die Literatur verweist zudem auf die
+wettbewerbsrechtliche Praxis der Europäischen Kommission,189 wobei zu beachten ist,
+dass die KG-Sanktionsverordnung190 über weite Strecken von der EU-Regelung inspi-
+riert ist. Insgesamt ergibt sich auch durch die in der europäischen Praxis genannten
+Umstände eine rechtliche und wirtschaftliche Berücksichtigung aller relevanten Bege-
+benheiten. Dies stimmt auch mit der bisherigen Praxis der REKO/WEF bzw. des
+BVGer überein.191
+
+556. Nikon bemängelt die zwar korrekte Wiedergabe der gesetzlichen Anforderungen;
+diese seien jedoch in der konkreten Bemessung nicht erfüllt worden. Das Gesetz ver-
+lange zwingend eine angemessene Berücksichtigung des mutmasslichen Gewinns,
+welchen das Unternehmen durch den absoluten Gebietsschutz erzielt habe (Art. 49a
+Abs. 1 KG, Art. 2 Abs. 1 SVKG). Dieser mutmassliche Gewinn sei vorliegend über-
+haupt nicht geprüft worden. Mit Verweis auf die im Schnitt nicht höheren Einstands-
+preise im untersuchten Zeitraum in der Schweiz im Vergleich zum europäischen Aus-
+land hätte Nikon somit gar keine Rente aus dem behaupteten absoluten Gebietsschutz
+abschöpfen können. Der fehlende mutmassliche Gewinn müsse somit zwingend zu ei-
+ner Reduktion der beantragten Busse führen.
+
+557. Dagegen ist zunächst einzuwenden, dass gemäss den Erläuterungen zur
+SVKG192 die Gesetzesordnung entgegen der Auffassung der Verfügungsadressatin
+nicht als zwingende Vorschrift auszulegen ist. Konkret heisst dies, dass der Normalge-
+winn bereits im Basisbetrag enthalten ist. Lediglich für Ausnahmefälle, in welchen kein
+Gewinn erzielt wurde, kann die Wettbewerbsbehörde diesem Umstand im Sinne einer
+Sanktionsminderung Rechnung tragen. Nach den diesbezüglichen Leitlinien im Euro-
+päischen Wettbewerbsrecht für das Verfahren zur Festsetzung von Geldbussen fehlt
+eine entsprechende Regelung für die Berücksichtigung einer inexistenten Kartellrente
+im Rahmen von mildernden Umständen.193 Hingegen wird in den EU-Leitlinien aus-
+drücklich unter dem Aspekt eines Aufschlages zur Gewährleistung einer abschrecken-
+den Wirkung (Rz 33) ausgeführt, dass die Geldbusse erhöht werden kann, damit ihr
+Betrag die aus der Zuwiderhandlung erzielten widerrechtlichen Gewinne übersteigt, so-
+fern diese Gewinne geschätzt werden können. Eine Berücksichtigung des mutmassli-
+chen Gewinns setzt somit voraus, dass dieser überhaupt ermittelt werden kann. Eine
+Kartellrente kann in der Praxis – insbesondere in Fällen von absolutem Gebietsschutz
+– kaum je geschätzt, geschweige denn ermittelt werden. Unabhängig davon vermag
+das von Nikon vorgebrachte Argument, dass mangels Preisdifferenzen gar keine Kar-
+
+
+188
+ Vgl. schon Botschaft KG 1994 (Fn 175), 154.
+189
+ Eingehend zur Frage der straf- oder verwaltungsrechtlichen Natur (von Art. 50 KG)
+LAURENT MOREILLON, in: Droit de la concurrence, Commentaire romand, Tercier/Bovet (éd.), Ge-
+nève/Bâle/Munich 2002, Remarques liminaires aux art. 50–53 N 11 ff. m.w.Nw., Art. 50 N 9 ff.;
+DUCREY (Fn 167), Art. 50 N 15, und zur europäischen Praxis die Nachweise in RPW 2006/4,
+662.
+190
+ Erläuterungen zur KG-Sanktionsverordnung (SVKG) des Sekretariats der WEKO, 1, abrufbar
+unter http://www.weko.admin.ch/dokumentation/01007/index.html?lang=de.
+191
+ Auch die REKO/WEF hat in einem Entscheid teilweise auf ähnliche Kriterien abgestellt, wie
+dies in der europäischen Praxis getan wird (Entscheid REKO/WEF, RPW 2002/2, 386 ff., insb.
+400 ff. E 4, Rhône-Poulenc S.A./Merck & Co. Inc.). Vgl. zum Ganzen auch BVGer, Urteil B-
+2157/2006 vom 3.10.2007, RPW 2007/4, 673 ff., Flughafen Zürich AG (Unique), Wettbewerbs-
+kommission.
+192
+ Erläuterungen zur KG-Sanktionsverordnung (SVKG), einsehbar unter www.weko.admin.ch.
+193
+ Leitlinien für das Verfahren zur Festsetzung von Geldbussen gemäß Artikel 23 Absatz 2
+Buchstabe a) der Verordnung (EG) Nr. 1/2003, 2006/C 210/02, Rz 29 e contrario.
+
+
+22/2010/00038/COO.2101.111.4.153527 132
+tellrente hätte abgeschöpft werden können, nicht zu überzeugen: Wie in Abschnitt
+B.3.2.2.1. ausführlich dargelegt, bestanden im Untersuchungszeitraum sehr wohl Arbit-
+ragepotenziale.
+
+B.4.2.2.2.1. Basisbetrag
+
+558. Der Basisbetrag beträgt je nach Art und Schwere des Verstosses bis zu 10 %
+des Umsatzes, den das betreffende Unternehmen in den letzten drei Geschäftsjahren
+auf den relevanten Märkten in der Schweiz erzielt hat (Art. 3 SVKG).
+Obergrenze des Basisbetrags
+
+559. Die Umsätze, die Nikon in den Perioden April 2007 bis März 2008, April 2008 bis
+März 2009 und April 2009 bis März 2010 auf den relevanten Märkten Digitalkameras
+mit Wechselobjektiv, Digitalkameras ohne Wechselobjektiv, Wechselobjektive und
+Blitzgeräte in der Schweiz erzielte, betragen CHF […], CHF […] und CHF […]. Dies
+ergibt ein Total von CHF […]. Die obere Grenze des Basisbetrags beläuft sich im vor-
+liegenden Fall somit auf CHF […].
+
+560. Nikon bringt vor, die Obergrenze des Basisbetrages sei falsch berechnet worden.
+Die (bestrittene) Gebietsschutzabrede betreffe höchstens den relevanten Markt für Di-
+gitalkameras mit Wechselobjektiven, da nur für diesen Markt angebliche Belege für ab-
+soluten Gebietsschutz vorgelegt worden seien. Somit könnten nur die Umsätze von Ni-
+kon in diesem relevanten Markt, nicht aber die im Markt für Digitalkameras ohne
+Wechselobjektive erzielten Umsätze für die Sanktionsberechnung berücksichtigt wer-
+den.
+
+561. Dagegen ist zunächst einzuwenden, dass die Wettbewerbsabreden in den ein-
+zelnen Vertriebsverträgen keine Unterscheidung nach den relevanten Produktmärkten
+vornehmen. Die Verträge galten resp. gelten für sämtliche relevanten Märkte. Im Übri-
+gen kann auf die zuvor gemachten Ausführungen verwiesen werden, wonach der
+Wettbewerb auf sämtlichen relevanten Märkten erheblich beeinträchtigt wurde (vgl.
+Rz 518).
+Berücksichtigung der Art und Schwere des Verstosses
+562. Gemäss Art. 3 SVKG ist die aufgrund des Umsatzes errechnete Höhe des Basis-
+betrages je nach Schwere und Art des Verstosses festzusetzen. Gemäss den Erläute-
+rungen zu Art. 3 SVKG ist beispielsweise eine horizontale Wettbewerbsabrede, welche
+gleichzeitig die drei wichtigsten Wettbewerbsparameter (Preis, Menge, Gebiet) ein-
+schränkt, in der Regel schwerer zu gewichten als eine reine Gebietsabrede. Allerdings
+wird die Möglichkeit, Parallelimporte tätigen zu können, sowohl in der Praxis der
+WEKO194 als auch in der Praxis der Europäischen Kommission195 als besonders
+schutzwürdig angesehen.
+563. Laut Nikon dürfe die Schwere des Kartellrechtsverstosses gemäss Art. 49a Abs.
+1 KG und Art. 2 Abs. 1 SVKG nicht anhand einer generellen Praxis zum absoluten Ge-
+bietsschutz bestimmt werden. Die Schwere sei vielmehr anhand einer rechtlichen und
+wirtschaftlichen Gesamtwürdigung aller relevanten Umstände zu bestimmen. Vorlie-
+gend müsste insbesondere Folgendes bei der Beurteilung der Art und Schwere des
+Verstosses berücksichtigt werden:
+
+
+194
+ Vgl. RPW 2010/1, 112 Rz 359, Gaba.
+195
+ Vgl. Langen/Bunte-NOLTE, Art. 81 EGV N 525 ff.; PETER STOCKENHUBER, Art. 81 EGV, in:
+Grabitz/Hilf (Hrsg.), Kommentar zur Europäischen Union, München 2009.
+
+
+22/2010/00038/COO.2101.111.4.153527 133
+ Das vorgeworfene Verhalten habe keine konkreten Auswirkungen auf den wirk-
+ samen Wettbewerb in der Schweiz gehabt. Die Schweiz sei im untersuchten Zeit-
+ raum mit Bezug auf die vorliegend relevanten Händlereinkaufspreise keine
+ Preisinsel gewesen. Parallelimporte von Nikon Imaging Produkten hätten in gros-
+ sem und stark zunehmendem Umfang stattgefunden. Der Interbrand-Wettbewerb
+ auf den schweizerischen Imaging Märkten sei ausserordentlich intensiv und der
+ schweizerische Nikon-Intrabrand-Wettbewerb sei jedenfalls intensiver als derje-
+ nige der Konkurrenz. Zudem würden keinerlei Schranken vertraglicher, regulato-
+ rischer oder technischer Art bestehen, welche Endverbraucher beim Direktimport
+ von Nikon Imaging Produkten behindern würden bzw. im untersuchten Zeitraum
+ behindert hätten. Es eigne sich im Gegenteil kaum ein Produkt besser dafür, im
+ Ausland bei einem Internethändler bestellt zu werden, als eine Kamera. Eine
+ Busse in der vorliegenden Grössenordnung verstosse vor diesem Hintergrund
+ gegen den Grundsatz der Verhältnismässigkeit und das Erfordernis eines öffent-
+ lichen Interesses;
+
+ Nikon habe mit dem behaupteten und bestrittenen Verhalten gar keinen Gewinn
+ erzielen können, da keine Preisinsel vorliege und somit keine Rente abgeschöpft
+ werden könne;
+
+ Die Anwendung des Tatbestandes von Art. 5 Abs. 4 KG auf Sachverhalte wie die
+ ausländischen Vertragsklauseln oder die inländischen Bezugsbeschränkungen
+ im offenen Vertrieb sei nicht voraussehbar gewesen. Weder aus dem Wortlaut
+ der Gesetzesbestimmung noch aus der bisherigen Praxis der WEKO und der
+ Beschwerdeinstanzen oder der Vertikalbekanntmachung der WEKO hätte auf die
+ behauptete Anwendbarkeit von Art. 5 Abs. 4 KG geschlossen werden können.
+
+564. Vor diesem Hintergrund lasse sich gemäss Nikon die Qualifikation des behaupte-
+ten Verhaltens als mittelschwerer Verstoss nicht aufrechterhalten. Wenn überhaupt,
+könne das angebliche Verhalten nur als leichter Verstoss gelten.
+
+565. Unter Würdigung folgender Umstände ist das Verhalten von Nikon zumindest als
+mittelschwerer Verstoss gegen das Kartellgesetz einzustufen:
+
+ Neben den Bezugsverboten ausserhalb des Vertragsgebiets (Schweiz und Liech-
+ tenstein) im alten Grossistenvertrag, im D3S-/D3X-Vertrag und im „NPSD“-
+ Vertrag bestanden in einigen ausländischen Nikon Händlerverträgen explizite
+ und implizite Exportverbote, so dass passive Verkäufe in die Schweiz vertraglich
+ ausgeschlossen wurden;
+
+ Anlässlich der Hausdurchsuchung bei Nikon konnten die Wettbewerbsbehörden
+ E-Mails beschlagnahmen, aus denen hervorgeht, dass (passive) Verkäufe durch
+ Parallelhändler in die Schweiz tatsächlich behindert wurden bzw. behindert wer-
+ den sollten;
+
+ Diese Massnahmen zum Gebietsschutz haben den wirksamen Wettbewerb auf
+ den relevanten Märkten zwar nicht beseitigt, aber immerhin erheblich beeinträch-
+ tigt;
+
+ Dass die Möglichkeit Parallelimporte tätigen zu können vom Gesetzgeber als
+ schutzwürdig angesehen wird, ist zumindest seit der Einführung von Art. 5 Abs.
+ 4 KG, der am 1. April 2004 in Kraft trat, bekannt.
+
+566. Unter Berücksichtigung der vorgenannten rechtlichen und wirtschaftlichen Um-
+stände sowie den Begebenheiten des konkreten Falles rechtfertigt es sich, den Basis-
+betrag der Sanktion im vorliegenden Fall gemäss Art. 3 SVKG auf 5 % des Umsatzes
+
+
+22/2010/00038/COO.2101.111.4.153527 134
+festzusetzen, den Nikon in den letzten drei Geschäftsjahren auf den relevanten Märk-
+ten in der Schweiz erzielt hat.196 Der Basisbetrag beträgt somit CHF […].
+
+B.4.2.2.2.2. Dauer des Verstosses
+
+567. Gemäss Art. 4 SVKG erfolgt eine Erhöhung des Basisbetrages um bis zu 50 %,
+wenn der Wettbewerbsverstoss zwischen einem und fünf Jahren gedauert hat; für je-
+des weitere Jahr ist ein Zuschlag von bis zu 10 % möglich.197
+
+568. Im vorliegenden Fall bestand die unzulässige Abrede über einen absoluten Ge-
+bietsschutz zwischen Frühjahr 2008 und Herbst 2009 (vgl. Rz 344). Folglich hat der
+Wettbewerbsverstoss etwas mehr als ein Jahr gedauert. Von einem Zuschlag im Sinne
+von Art. 4 SVKG ist somit abzusehen.
+
+B.4.2.2.2.3. Erschwerende und mildernde Umstände
+569. In einem letzten Schritt sind schliesslich die erschwerenden und die mildernden
+Umstände nach Art. 5 und Art. 6 SVKG zu berücksichtigen. Es liegen keine erschwe-
+renden und auch keine mildernden Umstände vor.
+570. Gemäss Nikon bleibe die WEKO den Beweis schuldig, dass Nikon Vergeltungs-
+massnahmen, die zur Durchsetzung der Wettbewerbsabrede vereinbart worden seien,
+durchgeführt haben soll. Nikon habe im untersuchten Zeitraum nie Vergeltungsmass-
+nahmen zur Durchsetzung eines absoluten Gebietsschutzes durchgeführt. Die Sankti-
+on müsse folglich gestützt auf Art. 6 Abs. 2 lit. b SVKG zwingend reduziert werden.
+
+571. Hierzu ist Folgendes festzuhalten: Gemäss Art. 5 Abs. 2 lit. b SVKG sind die An-
+ordnung oder Durchführung von Vergeltungsmassnahmen gegenüber anderen an der
+Wettbewerbsbeschränkung Beteiligten sanktionserhöhend und nicht sanktionsmildernd
+zu berücksichtigen. Infolgedessen kann der Sanktionsmilderungsgrund der Nichtdurch-
+setzung von Vergeltungsmassnahmen gemäss Art. 6 Abs. 2 SVKG nicht unabhängig
+von Art. 5 Abs. 2 lit. b SVKG angewendet werden. Ansonsten würde dies zum völlig
+unhaltbaren Ergebnis führen, bei dem ein Unternehmen, welches Vergeltungsmass-
+nahmen glaubhaft androht und damit die gewünschte Wirkung erzielt, ohne entspre-
+chende Vergeltungsmassnahmen ergreifen zu müssen bzw. diese nicht durchsetzt,
+besser gestellt würde als ein anderes Unternehmen, welches überhaupt keine Vergel-
+tungsmassnahmen androht (und auch keine durchführt).198
+
+572. Wenn, wie vorliegend keine Erhöhung der Sanktion infolge Anordnung von Ver-
+geltungsmassnahmen erfolgt, kann auf eine vertiefte Prüfung der (glaubhaft angedroh-
+ten) Durchsetzung der Vergeltungsmassnahmen im Rahmen der mildernden Umstän-
+de verzichtet werden.
+
+
+
+
+196
+ Vg. RPW 2010/1, 111 f. Rz 358 ff., Gaba.
+197
+ Erläuterungen zur KG-Sanktionsverordnung (Fn 192), 3.
+198
+ Dazu eingehend BSK KG-TAGMANN/ZIRLICK (Fn 170), Art. 49a KG N 92.
+
+
+22/2010/00038/COO.2101.111.4.153527 135
+B.4.2.2.2.4. Ergebnis
+573. Die nachfolgende Tabelle 12 fasst die Bussenberechnung für Nikon zusammen:
+
+Tabelle 12: Bussenberechnung
+
+ Zeitperiode
+
+ April 07-März 08 April 08-März 09 April 09-März 10 April 07-März 10
+
+Gesamtumsatz in der Schweiz CHF […] CHF […] CHF […] CHF […]
+
+Maximalsanktion CHF […]
+
+Umsätze in relevanten Märkten: CHF […] CHF […] CHF […] CHF […]
+
+Maximaler Basisbetrag: 10 % CHF […]
+
+Art und Schwere des Verstosses: 5 % CHF […]
+
+Basisbetrag CHF […]
+
+Dauer: 0 % CHF 0
+
+Betrag nach Art. 3 und 4 SVKG CHF […]
+
+Erschwerende Umstände: 0 % CHF 0
+
+Mildernde Umstände: - 0% CHF 0
+
+Total CHF12‘537‘907
+
+
+
+
+574. Aufgrund der genannten Erwägungen und unter Würdigung sämtlicher Umstände
+sowie sämtlicher sanktionserhöhenden und sanktionsmildernden Faktoren wird eine
+Verwaltungssanktion nach Art. 49a Abs. 1 KG in der Höhe von CHF 12‘537‘907.– für
+Nikon als angemessen erachtet.
+
+B.5. Ergebnis
+575. Die WEKO kommt gestützt auf die vorstehenden Erwägungen zu folgendem Er-
+gebnis:
+
+ Es wird festgestellt, dass folgende Vertriebsverträge von Nikon AG resp. der Ni-
+ kon Gruppe zum Ausschluss von passiven Verkäufen durch ausländische Ver-
+ triebspartner (mit Ausnahme jener im Fürstentum Liechtenstein) in die Schweiz
+ führen resp. führten und somit unzulässige Gebietsabreden gemäss Art. 5 Abs. 4
+ i.V.m. Abs. 1 KG darstellen resp. darstellten:
+
+ o Händlerverträge „Distributor“ zwischen Nikon AG und den Grossisten […]
+ (Verträge im Herbst 2009 aufgehoben);
+ o Vereinbarungen für den selektiven Vertrieb der digitalen Spiegelreflexkamera
+ „D3S“ sowie „D3X“ in der Schweiz zwischen Nikon AG und diversen Einzel-
+ händlern in der Schweiz;
+
+ o Händlerverträge „Nikon Professional Dealer“ zwischen Nikon AG und diversen
+ Einzelhändlern in der Schweiz;
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 136
+ o Vertriebsverträge „Grosshandel“ und „Einzelhandel“ zwischen den Nikon Län-
+ dergesellschaften in Deutschland, Österreich, Slowenien und Ungarn und di-
+ versen Gross- und Einzelhändlern in diesen Ländern;
+
+ o „Retail Dealer Sales Agreements“ sowie „Internet Dealer Sales Agreements“
+ zwischen Nikon Inc. (USA) und diversen Händlern in den USA;
+ o „Distributor’s Agreements“ zwischen Nikon UK limited (Grossbritannien) und
+ diversen Händlern in Grossbritannien;
+
+ o „Distributorship Agreement“ zwischen Nikon Europe B.V. (Niederlande) und
+ […] (Griechenland);
+
+ o „Resale Agreements“ zwischen Nikon Polska Sp. Z O.O (Polen) und diversen
+ Händlern in Polen;
+
+ Die gesetzlich statuierte Vermutung der Beseitigung wirksamen Wettbewerbs
+ kann durch die Kombination des vorhandenen Intra- und Interbrand-Wettbewerbs
+ umgestossen werden.
+
+ Die absolute Gebietsschutzabrede beeinträchtigt den Wettbewerb i.S.v. Art. 5
+ Abs. 1 KG allerdings erheblich.
+
+ Gründe der wirtschaftlichen Effizienz nach Art. 5 Abs. 2 KG liegen nicht vor.
+
+Es handelt sich somit um unzulässige Wettbewerbsabreden gemäss Art. 5 Abs. 4
+i.V.m. Abs. 1 KG, welche nach Art. 49a Abs. 1 KG sanktionierbar sind.
+576. Nikon AG wird mit einer Verwaltungssanktion nach Art. 49a Abs. 1 KG in Höhe
+von CHF 12‘537‘907.– gebüsst.
+
+577. Es ist an der Nikon AG resp. der Nikon Gruppe, die zum Zeitpunkt des vorliegen-
+den Entscheids immer noch geltenden vorgenannten Vertriebsverträge im Sinne der
+Erwägungen mit dem schweizerischen Kartellgesetz in Übereinstimmung zu bringen.
+Es liegt letztlich in ihrer eigenen Verantwortung, die Konsequenzen einer Beibehaltung
+der unzulässigen Vertragsklauseln zu tragen. Inskünftige Widerhandlungen gegen das
+Kartellgesetz sind ausdrücklich mit einer Sanktion gemäss Art. 49a Abs. 1 KG bedroht.
+
+
+C. Kosten
+578. Nach Art. 2 Abs. 1 Gebührenverordnung KG199 ist gebührenpflichtig, wer das
+Verwaltungsverfahren verursacht hat.
+579. Im Untersuchungsverfahren nach Art. 27 ff. KG besteht eine Gebührenpflicht,
+wenn aufgrund der Sachverhaltsfeststellung eine unzulässige Wettbewerbsbeschrän-
+kung vorliegt oder wenn sich die Parteien unterziehen. Vorliegend wurde eine unzuläs-
+sige Wettbewerbsbeschränkung nachgewiesen, weshalb eine Gebührenpflicht der Ver-
+fügungsadressatin zu bejahen ist.
+
+580. Nach Art. 4 Abs. 2 GebV-KG gilt ein Stundenansatz von CHF 100.– bis
+CHF 400.–. Dieser richtet sich namentlich nach der Dringlichkeit des Geschäfts und
+der Funktionsstufe des ausführenden Personals. Auslagen für Porti sowie Telefon- und
+Kopierkosten sind in den Gebühren eingeschlossen (Art. 4 Abs. 4 GebV-KG).
+
+
+199
+ Verordnung vom 25.2.1998 über die Gebühren zum Kartellgesetz (Gebührenverordnung KG,
+GebV-KG; SR 251.2).
+
+
+22/2010/00038/COO.2101.111.4.153527 137
+581. Die Untersuchung hat insgesamt einen Zeitaufwand von […] Stunden generiert.
+Dieser Zeitaufwand wird gestützt auf die Funktionsstufe der mit dem Fall betrauten
+Mitarbeiter zu folgenden Stundenansätzen verrechnet:
+
+[…]
+
+Demnach beläuft sich die Gebühr gemäss Art. 4 GebV-KG auf CHF […].
+
+582. Zudem hat der Gebührenpflichtige die Auslagen gemäss Art. 6 der Allgemeinen
+Gebührenverordnung200 sowie die Kosten, die durch Beweiserhebung oder besondere
+Untersuchungsmassnahmen verursacht werden, zu erstatten (Art. 5 GebV-KG). Dem-
+nach hat Nikon vorliegend die Kosten für die am 24. März 2010 bei Nikon durchgeführ-
+te Hausdurchsuchung zu tragen. Nebst den entsprechenden Personalkosten, die im
+Zeitaufwand (Rz 581) enthalten sind, belief sich der Aufwand für die Hausdurchsu-
+chung auf CHF […].
+
+583. Die Verfahrenskosten betragen somit insgesamt CHF […]. Sie gehen vollumfäng-
+lich zu Lasten von Nikon.
+
+
+
+
+22/2010/00038/COO.2101.111.4.153527 138
+D. Dispositiv
+Aufgrund des Sachverhalts und der vorangehenden Erwägungen verfügt die Wettbe-
+werbskommission:
+
+1. Es wird festgestellt, dass folgende Vertriebsverträge von Nikon AG resp. der Ni-
+ kon Gruppe zum Ausschluss von passiven Verkäufen durch ausländischeVer-
+ triebspartner (mit Ausnahme jener im Fürstentum Liechtenstein) in die Schweiz
+ führen resp. führten und somit unzulässige Gebietsabreden gemäss Art. 5 Abs. 4
+ i.V.m. Abs. 1 KG darstellen resp. darstellten:
+ 1.1. Händlerverträge „Distributor“ zwischen Nikon AG und den Grossisten […]
+ (Verträge im Herbst 2009 aufgehoben);
+
+ 1.2. Vereinbarungen für den selektiven Vertrieb der digitalen Spiegelreflexka-
