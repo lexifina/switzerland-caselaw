@@ -1,0 +1,540 @@
+---
+decision_id: "ch_bundesrat__bj_de_home_publiservice_publikationen_beschwerdeentscheide_2012-10-17.html"
+court: "Bundesrat"
+court_id: "ch_bundesrat"
+docket: "/bj/de/home/publiservice/publikationen/beschwerdeentscheide/2012-10-17.html"
+decided: "2012-10-17"
+language: "fr"
+source_url: "https://www.bj.admin.ch/dam/bj/de/data/publiservice/publikationen/beschwerdeentscheide/2012-10-17-beschwerde-nml-em-eda.pdf.download.pdf/2012-10-17-beschwerde-nml-em-eda-f.pdf"
+pdf_url: "https://www.bj.admin.ch/dam/bj/de/data/publiservice/publikationen/beschwerdeentscheide/2012-10-17-beschwerde-nml-em-eda.pdf.download.pdf/2012-10-17-beschwerde-nml-em-eda-f.pdf"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/172.021/art-072.md", "switzerland/bund/acts/173.110/art-083.md", "switzerland/bund/acts/192.12/art-031.md"]
+---
+
+# Bundesrat /bj/de/home/publiservice/publikationen/beschwerdeentscheide/2012-10-17.html
+
+## Regeste
+
+Recours de NML Capital Ltd. et EM Limited contre Département fédéral des affaires étrangères (DFAE). Décision
+
+## Text
+
+00
+DtR SC hI\\'CIZtRISCHË 
+Bt\OtSRAT
+Lt (O\S[IL 
+FËDËR XL St.ISSt
+IL CO\SIGLll) FEoeRÄLC S\ IZZCRa
+11 CL$SËGL 
+FFI)fkxl 
+S\ IZZIK
+vu 1e recours de
+1. NML CapItal Ltd.,
+cIo Appleby Corporate Servims (Cayman) Limited, Clifton House, 75 Fort
+Street, P.O. Box 1350, George Town, Grand Cayman, les Cal'manes,
+2. EM Lirnited,
+P.O. Box 31363, 45 Market Street. SuRe 3211. CaRnana Bay. Grand Cayman
+KYI-1206, IIes Cafmanes,
+toutes deux reprësentëes par Me
+avoca
+contre
+Ie Dëpartement födëral des affalre9 6trangëre8. Palais fëdëral ouest.
+3003 Berne,
+en matiëre
+d'affaires intëressant bs relations extërieures
+1/12
+
+
+considërant :
+1.
+A. 
+NML Capital Ltd. et EM Limited, fonds collectifs prtvës d'investi$sements
+domiciliës aux IIes CaFmanes, sont crëanciers de la Rëpublique d'Argentine.
+Des jugements c$ëftnitifs 
+et exëcutoires rendus par un tribunal de New York. en
+2003 et 2006, ont condamnë Ia Republiclue d’Argentine ä teur verser les
+sommes en capital plus intërëts de respecttvement USD 284 millions et USD
+724 millions.
+En 2009. NML Capital Ltd. et EM Limited ont demandë le sëquestre des avoirs
+de la Rëpublique d’Argentine dëtenus par la Banque des rëglements
+internationaux (BRI), organisation internationale qui a son siëge ä Bäle et avec
+laquetle le Conseil fëdëral a conclu un accord de $iëge (Accord du 10 fëvrier
+1987 entre le Conseil fëdëral suisse et la Banque des 
+rë91ements
+internatbnaux en vue de dëterminer Ie statut juädique de la Banque en Suisse,
+RS 0.192.122.971.3, ci.aprës "Faccord de siëge").
+Par arrët du 12 juillet 2010 (ATF 136 III 379), le Tribunal fëdëral a rejetë un
+recouo en matiëre chile dëposë par les deux socëtë$ et confirmë ta dëcision
+de l’autoritë oantonale de surveillanoe d’annuler deux ordonnances de
+sëquestre rendues initialernent par 1e Juge civil du canton de Bälenville. Le
+Tribunal fëdëral a retenu en substance que les valeurs confiëes ä la BRI ne
+pouvaient pas ëtre I'objet de sëque$tIe sans le consenternent prëalable et
+exprës de oelle-d en raison de I'immunitë dont elle bënëficie (consid. 4.2.4.4). II
+a ajoutë que la seule possibilitë dont disposaënt bs deux sociëtës ëtait de
+s'adresser aux autoritës suisses afin que la Confëdëration intervienne auprës
+de la BRI pour que celle 1:i consente aux sëquestres des avoirs dëposës par la
+Rëpublique d'Argentine (oonsid. 4.5.2).
+B. 
+Le 11 octobre 2010, NML Capital Ltd. et EM Limited ont demandë au
+DëpaRement fëdëral des affaires ëtrarNëres (DFAE) de constater formellement
+Fexistence, en i'esFßce, d’un abus des privilëges et de rimmunitë de la BRI au
+sens de Fart. 22 de faocord de siëge. Its ont soutenu que la Rëpublique
+d'Argentine soustrayatt ses avoirs ä I'exëcutbn forcëe des jugements rendu s
+contre elle en 189 dëplaQant vers la BRI afin de profiter ainsi abusivement de
+I'immunitë dont disposait cette banque en Suisse. Ils ont demandë en outre que
+18 DFAE prenne des mesuns afin de ësoudre cet abu 9 et ann que la BRI
+donne son accord au sëquestre des fonds de la Rëpublique d'Ar9entine
+dëposës auprës d'elle. Ils ont demandë enfin que le DFAE motte en place un
+mëcanisme de rësolution du diffërend conforme ä rart. 23 de I'acmrd de siëge
+et qu'8n cas de refus de la BRI de se conformer ä ses obligations selon ledit
+2/12
+
+
+accord ou de dësaccord de la BRI avec le DFAE, celui-ci engage la procëdure
+arbitrale cb I'art. 27 de Faccord de sië9e
+C. 
+Par dëcbion du 24 dëcembre 2010. le DFAE a refusë de donner suite ä
+cos demand8$. 11 a retonu quo ni le DFAE, ni la BRI n'avabnt la canpëtence de
+se prononoer sur I'ëventuelle lllbëitë des act6s de la Rëpublique d'Argentine et
+de la Banque centrale argentine, que I'acceptation de dëpöts des banques
+centrales relevaü des fonctions statutaires de la BRI et que celle.ci ëtait tenue
+au secret de fonction vis-ä.vis de la Banque centrale argentine. Le DFAE a
+retenu par consëquent, qu'aucun ëlëment ne permet{ait de con$tater un
+ëventuel abos des immunitës confërëes ä la BRI, que ce soit par celle-ci, ou par
+la Rëpublique d'Argentine ou sa banque centrate, que rien ne permettait
+d'exiger de la BRI qu'etle autorbe le sëquestre des biens argentins et que den
+ne permettait 
+d'exiger de la BRI qu'elle mette en place un sy$tëme de
+rë91ement 
+des diffërends au sens do I'art. 23 de I'aooonI de siëge. Le DFAE a
+par ailburs constatë qu'il n'existait aucune divergenoe d'interprëtation de
+I'accord de siëge entre la BRI et le DFAE et qu’iI n'y avait done pas lieu de
+mettre en ptace la procëdure de rëglement des diffërends prëvue ä I'aR. 27 de
+I'accord de siëge. Les voies de droit indiquaient que la dëcision pouvait faire
+I'objet d'un recours auprës du Tribunal administratif fëdëral.
+D. 
+Le 26 janvier 2011, NML Capital Ltd et EM LImited ont dëposë un
+recours contre cette dëcision auprës du Tribunal administratif fëdëral. Les deux
+sociëtës ont demandë que Ie tribunal oonstate I'existence d'un abus des
+priviëges et immunitës violant I'accord de siëge et transmette la cause au
+DFAE afin que celui-ci rende tine nouvelle dëcision constatant cette violation de
+I'accord de slëge et intervienne auprës de la BRI pour que celle-ci renonce ä
+son immunitË et autorise I'8xëcuüon des dëcisions de justice.
+E. 
+Aprës un ëchange de vues avec I'Office fëdëral de la justice (OFJ)
+auquel incombe I'instruction des recours au Conseil fëdëral (art. 75, al. l, de la
+toi fëdërale du 20 dëcembre 1968 sur 18 procëdure administrative [PA, RS
+172.021] et art. 7, al. 8, de l’ordonnance du 17 novembre 1999 sur
+1’organIsation 
+du Dëpanement fëdëral de justice et police [Org DFJP, RS
+172.213.11). 16 Tribunal administrattf fëdëral a, par arßt du 16 a00t 2011 (C.
+719/2011), 
+dëclarë le recours irreoevable et a transmis la caus6 au Cons6il
+fëdëral pour rabon de compötence. 11 8 constatë que 18 requëte des
+r8courantes powait ëtre interprëtëe comme une demande de protection
+diplomatique et qu'en tout ëtat de cause, la requëte aon@rnait au premIer chef
+les relations extëdeures. 11 a constatë en outre que le droit internatIonal ne
+donnatt pas un droit ä ce que la cause soit jugëe par un tribunal et que 18 voie
+du recouß au Tribunal administrattf fëdëral devait par consëquent ëtre exclue
+3/12
+
+
+en application de 1’art. 32. al. 1, let. a, de la loi du 17 juin 2005 sur Ie Tribunal
+administrattf fëdëral (LTAF, 173.32).
+F. 
+Par arrët du 22 novembre 2011 (ATF 437 1 371), 18 Tribunal fëdëral a
+dëclarë irreoevable. en vertu de I'art. 83, let. a, de la loi du 17 juin 2005 sur le
+Tribunal fëdëral (LTF, RS 173.110), le recoun dëposë par les deux $odëtë s
+oontre I'anët du Tribunal administrattf fëdëral. II a constatë que I'opportunitë
+d’tIne intervention du DFAE auprës de la BRI ann d'amener celleci ä donner
+son accord en vue d'exëcuter le sëquestre des fonds de la Rëpublique
+d'Argentine dëposës auprës d'elle, ëtatt LIne quosüon qui revëtait un caractëre
+politique marquë et ooncernait au premier chef les relatials extërieures. II a
+constatë en outre que le droit international ne donnait pas un droit ä ce que la
+cause soitju9ë8 par un tribunal.
+G. 
+Le 10 fëvrier 2012, l’OFJ a invitë les recourantes ä verser une avanoe de
+frais de 18 000 francs, jusqu'au 28 fëvrier 2012, sous peine d’irrecevabilitë du
+recours. Les recourantes se sont acx;uittëes de I'avance de frals requise dans le
+dëtai imparti.
+H. 
+Le Dëpartement fëdëral de justice et police a examinë les conclusions de
+FOFJ et a prësentë au Conseil fëdëral sa proposition sur la suite ä donner au
+recours. Selon I'art_ 76. 81. 1, PA. Ie chef du DFAE se rëcuse pour la dëcision du
+Conseil fëdëral.
+11.
+1.
+1. I 
+Aux termes de I'art. 72, let. a, PA, le recours au Conseil fëdëral est
+reoevable oontre les dëcisions concernant la süretë intëäeure ou extërieure du
+pays, la rnutralitë, la protection diplomatique et les autre$ affaires intëressant
+les relations extërieures, ä moins que le droit international ne confëre un droit ä
+ce que la cause sott jugëe par un tribunal.
+Cas conditions de renvabilitë se comprennent en relation avec I'art. 83. let a,
+LTF et Fad. 32, al. 1, let. a, LTAF qui excluent le recoun au Tribunal fëdëral.
+respectivement au Tribunal administratif fëdëral, contre les dëcisions citëes ä
+I'art. 72, let. a, PA. Les termes utilisës dans cas trois dispositions sont d'ailleuß
+idenüqrns. Ces disposttions ont pour but d'exclure un contröle jtxJiciaire des
+4/12
+
+
+dëcisions concernant la sQretë intërieure et extërieure du pays et les affaires
+intëressant les relations extëäeures, en raison de leur nature polltique (MARINO
+LE8ER, in Christoph Auer / Markus Müller / Benjamin Schindler. Kommentar
+zum Bundesgesetz über das Verwaltungsverfahren [VwVG], Zurich / St. Gall,
+2008. n. 5 ad art. 72 PA).
+La notion des "autres affaires relevant des relations extërëures" doK en principe
+recevoir une interprëtation restrictive. Eth s'applique aux actes ayant un
+caractëre polltique prëpondërant, le gouvernement et I'administration ayant un
+large pouvoir d'apprëciatlon pour dëfendre les Intërëts essentiels du pays tant ä
+I'intërieur que vis-ä-vis de I'extërëur (cf. THOMAS HABERLI, in Marcel Alexander
+Ni9gli / Peter Uetnrsax / Hans VWprächtiger, Burldesgerichtsgesetz, 2008,
+n. 20ss ad art. 83 LTF; MARINO LEBeR. op. cK., n. 739 ad art. 72 PA: ALAIN
+WuRZBURGER, in Bernard Colt>oz / Alain Wurzburger / Pierre Ferrari / Jean-
+Maurice Frësard / Florence Aubry GiraKiin. Commentaire de la LTF, Berne,
+2009, n. 23ss ad art. 83 LTF). Le lëgislateur a oonsidërë que, dans ces
+domaines, b gouvernement doit rester seul raF)onsable des dëcisions prises
+puisque les mesures tendant ä protëger Fintëgritë de I'Etat et ä matntenir de
+bonnes relations avec I'ëtranger font partie de ses täches essentielles. En
+ou he, les dëcision$ ä prendre dans oe domaine relëvent d'ordinaire d'une
+question d'apprëciation (ATF 132 11 342 consid. 1 ; ATF 121 11 248 consid. 1a). 11
+a notamment ëtë admis que I'accueil en Subse des organisations
+internationales relëve de la politielue extëäeure de la Suisse (arrët du Tribunal
+fëdëral 2A.432/1999 consid. 2).
+Mëme si ure dëcision concerne les relations extërieures, le recours au Conseil
+fëdëral est nëanmoËns irreoevable lorsque le droit international confëre un droit
+ä ce que la cause soit jugëe par un tribunal. Pareil droit dëcoule notamment de
+I'art. 6 S 1 de la Convention du 4 novembre 1950 de sauvegarde des droRs de
+I'homme et des libertës fondamentales (CEDH. RS 0.101) s'il s'a9it d'une
+contestation portant sur des dro tts et obligat}ons de caractëre civil (cf. THOMAS
+HA8ERLI. op. cit.. n. 18 et 2999 ad art. 83 LTF; MARINO LEBER, op. cit., n. 11 ad
+art. 72 PA; ALAIN WURZ8UR6ËR, 
+op. cit,, n. 29 ad art. 83 LTF). Pour ëtre en
+prësenoe d'un droit ou d'une obligation de car8ctëre eMI au sens de I'art. 6 S 1
+CEDH, it faut qu'il 8xiste une "prëtention", un "droitT dëcoulant du systëme lëgal
+inteme au sens large (cf. JocHEN FRowËIN / WOLFANG PEUKERT, EMRK-
+Kommentar. 36 öd 2009, n. 6 ad art. 6 CEDH). Or un tel droit est nië quand
+I'autoritë agit de maniëre disaëtionnaire. Selon la jurisprudence de la Cour
+europ anne des drdts de I'hwnme. lorsque I'action des autorttës relëve de kur
+erttiëre apprëcbtion ou que oeHes-ci dbposent d'une large marge
+d'apprëciation, I'art. 6 S 1 CEDH n'est pas appliable (anët Mendel con&e
+Suëde du 7 avril 2009 544; arrët Masson et van Zoo contre Pays-Bas du
+28 septembre 1995, sërb A vol. 327-A, 551: JocHEN FRowEIN / WoLFANG
+PËUKERT, op. cit., n. 23 ad. art. 6 CEDH).
+5/12
+
+
+En I'espëoe, tant Ie Tribunal administratif fëdëral dans son arrët du 16 aoöt
+201 1 (C.719/2011) que Ie Tribunal fëdëral dans son arrët du 22 novembre 2011
+(ATF 137 1 371) ont jt8ë que la cause conoernait au premier chef les relatIons
+extërieure$ et que le droit international ne donnait pas un droit ä ce que la
+cause soit jugëe par un tribunal. Ils ont oonclu ä I'ineoevabilitë des recnun
+dëposë9 devant eux en application respectivement des art. 32, al. 1, let. a,
+LTAF et 83, let. a, LTF.
+En effet, la BRI est une organisation internationale (ATF 136 III 379 consid. 4.1
+et rëfërenoes dtëes). A Fart. IB' de Facmrd de sië9e, le Conseil fëdëral
+reconnaTt la personnalitë juridique internationale de la BRI. Les questions
+relatives ä b violation de I'accord de siëge condu entre cette organisation
+internatbnale et la Suisse. ä la mise en place de oertaines dispositions de cet
+accord et ä I'oppoftunitë d'une intervention de la Suisse auprës de cette
+organisation internationale dans Ie but que celle-ci donne son accord ä un
+sëquestre d'avoirs dëposës auprës 
+d'elle, reëvent donc des relations
+internationales entre Ia Suisse et oette organisation intemationale. Les
+demandes des recourantes sont par consëquent des questions qui revëtent un
+caractëre politique marquë et concernent au premier chef les relations
+extërieures (ATF 121 ll 248 consid. 1b).
+Par ailleuß, la procëdure de sëquestre pone bien sur des drotts de nature civile
+au sons de I'art. 6 S 1 CEDH. Toutefois, oette procëdure de sëquestre a dëjä
+ëtë jugëe et les recourantes ont eu accës ä un tribunal dans le cadre de la
+procëdure relative ä la requëte de sëquestre qui a abouti en dernier lleu ä I'arrët
+du Tribunal fëdëial du 12 juillet 2010 (ATF 136 III 379). Les demandes des
+recourantes, objets de la prësente procëdure, ne relëvent quant ä elles pas d'un
+drolt de nature ctvile. Les recourantes ne peuvent en effet faire valoir aucun
+dre:>tt 
+dëcoulant du droit interne qui leur permettrait de requërir formellement une
+interventIon du DFAE auprës de la BRI pour que alle-ci autoäse rexëcut ion du
+sëquestre conoernë (ATF 137 1 371 consid. 1.3). L'art. 22 de I'accord de siëge
+pennet certes aux autoritës suisses d'intervenir auprës de la BRI. mais iI !aisse
+cette intervention ä kur entiëre discrëtion. Par allleurs. les demandes p©nant
+sur la constatation par le DFAE d'une violaüon de I'accord do $iëge, sur la mis8
+en pbce d'un mëcanbme de ësolution du dtffërend conforme ä I'art. 23 de
+I'aword de siëge et sur la mise en cnuvre de la procëdure arbttrale de Fart. 27
+de I'accord de siëge, ne portent pas sur des drotts de nature dvile (anët de la
+Cour europëenne des droits de I'homme Etffa9e S.A. et autres contra Suisse du
+15 septembre 2009 52. b).
+Partant, les conditions de recevabilitë de I'art. 72. let. a. PA sont remplies,
+1.2 
+Les autres conditions de reoevabilitë ëtant remplies. iI y a lieu d'entrer en
+matiëre sur b remurs.
+6/12
+
+
+2. Les recourantes demandent que soit constatë formellement I'existence, en
+l’espëce. d'un at)us des privilëges 
+et de I'immunitë 
+de la BRI au sens de
+I'art. 22 de i'acoord de siëge. Elles demandent que le DFAE inteNienne auprës
+de la BRI pour lol demander d'y remëdier en donnant son accord au sëquestre
+des fonds de la Rëpublique d'Argentine dëposës auprës d'elle conformëment ä
+I'art. 4, al. 4, do Facconl de siëge.
+2.1 
+L'abus d'immunKë conslsterait pour la Rëpublique d'Argentine et sa
+banque ä avoir mis et concentrë la totalitë de leur rëserve internationale en
+devise s auprës de la BRI afin de profiter de I'immunitë dont joutt la BRI en vertu
+de I'acoord de slëge et d'ëctlapper ainsi ä t'exëcution forcëe des jugements
+dëfinitifs et exëcutoires rendus par un tribunal de New York. en 2003 et 2006,
+condamnant la Rëpubtique d'Argentine ä leur verser les sommes en capItal plus
+intërëts de respectivement USD 284 miliions et USD 724 millions.
+Les recourantes font valoir que la BRI ne peut ignorer le motif de cette
+concentration des rëserves de la Rëpublique d'Argentine et qu'elle en profite
+ëconomiquement. Elles estiment que la BRI n'a donc pas respectë ses
+obligations fixëes ä Part. 22 de I'accord de siëge de prëvenir un abus de son
+immunitë et de permettre ainsi I'administration de la justice dans la mesure oö
+eIle refuse de donner son accord au sëquestre. Elles invoquent en outre
+I'art. 31 de la loi fëdërale du 22 juin 2007 sur les privilëges, les immunitës et les
+facilitës, airsi que sur les aides financëre s accordës par la Suisse en tant
+qu'Etat böte (LEH, RS 192.12) qui prëvoit que le Conseil fëdëral veille au
+respect des privitëges, des immunitës et des facilttës qui ont ëtë accordës et
+prend les mesures nëcessair8s lorsqu'il en constate un usage abusif.
+Los recourantes 
+font valoir que t'immunttë 
+de la BRI n'est pas absolue ëtant
+donnë que I'art. 4, al. 4, de laccord de siëge prëvott la pos3ibilitë pour la
+banque de donner son acoord ä una mesure d'exëcution, que la contrepartie de
+I'immunttë accoKlëe ä la banque est l'obligation de veiller ä ce qu'il n'en rësu lte
+aucun abus et que I'immunttë de la BRI est fonctionnelle. Cette imrnunitë
+couvrirait Ia fon<:tion, Fobjet et les activttës pour lesquels elle est accordëe.
+Invoquer fimmunttë pour des faits se sKuant hors de son champ d'application
+fonctionnel oonstttLerait dës k>rs un abus de droit. Elles soutiennent que s'il est
+dans les attäbutions de la BRI de recevoir bs dëpöts de ses banques centrales
+clientes, iI taut prendre en compte I'ampleur des dëpöts et les motifs pour
+b$quels la RëpubËque d'Ar9enüne concentre la totalitë de ses rëserv@ ä la
+BRI. Les circonstances de cette affaIre ëtant exceptionnelles, iI n'y a pas Heu de
+craindre qu'une constatatlon de I'abus porte atteinte aux affatres de la BRI de
+manËre gënërab ni au pdndpe de la protection dont b>uissent dans des
+circonstanoes ordlnaire$ 1es transactions enke les banque$ centrales et Sa BRI.
+De plus, elles $outiennent que la fonction et les effets de I'immunitë acconlëe
+par la Suisse ä la BRI ne peuvent ëtre de couvrir un acte illicite international ou
+7/12
+
+
+de servir un objecttf illicRe. Or le fait pour un Etat de ne pas respecter ses
+engagements contractuels et de se soustraire ä I'exëcution de jugement$
+exëcutoires, de protëger Ia quasi-totalitë de ses rëserves extërieures en devises
+derriëre une immunKë dont ce n'est ni I'objet ni la font:tion, seraR un acte illicite
+international.
+EIle s soutiennent enfin qu'il n'est ni nëcessaire, ni exigible qu'un juge alt au
+prëalable ëtabltt un ade illidte ä la charge de la Rëpublique d'Argentine et de
+sa banque. La constatation de Fabus d'immunitë et sa rësoluüon seraient du
+ressort des parties ä 1’accord, ä savoir la BRI et les autoritës sui sses. Elles
+expliquent 
+que le DFAE est compëtent ä cet effet en vertu de I'ad. 26 de
+I'aocord de sBge.
+2.2 
+La BRI est tine organisation internationab dont Ie statut en Suisse est
+rëglë par 1’accord de siëge. A I'art. 1“ de I'accord de siëge, le Conseil fëdëral lui
+reconnaTt la personnalttë juridique internationale et la capacttë juridique en
+Suisse. En vedu de I'art. 2, al. 1, de t'acconl de siëge, le Consell fëdëral garantit
+ä la BRI Findëpendance et la litnrtë cfaction qui lui appartiennent en sa qua}ttë
+d'organisation internationale. Celle-ci bënëficie en outre de I'immunitë de
+juridiction et d'exëcution en vertu de FaR. 4 de I'accord de siëge : "La banque
+bënëficie de l’immunitë de juridiction" (art. 4, al. 1) et "Les dëpöts confiës ä la
+banque. de mëme que toute crëance sur la Banque (...) ne pourront faire I'objet
+(...) d’aucune mesure d'exëcution (notamrnent de saisie. sëquestre, blocage ou
+d'autres mesure 
+s d'exëcution 
+forcëe ou de söretë et, en particulier, 
+de
+sëque$tIe au sens du droit suisse)" (art. 4, al. 4). Dans le mëme sens, des
+droits ä I'immunttë avaient dëjä ëtë prëvus ä I'art. lo de la Charte constitutive de
+la Banque des rëglements 
+internationaux 
+du 20 janvier 1930 (RS
+0.192.122.971), ä Fart. I" du Protocole du 30 juillet 1936 sur les immunitës de
+la Banque {RS 0.192.122.971.1) 
+et ä I'art. 55 des Statuts de celle-ei du
+20 janvier 1930, dans sa version du 27 juin 2005.
+La raison d'ëtre de ces immunitës est la nëcessttë de prëserver I'indëpendance
+fonctionnelle des organisations internationaks (CHRISTIAN DoMINlcE. L'imrnunltë
+de juridiction et d'exëcution des organisations internationales, in Recueil des
+cour$ de I'Acadëmie de droit international de La Haye. 1984. p. 161; STEPhANIE
+TAucHMANN, Die Immunität internationaler Organisationen gegenüber Zwangs-
+vollstreckungsmassnahmen, 2CX)5, Baden.Baden, p. 52; ATF 136 III 379
+consü. 4.5.2). Selon I'opinion dominante, oette immunüë est accordëe aux
+organisations internationales pour I'ensemble de leuß actes. EIle est absolue
+(Cf. STEPHANIe TAUCHMANN, OP. CIt, P. 44; ATF 136 III 379 COnSId. 4.3.1).
+En vertu de I'art. 22 de faccoNi de siëge, les autoritës sui8ses et la BRI
+coopërent en tout temps afln d'empëcher qu'un abus d'immunitë soit cornrnis.
+L'abus d'immunitë oonsiste ä accomplir un acte qui va plus loin quo Ie but pour
+8/12
+
+
++ 
++
+lequel oette immunitë a ëtë accordëe (cf. PHILIPPË CAHIËR, Etude des accords
+de siëge conclus entre les organisations internationales et les Etats oö elles
+rësident, Milan, 1950, p. 383).
+En effet, malgrë b caractëre absolu et complet de I'immunitë d'exëcution, b
+jurisprudence attend toutefois de I'interprëtation des accords de siëge certaines
+restricüons qui trouvent leur justtficatlon dans I'obligatlon de coopëration et dans
+Ie caractëre fonctionnel des prMlëges et immunitës, dans Ie but d’ëviter qu'un
+abus d'immunltë soit commis (DoMINIQUE 
+FAVRË, L’immunitë d'exëcution des
+Etats et des organisations internationales : la pratique suIsse, in Isabelle Pingel.
+Droit des Immunitës et exigences du procës ëquttable, 2004. Paris, p. 130;
+awëts du Tribunal fëdëral 5P.464/1994 du 22 juin 1995, reprc)duR partie}lement
+in RSDIE 1996 p. 597 et 5P.156/2003 du 7 juillet 2003; ATF 136 111 379 consid.
+4.3.1)
+En I'espëce, la question de I'immunitë de la BRI a dëjä ëtë tranchëe par le
+Tribunal fëdëral dans son arTët du 12 juillet 2010. L'acceptation par la BRI de
+dëpöts efFectuës par les banques centrates conespond en effet au but mëme
+de la ban<lue (ATF 136 111 
+379 consld. 4.3.1). Sehn Fan. 3 de ses statuts, la BRI
+a pour d>Jet de favoriser la coopëration des banques centrales et de fournir des
+facilitës addüionnelles pour les opërations financiëres internationales, d'agir
+comme marxiataire (trustee) ou comme agent en ce qui concerne les
+rëglernents financbrs internatbnaux qui lui sont confiës en vertu d'acoords
+passës avec les parties intëressëes. En vertu de I'art. 21. let. j, de ses statuts. ia
+BRI peut recevoir les dëpöts effectuës par les banques centrales en comptes
+courants ou en compte$ ä terme. Conformëment ä 1’art. 4 de I'accord de siögo,
+ces dëpöts des banque s centrates ne peuvent faire I'objet de mesures
+d'exëcution et la BRI, en tant que tierce dëtentrice. ne peut $ubir de mesures
+d'oxëcution (ATF 136 111 379 oonsid. 4.2.2). Le Tribunal fëdëral estime que la
+BRI serait atteinte dans son essence si les avoirs des banques centrales
+pouvaient ëtre sëquestrë$ (ATF 136 III 379 consid. 4.3.3). 11 conclut que les
+valeurs et crëances argentines confëes ä b BRI ne constituent donc pas des
+objets pouvant faire I'objet d'exëcution forcëe (ATF 136 III 379 consid. 4.7). Par
+ailleurs, si I'art. 4, al. 4, de I'accord de siëge prëvoit que les sëquestres sont
+admissibles avec I'accord exprës prëalable de la BRI, celle.ci n'a ä aucun
+moment consenti au sëquestre des valeurs argentines qui lui avaient ëtë
+confiëes (ATF 136 III 379 consid. 4.2.1). La banque a en effet fait valoir que la
+renonciation ä I'immunitë protëgeant les avoiß des banques centrales, dëposës
+confomëment ä sa rnbsion statutalre, porterait atteinte ä sa mission de banque
+des banques centrales (cf. lettre de la BRI au mandataire des recourantes du
+2 juillot 2010).
+11 appartient certes aux autoritës suisses, en veRu de I'art. 31 LEH, de prendre
+bs mesure6 nëces$aires lorsqu'il constate url usage abusif d'une immunttë et,
+en vertu de Fart. 22 de FacconI de sëge, iI appartient aux autoritës suisses et ä
+la BRI de dëcider de concert s'il y a nëce$$itë ou pas d'empëcher un at>us (ATF
+9/12
+
+
+136 III 379 consii:1. 4.4.3). Toutefois, en I'espëce. den ne permet de penser que
+I'immunitë aur8it ëtë utilisëe ä des fins ëtrangëres ä sa raison d'ëtre. En d'autres
+termes, les autoritës suisses ne disposent d'aualn ëlëment suffisant pennettant
+de penser que la BRI n'aurait pas a9tt oonformëment ä ses exigences
+statutaires en acceptant les plaoements de la Rëpublique d'Argenüne. Dës lors.
+faute d'ëlëments suffisants dans ce $ens, it n'appartient pas aux autoritës
+sulsses d'examiner si la politiquo de placements de la Banque centrale
+argentine auprës de la BRI est conforme ou pas aux exigences statutaire$ de
+celle-ei
+Par ailleun. en Fabsence de dëcislon judiciaire contraignante ou de resolution
+reconnue par la Suisse prise par une organisation internationale, les autoritës
+suisses ne sont pas habilitëa ä juger la conduite du gouvernement argentin.
+gIles ne sont en particulier pas habilitëes ä se prononcer sur la politique de
+placements auprës de la BRI menëe par la Rëpublique d'Ar9entine ou la
+Banque centrale argentine.
+11 existe en outre un oonsensus au niveau international sur I'immunitë des biens
+des banques centrales ä I'ëgard des mesures de contrainte. Le 2 dëcembre
+2004, l’Assemblëe gënërale des Nations Unies a en 8ffet adoptë urie
+Convention unIverselle sur les irnmunitës juridictionnelles des Etats et de leurs
+biens (CNUI JE, FF 2009 1481). La Suisse I'a ratifiëe Ie 16 avril 2010 (arrëtë
+fëdëral portant approbatbn et mise en @uvre de la CNUI JE du 11 dëcembre
+2009). L'art. 19 de cette convention prëvoil qu'aucune mesure 
+de c011trainte
+postërieure au jugement. teIle que saisie, saisie-anët ou $ai$ie-exëcution. ne
+peut ëtre prise contra des bions d'un Etat en relation avec une procëdure
+intentëe devant un tribunal d'un autre Etat exceptë, notamment, si les biens
+visës sont d'usa9e commercial. L'art. 21 de la convention prëcise que les biens
+de la banque centrale d'un Etat ne sont pas considërës comme des biens
+d'usage commercial. Ils bënëficient par consëquent d'une protection
+particuliëre. Ces disposition s conespondent ä I'immunitë d'exëcut ion accoKlëe
+aux dëpöts auprës de la BRI, dëpöts qui $ont prëcisëment des plaoements des
+banques centrales ëtrangëres (message du 25 fëvrier 2009 eoncernant
+I'approbation et la mi se en oeuvre de la CNUIJE, FF 2009 1468 s).
+Par oonsëquent. les autorttë$ suisses ne disposent daucun ëlëment suffisant
+leur peßnettarit de constater qu'un abus des immunitës confërëe3 ä la BRI
+aurait ëtë commis, que ce soit par cette demiëra. par la Rëpublique d'Argentine
+ou par la banque centrale argentine. A cela s'ajoute que les autoritës suis6es
+disposent, en venu de I'art. 22 de I'accord de siëge, d'une marge d'apprëciation
+en ce qui concerne les abus d'immunitë, pour intervenir auprës de la BRI.
+3. 
+Les recourantes demandent que b DFAE intervienne auprës de la BRI
+afin qu'un mëcanisme de rësolution du diffërend oonforme ä Part. 23 de I'accord
+de siëge soft mis en place. Elles font valoir en effet que la BRI n'a pas non plus
+10/12
+
+
+respectë son obligation de I'art. 23 de Faccord de siëge de meHre ä disposition
+un mëcanisme 
+de rësolution 
+du diffërend de droit privë que constitue la
+question de savoir si le refus de la BRI de consentir au sëquestre est justifië ou
+non
+L'art. 23, let. a, de I'amord de slëge prëvott que la BRI prend des dispositions
+appropriëes en vue du rëglement $atbfaisant de diffërends rësultant de contrats
+auxquels la BRI serait paRk et d'autres diffërends portant sur un point de droit
+pdvë, clans la mesure oö la banque bënëficie de I'immunitë de juridiction. En
+effet, l’immunttë kur garantbsant d'ëchapper ä la juridiction des tribunaux
+ëtatiques, les organisations internationales au bënëfice d'un tel privilëge
+s'enga9ent enver$ 1'Etat hate, gënëralement dans Faccord de slëge, ä prëvoir
+un mcxie de rëglement des litiges pouvant survenir ä I'occasion de contrats
+conclus avec des personnes prtvëes. Cette obl19ation de prëvoir tine procëdure
+de rëgbrnent avec les tiers consütue la contrepartie ä I'immunitë octroyëe (ATF
+118 lb 562 conski. 1b). En I'espëce, it n'y a pas de diffërend rësuHant d'un
+contrat auxquel la banque seratt partie ëtant donnë qu'il n'existe aucun lien
+contractuel entre ta BRI et les recourantes. 11 n'existe pas non plus de diffërend
+d'ordre privë entre la BRI et les recourante s. Le dtffërend d'ordre privë se situe
+en effet entre la Rëpublique d'Argentine et les recourantes. Rien ne permet
+done d'exiger de la BRI qu'elle mette en place un systëme de rëglement des
+diffërends p©dant sur un point de droit privë au sens de I'art. 23 de I'accord de
+siëge
+4. 
+Les recourantes demandent ä oe qu'en cas de refu$ de la BRI de se
+conformer ä ces obligat}ons selon I'accord de siëge ou de dësaocord entre la
+BRI et les autoritë§ suisse s. celles.ci engagent la procëdure arbhrale de I'art. 27
+de I'accord de sËge. Cette disposition prëvoit que toute divergence de vues
+concernant I'application 
+ou l’interprëtation de I'accord de slëge, qui n'a pu ëtre
+rëglëe par des pourpad8rs directs entre les parties. peut ëtre soumise, par I'une
+ou I'autre partie. au Tribunal arbitral prëvu par I'Accord de La Haye du
+20 janvier 1930 et visë au par. 11 de la Charte constitutive de la BRI. En
+I'espëoe. iI n'existe aucune divergence de vues entre la BRI et les autoritës
+suisses concernant I'application 
+ou I'interprëtation 
+de I'accord de siëge. 11 n'y a
+donc pas lieu de meHre en place la procëdure prëvue ä I'art. 27 dudR accord.
+5.
+11 rësulto de oe qui prëcëde que le recours doit ëtre rejetë.
+8. 
+Les frals de procëdure sont mis ä la charge de la partie qui succomb8
+(art. 63, al. 1, PA). En I'espëce, vu I'issue de la procëdure, les recourantes
+supportent les frais de la procËdure. En vertu des art. 63, al. 1, et 41-', let. b, PA
+et 2, al. 2, de I'ordonnance sur les frais et indemnttës en procëdure
+administrative (RS. 172. 041.0) et au vu des rrlontants des crëances en cause
+11/12
+
+
+(USD 284 millions et USD 724 millions), bs frais de procëdure sont fixës ä
+30 000 frana. Ce montant est en partie compensë par I'avance de frais de
+18 000 frann dont les recourantes se sont ac.quittëes.
+arrëte:
+1. Le recours est rejetë.
+2.
+Les frais de procëdure, ä hauteur de 30 000 francs, sollt mis ä la charge
+des reoourantes. 
+Ils sont compensës en partie par I'avanoe de frais de
+18 000 franw versëe par les recourantes. Les 12 000 franc,s dus aprës
+cette dëduction seront pergus par la Chanoellerie fëdërale.
+3003 Berne. 17 octobre 2012
+PAR ORORE DU CONSEIL FËDËRAL SUISSE
+La chanceliëre de la Confëdëration
+hut haHa.K
+Corina Casanova
+Communication ä :
+Dëpartement fëdëral des
+3003 Berrn
+affaires ëtrangëres, Services des recou rs .
+Direction du Drott international public, 3003 Berne
+361-ooin012/i . DRK
+12/12
