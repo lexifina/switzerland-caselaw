@@ -1,0 +1,264 @@
+---
+decision_id: "eschk_tarif-pn"
+court: "ESchK"
+court_id: "eschk"
+docket: "tarif-pn"
+decided: "2013-07-11"
+language: "de"
+legal_area: "Urheberrecht (Tarife)"
+decision_type: "Beschluss"
+source_url: "https://www.eschk.admin.ch/dam/de/sd-web/9shnRLUiOsKL/tarif-pn.pdf"
+pdf_url: "https://www.eschk.admin.ch/dam/de/sd-web/9shnRLUiOsKL/tarif-pn.pdf"
+cites_law: ["switzerland/bund/acts/172.021/art-050.md", "switzerland/bund/acts/172.021/art-052.md", "switzerland/bund/acts/173.32/art-037.md", "switzerland/bund/acts/231.1/art-046.md", "switzerland/bund/acts/231.1/art-057.md", "switzerland/bund/acts/231.1/art-059.md", "switzerland/bund/acts/231.1/art-060.md", "switzerland/bund/acts/231.1/art-074.md", "switzerland/bund/acts/231.11/art-009.md", "switzerland/bund/acts/231.11/art-010.md", "switzerland/bund/acts/231.11/art-011.md", "switzerland/bund/acts/231.11/art-016b.md"]
+---
+
+# Tarif PN (Beschluss vom 11. Juli 2013)
+
+## Text
+
+Eidgenössische Schiedskommission für die Verwertung von
+Urheberrechten und verwandten Schutzrechten ESchK
+Commission arbitrale fédérale pour la gestion de droits d'auteur et
+de droits voisins CAF
+Commissione arbitrale federale per la gestione dei diritti d'autore e
+dei diritti affini CAF
+Cumissiun federala da cumpromiss per la gestiun da dretgs d'autur
+e da dretgs cunfinants CFDC
+
+
+
+
+Beschluss vom 11. Juli 2013
+betreffend den Tarif PN
+Aufnehmen von Musik auf Tonträger, die nicht ans Publikum abgegeben werden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2/5
+ESchK
+CAF Beschluss vom 11. Juli 2013 betreffend den Tarif PN
+CFDC
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+I.
+In tatsächlicher Hinsicht hat sich ergeben:
+1.
+Die Gültigkeitsdauer des mit Beschluss vom 1. Dezember 2010 genehmigten Tarifs PN
+(Aufnehmen von Musik auf Tonträger, die nicht ans Publikum abgegeben werden) läuft
+am 31. Dezember 2013 ab. Mit Eingabe vom 11. März 2013 hat die Verwertungsge-
+sellschaft SUISA der Schiedskommission den Antrag gestellt, den Tarif PN in der gel-
+tenden Fassung vom 11. Februar 2010 um zwei Jahre bis zum 31. Dezember 2015 zu
+verlängern.
+
+2.
+Die SUISA gibt die Einnahmen aus dem Tarif PN in den letzten zwei Jahren wie folgt
+an:
+2011:
+Fr. 57'536.00
+2012:
+Fr. 47'184.00
+
+3.
+Weiter berichtet die SUISA, dass sie den folgenden am Tarif PN beteiligten Verbänden
+eine Tarifverlängerung um zwei Jahre vorgeschlagen habe:
+-
+Schweizer Werbe-Auftraggeberverband (SWA)
+-
+Verband Schweizer Privatradios (VSP)
+-
+Union Romande des Radios Régionales (RRR)
+
+Gleichzeitig sei diesen Verbänden angeboten worden, bei Bedarf eine Verhandlungs-
+sitzung durchzuführen. Alle drei Verhandlungspartner hätten ihr Einverständnis mit die-
+ser weiteren Verlängerung bestätigt.
+
+4.
+Hinsichtlich der Angemessenheit des Tarifs verweist die SUISA somit auf die ausdrück-
+liche Zustimmung der Verhandlungspartner zur beantragten Verlängerung. Insbeson-
+dere gebe es im vorliegenden Fall keine Umstände, die der Vermutung widersprechen
+würden, wonach der Tarif einer unter einem Konkurrenzverhältnis zustande gekomme-
+nen Einigung gleichkomme. Im Übrigen habe die Schiedskommission diesen Tarif mit
+Beschluss vom 1. Dezember 2010 genehmigt. Hinsichtlich der Angemessenheit des zu
+verlängernden Tarifs wird daher auf das Genehmigungsverfahren zum geltenden Tarif
+PN verwiesen und nötigenfalls um Beizug der damaligen Verfahrensakten ersucht.
+
+5.
+Da die betroffenen Nutzerverbände der Verlängerung des Tarifs PN bis zum 31. De-
+zember 2015 ausdrücklich zugestimmt haben, konnte gestützt auf Art. 10 Abs. 3 URV
+auf die Durchführung einer Vernehmlassung verzichtet werden. Mit Präsidialverfügung
+
+
+3/5
+ESchK
+CAF Beschluss vom 11. Juli 2013 betreffend den Tarif PN
+CFDC
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+vom 21. März 2013 wurde gestützt auf Art. 57 Abs. 2 URG in Verbindung mit Art. 10
+Abs. 1 URV die Spruchkammer eingesetzt und gleichzeitig dem Preisüberwacher ge-
+mäss Art. 15 Abs. 2bis des Preisüberwachungsgesetzes vom 20. Dezember 1985
+(PüG) die Tarifeingabe zur Abgabe einer Empfehlung unterbreitet.
+
+Mit Antwort vom 27. März 2013 verzichtete der Preisüberwacher auf die Abgabe einer
+formellen Empfehlung zum beantragten Tarif PN. Dies begründet er mit dem Umstand,
+dass sich die Verwertungsgesellschaft und die massgebenden Nutzerverbände auf ei-
+ne Tarifverlängerung einigen konnten.
+
+6.
+Da die unmittelbar vom Tarif PN betroffenen Kreise dem vorgelegten Tarif ausdrücklich
+zugestimmt haben, und auch seitens der Mitglieder der Spruchkammer kein Antrag auf
+Durchführung einer Sitzung gestellt wurde, erfolgt die Behandlung des Verlängerungs-
+antrags der SUISA gemäss Art. 11 URV auf dem Zirkulationsweg.
+
+II.
+Die Schiedskommission zieht in Erwägung:
+1.
+Die Verwertungsgesellschaft SUISA hat ihren Antrag auf Verlängerung des Tarifs PN
+(Aufnehmen von Musik auf Tonträger, die nicht ans Publikum abgegeben werden) in
+der bisherigen Fassung am 11. März 2013 und somit innert der Frist von Art. 9 Abs. 2
+URV eingereicht. Aus den Gesuchsunterlagen geht zudem hervor, dass die Verhand-
+lungen im Sinne von Art. 46 Abs. 2 URG ordnungsgemäss angeboten worden sind.
+
+2.
+Die Schiedskommission genehmigt einen ihr vorgelegten Tarif, wenn er in seinem Auf-
+bau und in den einzelnen Bestimmungen angemessen ist (Art. 59 Abs. 1 URG), wobei
+sich die Angemessenheit der Entschädigung nach Art. 60 URG richtet.
+
+Nach ständiger Rechtsprechung der Schiedskommission wird die Zustimmung der un-
+mittelbar Betroffenen als Indiz für die Angemessenheit und damit die Genehmigungs-
+fähigkeit eines Tarifes aufgefasst. Im Falle der Zustimmung der hauptsächlichen Nut-
+zerverbände verzichtet sie demnach auf eine eingehende Prüfung gemäss Art. 59 f.
+URG. Die Schiedskommission stützt ihre diesbezügliche Praxis auf einen Entscheid
+des Bundesgerichts vom 7. März 1986, in dem festgestellt wurde, dass im Falle der
+Zustimmung der Nutzerseite zu einem Tarif davon ausgegangen werden kann, dass
+
+
+4/5
+ESchK
+CAF Beschluss vom 11. Juli 2013 betreffend den Tarif PN
+CFDC
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+dieser Tarif annähernd einem unter Konkurrenzverhältnissen zustande gekommenen
+Vertrag entspricht (Entscheide und Gutachten der ESchK, Bd. III, 1981-1990, S. 190).
+Das Bundesverwaltungsgericht hat in seinem Entscheid vom 21. Februar 2011 betr.
+den GT 3c (E. 6.2., S. 17 f.) befunden, dass eine solche Vermutung nicht bedeuten
+kann, dass gewichtige Anzeichen, die gegen eine solche Annahme sprechen, ausser
+Acht gelassen werden dürfen. Die Zustimmung der Nutzerverbände sei gemäss dem
+Entscheid des Bundesgerichts nicht als Anlass für eine formelle Kognitionsbeschrän-
+kung, sondern bloss als Indiz für die wahrscheinliche Zustimmung aller massgeblichen
+Berechtigtengruppen unter Konkurrenzverhältnissen anzusehen. Gewichtige Indizien,
+die gegen diese Annahme sprechen, dürften darum nicht ausgeklammert werden.
+
+Unter Berücksichtigung des Einverständnisses der beteiligten Nutzerorganisationen zur
+beantragten Verlängerung des Tarifs PN und des Umstandes, dass der Schiedskom-
+mission keine weiteren Anhaltspunkte vorliegen, die dagegen sprechen, dass der Tarif
+nicht annähernd einem unter Konkurrenzverhältnissen zustande gekommenen Vertrag
+entspricht und es auch keinerlei Indizien für eine Unangemessenheit nach Art. 59 f.
+URG gibt, ist beim Tarif PN von einem Einigungstarif auszugehen. Die Schiedskom-
+mission kann deshalb voraus setzen, dass der Tarif in seinem Aufbau und in seinen
+einzelnen Bestimmungen angemessen ist. Dies muss hier umso mehr gelten, als es
+sich um die Verlängerung eines Tarifs handelt, den die Schiedskommission bereits mit
+Beschluss vom 1. Dezember 2010 genehmigt hat. Dass der Zustimmung der massge-
+benden Nutzerverbände und -organisationen anlässlich eines Tarifverfahrens ein hoher
+Stellenwert beizumessen ist, ergibt sich auch daraus, dass in diesem Fall gemäss Art.
+11 URV keine Sitzung zur Behandlung der Vorlage einberufen werden muss, sondern
+die Genehmigung auf dem Zirkulationsweg erfolgen kann.
+
+Da der Preisüberwacher auf die Abgabe einer formellen Empfehlung verzichtet hat,
+gibt die Tarifeingabe der SUISA zu keinen weiteren Bemerkungen Anlass. Der Tarif PN
+ist somit antragsgemäss bis zum 31. Dezember 2015 zu verlängern. Bei dieser Verlän-
+gerung ist zu berücksichtigen, dass der Tarif nur soweit genehmigt wurde, als er der
+Tarifaufsicht unterliegt (vgl. zum sog. Synchronisationsrecht den Beschluss der ESchK
+vom 9. Dezember 1999, Ziff. II/4a).
+
+
+
+5/5
+ESchK
+CAF Beschluss vom 11. Juli 2013 betreffend den Tarif PN
+CFDC
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+3.
+Die Gebühren und Auslagen dieses Verfahrens richten sich nach Art. 16a Abs. 1 und
+Abs. 2 Bst. a und d URV (in der Fassung vom 1. Juli 2008) und sind gemäss Art. 16b
+URV von der SUISA zu tragen.
+
+III.
+Demnach beschliesst die Eidg. Schiedskommission:
+1.
+Die Gültigkeitsdauer des mit Beschluss vom 1. Dezember 2010 genehmigten Tarifs
+PN (Aufnehmen von Musik auf Tonträger, die nicht ans Publikum abgegeben werden)
+wird - soweit dieser Tarif der Kognition der Schiedskommission unterliegt - bis zum
+31. Dezember 2015 verlängert.
+
+2.
+Der SUISA werden die Verfahrenskosten bestehend aus:
+a)
+einer Spruch- und Schreibgebühr von
+Fr. 1'400.00
+b)
+sowie dem Ersatz der Auslagen von
+Fr. 2'328.00
+total Fr. 3'728.00 auferlegt.
+
+3.
+Schriftliche Mitteilung an:
+− die Mitglieder der Spruchkammer
+− SUISA, Zürich (Einschreiben)
+− Schweizer Werbe-Auftraggeberverband (SWA), Zürich (Einschreiben)
+− Union Romande des Radios Régionales (RRR), Rossemaison (Einschreiben)
+− Verband Schweizer Privatradios (VSP), Bern (Einschreiben)
+− den Preisüberwacher (zur Kenntnis)
+
+4.
+Gegen diesen Beschluss kann innert 30 Tagen nach Eröffnung beim Bundesverwal-
+tungsgericht (Postfach, 9023 St. Gallen) Beschwerde geführt werdeni. Die Rechts-
+schrift hat die Begehren, deren Begründung mit Angabe der Beweismittel und die Un-
+terschrift zu enthalten. Der angefochtene Entscheid und die Beweismittel sind, soweit
+sie die beschwerdeführende Partei in Händen hat, beizulegenii.
+
+Eidg. Schiedskommission für die Verwertung von
+Urheberrechten und verwandten Schutzrechten
+Die Präsidentin:
+
+Der Kommissionssekretär:
+
+
+L. Hunziker Schnider
+A. Stebler
+
+i Art. 74 Abs. 1 URG i.V.m. Art. 33 Bst. f und Art. 37 VGG sowie Art. 50 Abs. 1 VwVG.
+ii Art. 52 Abs. 1 VwVG.
