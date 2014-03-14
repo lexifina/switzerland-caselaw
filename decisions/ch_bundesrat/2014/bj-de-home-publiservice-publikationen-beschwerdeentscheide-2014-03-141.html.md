@@ -1,0 +1,205 @@
+---
+decision_id: "ch_bundesrat__bj_de_home_publiservice_publikationen_beschwerdeentscheide_2014-03-141.html"
+court: "Bundesrat"
+court_id: "ch_bundesrat"
+docket: "/bj/de/home/publiservice/publikationen/beschwerdeentscheide/2014-03-141.html"
+decided: "2014-03-14"
+language: "de"
+source_url: "https://www.bj.admin.ch/dam/bj/de/data/publiservice/publikationen/beschwerdeentscheide/2014-03-14-beschwerde-vzo-uvek.pdf.download.pdf/2014-03-14-beschwerde-vzo-uvek-d.pdf"
+pdf_url: "https://www.bj.admin.ch/dam/bj/de/data/publiservice/publikationen/beschwerdeentscheide/2014-03-14-beschwerde-vzo-uvek.pdf.download.pdf/2014-03-14-beschwerde-vzo-uvek-d.pdf"
+cites_law: ["switzerland/bund/acts/172.021/art-048.md", "switzerland/bund/acts/172.021/art-063.md", "switzerland/bund/acts/172.021/art-072.md", "switzerland/bund/acts/172.021/art-073.md", "switzerland/bund/acts/172.021/art-076.md", "switzerland/bund/acts/510.62/art-007.md", "switzerland/bund/acts/510.625/art-003.md", "switzerland/bund/acts/510.625/art-027.md"]
+---
+
+# Bundesrat /bj/de/home/publiservice/publikationen/beschwerdeentscheide/2014-03-141.html
+
+## Regeste
+
+Beschwerdesache Gemeinde Wald ZH gegen Verkehrsbetriebe Zürichsee und Oberland (VZO) und Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK). Entscheid
+
+## Text
+
+DER SCHWEIZERISCHE BUN'DESR.^T 
+LE CONSEIL FÉDÉR.^L SUMSSE 
+[L CONSIGLIO FEDER.ME S\'IZZERO 
+I L CUSSEGL FEDERAL SVIZZER 
+hat in der Beschwerdesache 
+Gemeinde Wald ZH, handelnd durch den Gemeinderat, Bahnhofstrasse 6, 
+Postfach, 8636 Wald ZH, 
+gegen 
+1. Verkehrsbetriebe Zürichsee und Oberland (VZO), Binzikerstrasse 2, 
+8627 Grüningen, 
+2, Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommuni-
+kation (UVEK), Bundeshaus Nord, 3003 Bem, 
+betreffend 
+Stationsnamen 
+befunden und erwogen: 
+I. 
+A. 
+Am 19. Februar 2013 ersuchten die VZO das Bundesamt für Verkehr 
+(BAV), den Namen der bisherigen Bushaltestelle „Faltigberg ZH, Höhenklinik" 
+1/6 
+
+
+in „Wald ZH, Faltigberg" zu ändem. Das Gesuch erfolgte, nachdem im Kanton 
+Zürich die Ortschaft Faltigberg aufgehoben und deren Perimeter in die Ortschaft 
+Wald ZH integriert worden war (Genehmigungsentscheid des Bundesamtes für 
+Landestopografie vom 3. April 2012; BBI 20/2 3881). 
+B. 
+Das BAV führte bei den interessierten Behörden und Untemehmen eine 
+Anhörung durch. Das Amt fur Verkehr des Kantons Zürich, der Zürcher 
+Verkehrsverbund und die SBB waren mit dem Antrag der VZO einverstanden. 
+Die Gemeinde Wald ZH wünschte hingegen mit Schreiben vom 8. März 2013, 
+der Haltestellenname „Wald ZH, Faltigberg" sei mit dem Zusatz „Höhenklinik" 
+zu versehen. 
+Am 2. April 2013 entschied das BAV, per 15. Dezember 2013 „Wald ZH, 
+Faltigberg" als neuen Namen der fraglichen Bushaltestelle festzulegen. 
+C. 
+Die von der Gemeinde Wald ZH gegen den Entscheid des BAV 
+erhobene Beschwerde wies das UVEK am 3. September 2013 ab. 
+D. 
+Am 2. Oktober 2013 reichte die Gemeinde Wald ZH beim Bundesrat 
+Beschwerde ein. Sie beantragt, der Entscheid des UVEK vom 3. September 2013 
+sei aufzuheben und die Haltestellenbezeichnung neu auf „Wald ZH, Hö-
+henklinik" festzulegen. 
+Die VZO und das Amt für Verkehr des Kantons Zürich haben auf eine 
+Vemehmiassung verzichtet. Dasselbe gilt für das UVEK, das in seinem 
+Schreiben vom 30. Oktober 2013 an die Instmktionsbehörde auf die 
+Ausfühmngen im angefochtenen Entscheid verweist. 
+E. 
+Die Instmktion der vorliegenden Beschwerde oblag dem Bundesamt für 
+Justiz (Art. 75 des Bundesgesetzes vom 20. Dezember 1968 über das Verwal-
+tungsverfahren [VwVG; SR 172.021]; Art. 7 Abs. 8 der Organisationsverord-
+nung für das Eidgenössische Justiz- und Polizeidepartement vom 17. November 
+1999 [OV-EJPD; 172.213.1]). Das EJPD hat sich dem Antrag des Bundesamtes 
+für Justiz über die Erledigung der Beschwerde angeschlossen und dem Bundesrat 
+Antrag gestellt. 
+Die Vorsteherin des UVEK tritt für den Entscheid des Bundesrates in den Aus-
+stand (Art. 76 Abs. 1 VwVG; Art. 4 Abs. 4 der Organisationsverordnung für den 
+Bundesrat vom 29. November 2013 [OV-BR; SR 172.111]). 
+2/6 
+
+
+II. 
+1.1. 
+Art. 7 des Geoinformationsgesetzes vom 5. Oktober 2007 (GeoIG; SR 
+510.62) trägt den Titel „Geografische Namen". Er sieht vor, dass der Bundesrat 
+Vorschriften zur Koordination der Namen von Gemeinden, Ortschaften und 
+Strassen eriässt und die übrigen geografischen Namen, die Zuständigkeiten, das 
+Verfahren sowie die Kostentragung regelt (Abs. 1). Über Streitigkeiten aus der 
+Anwendung dieser Vorschriften entscheidet in letzter Instanz der Bundesrat 
+(Abs. 2). 
+Nach Art. 28, 30 und 32 der Verordnung vom 21. Mai 2008 über die 
+geografischen Namen (GeoNV; SR 510.625) trifft das Bundesamt für Verkehr 
+über die Festlegung oder Änderung eines Stationsnamens auf Gesuch einen 
+beschwerdefähigen Entscheid. 
+Gegen den angefochtenen Beschwerdeentscheid des UVEK vom 3. September 
+2013 ist somit nach Art. 7 Abs. 2 GeoIG in Verbindung mit Art. 73 Bst. a VwVG 
+die Beschwerde an den Bundesrat zulässig. 
+1.2. 
+Indessen ist nicht zu übersehen, dass der Rechtsmittelweg an den 
+Bundesrat gemäss Art. 7 Abs. 2 GeoIG weder in den Zuständigkeiten des 
+Bundesrates nach Art. 72 VwVG noch im Ausnahmekatalog für die Beschwerde 
+an das Bundesverwaltungsgericht (Art. 32 des Verwaltungsgerichtsgesetzes vom 
+17. Juni 2005 [VGG; SR 173.32]) enthalten ist. Im Rahmen der Totalrevision der 
+Bundesrechtspflege wurden die Zuständigkeiten des Bundesrates als Organ der 
+Verwaltungsrechtspflege bewusst auf ein Minimum reduziert, vor allem auf 
+Verfügungen, die wesentlich von aussen- oder sicherheitspolitischen 
+Überlegungen geprägt sind (vgl. Botschaft vom 28. Februar 2001, BBI 2001 
+4202 Ziff 1.1.4 und 2.3.2). Art. 7 Abs. 2 GeoIG steht eher im Widerspruch zu 
+diesem Kontext. Als neueres Recht muss er aber trotz der Abweichung vom 
+VwVG und VGG angewendet werden. 
+2. 
+Die Gemeinde Wald ZH (Beschwerdeführerin) ist zur Beschwerde 
+berechtigt (Art. 28 Abs. 2 Bst. b und 31 GeoNV und Art. 7 Abs. 1 GeoIG in 
+Verbindung mit Art. 48 Abs. 2 VwVG). 
+3. 
+Die Beschwerde wurde form- und fristgerecht eingereicht. 
+4. 
+Nach Art. 27 GeoNV erhält eine Station den Namen der Ortschaft, die 
+sie bedient (Abs. 2). Bedienen mehrere Stationen dieselbe Ortschaft, so werden 
+sie durch Beifügungen zum Ortschaftsnamen unterschieden. Die Beifügung darf 
+3/6 
+
+
+nicht aus dem Namen eines Untemehmens bestehen, es sei denn, dieser sei 
+identisch mit einem geografischen Namen (Abs. 4). 
+Spitäler sind nach Art. 3 Bst. h GeoNV topografische Objekte. Ihr Name kann 
+daher als geografischer Name im Sinne von Art. 3 Bst. a GeoNV betrachtet 
+werden. 
+5. 
+Da die Ortschaft Faltigberg aufgehoben und deren Gebiet der Ortschaft 
+Wald ZH zugeordnet worden ist, muss die neue Bezeichnung der fraglichen 
+Haltestelle nach den Regeln von Art. 27 GeoNV mit „Wald ZH" beginnen. 
+Wegen der Mehrzahl von Stationen in Wald ZH ist eine Beifügung erforderlich. 
+Als solche können sowohl der Siedlungsname „Faltigberg" als auch der 
+Spitalname „Höhenklinik" in Betracht kommen; beide sind verordnungskonfom. 
+Ein Antrag auf die dreiteilige Bezeichnung „Wald ZH, Faltigberg Höhenklinik" 
+ist im Verfahren vor dem Bundesrat nicht mehr gesteUt worden. Mit dieser 
+Bezeichnung würde die Maximallänge von 30 Zeichen überschritten, die das 
+BAV aufgrund intemationaler Vorgaben in seine Richtlinien vom 20. Januar 
+2010 zur Schreibweise der Stationsnamen aufgenommen hat. 
+6. 
+Die Beschwerdeführerin verlangt die Beifügung „Höhenklinik" (statt 
+„Faltigberg"), weil diese den Verkehrsbedürfnissen besser Rechnung trage. Die 
+Höhenklinik sei seit langem bei Einheimischen und Auswärtigen bekannt. Die 
+Busbenutzer würden fast ausschliesslich zum Zielort Höhenklinik fahren. Der 
+Weilemame Faltigberg sei hingegen beim breiten Publikum kaum bekannt. 
+Das UVEK bemft sich ebenfalls auf die Verkehrsbedürfnisse, indem es ausführt, 
+Haltestellennamen müssten eine gewisse Beständigkeit aufweisen. Die Zukunft 
+der Höhenklinik in Wald sei ungewiss, da gegenwärtig über eine Verlegung des 
+Betriebs in das Spital Uster diskutiert werde. Es gelte zu vermeiden, dass der 
+Haltestellenname unter Umständen schon nach kurzer Zeit wieder geändert 
+werden müsse. 
+7. 
+Im September 2012 hat die Stiftung Zürcher Höhenkliniken Wald und 
+Clavadel bekannt gegeben, dass sie prüft, den Betrieb der Höhenklinik Wald in 
+einen Neubau beim Spital Uster zu verlegen. Entscheide dazu sollen im Frühjahr 
+2014 getroffen werden. 
+Unter diesen Umständen ist es richtig, die Haltestelle bei der heutigen Höhen-
+klinik mit „Wald ZH, Faltigberg" und nicht mit „Wald ZH, Höhenklinik" zu 
+bezeichnen. „Höhenklinik" ist nicht eigentlich ein Spitalname, sondern eher eine 
+Sachbezeichnung, vergleichbar mit „Post" oder „Schulhaus". Sollte der Klinik-
+betrieb verlegt werden, wäre es irreführend, die Haltestelle weiter nach der 
+4/6 
+
+
+Höhenklinik zu bezeichnen. Der Haltestellenname müsste somit nochmals 
+geändert werden. 
+Zur Orientierung der Besucher der - zumindest einstweilen weiterbestehenden -
+Höhenklinik ist es nicht zwingend nötig, dass die Haltestelle nach ihr benannt 
+wird. Die VZO und die Höhenklinik selbst werden in geeigneter Weise 
+informieren können, über welche Bushaltestelle die Höhenklinik Wald zu 
+erreichen ist. Diese Situation unterscheidet sich nicht von zahlreichen anderen 
+öffentlichen Einrichtungen ohne gleichnamige Haltestelle. Die VZO scheinen 
+darin auch kein Problem zu sehen, sonst hätten sie in ihrem Gesuch an das BAV 
+nicht „Wald ZH, Faltigberg" beantragt. Da der Weilemame Faltigberg schon in 
+der heutigen Haltestellenbezeichnung vorkommt (sogar an erster Stelle), wird er 
+für die Buspassagiere nicht völlig neu sein. 
+8. 
+Demnach ist der angefochtene Entscheid des UVEK rechtmässig und 
+angemessen. Die Beschwerde ist daher abzuweisen. 
+9. 
+Nach Art. 63 Abs. 2 VwVG werden der Beschwerdeführerin keine 
+Verfahrenskosten auferlegt. Den VZO ist im Beschwerdeverfahren kein 
+namhafter Aufwand erwachsen, so dass keine Parteientschädigung zuzusprechen 
+ist. 
+und erkannt: 
+1. Die Beschwerde wird abgewiesen. 
+2. Es werden weder Verfahrenskosten erhoben noch Parteientschädigungen 
+zugesprochen. 
+3003 Bem, 14. März 2014 
+IM AUFTRAG DES SCHWEIZERISCHEN BUMDESRATES 
+Die Bundeskanzlerin 
+Corina Casanova 
+5/6 
+
+
+Mitteilung an: 
+Gemeinderat Wald ZH, Postfach, 8636 Wald ZH 
+Verkehrsbetriebe Zürichsee und Oberland, Binzikerstrasse 2, 8627 Grüningen 
+Amt für Verkehr des Kantons Zürich, Postfach, 8090 Zürich 
+Eidg. Departement für Umwelt, Verkehr, Energie und Kommunikation, 
+3003 Bem 
+Bundesamt für Verkehr, 3003 Bem 
+361/2013/09612 LM 
+6/6
