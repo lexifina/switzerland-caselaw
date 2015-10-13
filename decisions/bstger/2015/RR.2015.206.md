@@ -1,0 +1,465 @@
+---
+decision_id: "bstger_RR.2015.206"
+court: "Bundesstrafgericht"
+court_id: "bstger"
+chamber: "RR"
+docket: "RR.2015.206"
+decided: "2015-10-13"
+published: "2015-11-25"
+language: "it"
+decision_type: "Kein Weiterzug, rechtskräftig;;Pas de recours, entré en force;;Nessun ricorso, cresciuto in giudicato;;Kein Weiterzug, rechtskräftig"
+source_url: "https://bstger.weblaw.ch/api/getDocumentContent/80d54f7a-7abd-3c92-a9d7-441d4a9f1efa"
+pdf_url: "https://bstger.weblaw.ch/api/getDocumentContent/80d54f7a-7abd-3c92-a9d7-441d4a9f1efa"
+cites_decisions: ["1A.160/2003", "1A.177/2006", "1A.182/2006", "1A.195/2005", "1A.227/2006", "1A.54/2004", "1B_380/2010", "1C_486/2008", "1C_525/2008", "1C_526/2008", "BGE 121 I 54", "BGE 122 II 134", "BGE 124 II 132", "BGE 126 I 19", "BGE 126 II 258", "BGE 127 II 151", "BGE 129 II 462", "BGE 130 II 14", "BGE 132 II 81", "BGE 134 I 83", "BGE 135 IV 212", "BGE 136 IV 82", "BGE 140 IV 123", "RR.2007.18", "RR.2008.154", "RR.2011.113", "RR.2012.91", "RR.2015.206"]
+cites_law: ["switzerland/bund/acts/172.021/art-063.md", "switzerland/bund/acts/173.110/art-084.md", "switzerland/bund/acts/173.71/art-073.md", "switzerland/bund/acts/351.1/art-001.md", "switzerland/bund/acts/351.1/art-012.md", "switzerland/bund/acts/351.1/art-074.md"]
+---
+
+# Bundesstrafgericht RR.2015.206
+
+## Regeste
+
+Assistenza giudiziaria internazionale in materia penale all'Italia. Consegna di mezzi di prova (art. 74 AIMP).
+
+## Text
+
+Sentenza del 13 ottobre 2015
+Corte dei reclami penali
+Composizione
+
+Giudici penali federali Stephan Blättler, presidente,
+Giorgio Bomio e Nathalie Zufferey Franciolli,
+Cancelliere Giampiero Vacalli
+
+
+
+Parti
+
+
+A. SA, rappresentata dall'avv. Venerio Quadri,
+Ricorrente
+
+
+
+
+
+
+contro
+
+
+
+MINISTERO PUBBLICO DEL CANTONE TICINO,
+Controparte
+
+
+
+
+Oggetto
+
+Assistenza giudiziaria internazionale in materia penale
+all'Italia
+
+Consegna di mezzi di prova (art. 74 AIMP)
+
+B u n d e s s t r a f g e r i c h t
+T r i b u n a l p é n a l f é d é r a l
+T r i b u n a l e p e n a l e f e d e r a l e
+T r i b u n a l p e n a l f e d e r a l
+
+Numero dell’incarto: RR.2015.206
+
+- 2 -
+
+
+Fatti:
+A.
+La Procura della Repubblica presso il Tribunale di Siena (Italia) ha presentato
+alla Svizzera, per mezzo di una prima commissione rogatoria facente data al
+27 febbraio 2013, poi integrata da successivi complementi datati 4 e 18 marzo,
+9 maggio, 7 giugno 2013 e 11 marzo 2015, una richiesta di assistenza giudizia-
+ria in materia penale nel contesto di un procedimento da essa condotto nei con-
+fronti di B. ed altri, per titolo di concorso in ostacolo all'esercizio delle funzioni
+delle autorità pubbliche di vigilanza, concorso in usura pluriaggravata, concorso
+in truffa pluriaggravata, concorso in infedeltà patrimoniale pluriaggravata e con-
+corso in false comunicazioni sociali in danno delle società, dei soci o dei credi-
+tori (v. incarto MP-TI ROG.2013.50, class. atti istruttori, doc. 1 e segg.). Se-
+condo quanto riportato dagli atti trasmessi per via rogatoriale, B., in qualità di
+direttore dell'Area Finanza della banca C., ed altri correi, avrebbero occultato
+con mezzi fraudolenti un contratto ("mandate agreement") stipulato in data 31
+luglio 2009 tra l'istituto citato e la Banca D. avente per oggetto un collegamento
+negoziale che riguardava alcune operazioni finanziarie tra le quali figuravano
+importanti movimentazioni di investimento nei E. a scadenza trentennale, il cui
+valore stimato si collocherebbe nell'ordine dei 3.05 miliardi di euro, e la ristrut-
+turazione del veicolo Alexandria, quest'ultimo effettuato in ostacolo alle funzioni
+della Banca F. A mente dell'autorità rogante, dagli accertamenti eseguiti si sa-
+rebbero delineate fitte relazioni personali e professionali tra lo stesso B. e G.
+Sarebbero inoltre emersi frequenti contatti tra H. SA e l'istituto di credito Banca
+C. L'autorità rogante ha quindi richiesto, tra altri, l'acquisizione e l'autorizzazione
+all'utilizzazione della documentazione sequestrata presso i domicili e le sedi
+delle persone coinvolte nonché la produzione della documentazione relativa a
+conti bancari intestati e/o riconducibili alle stesse siti presso vari istituti di credito
+svizzeri, tra i quali figuravano in particolare le relazioni ascrivibili a B.
+
+
+B.
+Mediante decisioni del 13 maggio 2013 e 13 marzo 2015, il Ministero pubblico
+della Repubblica e Cantone Ticino (di seguito: MP/TI) è entrato in materia sulla
+domanda presentata dall'autorità italiana (v. atto 10 incarto MP/TI) ordinando
+svariate misure di assistenza, tra le quali la perquisizione ed il sequestro di do-
+cumentazione presso la società I. SA, a Losanna (v. atto 128 incarto MP/TI).
+
+
+C.
+Con decisione di chiusura parziale del 19 maggio 2015, il MP/TI ha parzial-
+mente accolto la rogatoria, ordinando la trasmissione all'autorità rogante di sva-
+riata documentazione, tra la quale parte di quella rinvenuta presso la sede della
+società di cui sopra, diventata A. SA (v. act. 1.1 pag. 18 e 19; atto 19 incarto
+MP/TI).
+
+
+
+- 3 -
+
+
+D.
+Il 7 luglio 2015, A. SA ha interposto ricorso avverso la suddetta decisione di-
+nanzi alla Corte dei reclami penali del Tribunale penale federale, chiedendone
+l'annullamento (v. act. 1).
+
+
+E.
+Mediante scritto del 29 luglio 2015, trasmesso per conoscenza alla ricorrente, il
+MP/TI, precisando di non avere particolari osservazioni da formulare, ha postu-
+lato la reiezione del gravame e la conferma della decisione impugnata (v. act.
+7).
+
+
+F.
+Con osservazioni del 4 agosto 2015, trasmesse anch'esse per conoscenza
+all'insorgente, l'UFG ha proposto la reiezione del gravame (v. act. 8).
+
+
+Le argomentazioni di fatto e di diritto esposte dalle parti saranno riprese, per
+quanto necessario, nei considerandi di diritto.
+
+
+
+Diritto:
+1.
+
+1.1
+In virtù dell'art. 37 cpv. 2 lett. a della legge federale del 19 marzo 2010
+sull'organizzazione delle autorità penali della Confederazione (LOAP;
+RS 173.71), la Corte dei reclami penali giudica i gravami in materia di assistenza
+giudiziaria internazionale.
+
+1.2
+I rapporti di assistenza giudiziaria in materia penale fra la Repubblica Italiana e
+la Confederazione Svizzera sono anzitutto retti dalla Convenzione europea di
+assistenza giudiziaria in materia penale del 20 aprile 1959, entrata in vigore il
+12 giugno 1962 per l’Italia ed il 20 marzo 1967 per la Svizzera (CEAG; RS
+0.351.1), dall'Accordo italo-svizzero del 10 settembre 1998 che completa e age-
+vola l'applicazione della CEAG (RS 0.351.945.41), entrato in vigore mediante
+scambio di note il 1° giugno 2003 (in seguito: l'Accordo italo-svizzero), nonché,
+a partire dal 12 dicembre 2008 (Gazzetta ufficiale dell’Unione europea,
+L 327/15-17, del 5 dicembre 2008), dagli art. 48 e segg. della Convenzione di
+applicazione dell'Accordo di Schengen del 14 giugno 1985 (CAS; testo non pub-
+blicato nella RS ma ora consultabile nel fascicolo "Assistenza e Estradizione"
+edito dalla Cancelleria federale, Berna 2014). Di rilievo nella fattispecie è anche
+la Convenzione sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi
+di reato, conclusa a Strasburgo l’8 novembre 1990, entrata in vigore il 1° set-
+tembre 1993 per la Svizzera ed il 1° maggio 1994 per l’Italia (CRic; RS.
+0.311.53). Alle questioni che il prevalente diritto internazionale contenuto in detti
+
+- 4 -
+
+
+trattati non regola espressamente o implicitamente, come pure quando il diritto
+nazionale sia più favorevole all'assistenza rispetto a quello pattizio (cosiddetto
+principio di favore), si applicano la legge federale sull'assistenza internazionale
+in materia penale del 20 marzo 1981 (AIMP; RS 351.1), unitamente alla relativa
+ordinanza (OAIMP; RS 351.11; v. art. 1 cpv. 1 AIMP, art. I n. 2 Accordo italo-
+svizzero; DTF 140 IV 123 consid. 2; 137 IV 33 consid. 2.2.2; 136 IV 82 consid.
+3.1; 135 IV 212 consid. 2.3; 123 II 134 consid. 1a; 122 II 140 consid. 2). Il prin-
+cipio di favore vale anche nell'applicazione delle pertinenti norme di diritto inter-
+nazionale (v. art. 48 n. 2 CAS, 39 n. 3 CRic e art. I n. 2 Accordo italo-svizzero).
+È fatto salvo il rispetto dei diritti fondamentali (DTF 135 IV 212 consid. 2.3; 123
+II 595 consid. 7c).
+
+1.3
+Interposto tempestivamente contro la sopraccitata decisione di chiusura par-
+ziale dell’autorità federale d’esecuzione, il ricorso è ricevibile sotto il profilo degli
+art. 25 cpv. 1, 80e cpv. 1 e 80k AIMP. Nella misura in cui la perquisizione ed il
+sequestro è avvenuto nei suoi uffici, la ricorrente, detentrice della documenta-
+zione litigiosa, è legittimate a ricorrere (v. art. 9a lett. b OAIMP; TPF 2007 79
+consid. 1.6 pag. 82).
+
+
+2.
+La ricorrente invoca innanzitutto la violazione del diritto di essere sentita: da una
+parte, la decisione impugnata sarebbe carente di motivazione, dall'altra, essa
+sarebbe stata esclusa dall'operazione di cernita della documentazione seque-
+strata.
+
+2.1
+2.1.1 Il diritto di essere sentito, ancorato all’art. 29 cpv. 2 Cost., viene concretizzato
+nell’ambito dell’assistenza giudiziaria internazionale agli art. 29 e segg. PA ri-
+chiamato l’art. 12 cpv. 1 AIMP (ROBERT ZIMMERMANN, La coopération judiciaire
+internationale en matière pénale, 4a ediz., Berna 2014, n. 472). Esso è di natura
+formale (DTF 126 I 19 consid. 2d/bb pag. 24; 125 I 113 consid. 3; MICHELE
+ALBERTINI, Der verfassungsmässige Anspruch auf rechtliches Gehör im Verwal-
+tungsverfahren des modernen Staates, tesi di laurea, Berna 2000, pag. 449 con
+rinvii). Una violazione di questo diritto fondamentale da parte dell’autorità d’ese-
+cuzione non comporta comunque automaticamente l’accoglimento del gravame
+e l’annullamento della decisione impugnata. Secondo la giurisprudenza e la dot-
+trina una violazione del diritto di essere sentito può essere sanata, se la persona
+toccata ottiene la possibilità di esprimersi in merito davanti ad una autorità di
+ricorso, la quale, come nella fattispecie la Corte dei reclami penali del Tribunale
+penale federale, dispone del medesimo potere d’esame dell’autorità d’esecu-
+zione stessa (v. DTF 124 II 132 consid. 2d; sentenze del Tribunale federale
+1C_525/2008 e 1C_526/2008 del 28 novembre 2008, consid. 1.3 nonché
+1A.54/2004 del 30 aprile 2004; TPF 2008 172 consid. 2.3; ZIMMERMANN, op. cit.,
+n. 472).
+
+- 5 -
+
+
+
+
+L'obbligo di motivazione, derivante dal diritto di essere sentito, prevede che l'au-
+torità debba menzionare, almeno brevemente, i motivi che l'hanno indotta a de-
+cidere in un senso piuttosto che nell'altro e di porre pertanto l'interessato nelle
+condizioni di rendersi conto della portata del provvedimento e delle eventuali
+possibilità di impugnazione presso un'istanza superiore, che deve poter eserci-
+tare il controllo sullo stesso (v. DTF 121 I 54 consid. 2; 117 Ib 481 consid. 6b/bb,
+nonché più ampiamente ALBERTINI, op. cit., pag. 400 e segg., con altri rinvii
+giurisprudenziali). L'autorità di esecuzione non è tenuta a discutere in maniera
+dettagliata tutti gli argomenti sollevati dalle parti, né a statuire separatamente
+su ogni conclusione che le viene presentata. Essa può limitarsi all'esame delle
+questioni decisive per l'esito del litigio (DTF 134 I 83 consid. 4.1; 130 II 530
+consid. 4.3; 126 I 97 consid. 2b e sentenze citate; sentenza del Tribunale fede-
+rale 1B_380/2010 del 14 marzo 2011, consid. 3.2.1).
+
+2.1.2 In concreto, va constatato che nella decisione impugnata il MPC, dopo aver
+descritto a grandi linee i fatti oggetto d'inchiesta in Italia (v. act. 1.1 pag. 3 e
+seg.), ha evidenziato i motivi che hanno portato ad ordinare la trasmissione della
+documentazione rinvenuta presso i locali della I. SA, locali che contenevano
+ugualmente la documentazione della società ricorrente ed in apparente stretto
+legame con la predetta (nel rapporto di esecuzione del 21 maggio 2013 [v. atto
+19 incarto MP/TI], la A. SA è indicata come ex I. SA). L'autorità d'esecuzione ha
+affermato che B. avrebbe affidato parte dei propri proventi illeciti dei reati di cui
+è accusato a società fiduciarie, anche al fine di schermarne la provenienza.
+Quanto precede, unitamente ai rinvii ai vari complementi rogatoriali italiani (v.
+atti 3, 5, 9 e 42 incarto MP/TI), doveva permettere, ed ha in realtà permesso
+alla ricorrente, come testimonia anche l'articolata impugnativa (dieci pagine), di
+rendersi conto della portata del provvedimento contestato, proprio come richie-
+sto dalla giurisprudenza in materia (v. consid. 2.1). Lamentandosi a torto di una
+carenza di motivazione, la censura in questo ambito va respinta.
+
+2.2
+2.2.1 Il diritto di essere sentito sancito dall'art. 29 cpv. 2 Cost. contempla la facoltà
+per l'interessato, tra l'altro, di prendere conoscenza del fascicolo processuale,
+di esprimersi sugli elementi pertinenti prima che una decisione relativa alla sua
+situazione giuridica sia resa, di presentare prove pertinenti, di ottenere che sia
+dato seguito alle sue offerte di prove, di partecipare all'assunzione delle prove
+essenziali o, perlomeno, di esprimersi sul loro risultato allorquando ciò può
+avere un influsso sulla decisione che verrà resa (DTF 124 II 132 consid. 2b e
+riferimenti citati). Nell’ambito dell’assistenza giudiziaria internazionale esso è
+concretizzato agli art. 29 e segg. della legge federale sulla procedura ammini-
+strativa del 20 dicembre 1968 [PA; RS 172.021] richiamato l’art. 12 cpv. 1 AIMP
+(ZIMMERMANN, op. cit., n. 472). Esso è di natura formale (DTF 126 I 19 consid.
+
+- 6 -
+
+
+2d/bb pag. 24; 125 I 113 consid. 3; ALBERTINI, op. cit., pag. 449 con rinvii). L'au-
+torità di esecuzione, dopo aver concesso al detentore della documentazione la
+possibilità di addurre i motivi che si opporrebbero alla trasmissione di determi-
+nati atti e la facoltà di partecipare alla necessaria cernita, ha l'obbligo di motivare
+accuratamente la decisione di chiusura (DTF 130 II 14 consid. 4.4 pag. 18).
+Essa non potrebbe infatti ordinare in modo acritico e indeterminato la trasmis-
+sione dei documenti, delegandone tout court la selezione agli inquirenti esteri
+(DTF 127 II 151 consid. 4c/aa pag. 155; 122 II 367 consid. 2c; 112 Ib 576 consid.
+14a pag. 604).
+
+2.2.2 Nella fattispecie, v'è da rilevare che la società ricorrente era dai tempi della per-
+quisizione dei suoi locali, ossia dal maggio 2013, al corrente della procedura in
+corso. Nel rapporto di esecuzione della perquisizione del 21 maggio 2013 viene
+espressamente menzionato l'incarto rogatoriale ROG.2013.50 (v. atto 19 in-
+carto MP/TI). Essa stessa afferma nel gravame di aver preteso, al momento
+della perquisizione, l'apposizione di sigilli sulla propria documentazione in
+quanto non pertinente né per l'indagine penale svizzera né per la procedura
+rogatoriale. Essa ha aggiunto che "ne conseguì la levata dei sigilli, come richie-
+sto dal PP, ma con mantenimento del sequestro e soprattutto l'impegno del PP
+di procedere all'esame ed alla cernita dei documenti, in vista di decidere circa
+la trasmissione o meno in ambito rogatoriale" (v. act. 1 pag. 6). Ora, a partire
+da quel momento la società ricorrente aveva la possibilità di accedere a quella
+documentazione e di esprimersi sull'utilità o meno della stessa per l'inchiesta
+estera, restando tuttavia passiva. Va a tal proposito rilevato che la persona toc-
+cata da una misura d'assistenza non può accontentarsi di assumere un'attitu-
+dine passiva quando sa che delle misure di assistenza sono state adottate e
+che una decisione di trasmissione è imminente. In ossequio al principio della
+buona fede (art. 5 cpv. 3 Cost.), ella deve intervenire presso l'autorità d'esecu-
+zione, cercare di conoscere gli atti di cui è prevista la trasmissione ed indicare
+precisamente quali di questi non dovrebbero essere trasmessi all'autorità estera
+(v. sentenza del Tribunale federale 1A.160/2003 del 10 settembre 2003, consid.
+2.1 e 2.3 con rinvii; sentenza del Tribunale penale federale RR.2012.91-92 del
+18 luglio 2012, consid. 2). Alla luce di ciò non vi è luogo di considerare che il
+MP/TI abbia violato il diritto di essere sentito della ricorrente. Disponendo inoltre
+la scrivente autorità di pieno potere cognitivo in fatto e in diritto (TPF 2007 57)
+e avendo avuto la ricorrente in questa sede ampia facoltà di esprimersi, un'e-
+ventuale violazione del predetto diritto sarebbe stata comunque sanata dalla
+presente procedura (v. DTF 124 II 132 consid. 2d; sentenze del Tribunale fede-
+rale 1C_525/2008 e 1C_526/2008 del 28 novembre 2008, consid. 1.3 nonché
+1A.54/2004 del 30 aprile 2004; TPF 2008 172 consid. 2.3; ZIMMERMANN, op. cit.,
+n. 472). Ne discende che la censura, infondata, deve essere respinta.
+
+
+
+- 7 -
+
+
+3.
+La società ricorrente lamenta una violazione del principio della proporzionalità,
+affermando che la documentazione sequestrata non avrebbe nessuna utilità per
+il procedimento estero. Essa non avrebbe avuto nessun legame né con la banca
+Banca C. né con B. Le differenti rogatorie italiane non farebbero del resto alcun
+specifico riferimento alla ricorrente.
+
+3.1
+La questione di sapere se le informazioni richieste nell'ambito di una domanda
+di assistenza siano necessarie o utili per il procedimento estero deve essere
+lasciata, di massima, all'apprezzamento delle autorità richiedenti. Lo Stato ri-
+chiesto non dispone infatti dei mezzi per pronunciarsi sull'opportunità di assu-
+mere determinate prove e non può sostituirsi in questo compito all'autorità
+estera che conduce le indagini (DTF 132 II 81 consid. 2.1 e rinvii). La richiesta
+di assunzione di prove può essere rifiutata solo se il principio della proporzio-
+nalità sia manifestamente disatteso (DTF 120 Ib 251 consid. 5c; sentenze del
+Tribunale penale federale RR.2008.154-157 dell'11 settembre 2008, consid.
+3.1; RR.2007.18 del 21 maggio 2007, consid. 6.3) o se la domanda appaia abu-
+siva, le informazioni richieste essendo del tutto inidonee a far progredire le in-
+dagini (DTF 122 II 134 consid. 7b; 121 II 241 consid. 3a). Inoltre, da consolidata
+prassi, quando le autorità estere chiedono informazioni nell'ambito di procedi-
+menti per reati patrimoniali esse necessitano di regola di tutti i documenti per
+sapere a quali persone o entità giuridiche sono coinvolte (DTF 129 II 462 consid.
+5.5; 124 II 180 consid. 3c inedito; 121 II 241 consid. 3b e c; sentenze del Tribu-
+nale federale 1A.177/2006 del 10 dicembre 2007, consid. 5.5; 1A.227/2006 del
+22 febbraio 2007, consid. 3.2; 1A.195/2005 del 1° settembre 2005 in fine; sull'u-
+tilità dei documenti d'apertura di un conto v. sentenza del Tribunale federale
+1A.182/2006 del 9 agosto 2007, consid. 3.2; cfr. anche DTF 130 II 14 consid.
+4.1). La natura stessa di dette inchieste rende verosimile la necessità di acqui-
+sire l'integralità della documentazione, in modo tale da chiarire con sufficiente
+ampiezza diacronica l'origine e la destinazione dei flussi monetari sospetti. La
+trasmissione dell'intera documentazione potrà evitare altresì l'inoltro di eventuali
+domande complementari (DTF 136 IV 82 consid. 4.1; 121 II 241 consid. 3; sen-
+tenza del Tribunale federale 1C_486/2008 dell'11 novembre 2008, consid. 2.4;
+sentenza del Tribunale penale federale RR.2011.113 del 28 luglio 2011, consid.
+4.2). In base alla giurisprudenza l'esame va limitato alla cosiddetta utilità poten-
+ziale, secondo cui la consegna giusta l'art. 74 AIMP è esclusa soltanto per quei
+mezzi di prova certamente privi di rilevanza per il procedimento penale all'estero
+(DTF 126 II 258 consid. 9c; 122 II 367 consid. 2c; 121 II 241 consid. 3a e b).
+
+3.2
+In concreto, l'autorità rogante considera B. al centro delle presunte attività ille-
+cite oggetto dell'indagine estera (v. supra lett. A). Come rettamente rilevato
+dall'autorità di esecuzione, con la più recente richiesta rogatoriale dell'11 marzo
+2015 l'autorità italiana ha dichiarato che "le investigazioni svolte – e ancora in
+essere – hanno permesso di constatare come B. abbia affidato parte dei propri
+
+- 8 -
+
+
+proventi illeciti a società fiduciarie, anche al fine di schermarne la reale prove-
+nienza; tra queste figurano le società elvetiche I. SA. e J. SA Quest'ultima, in
+particolare, risulta detenere partecipazioni nell'italiana K. S.p.A. È fondamentale
+per le indagini conoscere chi sia il beneficiario finale delle partecipazioni sopra-
+citate al fine di riscontrare se dette partecipazioni si riferiscono ad una posizione
+accesa presso J. SA da B. o da persone a lui riconducibili" (v. atto 127 pag. 5
+incarto MP/TI). L'autorità rogante ha pure segnalato alcuni nominativi emersi
+nell'ambito delle investigazioni risultati, a suo dire, soggetti chiave nella gestione
+del patrimonio di B. in J. SA, ossia L., M. e N. Essa ha aggiunto che "in partico-
+lare dalle acquisizioni svolte in Italia presso la O., dalle banche dati delle forze
+di polizia, dalle dichiarazioni rese da B. innanzi a Codesta Autorità e da quelle
+rese da P. (sia di fronte a Codesta Autorità che alla scrivente Procura) è emerso
+il ruolo di L. quale socio del P. nella J. SA e nella I. SA. Analogamente è a dirsi
+in ordine al ruolo di M. e della sua stretta collaboratrice N. come confermato
+dagli esiti di ulteriori rogatorie svolte, in particolare in Lussemburgo" (v. atto 127
+pag. 5 e seg. incarto MP/TI). Ora, visto quanto precede nonché la stretta vici-
+nanza tra I. SA e la società ricorrente, la documentazione sequestrata presso
+l'insorgente presenta senz'altro un'utilità potenziale per l'inchiesta estera. So-
+spettando che la predetta possa essere stata utilizzata per nascondere valori
+patrimoniali di presunta provenienza illecita, occorre poter analizzare tutta la
+documentazione rinvenuta presso i suoi uffici, per ricostruire i flussi di denaro e
+per verificare l'eventuale ruolo di prestanome di terze persone apparentemente
+non coinvolte nella vicenda delittuosa.
+
+
+Quanto precede permette quindi di confermare la sufficiente relazione tra le mi-
+sure d'assistenza richieste e l'oggetto del procedimento penale estero, spet-
+tando comunque al giudice estero del merito valutare se dalla documentazione
+sequestrata emerge in concreto una connessione penalmente rilevante fra i fatti
+perseguiti in Italia e detta documentazione. Vi è quindi da concludere che la
+decisione impugnata non viola il principio della proporzionalità.
+
+
+4.
+In definitiva, la decisione impugnata va integralmente confermata ed il gravame
+respinto.
+
+
+5.
+Le spese seguono la soccombenza (v. art. 63 cpv. 1 PA richiamato l’art. 39 cpv.
+2 lett. b LOAP). La tassa di giustizia è calcolata giusta gli art. 73 cpv. 2 LOAP,
+63 cpv. 4bis PA, nonché 5 e 8 cpv. 3 del regolamento del 31agosto 2010 sulle
+spese, gli emolumenti, le ripetibili e le indennità della procedura penale federale
+(RSPPF; RS 173.713.162). Essa è posta a carico delle ricorrenti in solido, fis-
+sata nella fattispecie complessivamente a fr. 5'000.-- e considerata coperta
+dall'anticipo delle spese già versato.
+
+
+- 9 -
+
+
+Per questi motivi, la Corte dei reclami penali pronuncia:
+1.
+Il ricorso è respinto.
+2.
+La tassa di giustizia di fr. 5'000.-- è posta a carico della ricorrente. Essa è
+coperta dall'anticipo spese già versato.
+
+
+Bellinzona, 14 ottobre 2015
+
+In nome della Corte dei reclami penali
+del Tribunale penale federale
+
+Il Presidente:
+Il Cancelliere:
+
+
+
+
+
+
+
+
+
+
+Comunicazione a:
+-
+Avv. Venerio Quadri
+-
+Ministero pubblico del Cantone Ticino
+-
+Ufficio federale di giustizia
+
+
+
+
+Informazione sui rimedi giuridici
+Il ricorso contro una decisione nel campo dell’assistenza giudiziaria internazionale in materia penale deve
+essere depositato presso il Tribunale federale entro 10 giorni dalla notificazione del testo integrale della
+decisione (art. 100 cpv. 1 e 2 lett. b LTF). Il ricorso è ammissibile soltanto se concerne un’estradizione, un
+sequestro, la consegna di oggetti o beni oppure la comunicazione di informazioni inerenti alla sfera segreta
+e se si tratti di un caso particolarmente importante (art. 84 cpv. 1 LTF). Un caso è particolarmente
+importante segnatamente laddove vi sono motivi per ritenere che sono stati violati elementari principi
+procedurali o che il procedimento all’estero presenta gravi lacune (art. 84 cpv. 2 LTF).
