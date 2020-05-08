@@ -1,0 +1,364 @@
+---
+decision_id: "ch_bundesrat__bj_de_home_publiservice_publikationen_beschwerdeentscheide_2020-05-08.html"
+court: "Bundesrat"
+court_id: "ch_bundesrat"
+docket: "/bj/de/home/publiservice/publikationen/beschwerdeentscheide/2020-05-08.html"
+decided: "2020-05-08"
+language: "de"
+source_url: "https://www.bj.admin.ch/dam/bj/de/data/publiservice/publikationen/beschwerdeentscheide/2020-05-08-beschwerde-eda.pdf.download.pdf/2020-05-08-beschwerde-eda-d.pdf"
+pdf_url: "https://www.bj.admin.ch/dam/bj/de/data/publiservice/publikationen/beschwerdeentscheide/2020-05-08-beschwerde-eda.pdf.download.pdf/2020-05-08-beschwerde-eda-d.pdf"
+cites_law: ["switzerland/bund/acts/101/art-008.md", "switzerland/bund/acts/101/art-029a.md", "switzerland/bund/acts/101/art-177.md", "switzerland/bund/acts/172.021/art-005.md", "switzerland/bund/acts/172.021/art-007.md", "switzerland/bund/acts/172.021/art-008.md", "switzerland/bund/acts/172.021/art-021.md", "switzerland/bund/acts/172.021/art-024.md", "switzerland/bund/acts/172.021/art-025a.md", "switzerland/bund/acts/172.021/art-048.md", "switzerland/bund/acts/172.021/art-063.md", "switzerland/bund/acts/172.021/art-064.md", "switzerland/bund/acts/172.021/art-072.md", "switzerland/bund/acts/172.021/art-075.md", "switzerland/bund/acts/172.220.1/art-002.md", "switzerland/bund/acts/172.220.1/art-034.md", "switzerland/bund/acts/173.110/art-083.md", "switzerland/bund/acts/173.32/art-032.md"]
+---
+
+# Bundesrat /bj/de/home/publiservice/publikationen/beschwerdeentscheide/2020-05-08.html
+
+## Regeste
+
+Beschwerdesache X. gegen Eidgenössisches Departement für auswärtige Angelegenheiten. Entscheid
+
+## Text
+
+1/8 
+ 
+DER SCHWEIZERISCHE BUNDESRAT 
+ 
+hat in der Beschwerdesache 
+ 
+X. 
+ 
+gegen 
+ 
+Eidgenössisches Departement für auswärtige Angelegenheiten, Direktion für 
+Ressourcen, Freiburgstrasse 130, 3003 Bern, 
+ 
+betreffend 
+ 
+Wahlvorschlag für Schweizer Mitglied in Ausschuss des Europarats 
+ 
+befunden und erwogen: 
+I. 
+A. 
+Gestützt auf eine Ausschreibung des Eidgenössischen Departements 
+für auswärtige Angelegenheiten (EDA) bewarb sich X. (Beschwerde-
+führerin) im Herbst 2017 als Expertin für die Schweiz im beratenden Ausschuss 
+für das Rahmenabkommen des Europarats zum Schutz nationaler Minderheiten 
+vom 1. Februar 1995 (RÜ, SR 0.441.1). Neben ihr bewarben sich drei weitere 
+Personen. 
+ 
+B. 
+Am 22. Januar 2018 unterbreitete der Vorsteher des EDA dem General-
+sekretär des Europarats einen Wahlvorschlag mit zwei Personen. Er empfahl 
+die Wahl von F., da dieser selber einer sprachlichen Minderheit angehöre. 
+Zwei Tage später teilte das EDA der Beschwerdeführerin mit, dass ihre Kandi-
+datur nicht berücksichtigt werden konnte. Nebst der geforderten Expertise auf 
+dem Gebiet des Schutzes nationaler Minderheiten seien für die Auswahl noch 
+weitere Kriterien ausschlaggebend gewesen. Insbesondere sei erstmals die 
+persönliche Zugehörigkeit zu einer Minderheit als Faktor berücksichtigt worden. 
+
+
+ 
+2/8 
+ 
+Die Schweiz wolle damit ein Zeichen setzen, um ihr ständiges Engagement für 
+den Schutz nationaler Minderheiten zu unterstreichen. 
+ 
+C. 
+Das Ministerkomitee des Europarats wählte am 7. März 2018 gemäss 
+der Empfehlung des EDA F. für eine Amtszeit bis zum 31. Mai 2020 in den 
+beratenden Ausschuss. 
+ 
+D. 
+Am 6. April 2018 reichte die Beschwerdeführerin beim EDA ein Gesuch 
+um Erlass einer Verfügung nach Art. 25a des Verwaltungsverfahrensgesetzes 
+vom 20. Dezember 1968 (VwVG; SR 172.021) ein. Sie beantragte, es sei fest-
+zustellen, dass der Wahlvorschlag vom 22. Januar 2018 und die damit erfolgte 
+Nichtberücksichtigung ihrer Kandidatur die Rechtsgleichheit, das Diskriminie-
+rungsverbot, Treu und Glauben, das Willkürverbot und Art. 26 RÜ verletze. Mit 
+einer nachträglichen Eingabe vom 25. Juni 2018 verlangte die Beschwerde-
+führerin zusätzlich die Feststellung der Verletzung des Anspruchs auf Gleich-
+behandlung der Geschlechter. 
+ 
+E. 
+Mit Verfügung vom 18. September 2018 trat das EDA auf das Gesuch 
+der Beschwerdeführerin nicht ein. Zur Begründung führte es aus, die Voraus-
+setzungen von Art. 25a VwVG für den Erlass einer Verfügung seien nicht erfüllt. 
+Der fragliche Wahlvorschlag sei kein Realakt und stütze sich nicht auf öffentli-
+ches Recht des Bundes, sondern auf Völkerrecht. Zudem fehle X. 
+das schutzwürdige Interesse am Erlass einer Verfügung. 
+ 
+F. 
+Gegen die Verfügung des EDA vom 18. September 2018 erhob X. 
+am 22. Oktober 2018 – wie in der Rechtsmittelbelehrung angegeben – beim 
+Bundesverwaltungsgericht Beschwerde. 
+Mit Entscheid vom 25. Juni 2019 (B-6019/2018) trat das Bundesverwaltungs-
+gericht auf die Beschwerde nicht ein. Es verneinte seine Zuständigkeit, weil die 
+angefochtene Verfügung bzw. der Wahlvorschlag des EDA vom 22. Januar 
+2018 eine auswärtige Angelegenheit im Sinne von Art. 32 Abs. 1 Bst. a des 
+Verwaltungsgerichtsgesetzes vom 17. Juni 2005 (VGG; SR 173.32) betreffe. In 
+Erwägung 2.7 seines Entscheids hielt das Bundesverwaltungsgericht fest: 
+«Allenfalls wäre der Bundesrat für die Beurteilung der Beschwerde zuständig». 
+Einen Meinungsaustausch mit dem Bundesrat nach Art. 8 Abs. 2 VwVG führte 
+es jedoch nicht durch. Ebenso sah es davon ab, im Urteilsdispositiv die Über-
+weisung der Sache an den Bundesrat anzuordnen (vgl. Art. 8 Abs. 1 VwVG). 
+ 
+
+
+ 
+3/8 
+ 
+G. 
+Mit Eingabe vom 10. Juli 2019 an den Bundesrat verlangte die 
+Beschwerdeführerin, der Bundesrat habe auf die ursprünglich beim Bundes-
+verwaltungsgericht eingereichte Beschwerde vom 22. Oktober 2018 einzutre-
+ten, die Verfügung des EDA vom 18. September 2018 sei aufzuheben und die 
+Sache sei zur Neubeurteilung an das EDA zurückzuweisen. Das EDA sei anzu-
+weisen, die neue Verfügung innert einem Monat zu erlassen. Soweit notwendig, 
+sei die Beschwerdefrist im Sinne von Art. 24 Abs. 1 VwVG wiederherzustellen. 
+In prozessualer Hinsicht beantragte die Beschwerdeführerin die Edition der 
+Akten des Verfahrens B-6019/2019 beim Bundesverwaltungsgericht. 
+ 
+H. 
+Das Bundesamt für Justiz, dem nach Art. 75 VwVG und Art. 7 Abs. 8 
+der Organisationsverordnung für das Eidgenössische Justiz- und Polizeidepar-
+tement vom 17. November 1999 (OV-EJPD; SR 172.213.1) die Instruktion der 
+Beschwerde obliegt, eröffnete am 16. Juli 2019 einen Meinungsaustausch mit 
+dem Bundesgericht über die Zuständigkeit. Das BJ erachtete es als zweifelhaft, 
+ob die vorliegende Streitigkeit dem Sachgebiet der auswärtigen Angelegenhei-
+ten nach Art. 72 Bst. a VwVG, Art. 32 Abs. 1 Bst. a VGG und Art. 83 Bst. a des 
+Bundesgerichtsgesetzes vom 17. Juni 2005 (BGG; SR 173.110) zuzurechnen 
+ist. Am 9. September 2019 teilte das Bundesgericht dem BJ mit, es könne den 
+Fall nicht übernehmen, da der Entscheid des Bundesverwaltungsgerichts vom 
+25. Juni 2019 nicht angefochten worden und mittlerweile rechtskräftig sei. Die 
+Beschwerdeführerin bestreite dies nicht, sondern habe beim Bundesrat eine 
+Beschwerde gegen die Verfügung des EDA eingereicht. 
+ 
+I. 
+In seiner Vernehmlassung vom 22. Oktober 2019 beantragte das EDA, 
+die angefochtene Verfügung vom 18. September 2018 sei zu bestätigen, und 
+gestützt darauf sei die Beschwerde vollumfänglich abzuweisen, soweit auf sie 
+einzutreten sei, dies unter Kostenfolge zulasten der Beschwerdeführerin. 
+ 
+K. 
+Nach Zustellung der Vernehmlassung des EDA an den Rechtsvertreter 
+der Beschwerdeführerin reichte dieser am 18. November 2019 eine Stellung-
+nahme ein, in der er die bisher gestellten Begehren bestätigte. 
+II. 
+1. 
+Für die Beurteilung von Beschwerden gegen Verfügungen der Departe-
+mente auf dem Gebiet der inneren und äusseren Sicherheit des Landes, der 
+Neutralität, des diplomatischen Schutzes und der übrigen auswärtigen Angele-
+genheiten ist nach Art. 72 Bst. a und 73 Bst. a VwVG der Bundesrat zuständig, 
+
+
+ 
+4/8 
+ 
+soweit das Völkerrecht nicht einen Anspruch auf gerichtliche Beurteilung 
+einräumt. 
+1.1 
+Das Bundesverwaltungsgericht erachtete in seinem Entscheid vom 
+25. Juni 2019 den Wahlvorschlag des EDA vom 22. Januar 2018 als «übrige 
+auswärtige Angelegenheit» und verneinte einen völkerrechtlichen Anspruch der 
+Beschwerdeführerin auf gerichtliche Beurteilung (E. 2.5 und 2.6). Gestützt auf 
+Art. 32 Abs. 1 Bst. a VGG trat es deshalb nicht auf die Beschwerde ein. Die 
+Beschwerdeführerin verzichtete darauf, gegen die Anwendung dieses Aus-
+nahmetatbestands beim Bundesgericht Beschwerde zu erheben. 
+1.2 
+Der Bundesrat prüft seine Zuständigkeit von Amtes wegen (Art. 7 
+Abs. 1 VwVG). Wie das Bundesverwaltungsgericht in Erwägung 2.5.1 seines 
+Entscheids vom 25. Juni 2019 ausführt, ist der Begriff der «übrigen auswärtigen 
+Angelegenheiten» in Art. 83 Bst. a BGG, Art. 32 Abs. 1 Bst. a VGG und Art. 72 
+Bst. a VwVG vor dem Hintergrund der Rechtsweggarantie (Art. 29a BV) restrik-
+tiv auszulegen. Die sachliche Zuständigkeit des Bundesrates und damit der 
+Ausschluss einer gerichtlichen Überprüfung setzen voraus, dass die angefoch-
+tene Verfügung nicht nur eine Materie nach Art. 72 Bst. a VwVG betrifft, 
+sondern auch überwiegend auf politischen Erwägungen beruht (vgl. Botschaft 
+vom 15. Juni 2018 zur Änderung des Bundesgerichtsgesetzes, BBl 2018 4640; 
+MARINO LEBER, in: Auer/Müller/Schindler, Kommentar VwVG, 2. Aufl., Art. 72 
+N. 7). 
+Das Bundesverwaltungsgericht hat entschieden, dass es sich bei der Bestim-
+mung der Personen, die in den Wahlvorschlag vom 22. Januar 2018 aufgenom-
+men worden sind, um eine auswärtige Angelegenheit mit überwiegend politi-
+schem Charakter handle. Dieser Entscheid ist unangefochten geblieben und 
+rechtskräftig geworden. Unter diesen Umständen erachtet sich der Bundesrat 
+als sachlich zuständig, die Beschwerde gegen die Verfügung des EDA vom 
+18. September 2018 zu beurteilen. Würde er seine Zuständigkeit ebenfalls ver-
+neinen, so würde der Beschwerdeführerin der verfassungsmässig garantierte 
+Rechtsschutz verweigert (Art. 177 Abs. 3 BV). 
+ 
+2. 
+Die Beschwerdeführerin hat gegen die Verfügung des EDA vom 
+18. September 2018 rechtzeitig beim Bundesverwaltungsgericht Beschwerde 
+eingelegt. Nach Art. 21 Abs. 2 VwVG gilt die Beschwerdefrist auch für das Ver-
+fahren vor dem Bundesrat als gewahrt. 
+ 
+3. 
+Als Adressatin der angefochtenen Nichteintretensverfügung ist die 
+Beschwerdeführerin zu Beschwerde berechtigt (Art. 48 Abs. 1 VwVG). 
+ 
+
+
+ 
+5/8 
+ 
+4. 
+Streitgegenstand des vorliegenden Beschwerdeverfahrens ist die 
+Frage, ob das EDA in der angefochtenen Verfügung auf das Gesuch der 
+Beschwerdeführerin um Erlass einer Verfügung nach Art. 25a VwVG zu Recht 
+nicht eingetreten ist. 
+4.1 
+Die Beschwerdeführerin stellte in ihrem Gesuch vom 6. April 2018 das 
+Begehren, dass die Widerrechtlichkeit des Wahlvorschlags des EDA vom 
+22. Januar 2018 festzustellen sei. Als «Handlungen», die Anlass zu einem 
+Begehren nach Art. 25a VwVG geben können, kommt das ganze Spektrum der 
+verfügungsfreien Verwaltungs- oder Staatshandlungen in Betracht. Die rechts-
+schutzwürdigen Handlungen können nicht mit Hilfe einer Typologie heraus-
+gefiltert werden. Diese Aufgabe müssen andere Elemente im Tatbestand von 
+Art. 25a VwVG übernehmen (BEATRICE WEBER / PANDORA KUNZ NOTTER, in: 
+Auer/Müller/Schindler, Kommentar VwVG, 2. Aufl., Art. 25a N. 7, 8, 16). 
+Da der Wahlvorschlag des EDA vom 22. Januar 2018 an den Generalsekretär 
+des Europarates nicht die Merkmale einer Verfügung aufweist, fällt er unter 
+Art. 25a VwVG. Daran ändert entgegen den Ausführungen des EDA nichts, 
+dass der Wahlvorschlag im Rahmen eines Wahl- und Ernennungsverfahrens 
+nach RÜ erging. Ob ein Anspruch auf Erlass einer Verfügung besteht, ist auf-
+grund der weiteren Kriterien dieser Bestimmung zu prüfen. 
+4.2 
+Das EDA macht geltend, der Wahlvorschlag vom 22. Januar 2018 
+stütze sich ausschliesslich auf Völkerrecht. Damit fehle es an einer Handlung, 
+die sich gemäss Art. 25a Abs. 1 VwVG auf öffentliches Recht des Bundes 
+stützt. Dieser Argumentation kann nicht gefolgt werden. Der Begriff «öffentli-
+ches Recht des Bundes» dient in Art. 25a VwVG – gleich wie in Art. 5 VwVG – 
+der Abgrenzung der Zuständigkeit der Bundesverwaltungsbehörden von der 
+Zivil- und Strafrechtspflege und der kantonalen Verwaltungsrechtspflege (vgl. 
+MARKUS MÜLLER, in: Auer/Müller/Schindler, Kommentar VwVG, 2. Aufl., Art. 5 
+N. 61; KIENER/RÜTSCHE/KUHN, Öffentliches Verfahrensrecht, 2. Aufl., Rz. 343 f.). 
+Völkerrecht ist, soweit es nicht Normen des Zivil- oder Strafrechts enthält, dem 
+öffentlichen Recht des Bundes zuzurechnen (MARKUS MÜLLER, a.a.O., Art. 5 
+N. 62). Inwiefern sich der Wahlvorschlag des EDA auf Völkerrecht oder Landes-
+recht stützte, spielt daher für die Anwendung von Art. 25a VwVG keine Rolle. 
+4.3 
+Nach Art. 25a Abs. 1 VwVG muss die Handlung (Realakt) Rechte oder 
+Pflichten berühren. Es sollen Konstellationen einer rechtlichen Überprüfung 
+zugeführt werden, bei welchen behördliches Verhalten zwar nicht auf die Rege-
+lung von Rechten und Pflichten gerichtet ist, aber dennoch Rechte und Pflichten 
+berührt. Dies setzt einen Eingriff in die persönliche Rechtssphäre der betroffe-
+nen Person voraus. Schützenswerte Rechtspositionen ergeben sich im Kontext 
+von Art. 25a VwVG vor allem aus Grundrechten; einzubeziehen sind aber auch 
+rechtlich geschützte Interessen aus anderen Rechtstiteln (BGE 144 II 233 
+E. 7.3.1). Geht es um einen potenziellen Eingriff in Grundrechtspositionen, ist 
+es eine Frage des Geltungsbereichs des Grundrechts, ob die Eingriffswirkung 
+
+
+ 
+6/8 
+ 
+ausreicht, eine Grundrechtsbetroffenheit anzunehmen (BGE 144 II 233 
+E. 7.3.2). 
+Die Beschwerdeführerin rügt, mit dem Wahlvorschlag vom 22. Januar 2018, in 
+welchem ihre Bewerbung nicht berücksichtigt wurde, seien Grundrechtspositio-
+nen von ihr verletzt worden. Insbesondere macht sie substantiiert geltend, das 
+EDA habe mit dem Wahlvorschlag die Rechtsgleichheit nach Art. 8 BV verletzt 
+(S. 9 f. der Beschwerdeschrift vom 22. Oktober 2018). Dass der Geltungs-
+bereich des Grundrechts der Rechtsgleichheit im vorliegenden Fall berührt ist, 
+kann kaum bezweifelt werden. Die Beschwerdeführerin vermag insgesamt plau-
+sibel darzulegen, dass vom Wahlvorschlag ausgehende Reflexe grundrechts-
+relevant sein bzw. den Grad von Grundrechtseingriffen annehmen könnten 
+(BGE 144 II 233 E. 7.3.2). Ohnehin dürfen die Anforderungen an das Berührt-
+sein nicht zu hoch angesetzt werden. Ob ein Grundrecht tatsächlich betroffen 
+oder verletzt ist, bleibt im Rahmen der materiellen Prüfung zu klären (BEATRICE 
+WEBER / PANDORA KUNZ NOTTER, a.a.O., Art. 25a N. 27, 42). 
+Beim Wahlvorschlag des EDA vom 22. Januar 2018 handelt es sich somit um 
+einen Realakt, der sich auf öffentliches Recht des Bundes stützt und Rechte 
+oder Pflichten der Beschwerdeführerin berührt. 
+4.4 
+Art. 25a Abs. 1 VwVG verlangt ferner, dass die gesuchstellende Person 
+ein schutzwürdiges Interesse an einer Verfügung über einen Realakt hat. 
+Berührt der Realakt – wie vorliegend – Rechte oder Pflichten der gesuchstellen-
+den Person, nicht bloss solche von Drittpersonen, so gründet das schutz-
+würdige Interesse der gesuchstellenden Person im Berührtsein in der Rechts-
+stellung. Es verhält sich nicht anders als beim materiellen Verfügungs-
+adressaten, der ohne weiteres das zur Beschwerdeberechtigung notwendige 
+schutzwürdige Interesse aufweist (Art. 48 VwVG; vgl. BGE 140 II 315 E. 4.3). 
+Nachdem das Ministerkomitee des Europarats seinen Ernennungsentscheid am 
+7. März 2018 getroffen hatte, beschränkte sich die Beschwerdeführerin in ihrem 
+Gesuch vom 6. April 2018 auf ein Feststellungsbegehren nach Art. 25a Abs. 1 
+Bst. c VwVG. Für ihr Ausscheiden aus dem Selektionsverfahren war das EDA 
+verantwortlich. Deshalb bezieht sich das – nach dem Gesagten gegebene – 
+schutzwürdige Interesse der Beschwerdeführerin auf die Prüfung bzw. Feststel-
+lung, ob das EDA rechtmässig gehandelt hat. 
+ 
+5. 
+Unter dem Titel «Vorbemerkungen» führt das EDA in seiner Vernehm-
+lassung vom 22. Oktober 2019 aus, die Nichtberücksichtigung der Beschwerde-
+führerin für den Wahlvorschlag weise Ähnlichkeiten mit einem Nichtanstellungs-
+entscheid auf. Deshalb müsse in Anlehnung an Art. 34 Abs. 3 des Bundes-
+personalgesetzes vom 24. März 2000 (BPG; SR 172.220.1) ein Rechtsschutz 
+
+
+ 
+7/8 
+ 
+(auch ein Anspruch auf Erlass einer Verfügung nach Art. 25a VwVG) ausge-
+schlossen sein, um die vom Gesetzgeber gewollte Wahlfreiheit der Anstellungs-
+behörde gewährleisten zu können. 
+Diese Argumentation vermag den Entscheid der Vorinstanz nicht zu stützen. 
+Die Funktion, für die sich die Beschwerdeführerin bewarb, liegt ausserhalb des 
+Geltungsbereichs des BPG (Art. 2 BPG). Für eine Ausnahme vom Anspruch auf 
+Erlass einer Verfügung nach 25a VwVG wäre eine Grundlage in einem 
+(anwendbaren) formellen Gesetz notwendig. Abgesehen davon ist die Rege-
+lung in Art. 34 Abs. 3 BPG darauf zugeschnitten, dass das Arbeitsverhältnis 
+durch Abschluss eines Vertrags zustande kommt. Diese Situation ist mit dem 
+Wahlvorschlag zuhanden des Europarates nicht ohne weiteres vergleichbar. 
+ 
+6. 
+Demnach erfüllt das von der Beschwerdeführerin in ihrem Gesuch vom 
+6. April 2018 gestellte Begehren alle Voraussetzungen für den Anspruch auf 
+eine Verfügung nach Art. 25a VwVG. Die Beschwerde ist daher gutzuheissen, 
+die Nichteintretensverfügung des EDA ist aufzuheben, und die Sache ist zur 
+materiellen Beurteilung an das EDA zurückzuweisen. 
+Der Bundesrat setzt in Rückweisungsentscheiden normalerweise keine Frist für 
+den Erlass der neuen Verfügung. Im vorliegenden Fall bestehen keine triftigen 
+Gründe, von dieser Regel abzuweichen, zumal fraglich erscheint, ob der 
+Rechtsstreit mit der neuen Verfügung beendet sein wird. 
+Eine Edition der Akten des Beschwerdeverfahrens vor dem Bundesverwal-
+tungsgericht erübrigt sich bei diesem Verfahrensausgang. 
+ 
+7. 
+Dem unterliegenden EDA werden nach Art. 63 Abs. 2 VwVG keine Ver-
+fahrenskosten auferlegt. Die anwaltlich vertretene Beschwerdeführerin hat nach 
+Art. 64 Abs. 1 VwVG Anspruch auf eine Parteientschädigung. Diese wird auf 
+3000 Franken festgesetzt. 
+ 
+ 
+
+
+ 
+8/8 
+ 
+und erkannt: 
+1. Die Beschwerde wird gutgeheissen. Die Verfügung des EDA vom 
+18. September 2018 wird aufgehoben und die Sache wird zur materiellen 
+Entscheidung an das EDA zurückgewiesen. 
+2. Es werden keine Verfahrenskosten erhoben. Die Bundeskanzlei wird ange-
+wiesen, der Beschwerdeführerin den am 18. September 2019 geleisteten 
+Kostenvorschuss von 1000 Franken zurückzuzahlen. 
+3. Das EDA hat der Beschwerdeführerin eine Parteientschädigung von 
+3000 Franken zu bezahlen. 
+ 
+ 
+3003 Bern, 
+IM AUFTRAG DES SCHWEIZERISCHEN BUNDESRATES 
+Der Bundeskanzler 
+ 
+ 
+Walter Thurnherr 
+ 
+ 
+Mitteilung an: 
+– 
+X. 
+– 
+Eidgenössisches Departement für auswärtige Angelegenheiten, Direktion für 
+Ressourcen, Freiburgstrasse 130, 3003 Bern 
+ 
+361/2019/00002 LM
