@@ -1,0 +1,67 @@
+---
+decision_id: "bvger_BVGE 2024 IV_4"
+court: "Bundesverwaltungsgericht"
+court_id: "bvger"
+chamber: "Abteilung II (Wirtschaft, Wettbewerb, Bildung)"
+docket: "BVGE 2024 IV/4"
+decided: "2024-09-13"
+published: "2025-04-30"
+language: "fr"
+decision_type: "BVGE"
+source_url: "https://bvger.weblaw.ch/cache?id=b9fb2277-eaa6-42e2-86fa-aec1a0d73acb&guiLanguage=fr"
+pdf_url: "https://bvger.weblaw.ch/pdf/2024_IV-4_2024-09-13_b9fb2277-eaa6-42e2-86fa-aec1a0d73acb.pdf"
+cites_decisions: ["4A_178/2021", "4A_385/2010", "BGE 122 III 382", "BGE 128 III 441", "BGE 137 III 77"]
+cites_law: ["switzerland/bund/acts/232.11/art-001.md", "switzerland/bund/acts/232.11/art-003.md", "switzerland/bund/acts/232.11/art-006.md"]
+---
+
+# BVGE 2024 IV/4
+
+## Regeste
+
+Opposition
+
+## Text
+
+2024 IV/4
+Extrait de l'arrêt de la Cour II
+dans la cause A. SA contre B. AB et Institut Fédéral de la Propriété Intellectuelle
+B—2236/2022 du 13 septembre 2024
+Droit des marques. Procédure d'opposition. Risque de confusion entre marques opposées.
+Art. 3 LPM.
+1. Evaluation du risque de confusion lors de la reprise d'un élément faible (consid. 7).
+2. Le risque de confusion peut être écarté dans l'impression d'ensemble seulement si l'élément faible repris est associé à un élément distinctif (consid. 7.3.3).
+Markenrecht. Widerspruchsverfahren. Verwechslungsgefahr gegenüberstehender Marken.
+Art. 3 MSchG
+1. Beurteilung der Verwechslungsgefahr bei übernommenen kennzeichnungsschwachen Markenelementen (E. 7).
+2. Die Verwechslungsgefahr kann im Gesamteindruck entfallen, wenn es sich beim übernommenen Element um einen schwachen Bestandteil handelt, der mit einem kennzeichnungskräftigen verbunden wurde (E. 7.3.3).
+Diritto dei marchi. Procedura di opposizione. Rischio di confusione tra marchi in opposizione tra loro.
+Art. 3 LPM.
+1. Valutazione del rischio di confusione in caso di ripresa di un elemento debole.
+2. Il rischio di confusione può essere evitato nell'impressione d'insieme solamente se all'elemento debole ripreso è associato un elemento distintivo (consid. 7.3.3).
+Par mémoire du 23 août 2021, se fondant sur l'enregistrement international no 1 217 315 " KLARNA " (ci-après: marque opposante), avec revendication pour la Suisse pour différents services en classe 36, et sur l'art. 3 al. 1 let. c de la loi du 28 août 1992 sur la protection des marques (LPM, RS 232.11), la société suédoise Klarna Bank AB forme, auprès de l'Institut Fédéral de la Propriété Intellectuelle (IPI; ci-après: autorité inférieure), opposition totale à l'enregistrement de la marque suisse no 764 119 " Klarpay " dont la titulaire est la société suisse Klarpay AG (ci-après: recourante) avec revendication pour différents services en classe 36.
+Cet enregistrement se présente ainsi :
+L'autorité inférieure admet l'opposition par décision du 14 avril 2022 et révoque l'enregistrement de la marque attaquée.
+Par acte du 16 mai 2022, la Klarpay AG dépose un recours contre cette décision auprès du Tribunal administratif fédéral
+Par arrêt du 13 septembre 2024, le Tribunal administratif fédéral rejette le recours.
+Extrait des considérants :
+7.
+Vu l'identité des services en cause ([...]) et la similarité entre les signes opposés ([...]), il faut maintenant déterminer s'il existe un risque de confusion, compte tenu du champ de protection normal de la marque opposante ([...]) et du degré d'attention accru des consommateurs visés ([...]).
+7.1
+7.1.1 La marque est un signe propre à distinguer les produits ou les services d'une entreprise de ceux d'autres entreprises (art. 1 al. 1 LPM), de manière à ce qu'une individualisation des produits ou des services, voire de leur provenance commerciale, soit rendue possible. Il y a dès lors un risque de confusion lorsqu'un signe plus récent porte atteinte à la fonction distinctive d'une marque antérieure (art. 6 LPM).
+7.1.2 Une telle atteinte existe lorsqu'il faut craindre que les milieux intéressés soient induits en erreur par la ressemblance des signes et que les offres portant l'un ou l'autre signe soient associées au mauvais détenteur de la marque (risque de confusion direct).
+7.1.3 Une telle atteinte existe aussi lorsque le public distingue les deux signes, mais présume, en raison de leur ressemblance, l'existence de rapports qui n'existent pas, notamment en pensant à des marques de série qui désignent différentes lignes de produits ou de services provenant de la même entreprise ou d'entreprises économiquement liées entre elles (risque de confusion indirect ; ATF 128 III 441 consid. 3.1 " Appenzeller "; 119 II 473 consid. 2c " Radion "; 122 III 382 consid. 1 " Kamillosan ").
+7.1.4 L'appréciation du risque de confusion ne s'effectue pas en comparant abstraitement les signes, mais en tenant compte de toutes les circonstances du cas concret (ATF 122 III 382 consid. 1 " Kamillosan "). Il convient ainsi de prendre en considération la similarité aussi bien des signes (consid. 7) que des produits ou des services pour lesquels ils sont enregistrés ([...]). Ces deux éléments s'influencent réciproquement, en ce sens que les produits ou les services doivent d'autant plus se différencier que les signes sont similaires et vice versa (arrêt du TAF B—4260/2010 du 21 décembre 2011 consid. 5.1 " Bally/BALU [fig.] "; Städeli/Brauchbar Birkhäuser, in: Basler Kommentar, Markenschutzgesetz Wappenschutzgesetz, 3e éd. 2017, art. 3 LPM no 154). Entrent également en ligne de compte le degré d'attention dont font preuve les destinataires des produits ou des services en cause ([...] arrêt du TAF B—7352/2008 du 17 juin 2009 consid. 6.1-6.2 " TORRES/TORRE SARACENA ") et l'étendue du champ de protection de la marque opposante ([...]).
+7.2
+7.2.1 La décision attaquée retient que les marques en présence partageraient les lettres " KLAR ", élément qui serait un élément fort de convergence ayant une influence déterminante sur l'impression d'ensemble. A l'inverse, l'élément " pay " de la marque attaquée, descriptif et faible en lien avec les services litigieux, ne serait pas susceptible de marquer l'impression d'ensemble. Il en serait de même pour l'élément figuratif de la marque attaquée ([...]).
+Par conséquent, les faibles différences entre les deux signes ne seraient pas en mesure de masquer l'identité phonétique, visuelle et sémantique créée par la reprise de l'élément " KLAR " de la marque opposante. Vu le champ de protection normal de la marque opposante, l'identité des services, la similitude des signes et malgré le degré d'attention plus élevé des consommateurs, il y aurait lieu d'admettre le risque de confusion. En raison des terminaisons différentes, le destinataire pourrait penser à une variante de la marque de base ou à une marque de série et en conclure qu'il s'agit de la même entreprise (risque de confusion indirect [...]).
+7.2.2 La recourante, dans son recours, explique qu'au vu du degré d'attention des consommateurs visés, des différences dégagées sur les plans sonore et visuel, un risque de confusion serait à exclure ([...]). Elle s'appuie sur la jurisprudence fédérale pour dire qu'il suffit que les marques se distinguent clairement dans leur contenu sémantique pour écarter un risque de confusion. Ce serait précisément le cas en l'espèce étant donné que le contenu sémantique de la marque attaquée (services de paiement clairs en relation avec la Suisse [" klare Zahlungsdienstleistungen mit Schweizbezug "] est totalement étranger à la marque opposante ([...]). Elle explique encore que la marque opposante, courte et faiblement distinctive, ne peut bénéficier d'un champ de protection qui permettrait à l'intimée de bloquer tous les signes verbaux qui présentent le préfixe " KLAR ". Les autres fournisseurs de services de la classe 36 devraient également pouvoir indiquer qu'ils conçoivent ou fournissent leurs services " clairs " ([...]).
+7.2.3 L'intimée commence par rappeler que, les services revendiqués étant identiques, il siérait d'apprécier le risque de confusion avec une rigueur particulière. Selon elle, la marque opposante n'a pas de sens directement descriptif et serait un signe de fantaisie en rapport avec les services revendiqués ([...]). Tout en admettant que la marque attaquée, signifiant " paiement clair ", pourrait faire référence à la sécurité des transactions, à leur facilité ou à leur simplicité, ou encore à leur traçabilité, elle ne serait pas descriptive des services revendiqués ([...]). Par contre, cette marque présenterait des similarités du point de vue du contenu sémantique, dans la mesure du signe " KLAR " identifiable dans les deux signes ([...]). Selon elle, l'élément " pay " de la marque attaquée n'est pas susceptible d'influencer l'impression d'ensemble dès lors que ce sera là une référence directement descriptive du type ou de l'objet des services revendiqués. Il en serait de même de l'élément figuratif ([...]). Elle ajoute encore qu'au vu du champ de protection accru qu'elle réclame pour la marque opposante, il existerait un risque d'attribution erronée créant une confusion directe et indirecte ([...]).
+7.3 Appelé à se prononcer, le Tribunal retient ce qui suit.
+7.3.1 Selon la jurisprudence et la doctrine, même lorsque, comme en l'espèce, l'on peut s'attendre à une attention accrue de la part des consommateurs, un risque de confusion doit être retenu lorsqu'on observe une grande similitude des signes et des marchandises ou services, singulièrement lorsque les produits ou services sont identiques (ATF 122 III 382 consid. 3a " Kamillosan "; arrêt du TF 4A_178/2021 du 19 juillet 2021 consid. 2.1 ; décision de l'ancienne Commission fédérale de recours en matière de propriété intellectuelle [CREPI] du 18 avril 2001 " Grilon/Gelon ", sic! 6/2001 p. 523 consid. 10).
+7.3.2 Le Tribunal a déjà constaté que les marques opposées présentent des similarités visuelles, phonétiques et sémantiques dans la mesure des lettres et du mot " KLAR/Klar " ([...]), ce qui conduit généralement à un risque de confusion chez les consommateurs visés (consid. 7.1.4).
+7.3.3 Il faut encore s'assurer que l'impression d'ensemble de la marque attaquée ne la distingue pas suffisamment de la marque opposante pour éloigner un risque de confusion (p. ex. arrêt du TAF B—2256/2019 du 11 août 2020 consid. 9.3.4 " carl software [fig.]/TC CARL [fig.] ").
+En l'espèce, la marque attaquée se distingue de la marque opposante par sa terminaison et son élément graphique ([...]).
+En lien avec les services revendiqués en classe 36, à savoir les services financiers, la terminaison propre à la marque attaquée, à savoir le mot " pay ", compris comme " payer ", n'est pas de nature à la distancer de la marque opposante. En effet, l'action de " payer ", c'est-à-dire de donner de l'argent pour acquérir un bien ou un service, décrit la finalité des services financiers, compris comme les prestations offertes par les banques, les assurances, les entreprises de cartes de crédit et toutes autres entreprises actives dans cette branche. La terminaison " pay " est ainsi descriptive des services revendiqués et, selon la pratique, elle n'est pas de nature à influencer l'impression d'ensemble (ATF 122 III 382 consid. 5a " Kamillosan "; Gallus Joller, in : Handkommentar SHK Markenschutzgesetz [MSchG], 2e éd. 2017, art. 3 no 91).
+Quant à la partie figurative, à savoir la croix blanche sur fond rouge, la recourante n'apporte aucun argument qui permettrait d'arriver à une conclusion différente de celle de l'autorité inférieure, qui a repris ses propres directives. Il s'ensuit que ce signe n'est, lui non plus, pas à même d'influencer l'impression d'ensemble (arrêt du TF 4A_385/2010 du 12 janvier 2011 consid. 4.2, partiellement publié in : ATF 137 III 77 " Hotel Sterne "; arrêt du TAF B—1494/2011 du 2 mai 2012 consid. 6.3 " BANQUE HERITAGE [fig.]/MARCUARD HERITAGE [fig.] ").
+Au final, il reste en présence deux marques qui se rejoignent sur un élément, qui est certes relativement faible, car laudatif ([...]), mais le risque de confusion peut être écarté dans l'impression d'ensemble seulement si l'élément faible repris est associé à un élément distinctif (arrêts du TAF B—2354/2016 du 29 mars 2017 consid. 3.6 " ALLIANZ/CH/ALLIANZ TGATechnische Gebäudeausrüstung [fig.] " ; B—5179/2012 du 20 mai 2014 consid. 3.5 " Tivo/tivù sat HD [fig.] "; B—502/2009 du 3 novembre 2009 consid. 5.2.1 " Premium Ingredients, S.L. [fig.]/Premium Ingredients International (US), L.L.C [fig.] "; décision de l'ancienne CREPI du 28 juin 2006 " Red Label, Red Code ; Red Racing/Red M 150 ", sic! 11/2006 p. 759 consid. 6). Or, tel n'est précisément pas le cas en l'espèce puisque l'élément " pay " et la partie figurative sont faibles (cf. ci—dessus). Le risque de confusion ne peut donc pas être écarté.
+7.3.4 Enfin, comme le rappelle la jurisprudence, loin d'être réduit en raison de l'attention accrue du public, comme en l'espèce, le risque de confusion indirect est augmenté. En effet, un acheteur plus familier du marché et des différents signes distinctifs reconnaît mieux les points communs et conclut donc plus facilement à un lien économique (arrêt B—4260/2010 consid. 7 " Bally/BALU "; décision de l'ancienne CREPI du 6 juillet 2005 " Boss/Airboss ", sic! 10/2005 p. 757 consid. 7). En l'espèce, la construction " KLAR/Klar " suivie de " NA ", respectivement de " pay ", peut amener le consommateur attentif, qui connaît la marque opposante, à penser que la marque " Klarpay " est économiquement dépendante de l'entreprise " KLARNA " précisément dans le domaine de services financiers. Le risque de confusion indirect est ici réalisé.
