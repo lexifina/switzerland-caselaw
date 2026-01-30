@@ -1,0 +1,136 @@
+---
+decision_id: "postcom_verfuegung-2-betreffend-zuweisung-der-dienstleistungen-zur-grundversorgung-2026-2026-01-30"
+court: "PostCom"
+court_id: "postcom"
+docket: "verfuegung-2-betreffend-zuweisung-der-dienstleistungen-zur-grundversorgung-2026-2026-01-30"
+decided: "2026-01-30"
+language: "de"
+legal_area: "Postrecht"
+decision_type: "Verfügung"
+source_url: "https://www.postcom.admin.ch/inhalte/PDF/Verfuegungen/VFG_2025-2026/VFG_2_2026_PostCom_DL_Grundversorgung2026_20260130.pdf"
+pdf_url: "https://www.postcom.admin.ch/inhalte/PDF/Verfuegungen/VFG_2025-2026/VFG_2_2026_PostCom_DL_Grundversorgung2026_20260130.pdf"
+cites_law: ["switzerland/bund/acts/783.0/art-030.md", "switzerland/bund/acts/783.01/art-055.md", "switzerland/bund/acts/783.01/art-077.md"]
+---
+
+# Verfügung 2 betreffend Zuweisung der Dienstleistungen zur Grundversorgung 2026
+
+## Text
+
+Eidgenössische Postkommission PostCom
+Monbijoustrasse 51A , 3003 Bern
+Tel. +41 58 462 50 94
+info@postcom.admin.ch
+www.postcom.admin.ch
+PostCom-D-19253501/7
+
+Eidgenössische Postkommission PostCom
+
+
+
+
+POST CH AG
+PostCom; mum
+CH-3003 Bern
+
+
+
+
+_____
+Sehr geehrte Damen und Herren
+Mit Schreiben vom 14. Januar 2026 legt die Schweizerische Post AG (nachfolgend: Post) der
+PostCom die Dienstleistungen der Grundversorgung 2026 vor und beantragt, die Zuweisung der
+Dienstleistungen zur Grundversorgung gemäss der Liste in der Beilage sei zu genehmigen.
+
+Gemäss Art. 55 Abs. 1 der Postverordnung vom 29. August 2012 (VPG; SR 783.01) weist die Post die
+einzelnen Dienstleistungen zur Grundversorgung zu und unterbreitet sie der PostCom jährlich bis 31.
+Januar für das laufende Jahr. Die PostCom prüft und genehmigt die Zuweisungen gestützt auf Art. 55
+Abs. 2 VPG innerhalb eines Monats. Die Zuweisungen dienen als Basis für die Zuordnung der Kosten
+und Umsatzerlöse zu den einzelnen Dienstleistungen und damit auch für den Nachweis des Quersub-
+ventionierungsverbots (Art. 55 Abs. 3 VPG). Der Sinn und Zweck von Art. 55 Abs. 1 und 2 VPG ist des-
+halb in der Durchsetzung des Quersubventionierungsverbots zu sehen.
+
+Die Post nimmt bei den Zuweisungen zur Grundversorgung gegenüber der mit Verfügung vom 31. Ja-
+nuar 2025 genehmigten Liste der Grundversorgungsdienstleistungen 2025 folgende Änderungen vor:
+-
+Neues Produkt «Abonnierte Zeitungen E+1-2 Flex» in der Kategorie «Abonnierte Zeitungen, Zeit-
+schriften in der Tageszustellung»: Diese Dienstleistung sei bereits 2024 eingeführt und als Option
+bei der Dienstleistung «Abonnierte Zeitungen E + 1» geführt worden. Neu wird dieses Produkt als
+eigene Dienstleistung geführt.
+-
+Empfangsbestätigungen bei Briefen ins Ausland:
+Die Empfangsbestätigung zu Export-Briefen, die Waren enthalten (Kleinwarensendungen), ent-
+fällt. Diese Änderung erfolgt aufgrund von Anpassungen in Art. 18 des Weltpostvertrags, welcher
+keine Empfangsbestätigung mehr zu Briefen mit Waren vorsieht.
+Verfügung 2/2026 betreffend Genehmigung der Zuweisungen der Dienstleistungen zur
+Grundversorgung 2026 (Art. 55 Abs. 1 und 2 VPG)
+Aktenzeichen: PostCom-033-17/1/4
+Bern, 30. Januar 2026
+Einschreiben
+Die Schweizerische Post AG
+_____
+Leiter Regulatory Affairs
+Wankdorfallee 4
+3030 Bern
+
+
+
+
+
+
+Aktenzeichen: PostCom-033-17/1/4
+
+PostCom-D-19253501/7
+2/2
+Des Weiteren führt die Post die Empfangsbestätigungen zu Briefen ins Ausland (nur noch zu Do-
+kumentensendungen) neu nicht mehr als separate Dienstleistungen, sondern als Option bei den
+Dienstleistungen in der Kategorie «Briefe Ausland Versand».
+Auf der Liste der Dienstleistungen der Grundversorgung 2026 werden diese Änderungen mittels
+Streichung von «Einschreiben Briefe Ausland» (Privatkunden) und «Brief Value Added Service
+Export Einschreiben» (Geschäftskunden), sowie einer Ergänzung in Fussnote 3 abgebildet.
+
+Die PostCom stellt fest, dass das in Art. 29 und 43 VPG aufgeführte Angebot der Grundversorgung mit
+den zugewiesenen Dienstleistungen korrekt abgebildet wird. Die unterbreiteten Zuweisungen der
+Dienstleistungen zur Grundversorgung für das Jahr 2026 werden deshalb genehmigt.
+
+Die PostCom erhebt kostendeckende Gebühren für ihre Verfügungen und Dienstleistungen (Art. 30
+Abs. 1 PG; Art. 77 Abs. 2 VPG). Die Gebühren werden nach Zeitaufwand festgelegt und betragen je
+nach Funktionsstufe 105 bis 250 Franken pro Stunde (Art. 77 Abs. 2 VPG; Art. 3 und 4 des Gebühren-
+reglements der Postkommission, SR 783.018). Die Verfahrenskosten für den Erlass der vorliegenden
+Verfügung betragen 2’950.- Franken.
+
+Gestützt auf diese Erwägungen verfügt die PostCom:
+1.
+Die Zuweisungen der Dienstleistungen zur Grundversorgung 2026 werden gemäss Antrag der
+Post vom 14. Januar 2026 sowie der Liste im Anhang genehmigt.
+2.
+Die Verfahrenskosten für den vorliegenden Entscheid werden auf 2’950.- Franken festgelegt und
+sind von der Schweizerischen Post AG zu tragen.
+3.
+Die vorliegende Verfügung sowie die Liste mit den genehmigten Zuweisungen werden auf der
+Website der PostCom veröffentlicht.
+Freundliche Grüsse
+
+Eidgenössische Postkommission
+
+Patrick Salamin
+Vizepräsident
+Michel Noguet
+Leiter Fachsekretariat
+
+Beilage:
+−
+Liste „Dienstleistungen der Grundversorgung 2026“ gemäss Antrag der Post vom 14.01.2026
+
+Kopie an:
+−
+BAKOM, Sektion Post, Zukunftstrasse 44, 2501 Biel
+−
+Ernst & Young AG, Hr. Mathias Zeller, Schanzenstrasse 4A, Postfach, 3001 Bern
+Rechtsmittelbelehrung
+Gegen diese Verfügung kann innert 30 Tagen seit Eröffnung Beschwerde erhoben werden. Die Beschwerde ist
+beim Bundesverwaltungsgericht, Postfach, 9023 St. Gallen, einzureichen.
+Die Frist steht still: Vom 7. Tag vor Ostern bis und mit dem 7. Tag nach Ostern; vom 15. Juli bis und mit dem 15.
+August; vom 18. Dezember bis und mit dem 2. Januar.
+Die Beschwerde hat die Begehren, deren Begründung mit Angabe der Beweismittel und die Unterschrift des Be-
+schwerdeführers oder seines Vertreters zu enthalten. Die angefochtene Verfügung und die als Beweismittel ange-
+rufenen Urkunden sind beizulegen, soweit der Beschwerdeführer sie in Händen hat.
