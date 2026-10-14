@@ -1,0 +1,441 @@
+---
+decision_id: "bstger_RH.2026.11"
+court: "Bundesstrafgericht"
+court_id: "bstger"
+chamber: "RH"
+docket: "RH.2026.11"
+decided: "2026-10-14"
+published: "2026-11-05"
+language: "de"
+decision_type: "Zurzeit keine Rechtsmittel ergriffen;;Aucun recours déposé à ce jour;;Attualmente nessun ricorso pendente;;Zurzeit keine Rechtsmittel ergriffen"
+source_url: "https://bstger.weblaw.ch/api/getDocumentContent/cf7298cb-b077-30b4-82a5-53bb6dba2cfc"
+pdf_url: "https://bstger.weblaw.ch/api/getDocumentContent/cf7298cb-b077-30b4-82a5-53bb6dba2cfc"
+cites_decisions: ["1A.1/2009", "1A.59/2004", "1B_297/2019", "1B_378/2018", "1B_388/2015", "8G.11/2003", "8G.45/2001", "BGE 111 IV 108", "BGE 130 II 306", "BGE 132 II 81", "BGE 136 IV 20", "BGE 142 III 138", "BGE 145 IV 294", "BGE 147 IV 409", "BGE 149 IV 376", "BH.2006.4", "RH.2015.10", "RH.2015.14", "RH.2015.20", "RH.2015.4", "RH.2017.17", "RH.2018.3", "RH.2020.9", "RH.2021.17", "RH.2022.10", "RH.2023.3", "RH.2026.11", "RP.2026.50", "RR.2007.34", "RR.2009.2", "RR.2023.158"]
+cites_law: ["switzerland/bund/acts/172.021/art-063.md", "switzerland/bund/acts/172.021/art-065.md", "switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/173.110/art-084.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.71/art-073.md", "switzerland/bund/acts/351.1/art-025.md", "switzerland/bund/acts/351.1/art-047.md", "switzerland/bund/acts/351.1/art-048.md", "switzerland/bund/acts/351.1/art-051.md"]
+---
+
+# Bundesstrafgericht RH.2026.11
+
+## Regeste
+
+Auslieferung an Deutschland; Auslieferungshaftbefehl (Art. 48 Abs. 2 IRSG); unentgeltliche Rechtspflege (Art. 65 VwVG)
+
+## Text
+
+Entscheid vom 14. Oktober 2026
+Beschwerdekammer
+Besetzung
+
+Bundesstrafrichter
+Patrick Robert-Nicoud, Vorsitz,
+Stefan Heimgartner und Felix Ulrich,
+Gerichtsschreiberin Chantal Blättler Grivet Fojaja
+
+
+
+Parteien
+
+A., zzt. in Auslieferungshaft,
+vertreten durch Rechtsanwalt Gandi Calan,
+Beschwerdeführer
+
+
+gegen
+
+
+
+
+Bundesamt für Justiz, Fachbereich Auslieferung,
+Beschwerdegegner
+
+Gegenstand
+
+Auslieferung an Deutschland
+Auslieferungshaftbefehl (Art. 48 Abs. 2 IRSG); unentgeltliche Rechtspflege (Art. 65 VwVG)
+
+B u n d e s s t r a f g e r i c h t
+T r i b u n a l p é n a l f é d é r a l
+T r i b u n a l e p e n a l e f e d e r a l e
+T r i b u n a l p e n a l f e d e r a l
+
+
+Geschäftsnummer: RH.2026.11
+Nebenverfahren: RP.2026.50
+
+
+
+RH.2026.11
+
+2
+Sachverhalt:
+
+A.
+Mit Schreiben vom 29. Juni und 11. August 2026 an das Bundesamt für Justiz
+(nachfolgend «BJ» oder «Beschwerdegegner») ersuchte das Ministerium der
+Justiz für Migration von Baden-Württemberg gestützt auf den Haftbefehl des
+Landgerichts Baden-Baden vom 20. Februar 2026 und das Urteil des Landgerichts Baden-Baden vom 29. Mai 2024 i.V.m. dem Widerrufsbeschluss des
+Landgerichts Baden-Baden vom 1. Juli 2025 um Verhaftung und Auslieferung
+des deutschen Staatsangehörigen A. (nachfolgend «A.» oder «Beschwerdeführer»; act. 1.3-1.4, 1.7 = act. 3.1-3.3).
+
+
+B.
+Das BJ erliess am 24. August 2026 den Auslieferungshaftbefehl, gestützt auf
+welchen A. am 16. September 2026 im Kanton Appenzell a.Rh. festgenommen
+und in Auslieferungshaft versetzt wurde (vgl. act. 3 II. Ziff. 2; act. 3.6).
+
+
+C.
+Im Rahmen seiner Einvernahme vom 16. September 2026 widersetzte sich A.
+der vereinfachten Auslieferung (act. 3.6).
+
+
+D.
+Gegen den Auslieferungshaftbefehl liess A. bei der Beschwerdekammer des
+Bundesstrafgerichts mit Eingabe vom 28. September 2026 Beschwerde erheben.
+Er stellte folgende Anträge (act. 1, S. 2):
+
+«1.
+Der Auslieferungshaftbefehl des Beschwerdegegners vom 24. August 2026 sei
+aufzuheben und der Beschwerdeführer sei unverzüglich aus der Auslieferungshaft
+zu entlassen.
+
+2.
+Eventualiter sei der Beschwerdeführer unter Anordnung geeigneter Ersatzmassnahmen aus der Auslieferungshaft zu entlassen, namentlich unter Hinterlegung
+sämtlicher Reisepapiere und ausländischer Identitätsdokumente, eines Verbots,
+die Schweiz zu verlassen, einer regelmässigen, nötigenfalls täglichen Meldepflicht
+bei einer Polizeistelle, der Verpflichtung, seinen Wohnsitz in Z./AR ohne Zustimmung der zuständigen Behörde nicht zu ändern, einer angemessenen räumlichen
+Aufenthaltsbeschränkung sowie, soweit erforderlich und technisch umsetzbar,
+elektronischer Überwachung (Electronic Monitoring).
+
+3.
+Soweit zur hinreichenden Bannung einer allfällig verbleibenden Fluchtgefahr
+zusätzlich erforderlich, sei dem Beschwerdeführer Gelegenheit einzuräumen, eine
+angemessene Sicherheitsleistung anzubieten und deren Finanzierung durch Drittpersonen nachzuweisen.
+
+RH.2026.11
+
+3
+4.
+Subeventualiter sei der angefochtene Auslieferungshaftbefehl aufzuheben und die
+Angelegenheit zur unverzüglichen Neubeurteilung der Haftfrage unter konkreter
+Prüfung sämtlicher geeigneter Ersatzmassnahmen an den Beschwerdegegner
+zurückzuweisen.
+
+5.
+Dem Beschwerdeführer sei für das vorliegende Beschwerdeverfahren die unentgeltliche Rechtspflege zu gewähren und der unterzeichnende Rechtsanwalt als
+unentgeltlicher Rechtsbeistand zu bestellen.
+
+6.
+Unter Kosten- und Entschädigungsfolgen zuzüglich 8.1% Mehrwertsteuer».
+
+
+E.
+Das BJ beantragt in seiner Beschwerdeantwort vom 2. Oktober 2026 die Abweisung der Beschwerde (act. 3). A. hält in seiner Replik vom 8. Oktober 2026 an
+den in der Beschwerde gestellten Anträgen fest (act. 4). Die Replik wurde dem
+BJ am 9. Oktober 2026 zur Kenntnis zugestellt (act. 5).
+
+Auf die weiteren Ausführungen der Parteien und die eingereichten Akten wird,
+soweit erforderlich, in den nachfolgenden Erwägungen eingegangen.
+
+
+
+Die Beschwerdekammer zieht in Erwägung:
+
+1.
+
+1.1
+Für den Auslieferungsverkehr zwischen der Schweiz und Deutschland sind
+primär das Europäische Auslieferungsübereinkommen vom 13. Dezember 1957
+(EAUe; SR 0.353.1), die hierzu ergangenen Zusatzprotokolle vom 17. März 1978
+(ZPII EAUe; SR 0.353.12) und vom 10. November 2010 (ZPIII EAUe;
+SR 0.353.13), welchen beide Staaten beigetreten sind, sowie der Vertrag vom
+13. November 1969 zwischen der Schweizerischen Eidgenossenschaft und der
+Bundesrepublik Deutschland über die Ergänzung des EAUe und die Erleichterung seiner Anwendung (SR 0.353.913.61) massgebend.
+1.2
+Soweit das Übereinkommen und die drei Zusatzprotokolle nichts anderes bestimmen, findet auf das Verfahren der Auslieferung ausschliesslich das Recht des
+ersuchten Staates Anwendung (Art. 22 EAUe), vorliegend also das Bundesgesetz vom 20. März 1981 über internationale Rechtshilfe in Strafsachen (IRSG,
+SR 351.1) und die Verordnung vom 24. Februar 1982 über internationale Rechtshilfe in Strafsachen (IRSV, SR 351.11). Das innerstaatliche Recht gelangt nach
+dem Günstigkeitsprinzip auch dann zur Anwendung, wenn es geringere Anforderungen an die Auslieferung stellt (BGE 149 IV 376 E. 2.1; 148 IV 314 E. 2.1; 147
+II 432 E. 3.1; 145 IV 294 E. 2.1; jeweils m.w.H.). Vorbehalten ist die Wahrung der
+Menschenrechte (BGE 145 IV 294 E. 2.1; 123 II 595 E. 7c; TPF 2020 64 E. 1.1).
+
+RH.2026.11
+
+4
+1.3
+Für das Beschwerdeverfahren gelten zudem die Art. 379-397 StPO sinngemäss
+(Art. 48 Abs. 2 i.V.m. Art. 47 IRSG) sowie die Bestimmungen des VwVG (Art. 39
+Abs. 2 lit. b i.V.m. Art. 37 Abs. 2 lit. a Ziff. 1 StBOG).
+
+
+2.
+Gegen den Auslieferungshaftbefehl des BJ kann der Verfolgte innert zehn Tagen
+ab der schriftlichen Eröffnung Beschwerde bei der Beschwerdekammer des
+Bundesstrafgerichts führen (Art. 48 Abs. 2 IRSG). Der angefochtene Auslieferungshaftbefehl vom 24. August 2026 wurde dem Beschwerdeführer am 16. September 2026 ausgehändigt (act. 3.5). Die Beschwerde vom 28. September 2026
+erweist sich als fristgerecht. Die übrigen Eintretensvoraussetzungen geben
+keinen Anlass zu Bemerkungen. Auf die Beschwerde ist einzutreten.
+
+
+3.
+
+3.1
+Die Beschwerdekammer ist nicht an die Begehren der Parteien gebunden
+(Art. 25 Abs. 6 IRSG). Sie prüft die Auslieferungshaftvoraussetzungen grundsätzlich mit freier Kognition. Die Beschwerdekammer befasst sich jedoch nur mit Tat- und Rechtsfragen, die Streitgegenstand der Beschwerde bilden (BGE 132 II 81
+E. 1.4; 130 II 337 E. 1.4; Urteil des Bundesgerichts 1A.1/2009 vom 20. März 2009
+E. 1.6; TPF 2011 97 E. 5; Entscheide des Bundesstrafgerichts RR.2009.2 vom
+9. Juli 2009 E. 2.4; RR.2007.34 vom 29. März 2007 E. 3, je m.w.H.).
+
+3.2
+Nach der bundesgerichtlichen Rechtsprechung muss sich die urteilende Instanz
+sodann nicht mit allen Parteistandpunkten einlässlich auseinandersetzen und
+jedes einzelne Vorbringen ausdrücklich widerlegen. Sie kann sich auf die für
+ihren Entscheid wesentlichen Punkte beschränken. Es genügt, wenn die Behörde
+wenigstens kurz die Überlegungen nennt, von denen sie sich leiten liess und auf
+welche sich ihr Entscheid stützt (BGE 147 IV 409 E. 5.3.4; 141 IV 249 E. 1.3.1;
+139 IV 179 E. 2.2; 124 II 146 E. 2a; 122 IV 8 E. 2c; Urteil des Bundesgerichts
+1A.59/2004 vom 16. Juli 2004 E. 5.2, m.w.H.).
+
+
+4.
+Die Verhaftung des Verfolgten während des ganzen Auslieferungsverfahrens
+bildet die Regel (BGE 136 IV 20 E. 2.2; 130 II 306 E. 2.2). Eine Aufhebung des
+Auslieferungshaftbefehls sowie eine Haftentlassung rechtfertigen sich nur ausnahmsweise und unter strengen Voraussetzungen, wenn der Verfolgte sich
+voraussichtlich der Auslieferung nicht entzieht und die Strafuntersuchung nicht
+gefährdet (Art. 47 Abs. 1 lit. a IRSG), wenn er den sogenannten Alibibeweis
+erbringen und ohne Verzug nachweisen kann, dass er zur Zeit der Tat nicht
+am Tatort war (Art. 47 Abs. 1 lit. b IRSG), wenn er nicht hafterstehungsfähig ist
+oder andere Gründe vorliegen, welche eine weniger einschneidende Massnahme
+rechtfertigen (Art. 47 Abs. 2 IRSG), oder wenn sich die Auslieferung als
+
+RH.2026.11
+
+5
+offensichtlich unzulässig erweist (Art. 51 Abs. 1 IRSG). Diese Aufzählung ist nicht
+abschliessend (BGE 130 II 306 E. 2.1; 117 IV 359 E. 2a; vgl. zum Ganzen zuletzt
+u.a. den Entscheid des Bundesstrafgerichts RH.2018.3 vom 20. Februar 2018
+E. 3.2).
+
+Offensichtlich unzulässig kann ein Auslieferungsersuchen sein, wenn ohne jeden
+Zweifel und ohne weitere Abklärungen ein Ausschlussgrund vorliegt (vgl. BGE
+111 IV 108 E. 3a). Im Übrigen sind Vorbringen gegen die Auslieferung als solche
+oder gegen die Begründetheit des Auslieferungsbegehrens nicht im vorliegenden
+Beschwerdeverfahren, sondern im eigentlichen Auslieferungsverfahren zu prüfen (vgl. MOREILLON/DUPUIS/MAZOU, La pratique judiciaire du Tribunal pénal
+fédéral, in Journal des Tribunaux 2009 IV 111 Nr. 190 und 2008 IV 66 Nr. 322 je
+m.w.H. auf die Rechtsprechung).
+
+Die ausnahmsweise zu gewährende Haftentlassung ist an strengere Voraussetzungen gebunden als der Verzicht auf die gewöhnliche Untersuchungshaft in
+einem Strafverfahren oder die Entlassung aus einer solchen. Diese Regelung soll
+es der Schweiz ermöglichen, ihren staatsvertraglichen Auslieferungspflichten
+nachzukommen (vgl. BGE 130 II 306 E. 2.2 und 2.3; 111 IV 108 E. 2; Entscheid
+des Bundesstrafgerichts RH.2015.14 vom 9. Juli 2015 E. 4.1).
+
+
+5.
+
+5.1
+Der Beschwerdeführer bestreitet das Vorliegen von Flucht- und Kollusionsgefahr
+sowie die Verhältnismässigkeit der angeordneten Massnahme. Zur Fluchtgefahr
+führt er insbesondere aus, er verfüge in der Schweiz über eine ständige Wohnadresse und eine schweizerische Aufenthaltsbewilligung B. Es liessen sich den
+schweizerischen Akten keine Hinweise entnehmen, wonach er nach Kenntnis
+des schweizerischen Auslieferungsverfahrens untergetaucht wäre, seine schweizerische Adresse verheimlicht, Fluchtvorbereitungen getroffen oder sich einer
+konkreten schweizerischen behördlichen Massnahme entzogen hätte. Der Beschwerdeführer verkenne nicht, dass er angesichts der in Deutschland zu vollstreckenden Freiheitsstrafe von zwei Jahren sowie eines weiteren hängigen
+Strafverfahrens grundsätzlich einen erheblichen Anreiz haben könnte, einer Auslieferung zu entgehen. Dieser Umstand rechtfertige es jedoch nicht, auf eine
+individualisierte Beurteilung der Fluchtgefahr und auf eine konkrete Prüfung milderer Sicherungsmassnahmen vollständig zu verzichten (act. 1, S. 5 f.; act. 4,
+S. 3 f.).
+5.2
+Die bundesgerichtliche Rechtsprechung ist hinsichtlich der Verneinung von
+Fluchtgefahr überaus restriktiv und misst der Erfüllung dieser staatsvertraglichen
+Auslieferungspflichten im Vergleich zu den Interessen des Verfolgten ausserordentlich grosses Gewicht bei (vgl. BGE 130 II 306 E. 2 m.w.H.; Entscheid des
+Bundesstrafgerichts RH.2015.4 vom 23. Februar 2015 E. 5.2). So wurde bei-
+
+RH.2026.11
+
+6
+spielsweise die Möglichkeit einer Verurteilung zu einer langen Freiheitsstrafe zur
+Verweigerung der Haftentlassung als ausreichend betrachtet, obwohl der Verfolgte über eine Niederlassungsbewilligung verfügte, seit 18 Jahren in der
+Schweiz lebte, mit einer Schweizerin verheiratet und Vater zweier Kinder im Alter
+von drei und acht Jahren war und die beiden Kinder die schweizerische Nationalität besassen (Urteil des Bundesgerichts 8G.45/2001 vom 15. August 2001
+E. 3a). Ebenso wurde Fluchtgefahr bei einem Verfolgten bejaht, der seit seinem
+17. Lebensjahr seit zehn Jahren ununterbrochen in der Schweiz lebte und seine
+Freundin wie auch den Freundeskreis hier hatte (Entscheid des Bundesstrafgerichts BH.2006.4 vom 21. März 2006 E. 2.2.1). Zunächst ist festzuhalten, dass
+dem Beschwerdeführer im Falle seiner Auslieferung eine Haftstrafe von zwei
+Jahren droht (act. 1.3), weshalb das Bestehen von Fluchtgefahr grundsätzlich zu
+bejahen ist. Der Beschwerdeführer soll seit Februar 2025 in der Schweiz wohnen
+und über eine schweizerische Aufenthaltsbewilligung B verfügen (vgl. act. 3 IV
+Ziff. 3; act. 4 Rz. 13). Er sei seither durchgehend erwerbstätig, zunächst bei der
+B. und seit 1. Februar 2026 bei der C. (act. 4, Rz. 13). Das Bestehen von weiteren
+persönlichen oder familiären Bindungen zur Schweiz macht der Beschwerdeführer nicht geltend. Eine Verbundenheit mit der Schweiz im Sinne der Rechtsprechung, welche die Fluchtgefahr bannen würde, liegt somit nicht vor. Daran ändert
+auch der Umstand nichts, dass er in der Schweiz eine ständige Wohnadresse
+und eine Aufenthaltsbewilligung hat. Da das Vorliegen von Fluchtgefahr zu bejahen ist, braucht nicht weiter geprüft zu werden, ob daneben auch Kollusionsgefahr besteht (vgl. Art. 47 Abs. 1 lit. a IRSG).
+5.3
+Mildere Ersatzmassnahmen, die geeignet wären, der erheblichen Fluchtgefahr
+ausreichend zu begegnen, sind vorliegend keine ersichtlich. Nach konstanter
+Rechtsprechung werden Abgabe der Reisedokumente, Schriftensperre, Meldepflicht und Electronic Monitoring ohnehin nur in Kombination mit einer sehr
+substantiellen Sicherheitsleistung als überhaupt geeignet erachtet, Fluchtgefahr
+ausreichend zu bannen (vgl. Entscheide des Bundesstrafgerichts RH.2020.9
+vom 11. September 2020 E. 5.2; RH.2017.17 vom 2. Oktober 2017 E. 5.4.4;
+RH.2015.20 vom 1. September 2015 E. 5.3.2; RH.2015.10 vom 10. Juni 2015
+E. 5.3; RH.2015.4 vom 23. Februar 2015 E. 5.2). Grundsätzlich kann nach der
+Rechtsprechung die Höhe der Kaution ohne eine detaillierte Darlegung der finanziellen Verhältnisse nicht festgelegt werden (Urteil des Bundesgerichts
+8G.11/2003 vom 21. Februar 2003 E. 5; Entscheide des Bundesstrafgerichts
+RR.2023.158 vom 24. November 2023 E. 6.5; RH.2023.3 vom 6. Februar 2023
+E. 4; RH.2022.10 vom 20. Juni 2022 E. 6.2; RH.2021.17 vom 13. Dezember 2021
+E. 7). Soll die Sicherheit von Dritten geleistet werden, sind deren finanzielle Möglichkeiten von Bedeutung. Wesentlich ist sodann die persönliche Beziehung der
+betroffenen Person zu diesen Dritten. Die Sicherheitsleistung muss so hoch angesetzt werden, dass sich die betroffene Person lieber dem Strafverfahren stellt,
+als den Dritten den Verlust der Kaution beizufügen. Die zuständige Behörde hat
+die für die Bemessung der Kaution notwendigen Abklärungen vorzunehmen.
+
+RH.2026.11
+
+7
+Dies entbindet die betroffene Person jedoch nicht davon, ihre Vermögensverhältnisse und jene der Drittpersonen in nachvollziehbarer Weise offen zu legen. Verweigert die betroffene Person ihre Kooperation und bleiben die finanziellen Verhältnisse undurchsichtig, scheidet eine Kaution aus, da sich deren Wirksamkeit
+nicht verlässlich beurteilen lässt (siehe hierzu das Untersuchungshaft betreffende
+Urteil des Bundesgerichts 1B_388/2015 vom 3. Dezember 2015 E. 2.4.3 m.w.H.).
+Leisten Drittpersonen die Kaution, so ist namentlich auch zu prüfen, ob sie die
+dargebotene Hilfe überhaupt zurückfordern würden (Urteile des Bundesgerichts
+1B_297/2019 vom 3. Juli 2019 E. 5.1; 1B_378/2018 vom 21. September 2018
+E. 6.4). Während sich der Beschwerdeführer in seiner Beschwerde nicht zur
+Höhe einer allfälligen Sicherheitsleistung, die gegebenenfalls seine Eltern leisten
+müssten, geäussert hat, führt er replicando aus, seine Eltern seien bereit, eine
+Sicherheitsleistung in der Höhe von Fr. 15'000.-- zu erbringen (act. 4, S. 4). Der
+anwaltlich vertretene Beschwerdeführer unterlässt es jedoch, die finanzielle
+Leistungsfähigkeit der Eltern in nachvollziehbarer und überprüfbarer Weise
+offenzulegen. Ebenso wenig äussert er sich zur Frage, ob diese die angebotene
+Hilfe auch zurückfordern würden. Eine verlässliche Beurteilung der finanziellen
+Verhältnisse der Eltern des Beschwerdeführers ist somit nicht möglich. Sämtliche
+vom Beschwerdeführer vorgeschlagenen Ersatzmassnahmen fallen damit ausser Betracht.
+
+5.4
+Die Beschwerde erweist sich in Bezug auf die Frage der Fluchtgefahr und deren
+Verhältnismässigkeit als unbegründet.
+
+
+6.
+Andere Gründe, welche eine Auslieferung offensichtlich ausschliessen oder
+sonst zu einer Aufhebung der Auslieferungshaft zu führen vermöchten, werden
+weder geltend gemacht noch sind solche ersichtlich.
+
+Die Beschwerde ist damit als unbegründet abzuweisen.
+
+
+7.
+
+7.1
+Der Beschwerdeführer ersucht um unentgeltliche Rechtspflege (RP.2026.50,
+act. 1).
+
+7.2
+Die Beschwerdekammer befreit eine Partei, die nicht über die erforderlichen
+Mittel verfügt, auf Antrag von der Bezahlung der Verfahrenskosten, sofern ihr
+Begehren nicht aussichtslos erscheint (Art. 65 Abs. 1 VwVG), und bestellt dieser
+einen Anwalt, wenn das zur Wahrung ihrer Rechte notwendig ist (Art. 65 Abs. 2
+VwVG). Nach der bundesgerichtlichen Rechtsprechung sind als aussichtslos
+Begehren anzusehen, bei denen die Gewinnaussichten beträchtlich geringer sind
+als die Verlustgefahren. Dagegen gilt ein Begehren nicht als aussichtslos, wenn
+
+RH.2026.11
+
+8
+sich Gewinnaussichten und Verlustgefahren ungefähr die Waage halten oder
+jene nur wenig geringer sind als diese (BGE 142 III 138 E. 5.1; 140 V 521 E. 9.1).
+
+7.3
+Der Beschwerdeführer hat nichts vorgebracht, was mit Blick auf die einschlägige
+Rechtsprechung geeignet gewesen wäre, die Rechtsmässigkeit der angeordneten Auslieferungshaft in Frage zu stellen. Die Beschwerde muss daher als aussichtslos bezeichnet werden. Demzufolge ist das Gesuch um unentgeltliche
+Rechtspflege bereits aus diesem Grund abzuweisen. Bei der Festsetzung der
+Spruchgebühr kann gemäss Art. 63 Abs. 4bis VwVG der womöglich schwierigen
+finanziellen Situation des Beschwerdeführers Rechnung getragen werden.
+
+
+8.
+Bei diesem Ausgang des Verfahrens sind die Gerichtskosten dem Beschwerdeführer aufzuerlegen (vgl. Art. 63 Abs. 1 VwVG). Die Gerichtsgebühr ist auf
+Fr. 1'000.-- festzusetzen (vgl. Art. 63 Abs. 4bis und 5 VwVG, Art. 73 StBOG und
+Art. 8 Abs. 3 des Reglements des Bundesstrafgerichts vom 31. August 2010 über
+die Kosten, Gebühren und Entschädigungen in Bundesstrafverfahren [BStKR;
+SR 173.713.162]).
+
+
+
+
+RH.2026.11
+
+9
+Demnach erkennt die Beschwerdekammer:
+
+1.
+Die Beschwerde wird abgewiesen.
+
+2.
+Das Gesuch um unentgeltliche Rechtspflege wird abgewiesen.
+
+3.
+Die Gerichtsgebühr von Fr. 1'000.– wird dem Beschwerdeführer auferlegt.
+
+
+Bellinzona, 14. Oktober 2026
+
+Im Namen der Beschwerdekammer
+des Bundesstrafgerichts
+
+Der Präsident:
+
+
+Die Gerichtsschreiberin:
+
+
+
+
+
+
+
+
+
+
+
+Zustellung an
+
+-
+Rechtsanwalt Gandi Calan
+-
+Bundesamt für Justiz, Fachbereich Auslieferung
+
+
+Rechtsmittelbelehrung
+Gegen selbständig eröffnete Vor- und Zwischenentscheide über die Zuständigkeit und über
+Ausstandsbegehren ist die Beschwerde zulässig (Art. 92 Abs. 1 BGG). Diese Entscheide können später
+nicht mehr angefochten werden (Art. 92 Abs. 2 BGG).
+
+Auf dem Gebiet der internationalen Rechtshilfe in Strafsachen sind andere selbständig eröffnete Vor- und
+Zwischenentscheide nicht anfechtbar. Vorbehalten bleiben Beschwerden gegen Entscheide über die
+Auslieferungshaft sowie über die Beschlagnahme von Vermögenswerten und Wertgegenständen, sofern
+sie einen nicht wieder gutzumachenden Nachteil bewirken können, oder wenn die Gutheissung der
+Beschwerde sofort einen Entscheid herbeiführen und damit einen bedeutenden Aufwand an Zeit oder
+Kosten für ein weitläufiges Beweisverfahren ersparen würde (vgl. Art. 93 Abs. 1 und 2 BGG). Ist die
+Beschwerde gegen einen Vor- oder Zwischenentscheid gemäss Art. 93 Abs. 1 und 2 BGG nicht zulässig
+oder wurde von ihr kein Gebrauch gemacht, so sind die betreffenden Vor- und Zwischenentscheide durch
+Beschwerde gegen den Endentscheid anfechtbar, soweit sie sich auf dessen Inhalt auswirken (Art. 93
+Abs. 3 BGG).
+
+RH.2026.11
+
+10
+
+Gegen einen Entscheid auf dem Gebiet der internationalen Rechtshilfe in Strafsachen ist die Beschwerde
+nur zulässig, wenn es sich um einen besonders bedeutenden Fall handelt (vgl. Art. 84 Abs. 1 BGG). Ein
+besonders bedeutender Fall liegt insbesondere vor, wenn Gründe für die Annahme bestehen, dass
+elementare Verfahrensgrundsätze verletzt worden sind oder das Verfahren im Ausland schwere Mängel
+aufweist (Art. 84 Abs. 2 BGG).
+
+Die Beschwerde ist innert zehn Tagen nach der Eröffnung der vollständigen Ausfertigung beim
+Bundesgericht einzureichen (vgl. Art. 100 Abs. 1 und 2 lit. b BGG). Eingaben müssen spätestens am
+letzten Tag der Frist beim Bundesgericht eingereicht oder zu dessen Handen der Schweizerischen Post
+oder einer schweizerischen diplomatischen oder konsularischen Vertretung übergeben werden (Art. 48
+Abs. 1 BGG). Im Falle der elektronischen Einreichung ist für die Wahrung einer Frist der Zeitpunkt
+massgebend, in dem die Quittung ausgestellt wird, die bestätigt, dass alle Schritte abgeschlossen sind,
+die auf der Seite der Partei für die Übermittlung notwendig sind (Art. 48 Abs. 2 BGG).
+
+Vor- und Zwischenentscheide betreffend das Verfahren vor der Beschwerdekammer: Rechtshilfe (z.B.
+Entscheide über unentgeltliche Rechtspflege oder Parteistellung im Beschwerdeverfahren):
+
+Auf dem Gebiet der internationalen Rechtshilfe in Strafsachen sind Vor- und Zwischenentscheide nicht
+anfechtbar (Art. 93 Abs. 2 Satz 1 BGG).
