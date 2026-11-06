@@ -1,0 +1,41 @@
+# Reproducing this repository
+
+Input: the Parquet files listed below, revision `fecc2c971945cacd914c63b54ee22db9149e58c9` of the `voilaj/swiss-caselaw` dataset
+(`https://huggingface.co/datasets/voilaj/swiss-caselaw/resolve/fecc2c971945cacd914c63b54ee22db9149e58c9/<file>`), plus `graph/statute_references.parquet`
+from the same revision, and lexifina/switzerland-law `main` for the overlay's `law_commit`.
+
+```
+python tools/build.py federal <cache with data/ and graph/> <empty folder> --today 2026-11-06
+```
+
+Needs Python 3 and `duckdb`. Gives 360,223 decision commits and one documentation commit, hash for hash.
+
+## SHA-256 of the input files
+
+```
+5ce260c39a231ac4206cbce09cdc6a419bb57a99014ddee3055e43717f2acd6c *bazg.parquet
+3fcc1dad3fe97158a6d80888f49021d9e597a267e209839dd868eb4c181c6dfe *bge.parquet
+6899a3d80ef83c589843a9eb18b7558913e54feb17a7c429934b7d11e07c5cb9 *bger.parquet
+46a6a562ffcdd3db3656af683f2ebfc1a7e3c4e84c3465a15d98e411b61c28d0 *bpatger.parquet
+feec14545a636bbeed65fb3cc0044af5900725d1f482cf3fb15a85fe23d36a45 *bstger.parquet
+86d1addd0fd25c8fe5e1311fe7a32828f7f37c42ff7e4147fb0fed1c0588644a *bvger.parquet
+5fb2e3b0ba6a5e1321065577929b465390454e2375dc8684b6596c05c3a9ba22 *ch_bundesrat.parquet
+ea99d5b637119511aca2c1f47af2f70459dd6e7057cfeccf681c58c782b8cf98 *comcom.parquet
+747c73c63e0052ee7ed14e3fb96d3634db365d7ed9d816a2f028e1f436f33272 *edoeb.parquet
+1757c9d62a7b8aeae9fe58b70dc8904a2995f46a171c493925e7bbffa30fc3b2 *elcom.parquet
+9fc728f2905734ef43aa3a24364ae7469565b772d2aa31392e500828e88ad3ce *emark.parquet
+bc0b88e20d0341ef0fa3b1863539e91e8b48b9f81488613223400d0850c91319 *esbk.parquet
+ec11f0c1d58535b263eb374c87234951dc30c06407b4408fcb05ee72229341d1 *eschk.parquet
+169673bb0fff1ed6f57760086cd67d931ea749c23bcf83b8176397ed46ab3f75 *estv.parquet
+0f26f356badeec5bc1eeb980061fb91467385b120a1fe2f564bb7b464ac5c388 *finma.parquet
+99277faec5d7b87a5650a3c2a8faf2da5e97f52d842ada33ffcc48e94b3ba938 *finma_versicherungsrecht.parquet
+67ad2cabb0a4476351eaa3c3f0ce6ccf763bfe17b2d751f748ada21a60d6a7a7 *mkg.parquet
+bdb4d671bd610e9d27c480ef8f4e00d3082c8e7b5e51d63cee5caa9216da1144 *postcom.parquet
+857fdfebce831f9f77bc4caaf099d78d643deef0e6020fae69bbc66f9a4c2009 *preisueberwacher.parquet
+5361706c72cbeb2fb92bdc34be3aae16ab1f3c65e36515fca01e0b426bf4bb1b *rab.parquet
+5bcc122cb0c9a7550166ab9f18acc96b020ed004dcf409b9afeec8a5591fbcc4 *sav_international.parquet
+00d36b37897588f898cc253a2ff28e362bc2cb5d3785d8add0eadf9a907f266c *sav_kantone.parquet
+7f89536f033cbbfd86a170d55f654024982543e4bbc70b1c14a31a84091b9dfe *ta_sst.parquet
+61052aca32d4faef00515e5ad6202965349c31b681542cf93d24bc5eac6ec919 *ubi.parquet
+b6bc0a6d6f3bb6b852f2c94b07a1fbd7cdd2d384e22b83ee1841cd63b5534dc2 *weko.parquet
+```
